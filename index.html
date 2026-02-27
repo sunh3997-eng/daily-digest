@@ -1,52 +1,82 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-lang="zh">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>每日汇总 — AI 生成的早报与商机</title>
+<title>每日汇总 / Daily Digest — AI Generated</title>
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 <nav>
-  <a class="logo" href="index.html">📰 每日<span>汇总</span></a>
-  <a href="#" onclick="filter('all');return false">全部</a>
-  <a href="#" onclick="filter('news');return false">早报</a>
-  <a href="#" onclick="filter('radar');return false">商机</a>
+  <a class="logo" href="index.html">📰 <span class="zh">每日</span><span class="en">Daily</span><span style="color:var(--accent)"><span class="zh">汇总</span><span class="en">Digest</span></span></a>
+  <a href="#" onclick="filterType('all');return false"><span class="zh">全部</span><span class="en">All</span></a>
+  <a href="#" onclick="filterType('news');return false"><span class="zh">早报</span><span class="en">Briefing</span></a>
+  <a href="#" onclick="filterType('radar');return false"><span class="zh">商机</span><span class="en">Radar</span></a>
   <div class="spacer"></div>
-  <span class="tag">AI 自动生成</span>
+  <div class="lang-switcher">
+    <button class="lang-btn active" data-l="zh" onclick="setLang('zh')">中文</button>
+    <button class="lang-btn" data-l="en" onclick="setLang('en')">EN</button>
+  </div>
 </nav>
 <div class="hero">
-  <h1>📰 每日汇总</h1>
-  <p>每天 08:00 早报 · 09:00 商机雷达 · 全部由 AI 自动生成</p>
+  <h1>📰 <span class="zh">每日汇总</span><span class="en">Daily Digest</span></h1>
+  <p>
+    <span class="zh">每天 08:00 早报 · 09:00 商机雷达 · 全部由 AI 自动生成</span>
+    <span class="en">08:00 Daily Briefing · 09:00 Opportunity Radar · All AI Generated</span>
+  </p>
 </div>
 <div class="container">
   <div class="filter-tabs">
-    <button class="active" onclick="filter('all')">📋 全部</button>
-    <button onclick="filter('news')">🌅 每日早报</button>
-    <button onclick="filter('radar')">💡 商机雷达</button>
+    <button class="active" onclick="filterType('all')">
+      <span class="zh">📋 全部</span><span class="en">📋 All</span>
+    </button>
+    <button onclick="filterType('news')">
+      <span class="zh">🌅 每日早报</span><span class="en">🌅 Daily Briefing</span>
+    </button>
+    <button onclick="filterType('radar')">
+      <span class="zh">💡 商机雷达</span><span class="en">💡 Opportunity Radar</span>
+    </button>
   </div>
   <div class="cards" id="cards">
     <a class="card" href="posts/news-2026-02-27.html" data-type="news">
       <div class="card-meta">
-        <span class="card-type news">每日早报</span>
+        <span class="card-type news">
+          <span class="zh">每日早报</span><span class="en">Daily Briefing</span>
+        </span>
         <span class="card-date">2026年02月27日</span>
       </div>
-      <h2>每日早报 · 试刊号</h2>
-      <p>这里每天自动更新两份内容：</p>
+      <h2><span class="zh">每日早报 · 试刊号</span><span class="en">Daily Briefing · Launch Issue</span></h2>
+      <p><span class="zh">这里每天自动更新两份内容：</span><span class="en">Two updates every day, fully automated:</span></p>
     </a>
   </div>
 </div>
 <footer>
-  © 每日汇总 · AI 自动生成 · 最后更新：2026-02-27 09:36 CST · <a href="https://github.com/sunh3997-eng/daily-digest">GitHub</a>
+  © Daily Digest · AI Generated ·
+  <span class="zh">最后更新：2026-02-27 09:45 CST</span>
+  <span class="en">Last updated: 2026-02-27 09:45 CST</span>
+  · <a href="https://github.com/sunh3997-eng/daily-digest">GitHub</a>
 </footer>
 <script>
-function filter(type) {
-  document.querySelectorAll('.filter-tabs button').forEach(b => b.classList.remove('active'));
-  event.target.classList.add('active');
-  document.querySelectorAll('.card').forEach(c => {
+function setLang(l) {
+  document.documentElement.dataset.lang = l;
+  localStorage.setItem('digest-lang', l);
+  document.querySelectorAll('.lang-btn').forEach(function(b) {
+    b.classList.toggle('active', b.dataset.l === l);
+  });
+}
+function filterType(type) {
+  document.querySelectorAll('.filter-tabs button').forEach(function(b) {
+    b.classList.remove('active');
+  });
+  event.target.closest('button').classList.add('active');
+  document.querySelectorAll('.card').forEach(function(c) {
     c.style.display = (type === 'all' || c.dataset.type === type) ? '' : 'none';
   });
 }
+(function() {
+  var saved = localStorage.getItem('digest-lang') || 'zh';
+  setLang(saved);
+})();
 </script>
 </body>
 </html>

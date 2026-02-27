@@ -3,9 +3,11 @@
     "slug": "news-2026-02-27",
     "type": "news",
     "type_label": "每日早报",
-    "title": "每日早报 · 试刊号",
+    "title_zh": "每日早报 · 试刊号",
+    "title_en": "Daily Briefing · Launch Issue",
+    "summary_zh": "这里每天自动更新两份内容：",
+    "summary_en": "Two updates every day, fully automated:",
     "date_fmt": "2026年02月27日",
-    "summary": "这里每天自动更新两份内容：",
-    "ts": "2026-02-27T09:36:38.476162+08:00"
+    "ts": "2026-02-27T09:45:30.775260+08:00"
   }
 ]
