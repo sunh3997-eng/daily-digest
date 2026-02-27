@@ -50,8 +50,9 @@ def inline(s: str) -> str:
                lambda m: f"<strong>{m.group(1) or m.group(2)}</strong>", s)
     s = re.sub(r'\[([^\]]+)\]\((https?://[^\)]+)\)',
                r'<a href="\2" target="_blank">\1</a>', s)
+    # Bare URLs → styled as small source links
     s = re.sub(r'(?<!["\'>])(https?://\S+)',
-               r'<a href="\1" target="_blank">\1</a>', s)
+               r'<a href="\1" target="_blank" class="src-link">\1</a>', s)
     return s
 
 def first_line(text: str) -> str:
@@ -64,10 +65,10 @@ def first_line(text: str) -> str:
 # ── NAV / FOOTER shared snippets ───────────────────────────────
 NAV = """\
 <nav>
-  <a class="logo" href="{root}index.html">📰 <span class="zh">每日</span><span class="en">Daily</span><span style="color:var(--accent)"><span class="zh">汇总</span><span class="en">Digest</span></span></a>
+  <a class="logo" href="{root}index.html">☀️ <span class="zh">每日</span><span class="en">Daily</span><span><span class="zh">汇总</span><span class="en">Digest</span></span></a>
   <a href="{root}index.html"><span class="zh">首页</span><span class="en">Home</span></a>
   <div class="spacer"></div>
-  <a href="{root}feed.xml" title="RSS Feed" style="font-size:18px;text-decoration:none;">🔔</a>
+  <a class="tag" href="{root}feed.xml" title="RSS Feed">🔔</a>
   <div class="lang-switcher">
     <button class="lang-btn" data-l="zh" onclick="setLang('zh')">中文</button>
     <button class="lang-btn active" data-l="en" onclick="setLang('en')">EN</button>
@@ -141,11 +142,11 @@ POST_TMPL = """\
       <span class="en">{title_en}</span>
     </h1>
     <div class="post-meta">
-      <span class="card-type {type_key}">
+      <span class="post-tag {type_key}">
         <span class="zh">{type_label_zh}</span><span class="en">{type_label_en}</span>
       </span>
       <span>📅 <span class="zh">{date_fmt_zh}</span><span class="en">{date_fmt_en}</span></span>
-      <span>⏱ <span class="zh">AI 自动生成</span><span class="en">AI Generated</span></span>
+      <span>✨ <span class="zh">AI 自动生成</span><span class="en">AI Generated</span></span>
     </div>
   </div>
 </div>
@@ -203,8 +204,8 @@ SUBSCRIBE_BLOCK = """\
   <div class="subscribe-inner">
     <div>
       <div class="subscribe-title">
-        <span class="zh">📬 订阅每日推送</span>
-        <span class="en">📬 Subscribe for Daily Updates</span>
+        <span class="zh">订阅每日推送</span>
+        <span class="en">Subscribe for Daily Updates</span>
       </div>
       <div class="subscribe-desc">
         <span class="zh">每天早报 + 商机雷达，直接送到你的邮箱</span>
@@ -266,10 +267,14 @@ INDEX_TMPL = """\
 <body>
 {nav}
 <div class="hero">
-  <h1>📰 <span class="zh">每日汇总</span><span class="en">Daily Digest</span></h1>
+  <div class="hero-badge">
+    <span class="zh">AI 生成 · 中英双语 · 每日更新</span>
+    <span class="en">AI · Bilingual · Daily</span>
+  </div>
+  <h1><span class="zh">每日汇总</span><span class="en">Daily Digest</span></h1>
   <p>
     <span class="zh">每天 08:00 早报 · 09:00 商机雷达 · 全部由 AI 自动生成</span>
-    <span class="en">08:00 Daily Briefing · 09:00 Opportunity Radar · All AI Generated</span>
+    <span class="en">08:00 Briefing · 09:00 Radar · All AI‑generated</span>
   </p>
 </div>
 {subscribe}
