@@ -1,5 +1,16 @@
 [
   {
+    "slug": "radar-2026-02-27",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "商机雷达 · 2026-02-26",
+    "title_en": "Opportunity Radar · 2026-02-26",
+    "summary_zh": "🔥 商机雷达 · 2026-02-27 · 北京时间",
+    "summary_en": "🔥 Opportunity Radar · 2026-02-27 · CST",
+    "date_fmt": "2026年02月27日",
+    "ts": "2026-02-27T10:00:40.496773+08:00"
+  },
+  {
     "slug": "news-2026-02-27",
     "type": "news",
     "type_label": "每日早报",
