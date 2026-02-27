@@ -1,5 +1,18 @@
 [
   {
+    "slug": "radar-2026-02-27",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "商机雷达 · 2026-02-27",
+    "title_en": "Opportunity Radar · 2026-02-27",
+    "summary_zh": "🔥 商机雷达 2026-02-27 · 北京时间",
+    "summary_en": "🔥 Opportunity Radar 2026-02-27 · CST",
+    "date_fmt": "2026年02月27日",
+    "date_fmt_zh": "2026年02月27日",
+    "date_fmt_en": "Feb 27, 2026",
+    "ts": "2026-02-27T18:47:43.424251+08:00"
+  },
+  {
     "slug": "news-2026-02-27",
     "type": "news",
     "type_label": "每日早报",
@@ -11,18 +24,5 @@
     "date_fmt_zh": "2026年02月27日",
     "date_fmt_en": "Feb 27, 2026",
     "ts": "2026-02-27T18:10:03.035449+08:00"
-  },
-  {
-    "slug": "radar-2026-02-27",
-    "type": "radar",
-    "type_label": "商机雷达",
-    "title_zh": "商机雷达 · 2026-02-27",
-    "title_en": "Opportunity Radar · 2026-02-27",
-    "summary_zh": "🔥 商机雷达 · 2026-02-27 · 北京时间",
-    "summary_en": "🔥 Opportunity Radar · 2026-02-27 · CST",
-    "date_fmt": "2026年02月27日",
-    "date_fmt_zh": "2026年02月27日",
-    "date_fmt_en": "Feb 27, 2026",
-    "ts": "2026-02-27T12:01:32.374409+08:00"
   }
 ]
