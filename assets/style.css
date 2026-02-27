@@ -123,6 +123,18 @@ nav a.tag:hover { background: rgba(255,255,255,0.16); color: white; }
 }
 .subscribe-form button:hover { background: #1e293b; }
 
+/* Telegram join button */
+.tg-btn {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 11px 22px; border-radius: 10px;
+  background: #229ed9; color: white;
+  text-decoration: none; font-weight: 600; font-size: 14px;
+  flex-shrink: 0; margin-left: auto;
+  transition: background 0.15s, transform 0.15s;
+  white-space: nowrap;
+}
+.tg-btn:hover { background: #1a8bbf; transform: translateY(-1px); }
+
 /* ── LAYOUT ── */
 .container { max-width: 880px; margin: 0 auto; padding: 40px 24px; }
 

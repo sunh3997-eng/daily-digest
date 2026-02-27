@@ -202,38 +202,22 @@ def save_index(posts):
 SUBSCRIBE_BLOCK = """\
 <div class="subscribe-block">
   <div class="subscribe-inner">
-    <div>
+    <div class="subscribe-text">
       <div class="subscribe-title">
-        <span class="zh">订阅每日推送</span>
-        <span class="en">Subscribe for Daily Updates</span>
+        <span class="zh">📬 加入 Telegram 频道，每天自动收到推送</span>
+        <span class="en">📬 Join Telegram — get daily briefings automatically</span>
       </div>
       <div class="subscribe-desc">
-        <span class="zh">每天早报 + 商机雷达，直接送到你的邮箱</span>
-        <span class="en">Daily Briefing + Opportunity Radar, delivered to your inbox</span>
+        <span class="zh">每天 08:00 早报 + 09:00 商机雷达，免费订阅</span>
+        <span class="en">08:00 Briefing + 09:00 Radar delivered daily, free</span>
       </div>
     </div>
-    <form class="subscribe-form" onsubmit="handleSubscribe(event)">
-      <input type="email" id="sub-email" placeholder="your@email.com" required>
-      <button type="submit">
-        <span class="zh">订阅</span><span class="en">Subscribe</span>
-      </button>
-    </form>
-    <div id="sub-msg" style="display:none;font-size:13px;color:#16a34a;margin-top:8px"></div>
+    <a class="tg-btn" href="https://t.me/sundigest_daily" target="_blank" rel="noopener">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="flex-shrink:0"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.894 8.221-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.56-5.023c.242-.213-.054-.333-.373-.12l-6.871 4.326-2.962-.924c-.643-.204-.657-.643.136-.953l11.57-4.461c.537-.194 1.006.131.833.941z"/></svg>
+      <span class="zh">加入频道</span><span class="en">Join Channel</span>
+    </a>
   </div>
-</div>
-<script>
-function handleSubscribe(e) {{
-  e.preventDefault();
-  var email = document.getElementById('sub-email').value;
-  var msg = document.getElementById('sub-msg');
-  // Open Buttondown subscribe URL (replace with your Buttondown username after signup)
-  window.open('https://buttondown.com/daily-sundigest?email=' + encodeURIComponent(email), '_blank');
-  msg.style.display = 'block';
-  msg.textContent = document.documentElement.dataset.lang === 'zh'
-    ? '✅ 正在跳转到订阅确认页...'
-    : '✅ Redirecting to confirm your subscription...';
-}}
-</script>"""
+</div>"""
 
 INDEX_TMPL = """\
 <!DOCTYPE html>
