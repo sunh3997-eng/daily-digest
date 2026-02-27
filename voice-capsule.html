@@ -8,6 +8,7 @@
 <meta property="og:title" content="声音记忆胶囊 — 把家人的声音，留住一辈子">
 <meta property="og:description" content="爷爷走了才发现，手机里只有3条语音。用声音记忆胶囊，在还来得及的时候留住他们的声音。">
 <meta property="og:type" content="website">
+<script async src="https://tally.so/widgets/embed.js"></script>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -79,33 +80,24 @@
     border-radius: var(--radius); padding: 28px 32px;
     max-width: 480px; margin: 0 auto 16px;
     box-shadow: 0 4px 24px rgba(0,0,0,0.06);
+    text-align: center;
   }
   .cta-label {
     font-size: 13px; font-weight: 600; color: var(--muted);
-    margin-bottom: 12px; text-align: left;
+    margin-bottom: 16px;
   }
-  .input-row { display: flex; gap: 10px; }
-  .cta-input {
-    flex: 1; padding: 12px 16px;
-    border: 1.5px solid var(--border); border-radius: 10px;
-    font-size: 15px; font-family: inherit; outline: none;
-    background: var(--warm); transition: border-color 0.15s;
-  }
-  .cta-input:focus { border-color: var(--amber); background: white; }
   .cta-btn {
-    padding: 12px 24px; background: var(--amber); color: white;
-    border: none; border-radius: 10px; font-size: 15px;
+    display: inline-block;
+    padding: 14px 36px; background: var(--amber); color: white;
+    border: none; border-radius: 10px; font-size: 16px;
     font-weight: 700; font-family: inherit; cursor: pointer;
     white-space: nowrap; transition: background 0.15s, transform 0.15s;
+    text-decoration: none;
   }
-  .cta-btn:hover { background: #d4741f; transform: translateY(-1px); }
+  .cta-btn:hover { background: #d4741f; transform: translateY(-2px); }
   .cta-note {
     text-align: center; font-size: 12px; color: var(--muted);
-    margin-top: 10px;
-  }
-  #cta-success {
-    display: none; text-align: center; padding: 20px;
-    font-size: 16px; color: #16a34a; font-weight: 600;
+    margin-top: 12px;
   }
   .social-proof {
     text-align: center; font-size: 13px; color: var(--muted);
@@ -191,27 +183,15 @@
   }
   .bottom-cta p { color: rgba(255,255,255,0.55); margin-bottom: 36px; font-size: 16px; }
   .bottom-form { max-width: 420px; margin: 0 auto; }
-  .bottom-input {
-    width: 100%; padding: 14px 18px;
-    border-radius: 12px; border: none;
-    font-size: 15px; font-family: inherit; outline: none;
-    margin-bottom: 12px; background: rgba(255,255,255,0.1);
-    color: white;
-  }
-  .bottom-input::placeholder { color: rgba(255,255,255,0.35); }
-  .bottom-input:focus { background: rgba(255,255,255,0.15); }
   .bottom-btn {
-    width: 100%; padding: 15px;
+    display: inline-block; padding: 15px 48px;
     background: var(--amber); color: white;
     border: none; border-radius: 12px; font-size: 16px;
     font-weight: 700; font-family: inherit; cursor: pointer;
-    transition: background 0.15s;
+    transition: background 0.15s, transform 0.15s;
+    text-decoration: none;
   }
-  .bottom-btn:hover { background: #d4741f; }
-  #bottom-success {
-    display: none; color: #86efac; font-size: 16px;
-    margin-top: 16px; font-weight: 600;
-  }
+  .bottom-btn:hover { background: #d4741f; transform: translateY(-2px); }
 
   /* FOOTER */
   footer {
@@ -246,14 +226,13 @@
 
   <div class="cta-box">
     <div class="cta-label">🔒 抢先体验 · 限前 200 名</div>
-    <div class="input-row">
-      <input class="cta-input" type="tel" id="hero-phone" placeholder="你的手机号 / 微信号" maxlength="50">
-      <button class="cta-btn" onclick="submitHero()">免费预约</button>
-    </div>
+    <button class="cta-btn"
+      data-tally-open="Y5ZdGB"
+      data-tally-emoji-text="👋"
+      data-tally-emoji-animation="wave">免费预约内测</button>
     <div class="cta-note">无需付费 · 产品上线第一时间通知你</div>
-    <div id="cta-success">✅ 预约成功！我们会第一时间联系你 🎉</div>
   </div>
-  <p class="social-proof">已有 <span id="count">38</span> 人预约内测</p>
+  <p class="social-proof">已有 <span>46</span> 人预约内测</p>
 </section>
 
 <!-- STORY -->
@@ -342,9 +321,10 @@
   <h2>趁现在，留住那个声音</h2>
   <p>免费内测，无需付费。上线第一时间邀请你。</p>
   <div class="bottom-form">
-    <input class="bottom-input" type="tel" id="bottom-phone" placeholder="手机号 / 微信号">
-    <button class="bottom-btn" onclick="submitBottom()">我要预约内测 →</button>
-    <div id="bottom-success">✅ 已收到！我们会第一时间联系你 🎉</div>
+    <button class="bottom-btn"
+      data-tally-open="Y5ZdGB"
+      data-tally-emoji-text="👋"
+      data-tally-emoji-animation="wave">我要预约内测 →</button>
   </div>
   <p style="color:rgba(255,255,255,0.3); font-size:12px; margin-top:20px;">
     不会骚扰你，只在产品准备好时通知一次
@@ -356,63 +336,7 @@
   <a href="https://t.me/sundigest_daily" style="color:var(--amber); text-decoration:none;">关注我们的 Telegram</a>
 </footer>
 
-<script>
-// ⚠️ 测试期间使用，测试结束后移除 token
-const TG_TOKEN = "8584984313:AAH3QoXmNn_dDs9ti8HE9-b9jxTqZ3259yU";
-const TG_CHAT = "8701065108";
 
-let count = 38;
-function tick() {
-  if (Math.random() > 0.7) {
-    count++;
-    const el = document.getElementById('count');
-    if (el) el.textContent = count;
-  }
-  setTimeout(tick, Math.random() * 8000 + 4000);
-}
-tick();
-
-async function sendToTelegram(phone) {
-  const now = new Date().toLocaleString('zh-CN', {timeZone:'Asia/Shanghai'});
-  const msg = `🎙️ 声音记忆胶囊 — 新预约！
-
-📱 联系方式：${phone}
-🕐 时间：${now}
-📊 已预约：${count} 人`;
-  try {
-    await fetch(`https://api.telegram.org/bot${TG_TOKEN}/sendMessage`, {
-      method: 'POST',
-      headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify({chat_id: TG_CHAT, text: msg})
-    });
-  } catch(e) { console.log('tg error', e); }
-}
-
-function submitTo(phone) {
-  if (!phone.trim()) { alert('请输入你的手机号或微信号'); return false; }
-  sendToTelegram(phone.trim());
-  count++;
-  const el = document.getElementById('count');
-  if (el) el.textContent = count;
-  return true;
-}
-
-function submitHero() {
-  const phone = document.getElementById('hero-phone').value;
-  if (!submitTo(phone)) return;
-  document.querySelector('.input-row').style.display = 'none';
-  document.querySelector('.cta-note').style.display = 'none';
-  document.getElementById('cta-success').style.display = 'block';
-}
-
-function submitBottom() {
-  const phone = document.getElementById('bottom-phone').value;
-  if (!submitTo(phone)) return;
-  document.getElementById('bottom-phone').style.display = 'none';
-  document.querySelector('.bottom-btn').style.display = 'none';
-  document.getElementById('bottom-success').style.display = 'block';
-}
-</script>
 
 </body>
 </html>
