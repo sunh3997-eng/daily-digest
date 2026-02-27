@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>每日汇总 — AI 生成的早报与商机</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<nav>
+  <a class="logo" href="index.html">📰 每日<span>汇总</span></a>
+  <a href="#" onclick="filter('all');return false">全部</a>
+  <a href="#" onclick="filter('news');return false">早报</a>
+  <a href="#" onclick="filter('radar');return false">商机</a>
+  <div class="spacer"></div>
+  <span class="tag">AI 自动生成</span>
+</nav>
+<div class="hero">
+  <h1>📰 每日汇总</h1>
+  <p>每天 08:00 早报 · 09:00 商机雷达 · 全部由 AI 自动生成</p>
+</div>
+<div class="container">
+  <div class="filter-tabs">
+    <button class="active" onclick="filter('all')">📋 全部</button>
+    <button onclick="filter('news')">🌅 每日早报</button>
+    <button onclick="filter('radar')">💡 商机雷达</button>
+  </div>
+  <div class="cards" id="cards">
+    <a class="card" href="posts/news-2026-02-27.html" data-type="news">
+      <div class="card-meta">
+        <span class="card-type news">每日早报</span>
+        <span class="card-date">2026年02月27日</span>
+      </div>
+      <h2>每日早报 · 试刊号</h2>
+      <p>这里每天自动更新两份内容：</p>
+    </a>
+  </div>
+</div>
+<footer>
+  © 每日汇总 · AI 自动生成 · 最后更新：2026-02-27 09:36 CST · <a href="https://github.com/sunh3997-eng/daily-digest">GitHub</a>
+</footer>
+<script>
+function filter(type) {
+  document.querySelectorAll('.filter-tabs button').forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+  document.querySelectorAll('.card').forEach(c => {
+    c.style.display = (type === 'all' || c.dataset.type === type) ? '' : 'none';
+  });
+}
+</script>
+</body>
+</html>
