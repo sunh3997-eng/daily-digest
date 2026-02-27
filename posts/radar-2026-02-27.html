@@ -4,6 +4,17 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Opportunity Radar · 2026-02-27 / 商机雷达 · 2026-02-27 — Daily Digest</title>
+<meta name="description" content="🔥 Opportunity Radar · 2026-02-27 · CST">
+<meta property="og:title" content="Opportunity Radar · 2026-02-27">
+<meta property="og:description" content="🔥 Opportunity Radar · 2026-02-27 · CST">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://daily.sundigest.xyz/posts/radar-2026-02-27.html">
+<meta property="og:site_name" content="Daily Digest">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Opportunity Radar · 2026-02-27">
+<meta name="twitter:description" content="🔥 Opportunity Radar · 2026-02-27 · CST">
+<link rel="canonical" href="https://daily.sundigest.xyz/posts/radar-2026-02-27.html">
+<link rel="alternate" type="application/rss+xml" title="Daily Digest RSS" href="https://daily.sundigest.xyz/feed.xml">
 <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
@@ -11,6 +22,7 @@
   <a class="logo" href="../index.html">📰 <span class="zh">每日</span><span class="en">Daily</span><span style="color:var(--accent)"><span class="zh">汇总</span><span class="en">Digest</span></span></a>
   <a href="../index.html"><span class="zh">首页</span><span class="en">Home</span></a>
   <div class="spacer"></div>
+  <a href="../feed.xml" title="RSS Feed" style="font-size:18px;text-decoration:none;">🔔</a>
   <div class="lang-switcher">
     <button class="lang-btn" data-l="zh" onclick="setLang('zh')">中文</button>
     <button class="lang-btn active" data-l="en" onclick="setLang('en')">EN</button>
@@ -30,7 +42,7 @@
       <span class="card-type radar">
         <span class="zh">商机雷达</span><span class="en">Opportunity Radar</span>
       </span>
-      <span>📅 <span class="zh">2026年02月27日 10:06</span><span class="en">February 27, 2026 10:06 CST</span></span>
+      <span>📅 <span class="zh">2026年02月27日 12:01</span><span class="en">February 27, 2026 12:01 CST</span></span>
       <span>⏱ <span class="zh">AI 自动生成</span><span class="en">AI Generated</span></span>
     </div>
   </div>
@@ -326,21 +338,24 @@
   </div>
 </div>
 <footer>
-  © Daily Digest · AI Generated ·
-  <a href="https://github.com/sunh3997-eng/daily-digest">GitHub</a>
+  <div class="footer-inner">
+    <div>© Daily Digest · AI Generated · <a href="../feed.xml">RSS</a> · <a href="https://github.com/sunh3997-eng/daily-digest">GitHub</a></div>
+    <div class="zh">最后更新：2026-02-27 12:01 CST</div>
+    <div class="en">Last updated: 2026-02-27 12:01 CST</div>
+  </div>
 </footer>
 <script>
-function setLang(l) {
+function setLang(l) {{
   document.documentElement.dataset.lang = l;
   localStorage.setItem('digest-lang', l);
-  document.querySelectorAll('.lang-btn').forEach(function(b) {
+  document.querySelectorAll('.lang-btn').forEach(function(b) {{
     b.classList.toggle('active', b.dataset.l === l);
-  });
-}
-(function() {
+  }});
+}}
+(function() {{
   var saved = localStorage.getItem('digest-lang') || 'en';
   setLang(saved);
-})();
+}})();
 </script>
 </body>
 </html>

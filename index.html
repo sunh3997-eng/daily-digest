@@ -3,16 +3,26 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Daily Digest / 每日汇总 — AI Generated</title>
+<title>Daily Digest / 每日汇总 — AI-Powered Bilingual News & Opportunities</title>
+<meta name="description" content="Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar. Updated every day at 08:00 and 09:00 CST.">
+<meta property="og:title" content="Daily Digest — AI-Powered Bilingual News & Opportunities">
+<meta property="og:description" content="Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://daily.sundigest.xyz">
+<meta property="og:site_name" content="Daily Digest">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Daily Digest — AI-Powered Bilingual News">
+<meta name="twitter:description" content="Daily AI-generated bilingual digest. Tech news + startup opportunities. Updated daily.">
+<link rel="canonical" href="https://daily.sundigest.xyz">
+<link rel="alternate" type="application/rss+xml" title="Daily Digest RSS" href="https://daily.sundigest.xyz/feed.xml">
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 <nav>
   <a class="logo" href="index.html">📰 <span class="zh">每日</span><span class="en">Daily</span><span style="color:var(--accent)"><span class="zh">汇总</span><span class="en">Digest</span></span></a>
-  <a href="#" onclick="filterType('all');return false"><span class="zh">全部</span><span class="en">All</span></a>
-  <a href="#" onclick="filterType('news');return false"><span class="zh">早报</span><span class="en">Briefing</span></a>
-  <a href="#" onclick="filterType('radar');return false"><span class="zh">商机</span><span class="en">Radar</span></a>
+  <a href="index.html"><span class="zh">首页</span><span class="en">Home</span></a>
   <div class="spacer"></div>
+  <a href="feed.xml" title="RSS Feed" style="font-size:18px;text-decoration:none;">🔔</a>
   <div class="lang-switcher">
     <button class="lang-btn" data-l="zh" onclick="setLang('zh')">中文</button>
     <button class="lang-btn active" data-l="en" onclick="setLang('en')">EN</button>
@@ -25,6 +35,40 @@
     <span class="en">08:00 Daily Briefing · 09:00 Opportunity Radar · All AI Generated</span>
   </p>
 </div>
+<div class="subscribe-block">
+  <div class="subscribe-inner">
+    <div>
+      <div class="subscribe-title">
+        <span class="zh">📬 订阅每日推送</span>
+        <span class="en">📬 Subscribe for Daily Updates</span>
+      </div>
+      <div class="subscribe-desc">
+        <span class="zh">每天早报 + 商机雷达，直接送到你的邮箱</span>
+        <span class="en">Daily Briefing + Opportunity Radar, delivered to your inbox</span>
+      </div>
+    </div>
+    <form class="subscribe-form" onsubmit="handleSubscribe(event)">
+      <input type="email" id="sub-email" placeholder="your@email.com" required>
+      <button type="submit">
+        <span class="zh">订阅</span><span class="en">Subscribe</span>
+      </button>
+    </form>
+    <div id="sub-msg" style="display:none;font-size:13px;color:#16a34a;margin-top:8px"></div>
+  </div>
+</div>
+<script>
+function handleSubscribe(e) {{
+  e.preventDefault();
+  var email = document.getElementById('sub-email').value;
+  var msg = document.getElementById('sub-msg');
+  // Open Buttondown subscribe URL (replace with your Buttondown username after signup)
+  window.open('https://buttondown.com/daily-sundigest?email=' + encodeURIComponent(email), '_blank');
+  msg.style.display = 'block';
+  msg.textContent = document.documentElement.dataset.lang === 'zh'
+    ? '✅ 正在跳转到订阅确认页...'
+    : '✅ Redirecting to confirm your subscription...';
+}}
+</script>
 <div class="container">
   <div class="filter-tabs">
     <button class="active" onclick="filterType('all')">
@@ -38,16 +82,6 @@
     </button>
   </div>
   <div class="cards" id="cards">
-    <a class="card" href="posts/news-2026-02-27.html" data-type="news">
-      <div class="card-meta">
-        <span class="card-type news">
-          <span class="zh">每日早报</span><span class="en">Daily Briefing</span>
-        </span>
-        <span class="card-date"><span class="zh">2026年02月27日</span><span class="en">Feb 27, 2026</span></span>
-      </div>
-      <h2><span class="zh">每日早报 · 2026-02-26</span><span class="en">Daily Briefing · 2026-02-26</span></h2>
-      <p><span class="zh">📰 每日早报 · 2026-02-26</span><span class="en">📰 Daily Briefing · February 26, 2026</span></p>
-    </a>
     <a class="card" href="posts/radar-2026-02-27.html" data-type="radar">
       <div class="card-meta">
         <span class="card-type radar">
@@ -58,22 +92,26 @@
       <h2><span class="zh">商机雷达 · 2026-02-27</span><span class="en">Opportunity Radar · 2026-02-27</span></h2>
       <p><span class="zh">🔥 商机雷达 · 2026-02-27 · 北京时间</span><span class="en">🔥 Opportunity Radar · 2026-02-27 · CST</span></p>
     </a>
+    <a class="card" href="posts/news-2026-02-27.html" data-type="news">
+      <div class="card-meta">
+        <span class="card-type news">
+          <span class="zh">每日早报</span><span class="en">Daily Briefing</span>
+        </span>
+        <span class="card-date"><span class="zh">2026年02月27日</span><span class="en">Feb 27, 2026</span></span>
+      </div>
+      <h2><span class="zh">每日早报 · 2026-02-27</span><span class="en">Daily Briefing · 2026-02-27</span></h2>
+      <p><span class="zh">📰 每日早报 · 2026-02-26</span><span class="en">📰 Daily Briefing · February 26, 2026</span></p>
+    </a>
   </div>
 </div>
 <footer>
-  © Daily Digest · AI Generated ·
-  <span class="zh">最后更新：2026-02-27 11:34 CST</span>
-  <span class="en">Last updated: 2026-02-27 11:34 CST</span>
-  · <a href="https://github.com/sunh3997-eng/daily-digest">GitHub</a>
+  <div class="footer-inner">
+    <div>© Daily Digest · AI Generated · <a href="feed.xml">RSS</a> · <a href="https://github.com/sunh3997-eng/daily-digest">GitHub</a></div>
+    <div class="zh">最后更新：2026-02-27 12:01 CST</div>
+    <div class="en">Last updated: 2026-02-27 12:01 CST</div>
+  </div>
 </footer>
 <script>
-function setLang(l) {
-  document.documentElement.dataset.lang = l;
-  localStorage.setItem('digest-lang', l);
-  document.querySelectorAll('.lang-btn').forEach(function(b) {
-    b.classList.toggle('active', b.dataset.l === l);
-  });
-}
 function filterType(type) {
   document.querySelectorAll('.filter-tabs button').forEach(function(b) {
     b.classList.remove('active');
@@ -83,10 +121,19 @@ function filterType(type) {
     c.style.display = (type === 'all' || c.dataset.type === type) ? '' : 'none';
   });
 }
-(function() {
+</script>
+<script>
+function setLang(l) {{
+  document.documentElement.dataset.lang = l;
+  localStorage.setItem('digest-lang', l);
+  document.querySelectorAll('.lang-btn').forEach(function(b) {{
+    b.classList.toggle('active', b.dataset.l === l);
+  }});
+}}
+(function() {{
   var saved = localStorage.getItem('digest-lang') || 'en';
   setLang(saved);
-})();
+}})();
 </script>
 </body>
 </html>
