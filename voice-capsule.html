@@ -357,7 +357,10 @@
 </footer>
 
 <script>
-// 动态计数器（假数据，增加可信度）
+// ⚠️ 测试期间使用，测试结束后移除 token
+const TG_TOKEN = "8584984313:AAH3QoXmNn_dDs9ti8HE9-b9jxTqZ3259yU";
+const TG_CHAT = "8701065108";
+
 let count = 38;
 function tick() {
   if (Math.random() > 0.7) {
@@ -369,38 +372,45 @@ function tick() {
 }
 tick();
 
-// 提交到 Google Form（替换 YOUR_FORM_ID）
-function submitTo(phone, formId) {
-  if (!phone.trim()) {
-    alert('请输入你的手机号或微信号');
-    return false;
-  }
-  // 存到本地
-  const data = { phone: phone.trim(), time: new Date().toISOString(), page: 'voice-capsule' };
-  const saved = JSON.parse(localStorage.getItem('vc-signups') || '[]');
-  saved.push(data);
-  localStorage.setItem('vc-signups', JSON.stringify(saved));
-  // 发送到 Telegram bot（通过 URL scheme，可选）
-  // window.open('https://t.me/sundigest_daily', '_blank');
+async function sendToTelegram(phone) {
+  const now = new Date().toLocaleString('zh-CN', {timeZone:'Asia/Shanghai'});
+  const msg = `🎙️ 声音记忆胶囊 — 新预约！
+
+📱 联系方式：${phone}
+🕐 时间：${now}
+📊 已预约：${count} 人`;
+  try {
+    await fetch(`https://api.telegram.org/bot${TG_TOKEN}/sendMessage`, {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({chat_id: TG_CHAT, text: msg})
+    });
+  } catch(e) { console.log('tg error', e); }
+}
+
+function submitTo(phone) {
+  if (!phone.trim()) { alert('请输入你的手机号或微信号'); return false; }
+  sendToTelegram(phone.trim());
+  count++;
+  const el = document.getElementById('count');
+  if (el) el.textContent = count;
   return true;
 }
 
 function submitHero() {
   const phone = document.getElementById('hero-phone').value;
-  if (!submitTo(phone, 'hero')) return;
+  if (!submitTo(phone)) return;
   document.querySelector('.input-row').style.display = 'none';
   document.querySelector('.cta-note').style.display = 'none';
   document.getElementById('cta-success').style.display = 'block';
-  count++; document.getElementById('count').textContent = count;
 }
 
 function submitBottom() {
   const phone = document.getElementById('bottom-phone').value;
-  if (!submitTo(phone, 'bottom')) return;
+  if (!submitTo(phone)) return;
   document.getElementById('bottom-phone').style.display = 'none';
   document.querySelector('.bottom-btn').style.display = 'none';
   document.getElementById('bottom-success').style.display = 'block';
-  count++; document.getElementById('count').textContent = count;
 }
 </script>
 
