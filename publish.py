@@ -289,13 +289,27 @@ def main():
     ap.add_argument("--type", choices=["news","radar"], required=True)
     ap.add_argument("--title-zh", required=True)
     ap.add_argument("--title-en", default="")
-    ap.add_argument("--content-zh-file", required=True)
+    ap.add_argument("--content-zh-file", default=None)
     ap.add_argument("--content-en-file", default=None)
+    ap.add_argument("--content-zh", default=None, help="Chinese content as string")
+    ap.add_argument("--content-en", default=None, help="English content as string")
     ap.add_argument("--no-push", action="store_true")
     args = ap.parse_args()
 
-    content_zh = Path(args.content_zh_file).read_text(encoding="utf-8")
-    content_en = Path(args.content_en_file).read_text(encoding="utf-8") if args.content_en_file else ""
+    # Accept content from file or direct string argument
+    if args.content_zh_file:
+        content_zh = Path(args.content_zh_file).read_text(encoding="utf-8")
+    elif args.content_zh:
+        content_zh = args.content_zh
+    else:
+        print("❌ --content-zh or --content-zh-file required", file=sys.stderr); sys.exit(1)
+
+    if args.content_en_file:
+        content_en = Path(args.content_en_file).read_text(encoding="utf-8")
+    elif args.content_en:
+        content_en = args.content_en
+    else:
+        content_en = ""
 
     now = datetime.now(CST)
     date_str = now.strftime("%Y-%m-%d")
