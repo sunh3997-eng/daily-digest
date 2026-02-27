@@ -70,7 +70,7 @@ POST_TMPL = """\
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{title_zh} / {title_en} — Daily Digest</title>
+<title>{title_en} / {title_zh} — Daily Digest</title>
 <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
@@ -162,7 +162,7 @@ INDEX_TMPL = """\
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>每日汇总 / Daily Digest — AI Generated</title>
+<title>Daily Digest / 每日汇总 — AI Generated</title>
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
@@ -238,7 +238,7 @@ CARD_TMPL = """\
         <span class="card-type {type_key}">
           <span class="zh">{type_label_zh}</span><span class="en">{type_label_en}</span>
         </span>
-        <span class="card-date">{date_fmt}</span>
+        <span class="card-date"><span class="zh">{date_fmt_zh}</span><span class="en">{date_fmt_en}</span></span>
       </div>
       <h2><span class="zh">{title_zh}</span><span class="en">{title_en}</span></h2>
       <p><span class="zh">{summary_zh}</span><span class="en">{summary_en}</span></p>
@@ -254,7 +254,8 @@ def regen_index(posts):
             slug=p["slug"], type_key=p["type"],
             type_label_zh=type_labels[p["type"]][0],
             type_label_en=type_labels[p["type"]][1],
-            date_fmt=p["date_fmt"],
+            date_fmt_zh=p.get("date_fmt_zh", p.get("date_fmt","")),
+            date_fmt_en=p.get("date_fmt_en", p.get("date_fmt","")),
             title_zh=esc(p.get("title_zh", p.get("title",""))),
             title_en=esc(p.get("title_en", p.get("title",""))),
             summary_zh=esc(p.get("summary_zh", p.get("summary",""))),
@@ -301,6 +302,8 @@ def main():
     slug = f"{args.type}-{date_str}"
     type_label_zh = "每日早报" if args.type == "news" else "商机雷达"
     date_fmt = now.strftime("%Y年%m月%d日")
+    date_fmt_zh = date_fmt
+    date_fmt_en = now.strftime("%b %d, %Y")
 
     write_post(slug, args.title_zh, args.title_en or args.title_zh,
                args.type, now, content_zh, content_en)
@@ -315,6 +318,8 @@ def main():
         "summary_zh": first_line(content_zh),
         "summary_en": first_line(content_en) if content_en else "",
         "date_fmt": date_fmt,
+        "date_fmt_zh": date_fmt_zh,
+        "date_fmt_en": date_fmt_en,
         "ts": now.isoformat()
     })
     save_index(posts)
