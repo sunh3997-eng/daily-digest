@@ -119,6 +119,14 @@ POST_TMPL = """\
 <link rel="canonical" href="{site_url}/posts/{slug}.html">
 <link rel="alternate" type="application/rss+xml" title="Daily Digest RSS" href="{site_url}/feed.xml">
 <link rel="stylesheet" href="../assets/style.css">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D7DL34E2MG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){{dataLayer.push(arguments);}}
+  gtag("js", new Date());
+  gtag("config", "G-D7DL34E2MG");
+</script>
 </head>
 <body>
 {nav}
@@ -246,6 +254,14 @@ INDEX_TMPL = """\
 <link rel="canonical" href="{site_url}">
 <link rel="alternate" type="application/rss+xml" title="Daily Digest RSS" href="{site_url}/feed.xml">
 <link rel="stylesheet" href="assets/style.css">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D7DL34E2MG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){{dataLayer.push(arguments);}}
+  gtag("js", new Date());
+  gtag("config", "G-D7DL34E2MG");
+</script>
 </head>
 <body>
 {nav}
