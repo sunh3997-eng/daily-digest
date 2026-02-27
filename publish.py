@@ -161,7 +161,10 @@ def write_post(slug, title_zh, title_en, type_key, date, content_zh, content_en,
     body_zh = md_to_html(content_zh)
     body_en = md_to_html(content_en) if content_en else "<p><em>English version coming soon.</em></p>"
     if not desc_en:
-        desc_en = first_line(content_en or content_zh)
+        summary = first_line(content_en or content_zh)
+        date_str = date.strftime("%b %d, %Y")
+        prefix = f"[{type_label_en} · {date_str}] "
+        desc_en = (prefix + summary)[:160]
     updated = date.strftime("%Y-%m-%d %H:%M CST")
     nav = NAV.format(root="../")
     footer = FOOTER.format(root="../", updated=updated)
@@ -230,15 +233,15 @@ INDEX_TMPL = """\
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Daily Digest / 每日汇总 — AI-Powered Bilingual News & Opportunities</title>
-<meta name="description" content="Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar. Updated every day at 08:00 and 09:00 CST.">
-<meta property="og:title" content="Daily Digest — AI-Powered Bilingual News & Opportunities">
-<meta property="og:description" content="Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.">
+<meta name="description" content="AI-curated daily tech digest: agentic AI breakthroughs, LLM trends, vibe coding &amp; startup opportunities — bilingual EN/ZH briefing updated every morning.">
+<meta property="og:title" content="Daily Digest — AI-Powered Bilingual Tech News &amp; Startup Opportunities">
+<meta property="og:description" content="AI-curated bilingual tech digest: agentic AI, LLM updates &amp; indie startup opportunities — updated daily in English &amp; Chinese.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="{site_url}">
 <meta property="og:site_name" content="Daily Digest">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Daily Digest — AI-Powered Bilingual News">
-<meta name="twitter:description" content="Daily AI-generated bilingual digest. Tech news + startup opportunities. Updated daily.">
+<meta name="twitter:title" content="Daily Digest — AI-Powered Bilingual Tech News">
+<meta name="twitter:description" content="Agentic AI news, LLM breakthroughs &amp; indie startup opportunities — AI-curated bilingual digest, updated every morning.">
 <meta name="google-site-verification" content="Cw49nZUrpgxS-DWwwe-8W3gA7iy6-pQnxv69ypLKx9Q">
 <link rel="canonical" href="{site_url}">
 <link rel="alternate" type="application/rss+xml" title="Daily Digest RSS" href="{site_url}/feed.xml">
