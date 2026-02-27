@@ -239,6 +239,7 @@ INDEX_TMPL = """\
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Daily Digest — AI-Powered Bilingual News">
 <meta name="twitter:description" content="Daily AI-generated bilingual digest. Tech news + startup opportunities. Updated daily.">
+<meta name="google-site-verification" content="Cw49nZUrpgxS-DWwwe-8W3gA7iy6-pQnxv69ypLKx9Q">
 <link rel="canonical" href="{site_url}">
 <link rel="alternate" type="application/rss+xml" title="Daily Digest RSS" href="{site_url}/feed.xml">
 <link rel="stylesheet" href="assets/style.css">
