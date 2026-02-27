@@ -176,6 +176,12 @@ footer { text-align: center; padding: 28px 16px; font-size: 12px; color: var(--m
   align-items: center; text-align: center;
 }
 
+/* DISCLAIMER */
+.disclaimer {
+  font-size: 11px; color: #9ca3af; margin-top: 6px;
+  max-width: 600px; line-height: 1.5;
+}
+
 /* RESPONSIVE */
 @media (min-width: 600px) { .cards { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 500px) {

@@ -80,6 +80,7 @@ FOOTER = """\
     <div>© Daily Digest · AI Generated · <a href="{root}feed.xml">RSS</a> · <a href="https://github.com/sunh3997-eng/daily-digest">GitHub</a></div>
     <div class="zh">最后更新：{updated}</div>
     <div class="en">Last updated: {updated}</div>
+    <div class="disclaimer">Content summaries are AI-generated for informational purposes. All original content belongs to respective publishers. Click links to read full articles.</div>
   </div>
 </footer>"""
 

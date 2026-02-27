@@ -1,5 +1,18 @@
 [
   {
+    "slug": "news-2026-02-27",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-02-27",
+    "title_en": "Daily Briefing · 2026-02-27",
+    "summary_zh": "📰 每日早报 · 2026-02-26",
+    "summary_en": "📰 Daily Briefing · February 26, 2026",
+    "date_fmt": "2026年02月27日",
+    "date_fmt_zh": "2026年02月27日",
+    "date_fmt_en": "Feb 27, 2026",
+    "ts": "2026-02-27T12:11:26.125993+08:00"
+  },
+  {
     "slug": "radar-2026-02-27",
     "type": "radar",
     "type_label": "商机雷达",
@@ -11,18 +24,5 @@
     "date_fmt_zh": "2026年02月27日",
     "date_fmt_en": "Feb 27, 2026",
     "ts": "2026-02-27T12:01:32.374409+08:00"
-  },
-  {
-    "slug": "news-2026-02-27",
-    "type": "news",
-    "type_label": "每日早报",
-    "title_zh": "每日早报 · 2026-02-27",
-    "title_en": "Daily Briefing · 2026-02-27",
-    "summary_zh": "📰 每日早报 · 2026-02-26",
-    "summary_en": "📰 Daily Briefing · February 26, 2026",
-    "date_fmt": "2026年02月27日",
-    "date_fmt_zh": "2026年02月27日",
-    "date_fmt_en": "Feb 27, 2026",
-    "ts": "2026-02-27T12:01:32.339194+08:00"
   }
 ]
