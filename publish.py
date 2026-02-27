@@ -218,9 +218,15 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--type", choices=["news","radar"], required=True)
     ap.add_argument("--title", required=True)
-    ap.add_argument("--content", required=True)
+    ap.add_argument("--content", default=None)
+    ap.add_argument("--content-file", default=None, help="Read content from file")
     ap.add_argument("--no-push", action="store_true", help="Skip git push (local test)")
     args = ap.parse_args()
+
+    if args.content_file:
+        args.content = Path(args.content_file).read_text(encoding="utf-8")
+    if not args.content:
+        print("❌ --content or --content-file required", file=sys.stderr); sys.exit(1)
 
     now = datetime.now(CST)
     date_str = now.strftime("%Y-%m-%d")
