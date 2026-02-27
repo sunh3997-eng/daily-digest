@@ -66,7 +66,7 @@ def first_line(text: str) -> str:
 # ── Post HTML template ─────────────────────────────────────────
 POST_TMPL = """\
 <!DOCTYPE html>
-<html lang="zh-CN" data-lang="zh">
+<html lang="zh-CN" data-lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -79,8 +79,8 @@ POST_TMPL = """\
   <a href="../index.html"><span class="zh">首页</span><span class="en">Home</span></a>
   <div class="spacer"></div>
   <div class="lang-switcher">
-    <button class="lang-btn active" data-l="zh" onclick="setLang('zh')">中文</button>
-    <button class="lang-btn" data-l="en" onclick="setLang('en')">EN</button>
+    <button class="lang-btn" data-l="zh" onclick="setLang('zh')">中文</button>
+    <button class="lang-btn active" data-l="en" onclick="setLang('en')">EN</button>
   </div>
 </nav>
 <div class="post-header">
@@ -121,7 +121,7 @@ function setLang(l) {{
   }});
 }}
 (function() {{
-  var saved = localStorage.getItem('digest-lang') || 'zh';
+  var saved = localStorage.getItem('digest-lang') || 'en';
   setLang(saved);
 }})();
 </script>
@@ -158,7 +158,7 @@ def save_index(posts):
 
 INDEX_TMPL = """\
 <!DOCTYPE html>
-<html lang="zh-CN" data-lang="zh">
+<html lang="zh-CN" data-lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -173,8 +173,8 @@ INDEX_TMPL = """\
   <a href="#" onclick="filterType('radar');return false"><span class="zh">商机</span><span class="en">Radar</span></a>
   <div class="spacer"></div>
   <div class="lang-switcher">
-    <button class="lang-btn active" data-l="zh" onclick="setLang('zh')">中文</button>
-    <button class="lang-btn" data-l="en" onclick="setLang('en')">EN</button>
+    <button class="lang-btn" data-l="zh" onclick="setLang('zh')">中文</button>
+    <button class="lang-btn active" data-l="en" onclick="setLang('en')">EN</button>
   </div>
 </nav>
 <div class="hero">
@@ -224,7 +224,7 @@ function filterType(type) {{
   }});
 }}
 (function() {{
-  var saved = localStorage.getItem('digest-lang') || 'zh';
+  var saved = localStorage.getItem('digest-lang') || 'en';
   setLang(saved);
 }})();
 </script>

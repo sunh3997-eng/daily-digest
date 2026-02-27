@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-CN" data-lang="zh">
+<html lang="zh-CN" data-lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,8 +12,8 @@
   <a href="../index.html"><span class="zh">首页</span><span class="en">Home</span></a>
   <div class="spacer"></div>
   <div class="lang-switcher">
-    <button class="lang-btn active" data-l="zh" onclick="setLang('zh')">中文</button>
-    <button class="lang-btn" data-l="en" onclick="setLang('en')">EN</button>
+    <button class="lang-btn" data-l="zh" onclick="setLang('zh')">中文</button>
+    <button class="lang-btn active" data-l="en" onclick="setLang('en')">EN</button>
   </div>
 </nav>
 <div class="post-header">
@@ -30,7 +30,7 @@
       <span class="card-type news">
         <span class="zh">每日早报</span><span class="en">Daily Briefing</span>
       </span>
-      <span>📅 <span class="zh">2026年02月27日 09:45</span><span class="en">February 27, 2026 09:45 CST</span></span>
+      <span>📅 <span class="zh">2026年02月27日 09:48</span><span class="en">February 27, 2026 09:48 CST</span></span>
       <span>⏱ <span class="zh">AI 自动生成</span><span class="en">AI Generated</span></span>
     </div>
   </div>
@@ -86,7 +86,7 @@ function setLang(l) {
   });
 }
 (function() {
-  var saved = localStorage.getItem('digest-lang') || 'zh';
+  var saved = localStorage.getItem('digest-lang') || 'en';
   setLang(saved);
 })();
 </script>

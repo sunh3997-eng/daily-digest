@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-CN" data-lang="zh">
+<html lang="zh-CN" data-lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,8 +14,8 @@
   <a href="#" onclick="filterType('radar');return false"><span class="zh">商机</span><span class="en">Radar</span></a>
   <div class="spacer"></div>
   <div class="lang-switcher">
-    <button class="lang-btn active" data-l="zh" onclick="setLang('zh')">中文</button>
-    <button class="lang-btn" data-l="en" onclick="setLang('en')">EN</button>
+    <button class="lang-btn" data-l="zh" onclick="setLang('zh')">中文</button>
+    <button class="lang-btn active" data-l="en" onclick="setLang('en')">EN</button>
   </div>
 </nav>
 <div class="hero">
@@ -52,8 +52,8 @@
 </div>
 <footer>
   © Daily Digest · AI Generated ·
-  <span class="zh">最后更新：2026-02-27 09:45 CST</span>
-  <span class="en">Last updated: 2026-02-27 09:45 CST</span>
+  <span class="zh">最后更新：2026-02-27 09:48 CST</span>
+  <span class="en">Last updated: 2026-02-27 09:48 CST</span>
   · <a href="https://github.com/sunh3997-eng/daily-digest">GitHub</a>
 </footer>
 <script>
@@ -74,7 +74,7 @@ function filterType(type) {
   });
 }
 (function() {
-  var saved = localStorage.getItem('digest-lang') || 'zh';
+  var saved = localStorage.getItem('digest-lang') || 'en';
   setLang(saved);
 })();
 </script>
