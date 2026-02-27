@@ -1,26 +1,28 @@
 [
   {
-    "slug": "news-2026-02-27",
-    "type": "news",
-    "type_label": "每日早报",
-    "title_zh": "每日早报 · 试刊号",
-    "title_en": "Daily Briefing · Launch Issue",
-    "summary_zh": "这里每天自动更新两份内容：",
-    "summary_en": "Two updates every day, fully automated:",
-    "date_fmt": "2026年02月27日",
-    "date_fmt_zh": "2026年02月27日",
-    "date_fmt_en": "Feb 27, 2026",
-    "ts": "2026-02-27T10:06:29.075349+08:00"
-  },
-  {
     "slug": "radar-2026-02-27",
     "type": "radar",
     "type_label": "商机雷达",
-    "title_zh": "商机雷达 · 2026-02-26",
-    "title_en": "Opportunity Radar · 2026-02-26",
+    "title_zh": "商机雷达 · 2026-02-27",
+    "title_en": "Opportunity Radar · 2026-02-27",
     "summary_zh": "🔥 商机雷达 · 2026-02-27 · 北京时间",
     "summary_en": "🔥 Opportunity Radar · 2026-02-27 · CST",
     "date_fmt": "2026年02月27日",
-    "ts": "2026-02-27T10:00:40.496773+08:00"
+    "date_fmt_zh": "2026年02月27日",
+    "date_fmt_en": "Feb 27, 2026",
+    "ts": "2026-02-27T10:06:55.124158+08:00"
+  },
+  {
+    "slug": "news-2026-02-27",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-02-27",
+    "title_en": "Daily Briefing · 2026-02-27",
+    "summary_zh": "> 数据时间：2026年2月27日 05:52（太平洋时间）",
+    "summary_en": "> Published: February 27, 2026 — 5:52 AM PST",
+    "date_fmt": "2026年02月27日",
+    "date_fmt_zh": "2026年02月27日",
+    "date_fmt_en": "Feb 27, 2026",
+    "ts": "2026-02-27T10:06:55.093132+08:00"
   }
 ]
