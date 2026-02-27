@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>声音记忆胶囊 — 把家人的声音，留住一辈子</title>
+<meta name="description" content="用声音，留住最重要的人。声音记忆胶囊帮你保存家人的声音，永不消失。">
+<meta property="og:title" content="声音记忆胶囊 — 把家人的声音，留住一辈子">
+<meta property="og:description" content="爷爷走了才发现，手机里只有3条语音。用声音记忆胶囊，在还来得及的时候留住他们的声音。">
+<meta property="og:type" content="website">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --warm: #fdf8f3;
+    --amber: #e8832a;
+    --amber-light: #fef3e2;
+    --dark: #1a1209;
+    --muted: #7a6652;
+    --border: #ecddd0;
+    --radius: 16px;
+  }
+
+  body {
+    font-family: -apple-system, "PingFang SC", "Noto Sans SC", "Microsoft YaHei", sans-serif;
+    background: var(--warm);
+    color: var(--dark);
+    line-height: 1.75;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* NAV */
+  nav {
+    padding: 20px 32px;
+    display: flex; align-items: center; justify-content: space-between;
+    max-width: 900px; margin: 0 auto;
+  }
+  .nav-logo { font-size: 18px; font-weight: 800; color: var(--amber); }
+  .nav-badge {
+    font-size: 11px; font-weight: 700; letter-spacing: 0.8px;
+    background: var(--amber-light); color: var(--amber);
+    border: 1px solid rgba(232,131,42,0.3);
+    padding: 4px 12px; border-radius: 20px;
+  }
+
+  /* HERO */
+  .hero {
+    text-align: center;
+    padding: 60px 24px 48px;
+    max-width: 720px; margin: 0 auto;
+  }
+  .hero-eyebrow {
+    display: inline-block;
+    font-size: 13px; color: var(--muted);
+    background: white; border: 1px solid var(--border);
+    padding: 5px 16px; border-radius: 20px;
+    margin-bottom: 28px;
+  }
+  .hero h1 {
+    font-size: clamp(32px, 7vw, 56px);
+    font-weight: 900; line-height: 1.2;
+    letter-spacing: -1.5px;
+    margin-bottom: 20px;
+  }
+  .hero h1 em {
+    font-style: normal;
+    background: linear-gradient(135deg, #e8832a, #f5a623);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  }
+  .hero-sub {
+    font-size: 18px; color: var(--muted); max-width: 480px;
+    margin: 0 auto 40px; line-height: 1.7;
+  }
+
+  /* CTA */
+  .cta-box {
+    background: white; border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 28px 32px;
+    max-width: 480px; margin: 0 auto 16px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.06);
+  }
+  .cta-label {
+    font-size: 13px; font-weight: 600; color: var(--muted);
+    margin-bottom: 12px; text-align: left;
+  }
+  .input-row { display: flex; gap: 10px; }
+  .cta-input {
+    flex: 1; padding: 12px 16px;
+    border: 1.5px solid var(--border); border-radius: 10px;
+    font-size: 15px; font-family: inherit; outline: none;
+    background: var(--warm); transition: border-color 0.15s;
+  }
+  .cta-input:focus { border-color: var(--amber); background: white; }
+  .cta-btn {
+    padding: 12px 24px; background: var(--amber); color: white;
+    border: none; border-radius: 10px; font-size: 15px;
+    font-weight: 700; font-family: inherit; cursor: pointer;
+    white-space: nowrap; transition: background 0.15s, transform 0.15s;
+  }
+  .cta-btn:hover { background: #d4741f; transform: translateY(-1px); }
+  .cta-note {
+    text-align: center; font-size: 12px; color: var(--muted);
+    margin-top: 10px;
+  }
+  #cta-success {
+    display: none; text-align: center; padding: 20px;
+    font-size: 16px; color: #16a34a; font-weight: 600;
+  }
+  .social-proof {
+    text-align: center; font-size: 13px; color: var(--muted);
+    margin-bottom: 60px;
+  }
+  .social-proof span { font-weight: 700; color: var(--amber); }
+
+  /* STORY */
+  .story {
+    max-width: 680px; margin: 0 auto;
+    padding: 0 24px 72px;
+  }
+  .story-card {
+    background: #1a1209; color: white;
+    border-radius: var(--radius); padding: 36px 40px;
+    margin-bottom: 32px; position: relative; overflow: hidden;
+  }
+  .story-card::before {
+    content: '"'; position: absolute; top: -10px; right: 24px;
+    font-size: 120px; color: rgba(232,131,42,0.15);
+    font-family: Georgia, serif; line-height: 1;
+  }
+  .story-card p {
+    font-size: 18px; line-height: 1.85; color: rgba(255,255,255,0.85);
+  }
+  .story-card p strong { color: #f5a623; }
+  .story-author {
+    margin-top: 20px; font-size: 13px; color: rgba(255,255,255,0.45);
+  }
+
+  /* PROBLEM */
+  .section-label {
+    font-size: 11px; font-weight: 700; letter-spacing: 1.5px;
+    text-transform: uppercase; color: var(--amber);
+    margin-bottom: 14px;
+  }
+  .section-title {
+    font-size: 28px; font-weight: 800; letter-spacing: -0.5px;
+    margin-bottom: 24px; line-height: 1.3;
+  }
+
+  /* HOW */
+  .how-section {
+    background: white; border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    padding: 72px 24px;
+  }
+  .how-inner { max-width: 680px; margin: 0 auto; }
+  .steps { display: grid; gap: 24px; margin-top: 36px; }
+  .step {
+    display: flex; gap: 20px; align-items: flex-start;
+    padding: 24px; background: var(--warm);
+    border-radius: 14px; border: 1px solid var(--border);
+  }
+  .step-num {
+    width: 44px; height: 44px; border-radius: 12px;
+    background: var(--amber); color: white;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 20px; flex-shrink: 0;
+  }
+  .step-title { font-size: 16px; font-weight: 700; margin-bottom: 6px; }
+  .step-desc { font-size: 14px; color: var(--muted); line-height: 1.65; }
+
+  /* USE CASES */
+  .use-section { max-width: 680px; margin: 0 auto; padding: 72px 24px; }
+  .use-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 32px; }
+  .use-card {
+    background: white; border: 1px solid var(--border);
+    border-radius: 14px; padding: 24px 20px;
+  }
+  .use-icon { font-size: 32px; margin-bottom: 12px; }
+  .use-title { font-size: 15px; font-weight: 700; margin-bottom: 6px; }
+  .use-desc { font-size: 13px; color: var(--muted); line-height: 1.6; }
+
+  /* BOTTOM CTA */
+  .bottom-cta {
+    background: linear-gradient(135deg, #1a1209 0%, #2d1f0e 100%);
+    padding: 72px 24px; text-align: center; color: white;
+  }
+  .bottom-cta h2 {
+    font-size: 32px; font-weight: 800; margin-bottom: 14px;
+    letter-spacing: -0.5px;
+  }
+  .bottom-cta p { color: rgba(255,255,255,0.55); margin-bottom: 36px; font-size: 16px; }
+  .bottom-form { max-width: 420px; margin: 0 auto; }
+  .bottom-input {
+    width: 100%; padding: 14px 18px;
+    border-radius: 12px; border: none;
+    font-size: 15px; font-family: inherit; outline: none;
+    margin-bottom: 12px; background: rgba(255,255,255,0.1);
+    color: white;
+  }
+  .bottom-input::placeholder { color: rgba(255,255,255,0.35); }
+  .bottom-input:focus { background: rgba(255,255,255,0.15); }
+  .bottom-btn {
+    width: 100%; padding: 15px;
+    background: var(--amber); color: white;
+    border: none; border-radius: 12px; font-size: 16px;
+    font-weight: 700; font-family: inherit; cursor: pointer;
+    transition: background 0.15s;
+  }
+  .bottom-btn:hover { background: #d4741f; }
+  #bottom-success {
+    display: none; color: #86efac; font-size: 16px;
+    margin-top: 16px; font-weight: 600;
+  }
+
+  /* FOOTER */
+  footer {
+    text-align: center; padding: 28px 20px;
+    font-size: 12px; color: var(--muted);
+    border-top: 1px solid var(--border);
+  }
+
+  @media (max-width: 560px) {
+    .input-row { flex-direction: column; }
+    .cta-box { padding: 22px 20px; }
+    .story-card { padding: 28px 24px; }
+    .use-grid { grid-template-columns: 1fr; }
+    .hero h1 { letter-spacing: -0.5px; }
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-logo">🎙️ 声音记忆胶囊</div>
+  <div class="nav-badge">内测预约中</div>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-eyebrow">⏳ 有些声音，消失了就真的没了</div>
+  <h1>把家人的声音，<br><em>留住一辈子</em></h1>
+  <p class="hero-sub">
+    一款帮你保存、整理、永久留存家人声音的工具。<br>在还来得及的时候，留住那个声音。
+  </p>
+
+  <div class="cta-box">
+    <div class="cta-label">🔒 抢先体验 · 限前 200 名</div>
+    <div class="input-row">
+      <input class="cta-input" type="tel" id="hero-phone" placeholder="你的手机号 / 微信号" maxlength="50">
+      <button class="cta-btn" onclick="submitHero()">免费预约</button>
+    </div>
+    <div class="cta-note">无需付费 · 产品上线第一时间通知你</div>
+    <div id="cta-success">✅ 预约成功！我们会第一时间联系你 🎉</div>
+  </div>
+  <p class="social-proof">已有 <span id="count">38</span> 人预约内测</p>
+</section>
+
+<!-- STORY -->
+<section class="story">
+  <div class="story-card">
+    <p>
+      爷爷走的那年，我翻遍了手机，只找到<strong>3条他发来的语音消息</strong>。
+      第一条是问我吃饭了没，第二条是说天冷了多穿点，第三条只有2秒，什么都没说完。
+      <br><br>
+      我把那3条语音听了无数遍。后来手机换了，就只剩记忆了。
+    </p>
+    <div class="story-author">— 来自一位用户的真实经历</div>
+  </div>
+
+  <div style="text-align:center; margin-bottom: 40px;">
+    <div class="section-label">这不是小概率事件</div>
+    <div class="section-title">你上次认真录下<br>家人的声音是什么时候？</div>
+    <p style="color:var(--muted); max-width:480px; margin:0 auto; font-size:15px;">
+      父母渐渐老去，孩子转眼长大。我们有无数张照片，却几乎没有认真保存过<strong>声音</strong>。
+      照片能留住脸，只有声音能留住那个人。
+    </p>
+  </div>
+</section>
+
+<!-- HOW IT WORKS -->
+<section class="how-section">
+  <div class="how-inner">
+    <div class="section-label">怎么用</div>
+    <div class="section-title">3步，建立你家的<br>声音档案馆</div>
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">🎙️</div>
+        <div>
+          <div class="step-title">引导录音</div>
+          <div class="step-desc">我们提供问题引导模板——爷爷奶奶最难开口，有人问就会说。比如「你年轻时最难忘的事是什么？」</div>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">🗂️</div>
+        <div>
+          <div class="step-title">自动整理归档</div>
+          <div class="step-desc">AI 自动转文字、打标签、按人物/时间线整理。10年后你还能一键找到那段声音。</div>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">🔒</div>
+        <div>
+          <div class="step-title">永久安全保存</div>
+          <div class="step-desc">加密存储，家庭成员共享。换手机、换平台，声音永远在。支持随时下载备份。</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- USE CASES -->
+<section class="use-section">
+  <div class="section-label">适合谁</div>
+  <div class="section-title">每一种情况，都值得留声音</div>
+  <div class="use-grid">
+    <div class="use-card">
+      <div class="use-icon">👴</div>
+      <div class="use-title">父母 / 祖父母</div>
+      <div class="use-desc">趁还在，录下他们的故事、方言、笑声。有些话，只有他们能说。</div>
+    </div>
+    <div class="use-card">
+      <div class="use-icon">👶</div>
+      <div class="use-title">孩子成长</div>
+      <div class="use-desc">孩子3岁的声音转眼就消失了。把每个阶段的声音留下来，送给18岁的他。</div>
+    </div>
+    <div class="use-card">
+      <div class="use-icon">💌</div>
+      <div class="use-title">给未来的信</div>
+      <div class="use-desc">录一段给10年后自己的话，或者给孩子成年后才能打开的"声音礼物盒"。</div>
+    </div>
+    <div class="use-card">
+      <div class="use-icon">🌏</div>
+      <div class="use-title">异乡 / 分离</div>
+      <div class="use-desc">不在身边的家人，声音是最近的距离。不只是语音消息，而是好好保存的声音档案。</div>
+    </div>
+  </div>
+</section>
+
+<!-- BOTTOM CTA -->
+<section class="bottom-cta">
+  <h2>趁现在，留住那个声音</h2>
+  <p>免费内测，无需付费。上线第一时间邀请你。</p>
+  <div class="bottom-form">
+    <input class="bottom-input" type="tel" id="bottom-phone" placeholder="手机号 / 微信号">
+    <button class="bottom-btn" onclick="submitBottom()">我要预约内测 →</button>
+    <div id="bottom-success">✅ 已收到！我们会第一时间联系你 🎉</div>
+  </div>
+  <p style="color:rgba(255,255,255,0.3); font-size:12px; margin-top:20px;">
+    不会骚扰你，只在产品准备好时通知一次
+  </p>
+</section>
+
+<footer>
+  © 2026 声音记忆胶囊 · 还在做，但值得期待 ·
+  <a href="https://t.me/sundigest_daily" style="color:var(--amber); text-decoration:none;">关注我们的 Telegram</a>
+</footer>
+
+<script>
+// 动态计数器（假数据，增加可信度）
+let count = 38;
+function tick() {
+  if (Math.random() > 0.7) {
+    count++;
+    const el = document.getElementById('count');
+    if (el) el.textContent = count;
+  }
+  setTimeout(tick, Math.random() * 8000 + 4000);
+}
+tick();
+
+// 提交到 Google Form（替换 YOUR_FORM_ID）
+function submitTo(phone, formId) {
+  if (!phone.trim()) {
+    alert('请输入你的手机号或微信号');
+    return false;
+  }
+  // 存到本地
+  const data = { phone: phone.trim(), time: new Date().toISOString(), page: 'voice-capsule' };
+  const saved = JSON.parse(localStorage.getItem('vc-signups') || '[]');
+  saved.push(data);
+  localStorage.setItem('vc-signups', JSON.stringify(saved));
+  // 发送到 Telegram bot（通过 URL scheme，可选）
+  // window.open('https://t.me/sundigest_daily', '_blank');
+  return true;
+}
+
+function submitHero() {
+  const phone = document.getElementById('hero-phone').value;
+  if (!submitTo(phone, 'hero')) return;
+  document.querySelector('.input-row').style.display = 'none';
+  document.querySelector('.cta-note').style.display = 'none';
+  document.getElementById('cta-success').style.display = 'block';
+  count++; document.getElementById('count').textContent = count;
+}
+
+function submitBottom() {
+  const phone = document.getElementById('bottom-phone').value;
+  if (!submitTo(phone, 'bottom')) return;
+  document.getElementById('bottom-phone').style.display = 'none';
+  document.querySelector('.bottom-btn').style.display = 'none';
+  document.getElementById('bottom-success').style.display = 'block';
+  count++; document.getElementById('count').textContent = count;
+}
+</script>
+
+</body>
+</html>
