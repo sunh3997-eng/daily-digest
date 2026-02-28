@@ -5,13 +5,21 @@
   <link>https://daily.sundigest.xyz</link>
   <description>Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 27 Feb 2026 11:16:10 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 28 Feb 2026 00:48:47 GMT</lastBuildDate>
   <atom:link href="https://daily.sundigest.xyz/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://daily.sundigest.xyz/assets/og.png</url>
     <title>Daily Digest</title>
     <link>https://daily.sundigest.xyz</link>
   </image>
+  <item>
+    <title>Daily Briefing · 2026-02-27 — Daily Briefing</title>
+    <link>https://daily.sundigest.xyz/posts/news-2026-02-28.html</link>
+    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/news-2026-02-28.html</guid>
+    <pubDate>Sat, 28 Feb 2026 00:48:47 GMT</pubDate>
+    <description>&gt; Friday, February 27, 2026 | Sources: TechCrunch · BBC · Hacker News</description>
+    <category>Daily Briefing</category>
+  </item>
   <item>
     <title>Hidden Opportunities · 2026-02-27 — Opportunity Radar</title>
     <link>https://daily.sundigest.xyz/posts/radar-2026-02-27.html</link>

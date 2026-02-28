@@ -1,5 +1,18 @@
 [
   {
+    "slug": "news-2026-02-28",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-02-27",
+    "title_en": "Daily Briefing · 2026-02-27",
+    "summary_zh": "> 📅 2026年2月27日 星期五 | 数据来源：TechCrunch · BBC · Hacker News",
+    "summary_en": "> Friday, February 27, 2026 | Sources: TechCrunch · BBC · Hacker News",
+    "date_fmt": "2026年02月28日",
+    "date_fmt_zh": "2026年02月28日",
+    "date_fmt_en": "Feb 28, 2026",
+    "ts": "2026-02-28T08:48:47.575285+08:00"
+  },
+  {
     "slug": "radar-2026-02-27",
     "type": "radar",
     "type_label": "商机雷达",
