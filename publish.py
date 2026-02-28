@@ -69,7 +69,6 @@ def extract_bullets(text: str, n: int = 4) -> list:
         line = line.strip()
         if not line:
             continue
-        # Match **bold** headlines (numbered like **① Title** or **1. Title**)
         m = re.search(r'\*\*([^*]{4,80})\*\*', line)
         if m:
             b = re.sub(r'[*_`]', '', m.group(1)).strip()
@@ -78,6 +77,43 @@ def extract_bullets(text: str, n: int = 4) -> list:
                 if len(bullets) >= n:
                     break
     return bullets
+
+def extract_items(text: str, n: int = 10) -> list:
+    """Extract news items as {title, desc, url} from markdown content."""
+    items = []
+    lines = [l.strip() for l in text.split("\n")]
+    i = 0
+    while i < len(lines) and len(items) < n:
+        line = lines[i]
+        # Match bold headline: **① Title** or **Title**
+        m = re.search(r'\*\*([^*]{4,100})\*\*', line)
+        if m:
+            title = re.sub(r'[*_`]', '', m.group(1)).strip()
+            # Clean numbered prefix like ① ② or 1. 2.
+            title = re.sub(r'^[①②③④⑤⑥⑦⑧⑨⑩\d]+[.、\s]*', '', title).strip()
+            if not title or title in [it['title'] for it in items]:
+                i += 1; continue
+            # Look for description in next few lines
+            desc = ""
+            url = ""
+            for j in range(i+1, min(i+5, len(lines))):
+                nxt = lines[j]
+                if not nxt:
+                    continue
+                if re.match(r'^\*\*', nxt):
+                    break
+                if re.match(r'^(#{1,3}|---)', nxt):
+                    break
+                u = re.search(r'https?://\S+', nxt)
+                if u and not desc:
+                    url = u.group(0).rstrip(')')
+                    continue
+                if not desc and nxt and not nxt.startswith('🔗'):
+                    # strip markdown
+                    desc = re.sub(r'[*_`\[\]]', '', nxt)[:120]
+            items.append({'title': title, 'desc': desc, 'url': url})
+        i += 1
+    return items
 
 # ── NAV / FOOTER shared snippets ───────────────────────────────
 NAV = """\
@@ -258,114 +294,102 @@ INDEX_TMPL = """\
 <link rel="canonical" href="{site_url}">
 <link rel="alternate" type="application/rss+xml" title="Daily Digest RSS" href="{site_url}/feed.xml">
 <link rel="stylesheet" href="assets/style.css">
-<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-D7DL34E2MG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){{dataLayer.push(arguments);}}
-  gtag("js", new Date());
-  gtag("config", "G-D7DL34E2MG");
-</script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag("js",new Date());gtag("config","G-D7DL34E2MG");</script>
 </head>
 <body>
 {nav}
 <div class="hero">
-  <div class="hero-badge">
-    <span class="zh">AI 生成 · 中英双语 · 每日更新</span>
-    <span class="en">AI · Bilingual · Daily</span>
-  </div>
+  <div class="hero-badge"><span class="zh">AI 生成 · 中英双语 · 每日更新</span><span class="en">AI · Bilingual · Daily</span></div>
   <h1><span class="zh">每日汇总</span><span class="en">Daily Digest</span></h1>
-  <p>
-    <span class="zh">每天 08:00 早报 · 09:00 商机雷达 · 全部由 AI 自动生成</span>
-    <span class="en">08:00 Briefing · 09:00 Radar · All AI‑generated</span>
-  </p>
+  <p><span class="zh">每天 08:00 早报 · 09:00 商机雷达 · 全部由 AI 自动生成</span><span class="en">08:00 Briefing · 09:00 Radar · All AI‑generated</span></p>
 </div>
 {subscribe}
 <div class="container">
-  <div class="filter-tabs">
-    <button class="active" onclick="filterType('all')">
-      <span class="zh">📋 全部</span><span class="en">📋 All</span>
-    </button>
-    <button onclick="filterType('news')">
-      <span class="zh">🌅 每日早报</span><span class="en">🌅 Daily Briefing</span>
-    </button>
-    <button onclick="filterType('radar')">
-      <span class="zh">💡 商机雷达</span><span class="en">💡 Opportunity Radar</span>
-    </button>
-  </div>
-  <div class="cards" id="cards">
-{cards}
-  </div>
+{feed}
 </div>
 {footer}
-<script>
-function filterType(type) {{
-  document.querySelectorAll('.filter-tabs button').forEach(function(b) {{
-    b.classList.remove('active');
-  }});
-  event.target.closest('button').classList.add('active');
-  document.querySelectorAll('.card').forEach(function(c) {{
-    c.style.display = (type === 'all' || c.dataset.type === type) ? '' : 'none';
-  }});
-}}
-</script>
 {lang_js}
 </body>
 </html>
 """
 
-CARD_TMPL = """\
-    <a class="card" href="posts/{slug}.html" data-type="{type_key}">
-      <div class="card-meta">
-        <span class="card-type {type_key}">
-          <span class="zh">{type_label_zh}</span><span class="en">{type_label_en}</span>
-        </span>
-        <span class="card-date"><span class="zh">{date_fmt_zh}</span><span class="en">{date_fmt_en}</span></span>
-      </div>
-      <h2><span class="zh">{title_zh}</span><span class="en">{title_en}</span></h2>
-      {bullets_block}
-    </a>"""
+def render_feed(posts: list) -> str:
+    """Render posts as a date-grouped feed of inline news items."""
+    from itertools import groupby
+    type_meta = {
+        "news":  {"zh": "早报", "en": "Briefing", "icon": "🌅"},
+        "radar": {"zh": "商机", "en": "Radar",    "icon": "💡"},
+    }
+    # Group by date string (YYYY-MM-DD from slug)
+    def day_of(p):
+        m = re.search(r'\d{4}-\d{2}-\d{2}', p.get("slug",""))
+        return m.group(0) if m else "unknown"
 
-def build_bullets_block(bullets_zh, bullets_en):
-    if not bullets_zh and not bullets_en:
-        return ""
-    def make_lis(items, lang):
-        if not items: return ""
-        lis = "".join(f'<li>{esc(b)}</li>' for b in items[:4])
-        return f'<ul class="card-bullets {lang}">{lis}</ul>'
-    zh_html = make_lis(bullets_zh, "zh")
-    en_html = make_lis(bullets_en, "en")
-    return zh_html + en_html
+    # Sort newest first
+    sorted_posts = sorted(posts, key=lambda p: p.get("ts",""), reverse=True)
+    days = {}
+    for p in sorted_posts:
+        d = day_of(p)
+        days.setdefault(d, []).append(p)
+
+    html = []
+    for date_str, day_posts in days.items():
+        # Day header
+        try:
+            dt = datetime.strptime(date_str, "%Y-%m-%d")
+            label_zh = dt.strftime("%Y年%m月%d日")
+            label_en = dt.strftime("%b %d, %Y")
+        except Exception:
+            label_zh = label_en = date_str
+
+        n_items = sum(len(p.get("items_zh") or p.get("bullets_zh") or []) for p in day_posts)
+        html.append(f'''<div class="feed-day">
+  <div class="day-header">
+    <span class="day-label"><span class="zh">{label_zh}</span><span class="en">{label_en}</span></span>
+    <span class="day-count">{n_items} items</span>
+  </div>''')
+
+        for p in sorted(day_posts, key=lambda x: x.get("type",""), reverse=True):
+            t = p["type"]
+            tm = type_meta.get(t, {"zh": t, "en": t, "icon": "·"})
+            slug = p["slug"]
+            items_zh = p.get("items_zh") or [{"title": b, "desc": "", "url": ""} for b in (p.get("bullets_zh") or [])]
+            items_en = p.get("items_en") or [{"title": b, "desc": "", "url": ""} for b in (p.get("bullets_en") or [])]
+
+            if not items_zh and not items_en:
+                # fallback: show article title as single item
+                items_zh = [{"title": p.get("title_zh",""), "desc": p.get("summary_zh",""), "url": ""}]
+                items_en = [{"title": p.get("title_en",""), "desc": p.get("summary_en",""), "url": ""}]
+
+            rows_zh = "".join(
+                f'''<a class="fi" href="posts/{slug}.html" data-type="{t}">
+      <span class="fi-tag {t} zh">{tm["icon"]} {tm["zh"]}</span>
+      <span class="fi-title zh">{esc(it["title"])}</span>
+      {'<span class="fi-desc zh">' + esc(it["desc"]) + '</span>' if it.get("desc") else ""}
+    </a>''' for it in items_zh
+            )
+            rows_en = "".join(
+                f'''<a class="fi" href="posts/{slug}.html" data-type="{t}">
+      <span class="fi-tag {t} en">{tm["icon"]} {tm["en"]}</span>
+      <span class="fi-title en">{esc(it["title"])}</span>
+      {'<span class="fi-desc en">' + esc(it["desc"]) + '</span>' if it.get("desc") else ""}
+    </a>''' for it in items_en
+            )
+            html.append(f'  <div class="feed-section" data-type="{t}">{rows_zh}{rows_en}</div>')
+
+        html.append('</div>')
+
+    return "\n".join(html) if html else '<p class="empty-feed">No posts yet.</p>'
 
 def regen_index(posts):
-    type_labels = {
-        "news":  ("每日早报", "Daily Briefing"),
-        "radar": ("商机雷达", "Opportunity Radar"),
-    }
-    cards_html = "\n".join(
-        CARD_TMPL.format(
-            slug=p["slug"], type_key=p["type"],
-            type_label_zh=type_labels[p["type"]][0],
-            type_label_en=type_labels[p["type"]][1],
-            date_fmt_zh=p.get("date_fmt_zh", p.get("date_fmt","")),
-            date_fmt_en=p.get("date_fmt_en", p.get("date_fmt","")),
-            title_zh=esc(p.get("title_zh", p.get("title",""))),
-            title_en=esc(p.get("title_en", p.get("title",""))),
-            summary_zh=esc(p.get("summary_zh", p.get("summary",""))),
-            summary_en=esc(p.get("summary_en", p.get("summary",""))),
-            bullets_block=build_bullets_block(
-                p.get("bullets_zh", []),
-                p.get("bullets_en", [])
-            ),
-        )
-        for p in posts
-    ) or '    <div class="empty"><div class="icon">📭</div><p class="zh">暂无内容</p><p class="en">No posts yet</p></div>'
+    feed_html = render_feed(posts)
     updated = datetime.now(CST).strftime("%Y-%m-%d %H:%M CST")
     nav = NAV.format(root="")
     footer = FOOTER.format(root="", updated=updated)
     (SITE_DIR / "index.html").write_text(
         INDEX_TMPL.format(
-            cards=cards_html, nav=nav, footer=footer, lang_js=LANG_JS,
+            feed=feed_html, nav=nav, footer=footer, lang_js=LANG_JS,
             subscribe=SUBSCRIBE_BLOCK, site_url=SITE_URL, updated=updated
         ),
         encoding="utf-8"
@@ -515,6 +539,8 @@ def main():
         "summary_en": first_line(content_en) if content_en else "",
         "bullets_zh": extract_bullets(content_zh),
         "bullets_en": extract_bullets(content_en) if content_en else [],
+        "items_zh": extract_items(content_zh),
+        "items_en": extract_items(content_en) if content_en else [],
         "date_fmt": date_fmt,
         "date_fmt_zh": date_fmt,
         "date_fmt_en": now.strftime("%b %d, %Y"),

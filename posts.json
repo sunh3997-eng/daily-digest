@@ -12,7 +12,9 @@
     "date_fmt_en": "Feb 28, 2026",
     "ts": "2026-02-28T09:04:18.642192+08:00",
     "bullets_zh": [],
-    "bullets_en": []
+    "bullets_en": [],
+    "items_zh": [],
+    "items_en": []
   },
   {
     "slug": "news-2026-02-28",
@@ -37,6 +39,110 @@
       "2. ChatGPT 周活跃用户达 9 亿",
       "3. 特朗普将 Anthropic 列为\"供应链风险\"，AI 圈炸锅",
       "4. OpenAI 解雇员工：利用内部信息在预测市场交易"
+    ],
+    "items_zh": [
+      {
+        "title": "OpenAI 完成史上最大私募融资：亿美元",
+        "desc": "亚马逊投资 500 亿、英伟达和软银各出资 300 亿，OpenAI 估值飙升至 7300 亿美元。同步公布：ChatGPT 周活跃用户已达 9 亿。 🔗 https://techcrunch.com/2026/02/27/openai-r",
+        "url": ""
+      },
+      {
+        "title": "ChatGPT 周活跃用户达 亿",
+        "desc": "OpenAI 在公布融资消息的同时披露了这一用户数据，距 6 亿用户里程碑不到一年。 🔗 https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
+        "url": ""
+      },
+      {
+        "title": "特朗普将 Anthropic 列为\"供应链风险\"，AI 圈炸锅",
+        "desc": "起因：Anthropic 拒绝让 Claude 被用于自主武器和大规模国内监控。特朗普随即下令五角大楼停止与 Anthropic 合作。谷歌、OpenAI 员工联署公开信声援 Anthropic。 🔗 https://techcrunch.",
+        "url": ""
+      },
+      {
+        "title": "OpenAI 解雇员工：利用内部信息在预测市场交易",
+        "desc": "该员工被指在 Polymarket 等预测市场利用公司机密进行交易，违反内部保密政策，成为 AI 行业首例此类公开解雇案例。 🔗 https://techcrunch.com/2026/02/27/openai-fires-employee",
+        "url": ""
+      },
+      {
+        "title": "Perplexity 推出 Computer：统一所有 AI 能力的系统",
+        "desc": "Perplexity Computer 号称将搜索、推理、代码执行等各类 AI 功能整合进单一平台，押注多模型协作是未来趋势。 🔗 https://techcrunch.com/2026/02/27/perplexitys-new-comp",
+        "url": ""
+      },
+      {
+        "title": "AI 音乐平台 Suno 达 万付费用户，年收入 亿美元",
+        "desc": "用户只需输入文字描述即可生成音乐，Suno 正在快速商业化，成为 AI 创意工具赛道的重要玩家。 🔗 https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-mill",
+        "url": ""
+      },
+      {
+        "title": "巴基斯坦宣布与阿富汗进入\"公开战争\"",
+        "desc": "巴基斯坦国防部长表示，两国已进入公开武装冲突状态。尽管此前达成脆弱停火，双方近数月冲突持续升级。 🔗 https://www.bbc.com/news/articles/cvgjd7pv4y4o",
+        "url": ""
+      },
+      {
+        "title": "特朗普对伊朗核谈判\"不满意\"，军事选项未排除",
+        "desc": "特朗普表示对伊朗的谈判立场深感不满，但尚未决定是否采取军事行动，局势仍处于高度不确定性中。 🔗 https://www.bbc.com/news/articles/c309vz0z893o",
+        "url": ""
+      },
+      {
+        "title": "米兰有轨电车出轨冲入建筑，死数十人伤",
+        "desc": "事故发生在早高峰时段米兰市中心，电车满载乘客，疑似失控后撞上建筑物侧面，造成重大伤亡。 🔗 https://www.bbc.com/news/articles/c5y599degnqo",
+        "url": ""
+      },
+      {
+        "title": "加拿大总理 Carney 访印，两国重建关系",
+        "desc": "此访旨在修复因锡克教问题而一度严重恶化的加印双边关系，双方也借此机会探讨降低对美贸易依赖的可能性。 🔗 https://www.bbc.com/news/articles/c1l7q871gnro",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "OpenAI 完成史上最大私募融资：亿美元",
+        "desc": "亚马逊投资 500 亿、英伟达和软银各出资 300 亿，OpenAI 估值飙升至 7300 亿美元。同步公布：ChatGPT 周活跃用户已达 9 亿。 🔗 https://techcrunch.com/2026/02/27/openai-r",
+        "url": ""
+      },
+      {
+        "title": "ChatGPT 周活跃用户达 亿",
+        "desc": "OpenAI 在公布融资消息的同时披露了这一用户数据，距 6 亿用户里程碑不到一年。 🔗 https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
+        "url": ""
+      },
+      {
+        "title": "特朗普将 Anthropic 列为\"供应链风险\"，AI 圈炸锅",
+        "desc": "起因：Anthropic 拒绝让 Claude 被用于自主武器和大规模国内监控。特朗普随即下令五角大楼停止与 Anthropic 合作。谷歌、OpenAI 员工联署公开信声援 Anthropic。 🔗 https://techcrunch.",
+        "url": ""
+      },
+      {
+        "title": "OpenAI 解雇员工：利用内部信息在预测市场交易",
+        "desc": "该员工被指在 Polymarket 等预测市场利用公司机密进行交易，违反内部保密政策，成为 AI 行业首例此类公开解雇案例。 🔗 https://techcrunch.com/2026/02/27/openai-fires-employee",
+        "url": ""
+      },
+      {
+        "title": "Perplexity 推出 Computer：统一所有 AI 能力的系统",
+        "desc": "Perplexity Computer 号称将搜索、推理、代码执行等各类 AI 功能整合进单一平台，押注多模型协作是未来趋势。 🔗 https://techcrunch.com/2026/02/27/perplexitys-new-comp",
+        "url": ""
+      },
+      {
+        "title": "AI 音乐平台 Suno 达 万付费用户，年收入 亿美元",
+        "desc": "用户只需输入文字描述即可生成音乐，Suno 正在快速商业化，成为 AI 创意工具赛道的重要玩家。 🔗 https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-mill",
+        "url": ""
+      },
+      {
+        "title": "巴基斯坦宣布与阿富汗进入\"公开战争\"",
+        "desc": "巴基斯坦国防部长表示，两国已进入公开武装冲突状态。尽管此前达成脆弱停火，双方近数月冲突持续升级。 🔗 https://www.bbc.com/news/articles/cvgjd7pv4y4o",
+        "url": ""
+      },
+      {
+        "title": "特朗普对伊朗核谈判\"不满意\"，军事选项未排除",
+        "desc": "特朗普表示对伊朗的谈判立场深感不满，但尚未决定是否采取军事行动，局势仍处于高度不确定性中。 🔗 https://www.bbc.com/news/articles/c309vz0z893o",
+        "url": ""
+      },
+      {
+        "title": "米兰有轨电车出轨冲入建筑，死数十人伤",
+        "desc": "事故发生在早高峰时段米兰市中心，电车满载乘客，疑似失控后撞上建筑物侧面，造成重大伤亡。 🔗 https://www.bbc.com/news/articles/c5y599degnqo",
+        "url": ""
+      },
+      {
+        "title": "加拿大总理 Carney 访印，两国重建关系",
+        "desc": "此访旨在修复因锡克教问题而一度严重恶化的加印双边关系，双方也借此机会探讨降低对美贸易依赖的可能性。 🔗 https://www.bbc.com/news/articles/c1l7q871gnro",
+        "url": ""
+      }
     ]
   },
   {
@@ -62,6 +168,70 @@
       "你现在做还来得及",
       "你现在做还来得及",
       "这个频道/账号现在做还来得及"
+    ],
+    "items_zh": [
+      {
+        "title": "你现在做还来得及",
+        "desc": "：做一个微信小程序+云存储的声音记忆胶囊，定价 ¥99/年。 来源：Reddit r/SideProject https://www.reddit.com/r/SideProject/ ② 「数据库触发邮件自动化（零SDK）」—— 开发者痛",
+        "url": ""
+      },
+      {
+        "title": "你现在做还来得及",
+        "desc": "：做国内版本，对接企业微信/飞书消息触发，比邮件更有中国特色。 来源：Reddit r/SideProject (Dreamlit) https://www.reddit.com/r/SideProject/ ③ 「极简阅读追踪器（本地存储",
+        "url": ""
+      },
+      {
+        "title": "你现在做还来得及",
+        "desc": "：微信小程序 + 本地缓存的极简读书日历，主打\"不收集数据\"，这个差异化在国内正越来越有卖点。 来源：HN Show HN https://news.ycombinator.com/item?id=47179041 ━━━━━━━━━━━━",
+        "url": ""
+      },
+      {
+        "title": "这个频道/账号现在做还来得及",
+        "desc": "。 来源：HN https://news.ycombinator.com/（Anthropic/Claude Code 相关帖连日高分） ② 「摸鱼哲学/反内卷职场内容」—— 抖音真实需求 V2EX 今日热榜：「分享你独特的摸鱼方式」获大量",
+        "url": ""
+      },
+      {
+        "title": "这个账号现在做还来得及",
+        "desc": "。 来源：V2EX 热帖 https://www.v2ex.com/t/1194470 ③ 「Vibe Coding 无代码建站实战」—— 教程蓝海 Indie Hackers 网站专门开设了 \"Vibe Coding Tools\" 板块，",
+        "url": ""
+      },
+      {
+        "title": "这个频道现在做还来得及",
+        "desc": "。 来源：Indie Hackers https://www.indiehackers.com/ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌏 跨市场套利机会 ① 「社区评论质量工具 → 中文市场」 Respectify（HN ",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "你现在做还来得及",
+        "desc": "：做一个微信小程序+云存储的声音记忆胶囊，定价 ¥99/年。 来源：Reddit r/SideProject https://www.reddit.com/r/SideProject/ ② 「数据库触发邮件自动化（零SDK）」—— 开发者痛",
+        "url": ""
+      },
+      {
+        "title": "你现在做还来得及",
+        "desc": "：做国内版本，对接企业微信/飞书消息触发，比邮件更有中国特色。 来源：Reddit r/SideProject (Dreamlit) https://www.reddit.com/r/SideProject/ ③ 「极简阅读追踪器（本地存储",
+        "url": ""
+      },
+      {
+        "title": "你现在做还来得及",
+        "desc": "：微信小程序 + 本地缓存的极简读书日历，主打\"不收集数据\"，这个差异化在国内正越来越有卖点。 来源：HN Show HN https://news.ycombinator.com/item?id=47179041 ━━━━━━━━━━━━",
+        "url": ""
+      },
+      {
+        "title": "这个频道/账号现在做还来得及",
+        "desc": "。 来源：HN https://news.ycombinator.com/（Anthropic/Claude Code 相关帖连日高分） ② 「摸鱼哲学/反内卷职场内容」—— 抖音真实需求 V2EX 今日热榜：「分享你独特的摸鱼方式」获大量",
+        "url": ""
+      },
+      {
+        "title": "这个账号现在做还来得及",
+        "desc": "。 来源：V2EX 热帖 https://www.v2ex.com/t/1194470 ③ 「Vibe Coding 无代码建站实战」—— 教程蓝海 Indie Hackers 网站专门开设了 \"Vibe Coding Tools\" 板块，",
+        "url": ""
+      },
+      {
+        "title": "这个频道现在做还来得及",
+        "desc": "。 来源：Indie Hackers https://www.indiehackers.com/ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌏 跨市场套利机会 ① 「社区评论质量工具 → 中文市场」 Respectify（HN ",
+        "url": ""
+      }
     ]
   },
   {
@@ -77,6 +247,8 @@
     "date_fmt_en": "Feb 27, 2026",
     "ts": "2026-02-27T18:10:03.035449+08:00",
     "bullets_zh": [],
-    "bullets_en": []
+    "bullets_en": [],
+    "items_zh": [],
+    "items_en": []
   }
 ]
