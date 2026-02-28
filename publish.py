@@ -365,15 +365,24 @@ def render_feed(posts: list) -> str:
                 items_zh = [{"title": p.get("title_zh",""), "desc": p.get("summary_zh",""), "url": ""}]
                 items_en = [{"title": p.get("title_en",""), "desc": p.get("summary_en",""), "url": ""}]
 
-            def fi_row(it, type_key, lang, tag_label):
-                desc_html = f'<span class="fi-desc {lang}">{esc(it["desc"])}</span>' if it.get("desc") else ""
-                return (f'<a class="fi" href="posts/{slug}.html" data-type="{type_key}">'
-                        f'<span class="fi-tag {type_key} {lang}">{tag_label}</span>'
-                        f'<div class="fi-body"><span class="fi-title {lang}">{esc(it["title"])}</span>{desc_html}</div>'
-                        f'</a>')
-            rows_zh = "".join(fi_row(it, t, "zh", f'{tm["icon"]} {tm["zh"]}') for it in items_zh)
-            rows_en = "".join(fi_row(it, t, "en", f'{tm["icon"]} {tm["en"]}') for it in items_en)
-            html.append(f'  <div class="feed-section" data-type="{t}">{rows_zh}{rows_en}</div>')
+            # Merge zh/en into one <a> per item (zip by index)
+            max_items = max(len(items_zh), len(items_en))
+            rows = []
+            for idx in range(max_items):
+                iz = items_zh[idx] if idx < len(items_zh) else {"title":"","desc":"","url":""}
+                ie = items_en[idx] if idx < len(items_en) else iz
+                desc_zh = f'<span class="fi-desc zh">{esc(iz["desc"])}</span>' if iz.get("desc") else ""
+                desc_en = f'<span class="fi-desc en">{esc(ie["desc"])}</span>' if ie.get("desc") else ""
+                rows.append(
+                    f'<a class="fi" href="posts/{slug}.html" data-type="{t}">'
+                    f'<span class="fi-tag {t}"><span class="zh">{tm["icon"]} {tm["zh"]}</span><span class="en">{tm["icon"]} {tm["en"]}</span></span>'
+                    f'<div class="fi-body">'
+                    f'<span class="fi-title"><span class="zh">{esc(iz["title"])}</span><span class="en">{esc(ie["title"])}</span></span>'
+                    f'{desc_zh}{desc_en}'
+                    f'</div></a>'
+                )
+            rows_zh = rows_en = "".join(rows)
+            html.append(f'  <div class="feed-section" data-type="{t}">{rows_zh}</div>')
 
         html.append('</div>')
 
