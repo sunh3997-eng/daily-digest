@@ -1,5 +1,18 @@
 [
   {
+    "slug": "radar-2026-02-28",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-02-27",
+    "title_en": "Hidden Opportunities · 2026-02-27",
+    "summary_zh": "🔍 隐藏商机日报 · 2026-02-27 · CST",
+    "summary_en": "🔍 Hidden Opportunities Daily · Feb 27, 2026 · PST",
+    "date_fmt": "2026年02月28日",
+    "date_fmt_zh": "2026年02月28日",
+    "date_fmt_en": "Feb 28, 2026",
+    "ts": "2026-02-28T09:04:18.642192+08:00"
+  },
+  {
     "slug": "news-2026-02-28",
     "type": "news",
     "type_label": "每日早报",
