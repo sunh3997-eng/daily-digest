@@ -108,9 +108,12 @@ def extract_items(text: str, n: int = 10) -> list:
                 if u and not desc:
                     url = u.group(0).rstrip(')')
                     continue
-                if not desc and nxt and not nxt.startswith('🔗'):
-                    # strip markdown
-                    desc = re.sub(r'[*_`\[\]]', '', nxt)[:120]
+                if not desc and nxt and not nxt.startswith('🔗') and not re.match(r'https?://', nxt):
+                    # strip markdown and URLs
+                    clean = re.sub(r'https?://\S+', '', nxt)
+                    clean = re.sub(r'[*_`\[\]]', '', clean).strip()
+                    if clean:
+                        desc = clean[:120]
             items.append({'title': title, 'desc': desc, 'url': url})
         i += 1
     return items
@@ -362,20 +365,14 @@ def render_feed(posts: list) -> str:
                 items_zh = [{"title": p.get("title_zh",""), "desc": p.get("summary_zh",""), "url": ""}]
                 items_en = [{"title": p.get("title_en",""), "desc": p.get("summary_en",""), "url": ""}]
 
-            rows_zh = "".join(
-                f'''<a class="fi" href="posts/{slug}.html" data-type="{t}">
-      <span class="fi-tag {t} zh">{tm["icon"]} {tm["zh"]}</span>
-      <span class="fi-title zh">{esc(it["title"])}</span>
-      {'<span class="fi-desc zh">' + esc(it["desc"]) + '</span>' if it.get("desc") else ""}
-    </a>''' for it in items_zh
-            )
-            rows_en = "".join(
-                f'''<a class="fi" href="posts/{slug}.html" data-type="{t}">
-      <span class="fi-tag {t} en">{tm["icon"]} {tm["en"]}</span>
-      <span class="fi-title en">{esc(it["title"])}</span>
-      {'<span class="fi-desc en">' + esc(it["desc"]) + '</span>' if it.get("desc") else ""}
-    </a>''' for it in items_en
-            )
+            def fi_row(it, type_key, lang, tag_label):
+                desc_html = f'<span class="fi-desc {lang}">{esc(it["desc"])}</span>' if it.get("desc") else ""
+                return (f'<a class="fi" href="posts/{slug}.html" data-type="{type_key}">'
+                        f'<span class="fi-tag {type_key} {lang}">{tag_label}</span>'
+                        f'<div class="fi-body"><span class="fi-title {lang}">{esc(it["title"])}</span>{desc_html}</div>'
+                        f'</a>')
+            rows_zh = "".join(fi_row(it, t, "zh", f'{tm["icon"]} {tm["zh"]}') for it in items_zh)
+            rows_en = "".join(fi_row(it, t, "en", f'{tm["icon"]} {tm["en"]}') for it in items_en)
             html.append(f'  <div class="feed-section" data-type="{t}">{rows_zh}{rows_en}</div>')
 
         html.append('</div>')
