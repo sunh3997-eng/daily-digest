@@ -76,7 +76,7 @@ nav a.tag:hover { background: rgba(255,255,255,0.16); color: white; }
 /* ── HERO ── */
 .hero {
   background: var(--dark);
-  color: white; padding: 72px 32px 64px; text-align: center;
+  color: white; padding: 36px 32px 28px; text-align: center;
   position: relative;
 }
 .hero::after {
@@ -89,11 +89,11 @@ nav a.tag:hover { background: rgba(255,255,255,0.16); color: white; }
   font-size: 11px; font-weight: 700; letter-spacing: 1.2px;
   text-transform: uppercase; color: var(--accent);
   background: rgba(245,158,11,0.1); border: 1px solid rgba(245,158,11,0.25);
-  padding: 5px 14px; border-radius: 20px; margin-bottom: 24px;
+  padding: 4px 12px; border-radius: 20px; margin-bottom: 14px;
 }
 .hero h1 {
-  font-size: 48px; font-weight: 800; margin-bottom: 16px;
-  letter-spacing: -2px; line-height: 1.1;
+  font-size: 34px; font-weight: 800; margin-bottom: 10px;
+  letter-spacing: -1px; line-height: 1.1;
 }
 .hero p { color: rgba(255,255,255,0.5); font-size: 15px; max-width: 380px;
   margin: 0 auto; line-height: 1.65; }
@@ -149,7 +149,7 @@ nav a.tag:hover { background: rgba(255,255,255,0.16); color: white; }
 .filter-tabs button:hover:not(.active) { border-color: var(--dark); color: var(--dark); }
 
 /* ── CARDS ── */
-.cards { display: grid; gap: 20px; }
+.cards { display: grid; gap: 16px; }
 .card {
   background: var(--card); border-radius: var(--radius);
   border: 1px solid var(--border);
@@ -182,8 +182,20 @@ nav a.tag:hover { background: rgba(255,255,255,0.16); color: white; }
   line-height: 1.4; letter-spacing: -0.3px; color: var(--dark);
 }
 .card p {
-  font-size: 14px; color: var(--muted); line-height: 1.65;
-  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  font-size: 13px; color: var(--muted); line-height: 1.6; margin-bottom: 10px;
+}
+/* bullet preview inside card */
+.card-bullets {
+  list-style: none; padding: 0; margin: 0;
+  display: flex; flex-direction: column; gap: 5px;
+}
+.card-bullets li {
+  font-size: 13px; color: var(--text); line-height: 1.5;
+  padding-left: 14px; position: relative;
+  display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden;
+}
+.card-bullets li::before {
+  content: '·'; position: absolute; left: 3px; color: var(--accent); font-weight: 700;
 }
 
 /* ── POST HEADER ── */
@@ -285,10 +297,9 @@ footer a:hover { text-decoration: underline; }
 }
 
 /* ── RESPONSIVE ── */
-@media (min-width: 640px) { .cards { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 600px) {
-  .hero { padding: 52px 20px 44px; }
-  .hero h1 { font-size: 34px; letter-spacing: -1px; }
+  .hero { padding: 28px 20px 22px; }
+  .hero h1 { font-size: 26px; letter-spacing: -0.5px; }
   nav { padding: 0 16px; gap: 14px; }
   .post-header { padding: 32px 20px; }
   .post-header h1 { font-size: 22px; }

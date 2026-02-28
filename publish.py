@@ -62,6 +62,23 @@ def first_line(text: str) -> str:
             return re.sub(r'[#*_\[\]`]', '', line)[:160]
     return ""
 
+def extract_bullets(text: str, n: int = 4) -> list:
+    """Extract first N bold headlines (**text**) or numbered items from content."""
+    bullets = []
+    for line in text.split("\n"):
+        line = line.strip()
+        if not line:
+            continue
+        # Match **bold** headlines (numbered like **① Title** or **1. Title**)
+        m = re.search(r'\*\*([^*]{4,80})\*\*', line)
+        if m:
+            b = re.sub(r'[*_`]', '', m.group(1)).strip()
+            if b and b not in bullets:
+                bullets.append(b)
+                if len(bullets) >= n:
+                    break
+    return bullets
+
 # ── NAV / FOOTER shared snippets ───────────────────────────────
 NAV = """\
 <nav>
@@ -174,6 +191,8 @@ def write_post(slug, title_zh, title_en, type_key, date, content_zh, content_en,
         date_str = date.strftime("%b %d, %Y")
         prefix = f"[{type_label_en} · {date_str}] "
         desc_en = (prefix + summary)[:160]
+    bullets_zh = extract_bullets(content_zh)
+    bullets_en = extract_bullets(content_en or "")
     updated = date.strftime("%Y-%m-%d %H:%M CST")
     nav = NAV.format(root="../")
     footer = FOOTER.format(root="../", updated=updated)
@@ -304,8 +323,19 @@ CARD_TMPL = """\
         <span class="card-date"><span class="zh">{date_fmt_zh}</span><span class="en">{date_fmt_en}</span></span>
       </div>
       <h2><span class="zh">{title_zh}</span><span class="en">{title_en}</span></h2>
-      <p><span class="zh">{summary_zh}</span><span class="en">{summary_en}</span></p>
+      {bullets_block}
     </a>"""
+
+def build_bullets_block(bullets_zh, bullets_en):
+    if not bullets_zh and not bullets_en:
+        return ""
+    def make_lis(items, lang):
+        if not items: return ""
+        lis = "".join(f'<li>{esc(b)}</li>' for b in items[:4])
+        return f'<ul class="card-bullets {lang}">{lis}</ul>'
+    zh_html = make_lis(bullets_zh, "zh")
+    en_html = make_lis(bullets_en, "en")
+    return zh_html + en_html
 
 def regen_index(posts):
     type_labels = {
@@ -323,6 +353,10 @@ def regen_index(posts):
             title_en=esc(p.get("title_en", p.get("title",""))),
             summary_zh=esc(p.get("summary_zh", p.get("summary",""))),
             summary_en=esc(p.get("summary_en", p.get("summary",""))),
+            bullets_block=build_bullets_block(
+                p.get("bullets_zh", []),
+                p.get("bullets_en", [])
+            ),
         )
         for p in posts
     ) or '    <div class="empty"><div class="icon">📭</div><p class="zh">暂无内容</p><p class="en">No posts yet</p></div>'
@@ -479,6 +513,8 @@ def main():
         "title_en": args.title_en or args.title_zh,
         "summary_zh": first_line(content_zh),
         "summary_en": first_line(content_en) if content_en else "",
+        "bullets_zh": extract_bullets(content_zh),
+        "bullets_en": extract_bullets(content_en) if content_en else [],
         "date_fmt": date_fmt,
         "date_fmt_zh": date_fmt,
         "date_fmt_en": now.strftime("%b %d, %Y"),
