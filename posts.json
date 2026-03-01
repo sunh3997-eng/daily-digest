@@ -1,5 +1,134 @@
 [
   {
+    "slug": "radar-2026-03-01",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-02-28",
+    "title_en": "Hidden Opportunities · 2026-02-28",
+    "summary_zh": "🔍 隐藏商机日报 2026-02-28 · CST",
+    "summary_en": "🔍 Hidden Opportunities Daily Feb 28, 2026 · PST",
+    "bullets_zh": [
+      "隐藏商机日报",
+      "副业者注意：这些东西有人在做了",
+      "① 隐私优先的证件照工具（周榜第一，1715 upvotes）",
+      "你现在做还来得及。"
+    ],
+    "bullets_en": [
+      "Hidden Opportunities Daily",
+      "Makers: People Are Already Building These",
+      "① Privacy-First Passport Photo Tool (Week's #1 on r/SideProject, 1715 upvotes)",
+      "You can still get in first."
+    ],
+    "items_zh": [
+      {
+        "title": "隐藏商机日报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "副业者注意：这些东西有人在做了",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "隐私优先的证件照工具（周榜第一，1715 upvotes）",
+        "desc": "有人做了一个完全在浏览器本地处理的证件照工具，无需上传服务器，支持140+国家规格，免费无水印。核心卖点就一句话：你的脸不经过任何服务器。这东西上了 r/SideProject 本周榜首，评论里充满\"我一直找这个\"。国内类似产品（美颜相机、",
+        "url": ""
+      },
+      {
+        "title": "你现在做还来得及。",
+        "desc": "",
+        "url": "https://www.reddit.com/r/SideProject/comments/1rbl8sw/"
+      },
+      {
+        "title": "把学术论文变成\"可交互网页\"",
+        "desc": "HN ShowHN 今日178分：nowigetit.us——把晦涩的科学论文自动翻译成带图、带解释、可交互的网页，普通人也能读懂。中文市场：知乎\"论文解读\"类内容有几十万粉丝博主，但没有自动化工具。做\"中文 AI 论文解读订阅 + API",
+        "url": ""
+      },
+      {
+        "title": "PR 里自动展示历史架构决策",
+        "desc": "HN ShowHN：Decision Guardian——在 Pull Request 上自动浮现\"这段代码为什么这么写\"的历史决策记录。每个开发团队都痛苦于\"我不知道当初为什么这么设计\"，但几乎没有人认真做这个工具。国内 Coding/G",
+        "url": ""
+      },
+      {
+        "title": "投资者注意：这些赛道正在起来",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "AI Agent 记忆基础设施",
+        "desc": "HN 今日出现\"Atom——带可视化情节记忆的开源 AI Agent\"。同期还有 Salacia（Agentic Coding Runtime OS）、GitPop（AI Git 上下文菜单）、Decision Guardian。一天之内多",
+        "url": ""
+      },
+      {
+        "title": "企业 AI 工具替代潮（价值观驱动）",
+        "desc": "r/Entrepreneur 今日热帖（81票，85条评论）：企业主因 ChatGPT 与美国国防部合作，正在将公司 AI 工具迁移到 Claude。这是一个新信号——AI 工具选择开始从\"性能\"转向\"价值观/合规\"。对应的机会：面向欧洲/",
+        "url": ""
+      },
+      {
+        "title": "Micro-SaaS 的冷启动方法论成熟化",
+        "desc": "r/microsaas 本周榜首：gojiberry.ai 9个月做到月收入$83K（700+ 客户），核心是\"用自己的产品增长自己\"——LinkedIn 8个账号并发、冷邮件每天6500封、免费工具导流。这说明 Micro-SaaS 的增",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Hidden Opportunities Daily",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Makers: People Are Already Building These",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Privacy-First Passport Photo Tool (Week's #1 on r/SideProject, 1715 upvotes)",
+        "desc": "Someone built a passport photo tool that runs entirely in-browser — no server uploads, supports 140+ country specs, free",
+        "url": ""
+      },
+      {
+        "title": "You can still get in first.",
+        "desc": "",
+        "url": "https://www.reddit.com/r/SideProject/comments/1rbl8sw/"
+      },
+      {
+        "title": "Scientific Papers → Interactive Explainer Pages",
+        "desc": "HN Show today: 178 points for nowigetit.us — automatically converts dense research papers into interactive, visual, read",
+        "url": ""
+      },
+      {
+        "title": "Surface Past Architectural Decisions on Pull Requests",
+        "desc": "HN ShowHN: Decision Guardian — automatically surfaces the \"why was this written this way\" historical context directly on",
+        "url": ""
+      },
+      {
+        "title": "Investors: These Trends Are Just Starting",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "AI Agent Memory Infrastructure",
+        "desc": "HN today surfaces \"Atom — open-source AI agent with visual episodic memory.\" Same day: Salacia (Agentic Coding Runtime O",
+        "url": ""
+      },
+      {
+        "title": "You'll regret not positioning ahead of this in 6 months.",
+        "desc": "",
+        "url": "https://news.ycombinator.com/item?id=47202431"
+      },
+      {
+        "title": "Values-Driven AI Tool Migration",
+        "desc": "Top post on r/Entrepreneur today (81 upvotes, 85 comments): business owners moving their companies off ChatGPT due to it",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月01日",
+    "date_fmt_zh": "2026年03月01日",
+    "date_fmt_en": "Mar 01, 2026",
+    "ts": "2026-03-01T09:06:17.823357+08:00"
+  },
+  {
     "slug": "news-2026-03-01",
     "type": "news",
     "type_label": "每日早报",
