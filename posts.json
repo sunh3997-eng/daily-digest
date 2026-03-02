@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-03-02",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-01",
+    "title_en": "Daily Briefing · 2026-03-01",
+    "summary_zh": "今日头条：美以联合打击伊朗，哈梅内伊身亡，中东局势骤然升级",
+    "summary_en": "Top Story: US-Israel strikes on Iran kill Supreme Leader Khamenei, triggering regional crisis",
+    "bullets_zh": [
+      "今日头条：美以联合打击伊朗，哈梅内伊身亡，中东局势骤然升级",
+      "OpenAI 与五角大楼签约，Anthropic 出局",
+      "Anthropic 指控 DeepSeek、Moonshot、MiniMax 盗取数据",
+      "Block（前 Square）裁员 40%，明确归因于 AI"
+    ],
+    "bullets_en": [
+      "OpenAI steps in as Anthropic exits Pentagon deal",
+      "Anthropic sues DeepSeek, Moonshot, and MiniMax for data theft",
+      "Block cuts 40% of its workforce, explicitly blaming AI",
+      "Nvidia posts $43B quarterly profit on AI chip demand"
+    ],
+    "items_zh": [
+      {
+        "title": "今日头条：美以联合打击伊朗，哈梅内伊身亡，中东局势骤然升级",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "OpenAI 与五角大楼签约，Anthropic 出局",
+        "desc": "五角大楼将 Anthropic 列为供应链风险后，OpenAI 迅速与美国国防部签署 AI 协议。CEO Sam Altman 承认合同\"仓促达成\"，但强调包含技术保障措施。与此同时，Anthropic 的 Claude 因争议引发关注，A",
+        "url": ""
+      },
+      {
+        "title": "Anthropic 指控 DeepSeek、Moonshot、MiniMax 盗取数据",
+        "desc": "Anthropic 起诉三家中国 AI 公司，称其通过约 2.4 万个虚假账号抓取 Claude 数据用于训练自家模型（\"蒸馏攻击\"）。硅谷广泛声援 Anthropic，将此事件定性为 AI 安全与军事应用的分水岭。",
+        "url": ""
+      },
+      {
+        "title": "Block（前 Square）裁员 40%，明确归因于 AI",
+        "desc": "支付公司 Block 裁减约 4000 名员工，CEO Jack Dorsey 直接表示原因是公司拥抱 AI 后减少了对人力的需求。成为迄今最直白的 AI 取代就业案例之一。",
+        "url": ""
+      },
+      {
+        "title": "英伟达单季利润达 430 亿美元，三年增长 27 倍",
+        "desc": "受 AI 芯片需求旺盛推动，英伟达数据中心芯片收入同比增长 71%，全年利润突破 1200 亿美元。三年前这一数字仅为 44 亿美元。",
+        "url": ""
+      },
+      {
+        "title": "中国人形机器人赢得全球早期市场",
+        "desc": "宇树科技、傅里叶智能等中国厂商出货量已超越美国竞争对手。低成本供应链与快速迭代，使中国厂商在这一仍处萌芽期的市场占据先机。",
+        "url": ""
+      },
+      {
+        "title": "MWC 2026：Honor\"机器人手机\"、联想 AI 桌面伴侣亮相",
+        "desc": "Honor 展示搭载 2 亿像素摄像头可自动旋转的\"机器人手机\"，计划下半年在中国发布。联想带来 AI 机器臂桌面伴侣、模块化双屏 ThinkBook 概念机及可折叠 Legion Go 游戏掌机等创意产品。",
+        "url": ""
+      },
+      {
+        "title": "美以联合空袭伊朗，最高领袖哈梅内伊身亡",
+        "desc": "美以联合对伊朗发动大规模空袭，伊朗国家电视台确认最高领袖阿里·哈梅内伊已身亡。袭击历经数月谋划，关键情报在行动前数小时才到位。这是中东地缘政治数十年来最重大的转折点。",
+        "url": ""
+      },
+      {
+        "title": "伊朗报复：导弹和无人机袭击以色列及四个海湾国家",
+        "desc": "伊朗向驻有美军基地的四个海湾阿拉伯国家及以色列发射导弹和无人机，以色列已有 9 人死亡。伊朗对平民基础设施的打击表明，其目标已超出美军范围。",
+        "url": ""
+      },
+      {
+        "title": "伊朗一所学校遭袭，至少 153 人死亡",
+        "desc": "伊朗官员称一所学校遭到袭击，死亡人数至少 153 人。伊朗将责任归咎于美以联军；美方表示正在核实，以色列国防军称\"不知晓\"在该地区有行动。",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Top Story: US-Israel strikes on Iran kill Supreme Leader Khamenei, triggering regional crisis",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "OpenAI steps in as Anthropic exits Pentagon deal",
+        "desc": "After the Defense Department moved to designate Anthropic as a supply-chain risk, OpenAI quickly signed an AI agreement ",
+        "url": ""
+      },
+      {
+        "title": "Anthropic sues DeepSeek, Moonshot, and MiniMax for data theft",
+        "desc": "Anthropic claims three Chinese AI companies used approximately 24,000 fraudulent accounts to scrape Claude outputs and t",
+        "url": ""
+      },
+      {
+        "title": "Block cuts 40% of its workforce, explicitly blaming AI",
+        "desc": "Payments company Block is laying off around 4,000 employees. CEO Jack Dorsey stated directly that the company's embrace ",
+        "url": ""
+      },
+      {
+        "title": "Nvidia posts $43B quarterly profit on AI chip demand",
+        "desc": "Nvidia reported a blockbuster quarter driven by a 71% year-over-year surge in data center chip revenue to $61.7 billion.",
+        "url": ""
+      },
+      {
+        "title": "China's humanoid robot industry is pulling ahead",
+        "desc": "Companies like Unitree and Fourier Intelligence are shipping more units and iterating faster than US rivals. Cheap suppl",
+        "url": ""
+      },
+      {
+        "title": "MWC 2026: Honor's Robot Phone and Lenovo's AI concepts steal the show",
+        "desc": "Honor revealed a robotics-arm phone with a 200MP camera sensor, confirming an H2 2026 China launch. Lenovo debuted an AI",
+        "url": ""
+      },
+      {
+        "title": "US-Israel strikes kill Iran's Supreme Leader Khamenei",
+        "desc": "In the most seismic geopolitical shift in decades, US and Israeli forces launched coordinated strikes on Iran. Iranian s",
+        "url": ""
+      },
+      {
+        "title": "Iran retaliates with missiles and drones across the region",
+        "desc": "Iran launched waves of missiles and drones targeting Israel and four Gulf Arab states hosting US military bases. At leas",
+        "url": ""
+      },
+      {
+        "title": "Strike on school in Iran kills at least 153",
+        "desc": "Iranian officials reported a strike on a school that killed at least 153 people. Iran blamed the US and Israel; the US s",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月02日",
+    "date_fmt_zh": "2026年03月02日",
+    "date_fmt_en": "Mar 02, 2026",
+    "ts": "2026-03-02T08:03:15.966478+08:00"
+  },
+  {
     "slug": "radar-2026-03-01",
     "type": "radar",
     "type_label": "商机雷达",
