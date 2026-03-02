@@ -1,5 +1,134 @@
 [
   {
+    "slug": "radar-2026-03-02",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-03-01",
+    "title_en": "Hidden Opportunities · 2026-03-01",
+    "summary_zh": "🔍 隐藏商机日报 2026-03-02 · CST",
+    "summary_en": "🔍 Hidden Opportunities Daily 2026-03-02 · PST",
+    "bullets_zh": [
+      "隐藏商机日报",
+      "副业者注意：这些东西有人在做了",
+      "① AI辅助软著申请服务",
+      "② 开源 AI 影视创作工具（桌面端）"
+    ],
+    "bullets_en": [
+      "Hidden Opportunities Daily",
+      "For Indie Hackers: People Are Already Building These",
+      "① AI-Assisted Software Copyright Registration",
+      "② Open-Source AI Film Studio Desktop App"
+    ],
+    "items_zh": [
+      {
+        "title": "隐藏商机日报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "副业者注意：这些东西有人在做了",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "AI辅助软著申请服务",
+        "desc": "V2EX 今日热帖：一个独立开发者上线了\"AI辅助软著申请材料\"工具，即送积分、邀请有赏，明显在冷启动。软件著作权登记（软著）是国内中小企业、App 开发者的刚需——流程繁琐、模板千篇一律，但审核人员只看格式。用 AI 自动生成合规材料、一",
+        "url": ""
+      },
+      {
+        "title": "开源 AI 影视创作工具（桌面端）",
+        "desc": "r/SideProject 第二热帖（163 upvotes）：两个工程师+导演组合做了 ArtCraft——开源桌面端 AI 电影制作工具，BYOK（带自己的 API key），集成 Midjourney、Sora、Grok，已接入 Se",
+        "url": ""
+      },
+      {
+        "title": "学术论文→交互式网页工具",
+        "desc": "HN Show 第一名（282 points，126 条评论）：nowigetit.us——把科学论文转成交互式网页，有可视化、有解释、有层次结构。海外已有人愿意付费。国内知网、arXiv 中文论文阅读需求巨大，但没有类似的好用产品——做\"",
+        "url": ""
+      },
+      {
+        "title": "投资者注意：这些赛道正在起来",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "AI Agent 基础设施层正在爆发",
+        "desc": "今日 HN Show 里出现密集的 Agent 工具项目：Audio Toolkit for Agents（49 pts）、Logira（eBPF runtime 审计 AI agent 运行）、SwarmClaw（agent 编排面板）、",
+        "url": ""
+      },
+      {
+        "title": "自免、心血管创新药 BD 交易窗口打开",
+        "desc": "36Kr 今日报道：阿斯利康副总裁陈冰明确表示，BD 交易趋势正从肿瘤赛道向自免、心血管延伸。肿瘤赛道已挤满，这两个领域是\"下一个 2-3 年中国创新药出海的主方向\"。过去 2 年国内企业开始加速发力，但临床数据积累刚起步——现在布局相关 ",
+        "url": ""
+      },
+      {
+        "title": "\"版本化一切\"正在从代码扩展到所有工具",
+        "desc": "HN Show：Unfucked（134 pts，85 条评论）——对所有工具产生的文件改动做版本控制，本地优先，不依赖 Git。背景是 AI 编程工具（Cursor/Claude/Copilot）会随机改文件，开发者开始需要\"任何改动都能",
+        "url": ""
+      },
+      {
+        "title": "内容创作者注意：这些题材没人做但有需求",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Hidden Opportunities Daily",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "For Indie Hackers: People Are Already Building These",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "AI-Assisted Software Copyright Registration",
+        "desc": "Hot on V2EX today: a Chinese indie dev launched an \"AI-assisted software copyright application\" tool. Software copyright",
+        "url": ""
+      },
+      {
+        "title": "Open-Source AI Film Studio Desktop App",
+        "desc": "r/SideProject #2 today (163 upvotes): Two filmmaker-engineers built ArtCraft — an open-source desktop AI filmmaking tool",
+        "url": ""
+      },
+      {
+        "title": "Scientific Papers → Interactive Webpages",
+        "desc": "HN Show #1 today (282 points, 126 comments): nowigetit.us translates dense academic papers into structured, interactive,",
+        "url": ""
+      },
+      {
+        "title": "For Investors: These Spaces Are Just Starting to Lift Off",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "AI Agent Infrastructure Layer Is Exploding",
+        "desc": "Today's HN Show had a dense cluster of agent tooling projects: Audio Toolkit for Agents (49 pts), Logira (eBPF runtime a",
+        "url": ""
+      },
+      {
+        "title": "China Pharma BD Is Shifting from Oncology to Autoimmune & Cardiovascular",
+        "desc": "36Kr today: AstraZeneca's VP of BD Chen Bing explicitly called out the shift — oncology is crowded, autoimmune and cardi",
+        "url": ""
+      },
+      {
+        "title": "\"Version Everything\" Expanding Beyond Git",
+        "desc": "HN: Unfucked (134 pts, 85 comments) — local-first version control for any file changes from any tool, not just code. Con",
+        "url": ""
+      },
+      {
+        "title": "For Creators: High Demand, Almost No Quality Content",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月02日",
+    "date_fmt_zh": "2026年03月02日",
+    "date_fmt_en": "Mar 02, 2026",
+    "ts": "2026-03-02T09:04:47.363974+08:00"
+  },
+  {
     "slug": "news-2026-03-02",
     "type": "news",
     "type_label": "每日早报",
