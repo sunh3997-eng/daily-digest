@@ -1,5 +1,134 @@
 [
   {
+    "slug": "radar-2026-03-03",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-03-02",
+    "title_en": "Hidden Opportunities · 2026-03-02",
+    "summary_zh": "🔍 隐藏商机日报 · 2026-03-02 · PST",
+    "summary_en": "🔍 Hidden Opportunities Daily · March 2, 2026 · PST",
+    "bullets_zh": [
+      "隐藏商机日报",
+      "副业者注意：这些东西有人在做了",
+      "① AI自动投简历",
+      "你现在做还来得及"
+    ],
+    "bullets_en": [
+      "Hidden Opportunities Daily",
+      "For Indie Makers: Things People Are Already Building",
+      "① AI Job Application Agent",
+      "You can still build this"
+    ],
+    "items_zh": [
+      {
+        "title": "隐藏商机日报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "副业者注意：这些东西有人在做了",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "AI自动投简历",
+        "desc": "HN今日出现\"ApplyPilot\"——AI Agent代你自动投简历，已在GitHub公开。背后逻辑：求职海投是纯体力劳动，AI来做性价比极高。中国市场：BOSS直聘+智联招聘用户庞大，但AI自动海投工具几乎为零。",
+        "url": ""
+      },
+      {
+        "title": "你现在做还来得及",
+        "desc": "",
+        "url": "https://news.ycombinator.com/item?id=47226471"
+      },
+      {
+        "title": "法案追踪+媒体偏见分析",
+        "desc": "\"Govbase\"今日HN 148分：把一个法案的原文、媒体报道角度、社交传播全链起来，让用户看清哪个媒体在带节奏。中文市场：政策文本解读+不同媒体倾向对比，几乎没人做。",
+        "url": ""
+      },
+      {
+        "title": "App Store元数据优化工具",
+        "desc": "Reddit SideProject今日热帖：独立开发者发现Play Store的\"80字符短描述\"严重影响安装量，但99%开发者都忽视了。出海开发者有大量此类痛点，但没有专门做AI元数据建议的SaaS工具。",
+        "url": ""
+      },
+      {
+        "title": "投资者注意：这些赛道正在起来",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "MCP工具链生态",
+        "desc": "HN今日出现\"Open-Source Postman for MCP\"。Anthropic的MCP协议正在成为AI Agent标准接口，但开发工具极度匮乏。类比：2015年REST API兴起，Postman从0做到$225M估值——MCP",
+        "url": ""
+      },
+      {
+        "title": "个人隐私+数据主权",
+        "desc": "HN今日#1（400分，219评论）：Meta智能眼镜工作人员\"能看到用户拍摄的一切\"。同期Product Hunt出现\"WEIR AI\"（追踪个人身份，保护或从中获益）。AI硬件侵犯隐私的恐慌正在积累，数据主权工具即将爆发。6个月后你会后",
+        "url": ""
+      },
+      {
+        "title": "情感感知语音AI",
+        "desc": "HN今日122分：\"我从零构建了500ms以下延迟的语音Agent\"。ElevenLabs同期推出情感自适应声音模式（PH上线）。语音AI从\"够用\"进化到\"情感感知\"阶段，B端客服/陪伴类应用的替换窗口正在打开。",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Hidden Opportunities Daily",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "For Indie Makers: Things People Are Already Building",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "AI Job Application Agent",
+        "desc": "HN today surfaced \"ApplyPilot\" — an open-source AI agent that auto-applies to jobs on your behalf. The insight: job hunt",
+        "url": ""
+      },
+      {
+        "title": "You can still build this",
+        "desc": "",
+        "url": "https://news.ycombinator.com/item?id=47226471"
+      },
+      {
+        "title": "Legislative Bias Tracker",
+        "desc": "\"Govbase\" hit 148 points on HN today: it links a bill's source text → news coverage bias → social media spread, revealin",
+        "url": ""
+      },
+      {
+        "title": "App Store Metadata Optimizer",
+        "desc": "Top post on r/SideProject today: a dev discovered that Play Store's 80-character \"short description\" (ignored by 99% of ",
+        "url": ""
+      },
+      {
+        "title": "For Investors: Trends About to Break",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "MCP Toolchain Ecosystem",
+        "desc": "\"Open-Source Postman for MCP\" appeared on HN today. Anthropic's Model Context Protocol is becoming the standard interfac",
+        "url": ""
+      },
+      {
+        "title": "Personal Privacy & Data Sovereignty",
+        "desc": "HN's #1 story today (400 points, 219 comments): Meta's smart glasses workers say they \"see everything\" users capture. Si",
+        "url": ""
+      },
+      {
+        "title": "Emotionally-Aware Voice AI",
+        "desc": "HN today (122 points): a dev built a voice agent with sub-500ms latency from scratch. Simultaneously, ElevenLabs launche",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月03日",
+    "date_fmt_zh": "2026年03月03日",
+    "date_fmt_en": "Mar 03, 2026",
+    "ts": "2026-03-03T09:05:03.713847+08:00"
+  },
+  {
     "slug": "radar-2026-03-02",
     "type": "radar",
     "type_label": "商机雷达",
