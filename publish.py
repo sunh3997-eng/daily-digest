@@ -219,8 +219,12 @@ POST_TMPL = """\
 """
 
 def write_post(slug, title_zh, title_en, type_key, date, content_zh, content_en, desc_en=""):
-    type_label_zh = "每日早报" if type_key == "news" else "商机雷达"
-    type_label_en = "Daily Briefing" if type_key == "news" else "Opportunity Radar"
+    _type_labels = {
+        "news":        ("每日早报", "Daily Briefing"),
+        "radar":       ("商机雷达", "Opportunity Radar"),
+        "perspective": ("多视角", "Multi-Perspective"),
+    }
+    type_label_zh, type_label_en = _type_labels.get(type_key, (type_key, type_key))
     date_fmt_zh = date.strftime("%Y年%m月%d日 %H:%M")
     date_fmt_en = date.strftime("%B %d, %Y %H:%M CST")
     body_zh = md_to_html(content_zh)
@@ -321,8 +325,9 @@ def render_feed(posts: list) -> str:
     """Render posts as a date-grouped feed of inline news items."""
     from itertools import groupby
     type_meta = {
-        "news":  {"zh": "早报", "en": "Briefing", "icon": "🌅"},
-        "radar": {"zh": "商机", "en": "Radar",    "icon": "💡"},
+        "news":        {"zh": "早报",  "en": "Briefing",    "icon": "🌅"},
+        "radar":       {"zh": "商机",  "en": "Radar",       "icon": "💡"},
+        "perspective": {"zh": "多视角", "en": "Perspective", "icon": "🔍"},
     }
     # Group by date string (YYYY-MM-DD from slug)
     def day_of(p):
@@ -501,7 +506,7 @@ def git_push(message: str):
 # ── Main ───────────────────────────────────────────────────────
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--type", choices=["news","radar"], required=True)
+    ap.add_argument("--type", choices=["news","radar","perspective"], required=True)
     ap.add_argument("--title-zh", required=True)
     ap.add_argument("--title-en", default="")
     ap.add_argument("--content-zh-file", default=None)
