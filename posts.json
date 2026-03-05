@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-03-05",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-05",
+    "title_en": "Daily Briefing · 2026-03-05",
+    "summary_zh": "📰 每日早报 · 2026-03-05（周四）",
+    "summary_en": "📰 Daily Briefing · March 5, 2026 (Thursday)",
+    "bullets_zh": [
+      "Anthropic CEO 称 OpenAI 军方合同宣传是\"谎言\"",
+      "Apple Music 将添加 AI 音乐透明标签",
+      "Google Search AI Mode 向全美用户推出 Gemini Canvas",
+      "Google 与 Epic Games 和解，Play Store 抽成降至 20%"
+    ],
+    "bullets_en": [
+      "Anthropic CEO calls OpenAI's military deal messaging \"straight up lies\"",
+      "Apple Music to add Transparency Tags for AI-generated music",
+      "Google Search rolls out Gemini Canvas in AI Mode to all US users",
+      "Google settles with Epic Games, drops Play Store commission to 20%"
+    ],
+    "items_zh": [
+      {
+        "title": "Anthropic CEO 称 OpenAI 军方合同宣传是\"谎言\"",
+        "desc": "05:43 Apple Music 将添加 AI 音乐透明标签 — 标签由唱片公司/发行商自愿标注，效果待观察 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Apple Music 将添加 AI 音乐透明标签",
+        "desc": "02:50 Google Search AI Mode 向全美用户推出 Gemini Canvas — 用户可在搜索中创建计划、项目和应用 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Google Search AI Mode 向全美用户推出 Gemini Canvas",
+        "desc": "04:05 Google 与 Epic Games 和解，Play Store 抽成降至 20% — 30% 应用商店费用时代终结，Fortnite 重返 Google Play The Verge",
+        "url": ""
+      },
+      {
+        "title": "Google 与 Epic Games 和解，Play Store 抽成降至 20%",
+        "desc": "05:22 Evo 2 基因组大模型发表于 Nature — 可跨所有生命域建模和设计基因组，开源 AI 训练于万亿碱基 Nature",
+        "url": ""
+      },
+      {
+        "title": "Evo 2 基因组大模型发表于 Nature",
+        "desc": "02:32 Decagon 完成首次 tender offer，估值 45 亿美元 — AI 客服初创公司为员工提供流动性 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Decagon 完成首次 tender offer，估值 45 亿美元",
+        "desc": "01:20 AI 数据中心用电问题困扰 Trump 中期选举 — 科技公司在白宫签署自愿承诺承担数据中心能源成本 CNBC",
+        "url": ""
+      },
+      {
+        "title": "AI 数据中心用电问题困扰 Trump 中期选举",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "美参议院否决限制 Trump 对伊朗战争权力法案",
+        "desc": "02:50 卫星图显示伊朗学校空袭破坏超此前报道 — 联合国称 160 名儿童遇难，白宫否认美方参与 NPR/Reuters",
+        "url": ""
+      },
+      {
+        "title": "卫星图显示伊朗学校空袭破坏超此前报道",
+        "desc": "02:14 俄罗斯指责乌克兰海军无人艇击沉地中海油轮 — Arctic Metagaz 号在利比亚和马耳他之间沉没 BBC",
+        "url": ""
+      },
+      {
+        "title": "俄罗斯指责乌克兰海军无人艇击沉地中海油轮",
+        "desc": "04:42 西班牙首相回击 Trump 贸易威胁：对战争说不 — Sánchez 发表强硬声明 BBC",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Anthropic CEO calls OpenAI's military deal messaging \"straight up lies\"",
+        "desc": "05:43 Apple Music to add Transparency Tags for AI-generated music — Labels must opt in, raising questions about effectiv",
+        "url": ""
+      },
+      {
+        "title": "Apple Music to add Transparency Tags for AI-generated music",
+        "desc": "02:50 Google Search rolls out Gemini Canvas in AI Mode to all US users — Create plans, projects, and apps directly in Se",
+        "url": ""
+      },
+      {
+        "title": "Google Search rolls out Gemini Canvas in AI Mode to all US users",
+        "desc": "04:05 Google settles with Epic Games, drops Play Store commission to 20% — The 30% app store fee era ends; Fortnite retu",
+        "url": ""
+      },
+      {
+        "title": "Google settles with Epic Games, drops Play Store commission to 20%",
+        "desc": "05:22 Evo 2 genome model published in Nature — Open-source AI trained on trillions of bases can model and design genomes",
+        "url": ""
+      },
+      {
+        "title": "Evo 2 genome model published in Nature",
+        "desc": "02:32 Decagon completes first tender offer at $4.5B valuation — AI customer support startup provides employee liquidity ",
+        "url": ""
+      },
+      {
+        "title": "Decagon completes first tender offer at $4.5B valuation",
+        "desc": "01:20 Trump faces AI data center energy dilemma ahead of midterms — Tech firms sign voluntary pledge at White House to b",
+        "url": ""
+      },
+      {
+        "title": "Trump faces AI data center energy dilemma ahead of midterms",
+        "desc": "🌍 World News",
+        "url": ""
+      },
+      {
+        "title": "US Senate rejects bill to rein in Trump's Iran war powers",
+        "desc": "02:50 Satellite images show Iran school strike hit more buildings than reported — UN says 160 children killed; White Hou",
+        "url": ""
+      },
+      {
+        "title": "Satellite images show Iran school strike hit more buildings than reported",
+        "desc": "02:14 Russia blames Ukrainian naval drones as tanker sinks in Mediterranean — Arctic Metagaz went down between Libya and",
+        "url": ""
+      },
+      {
+        "title": "Russia blames Ukrainian naval drones as tanker sinks in Mediterranean",
+        "desc": "04:42 Spain's PM hits back at Trump trade threat: \"No to war\" — Sánchez delivers strong rebuttal BBC",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月05日",
+    "date_fmt_zh": "2026年03月05日",
+    "date_fmt_en": "Mar 05, 2026",
+    "ts": "2026-03-05T08:01:39.643062+08:00"
+  },
+  {
     "slug": "perspective-2026-03-04",
     "type": "perspective",
     "type_label": "商机雷达",
