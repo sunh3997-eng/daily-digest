@@ -1,5 +1,134 @@
 [
   {
+    "slug": "radar-2026-03-05",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-03-05",
+    "title_en": "Hidden Opportunities · 2026-03-05",
+    "summary_zh": "🔍 隐藏商机日报 2026-03-05 · CST",
+    "summary_en": "🔍 Hidden Opportunity Radar 2026-03-05 · CST",
+    "bullets_zh": [
+      "隐藏商机日报",
+      "副业者注意：这些东西有人在做了",
+      "Google Takeout 数据可视化工具",
+      "AI Agent 模板商店"
+    ],
+    "bullets_en": [
+      "Hidden Opportunity Radar",
+      "Side Hustlers: People Are Already Building These",
+      "Google Takeout Data Visualizer",
+      "AI Agent Template Marketplace"
+    ],
+    "items_zh": [
+      {
+        "title": "隐藏商机日报",
+        "desc": "🛠️ 副业者注意：这些东西有人在做了",
+        "url": ""
+      },
+      {
+        "title": "副业者注意：这些东西有人在做了",
+        "desc": "1. Google Takeout 数据可视化工具 — HN Show 上一位开发者做了 TakeoutReader，把 Google 导出的数百个 JSON 文件变成可读报告，全浏览器端处理，无服务器上传。中文市场几乎空白：微信聊天记录、",
+        "url": ""
+      },
+      {
+        "title": "Google Takeout 数据可视化工具",
+        "desc": "2. AI Agent 模板商店 — GitHub trending 第二名 agency-agents（今日+2209⭐），提供一整套 AI agency 模板：前端、社区运营、内容生产等专属 Agent。说明市场对\"即插即用 AI 员工",
+        "url": "https://news.ycombinator.com/item?id=47255521"
+      },
+      {
+        "title": "AI Agent 模板商店",
+        "desc": "3. AI 记忆管理工具 — agentscope-ai/ReMe 今日 +345⭐，解决 AI Agent 的记忆持久化问题。对于中文独立开发者，\"帮用户管理多个 AI 对话的上下文记忆\" 是可以做 Chrome 扩展或独立产品的方向。",
+        "url": "https://github.com/msitarzewski/agency-agents"
+      },
+      {
+        "title": "AI 记忆管理工具",
+        "desc": "📈 投资者注意：这些赛道正在起来",
+        "url": "https://github.com/agentscope-ai/ReMe"
+      },
+      {
+        "title": "投资者注意：这些赛道正在起来",
+        "desc": "1. AI 安全攻防 — Shannon（今日+1854⭐）是全自动 AI 黑客，在 XBOW Benchmark 上达到 96.15% 成功率。AI 攻防赛道已经从概念走向产品化。安全审计 SaaS 将迎来一波 AI native 重塑。",
+        "url": ""
+      },
+      {
+        "title": "AI 安全攻防",
+        "desc": "2. AI 沙箱基础设施 — 阿里开源 OpenSandbox（今日+788⭐），HN 上\"AI Agent 沙箱\"讨论贴列出了 30+ 新公司。这个基础设施层正在快速标准化，类似 Docker 早期。",
+        "url": "https://github.com/KeygraphHQ/shannon"
+      },
+      {
+        "title": "AI 沙箱基础设施",
+        "desc": "3. StatHat 关闭 = 数据监控替代品机会 — 老牌指标服务 StatHat 宣布4月4日关闭，用户需要迁移。轻量级、开发者友好的指标监控 SaaS 有窗口期。",
+        "url": "https://github.com/alibaba/OpenSandbox"
+      },
+      {
+        "title": "StatHat 关闭 = 数据监控替代品机会",
+        "desc": "🎬 内容创作者注意：这些题材没人做但有量",
+        "url": "https://news.ycombinator.com/item?id=47255481"
+      },
+      {
+        "title": "内容创作者注意：这些题材没人做但有量",
+        "desc": "1. \"AI Agent 实操教程\"系列 — GitHub trending 大量 Agent 框架（AgentScope、ReMe、OpenSandbox），但中文教程极度匮乏。做系统化的 AI Agent 搭建教程，B站/小红书流量潜力",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Hidden Opportunity Radar",
+        "desc": "🛠️ Side Hustlers: People Are Already Building These",
+        "url": ""
+      },
+      {
+        "title": "Side Hustlers: People Are Already Building These",
+        "desc": "1. Google Takeout Data Visualizer — A dev on HN Show built TakeoutReader, turning hundreds of Google export JSON files i",
+        "url": ""
+      },
+      {
+        "title": "Google Takeout Data Visualizer",
+        "desc": "2. AI Agent Template Marketplace — GitHub trending #2 today: agency-agents (+2,209⭐), providing plug-and-play AI agency ",
+        "url": "https://news.ycombinator.com/item?id=47255521"
+      },
+      {
+        "title": "AI Agent Template Marketplace",
+        "desc": "3. AI Memory Management — agentscope-ai/ReMe (+345⭐ today) solves persistent memory for AI agents. A Chrome extension or",
+        "url": "https://github.com/msitarzewski/agency-agents"
+      },
+      {
+        "title": "AI Memory Management",
+        "desc": "📈 Investors: These Sectors Are Emerging",
+        "url": "https://github.com/agentscope-ai/ReMe"
+      },
+      {
+        "title": "Investors: These Sectors Are Emerging",
+        "desc": "1. AI Security Offense/Defense — Shannon (+1,854⭐ today) is a fully autonomous AI hacker achieving 96.15% on XBOW Benchm",
+        "url": ""
+      },
+      {
+        "title": "AI Security Offense/Defense",
+        "desc": "2. AI Sandbox Infrastructure — Alibaba open-sourced OpenSandbox (+788⭐ today); HN discussion lists 30+ new sandbox start",
+        "url": "https://github.com/KeygraphHQ/shannon"
+      },
+      {
+        "title": "AI Sandbox Infrastructure",
+        "desc": "3. StatHat Shutdown = Monitoring Gap — Legacy metrics service StatHat announced shutdown on April 4. Lightweight, dev-fr",
+        "url": "https://github.com/alibaba/OpenSandbox"
+      },
+      {
+        "title": "StatHat Shutdown = Monitoring Gap",
+        "desc": "🎬 Content Creators: Underserved Topics With Volume",
+        "url": "https://news.ycombinator.com/item?id=47255481"
+      },
+      {
+        "title": "Content Creators: Underserved Topics With Volume",
+        "desc": "1. \"AI Agent Setup Tutorials\" — GitHub trending is flooded with Agent frameworks (AgentScope, ReMe, OpenSandbox) but qua",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月05日",
+    "date_fmt_zh": "2026年03月05日",
+    "date_fmt_en": "Mar 05, 2026",
+    "ts": "2026-03-05T09:02:20.344604+08:00"
+  },
+  {
     "slug": "news-2026-03-05",
     "type": "news",
     "type_label": "每日早报",
