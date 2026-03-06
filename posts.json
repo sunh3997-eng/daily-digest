@@ -1,5 +1,89 @@
 [
   {
+    "slug": "perspective-2026-03-06",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-06",
+    "title_en": "Multi-Perspective · 2026-03-06",
+    "summary_zh": "🔍 多视角 · 美国对伊朗发动军事打击，哈梅内伊被击杀，特朗普称要参与挑选伊朗下一任领导人 · 2026-03-06",
+    "summary_en": "🔍 Multi-Perspective · US Strikes Kill Iran's Khamenei; Trump Claims Role in Choosing Iran's Next Leader · 2026-03-06",
+    "bullets_zh": [
+      "核心叙事",
+      "Fox News",
+      "美国之音",
+      "Hacker News 头条"
+    ],
+    "bullets_en": [
+      "Core narrative",
+      "Key independent questions",
+      "Biggest consensus",
+      "Biggest divide"
+    ],
+    "items_zh": [
+      {
+        "title": "核心叙事",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "- 承认击杀哈梅内伊是\"非凡的军事成就\"，称其为\"历史上最邪恶的人之一\"",
+        "url": ""
+      },
+      {
+        "title": "美国之音",
+        "desc": "新华社和 CGTN 因技术限制未能直接抓取到今日专题报道，但根据中国官方一贯立场可以预期：",
+        "url": ""
+      },
+      {
+        "title": "Hacker News 头条",
+        "desc": "Howard Kurtz（Fox News 自己的媒体批评人）的文章本身就是独立声音的代表——他在保守派媒体内部公开呼吁\"怀疑主义\"，引用 Bob Woodward 承认\"我也是集体思维的一部分\"。",
+        "url": ""
+      },
+      {
+        "title": "独立媒体的核心质疑",
+        "desc": "- 特朗普声称伊朗\"即将拥有核弹\"的说法是否夸大？（Fox News 自己的评论承认\"德黑兰距完成核弹还远\"）",
+        "url": ""
+      },
+      {
+        "title": "最大共识",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "最大分歧",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Core narrative",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Key independent questions",
+        "desc": "- Is Trump's claim that Iran was \"close to a bomb\" exaggerated? (Even Fox's own commentary admits Tehran was \"not close\"",
+        "url": ""
+      },
+      {
+        "title": "Biggest consensus",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Biggest divide",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月06日",
+    "date_fmt_zh": "2026年03月06日",
+    "date_fmt_en": "Mar 06, 2026",
+    "ts": "2026-03-06T10:03:05.144014+08:00"
+  },
+  {
     "slug": "radar-2026-03-06",
     "type": "radar",
     "type_label": "商机雷达",
