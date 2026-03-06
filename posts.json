@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-03-06",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-06",
+    "title_en": "Daily Briefing · 2026-03-06",
+    "summary_zh": "📰 每日早报 · 2026-03-06（周五）",
+    "summary_en": "📰 Daily Briefing · 2026-03-06 (Friday)",
+    "bullets_zh": [
+      "OpenAI 发布 GPT-5.4",
+      "五角大楼正式将 Anthropic 列为供应链风险",
+      "美国考虑对 Nvidia、AMD 全球 AI 芯片出口实施许可证制度",
+      "维基百科遭大规模管理员账户入侵"
+    ],
+    "bullets_en": [
+      "OpenAI releases GPT-5.4",
+      "Pentagon officially labels Anthropic a supply-chain risk",
+      "US considers requiring permits for all Nvidia, AMD global AI chip sales",
+      "Wikipedia hit by mass admin account compromise"
+    ],
+    "items_zh": [
+      {
+        "title": "OpenAI 发布 GPT-5.4",
+        "desc": "18:52 五角大楼正式将 Anthropic 列为供应链风险 — 尽管 Claude 已被用于伊朗战场情报分析，国防部仍对其发出供应链风险警告；OpenAI 同日宣布与国防部合作协议 Bloomberg/CNBC/BBC",
+        "url": ""
+      },
+      {
+        "title": "五角大楼正式将 Anthropic 列为供应链风险",
+        "desc": "17:41 美国考虑对 Nvidia、AMD 全球 AI 芯片出口实施许可证制度 — 草案要求外国买家在美投资以换取芯片购买资格，Nvidia 股价应声下跌 Bloomberg",
+        "url": ""
+      },
+      {
+        "title": "美国考虑对 Nvidia、AMD 全球 AI 芯片出口实施许可证制度",
+        "desc": "16:04 维基百科遭大规模管理员账户入侵 — 被迫进入只读模式，HN 最高热度（857分），Wikimedia 正在调查并锁定账户 Wikipediocracy/HN",
+        "url": ""
+      },
+      {
+        "title": "维基百科遭大规模管理员账户入侵",
+        "desc": "16:22 一个 GitHub Issue 标题感染了 4000 台开发者电脑 — AI 编码工具 Cline 被注入恶意代码，自动安装后门程序 grith.ai/HN",
+        "url": ""
+      },
+      {
+        "title": "一个 GitHub Issue 标题感染了 4000 台开发者电脑",
+        "desc": "21:33 FBI 正在调查其窃听和监控系统被黑客入侵事件 — CNN 率先报道，攻击者据称已渗透 FBI 内部网络 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "FBI 正在调查其窃听和监控系统被黑客入侵事件",
+        "desc": "19:53 OpenAI Codex 编码应用登陆 Windows — 此前仅支持 macOS，现已全平台覆盖 Engadget",
+        "url": ""
+      },
+      {
+        "title": "OpenAI Codex 编码应用登陆 Windows",
+        "desc": "11:35 Google Play 开始标记耗电应用 — 下载前即可看到电池消耗警告，倒逼开发者优化 Android Authority",
+        "url": ""
+      },
+      {
+        "title": "Google Play 开始标记耗电应用",
+        "desc": "20:34 比亚迪推出 5 分钟\"闪充\"电池 — Blade Battery 2.0 支持最高 1.5MW 充电功率，但需匹配专用充电桩 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "比亚迪推出 5 分钟\"闪充\"电池",
+        "desc": "13:30 索尼撤回 PlayStation PC 移植计划 — 未来单机大作将回归主机独占策略 Bloomberg",
+        "url": ""
+      },
+      {
+        "title": "索尼撤回 PlayStation PC 移植计划",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "OpenAI releases GPT-5.4",
+        "desc": "18:52 Pentagon officially labels Anthropic a supply-chain risk — Despite Claude being used in Iran war intelligence, DOD",
+        "url": ""
+      },
+      {
+        "title": "Pentagon officially labels Anthropic a supply-chain risk",
+        "desc": "17:41 US considers requiring permits for all Nvidia, AMD global AI chip sales — Draft rules would require foreign buyers",
+        "url": ""
+      },
+      {
+        "title": "US considers requiring permits for all Nvidia, AMD global AI chip sales",
+        "desc": "16:04 Wikipedia hit by mass admin account compromise — Forced into read-only mode, highest HN story (857pts); Wikimedia ",
+        "url": ""
+      },
+      {
+        "title": "Wikipedia hit by mass admin account compromise",
+        "desc": "16:22 A GitHub Issue title compromised 4,000 developer machines — AI coding tool Cline exploited to install backdoors vi",
+        "url": ""
+      },
+      {
+        "title": "A GitHub Issue title compromised 4,000 developer machines",
+        "desc": "21:33 FBI investigating hack of its wiretap and surveillance systems — Attackers reportedly penetrated FBI internal netw",
+        "url": ""
+      },
+      {
+        "title": "FBI investigating hack of its wiretap and surveillance systems",
+        "desc": "19:53 OpenAI Codex coding app comes to Windows — Previously macOS-only, now cross-platform Engadget",
+        "url": ""
+      },
+      {
+        "title": "OpenAI Codex coding app comes to Windows",
+        "desc": "11:35 Google Play now shames battery-draining apps — Warnings shown before download to pressure developers Android Autho",
+        "url": ""
+      },
+      {
+        "title": "Google Play now shames battery-draining apps",
+        "desc": "20:34 BYD unveils 5-minute \"flash charging\" EV battery — Blade Battery 2.0 supports up to 1.5MW charging, but requires d",
+        "url": ""
+      },
+      {
+        "title": "BYD unveils 5-minute \"flash charging\" EV battery",
+        "desc": "13:30 Sony pulls back from PlayStation PC ports — Future single-player titles returning to console exclusivity Bloomberg",
+        "url": ""
+      },
+      {
+        "title": "Sony pulls back from PlayStation PC ports",
+        "desc": "🌍 World News",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月06日",
+    "date_fmt_zh": "2026年03月06日",
+    "date_fmt_en": "Mar 06, 2026",
+    "ts": "2026-03-06T08:02:04.835618+08:00"
+  },
+  {
     "slug": "radar-2026-03-05",
     "type": "radar",
     "type_label": "商机雷达",
