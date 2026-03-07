@@ -1,5 +1,38 @@
 [
   {
+    "slug": "radar-2026-03-07",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-03-07",
+    "title_en": "Hidden Opportunities · 2026-03-07",
+    "summary_zh": "🔍 隐藏商机日报 2026-03-07",
+    "summary_en": "🔍 Hidden Opportunities Daily 2026-03-07",
+    "bullets_zh": [
+      "AI Agent 记忆版本控制"
+    ],
+    "bullets_en": [
+      "Version Control for AI Agent Memory"
+    ],
+    "items_zh": [
+      {
+        "title": "AI Agent 记忆版本控制",
+        "desc": "问题：AI Agent 的记忆/上下文在多轮对话中会丢失或污染，但没有好的版本管理工具。",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Version Control for AI Agent Memory",
+        "desc": "Problem: AI agents lose or pollute context across sessions — no good versioning tools exist.",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月07日",
+    "date_fmt_zh": "2026年03月07日",
+    "date_fmt_en": "Mar 07, 2026",
+    "ts": "2026-03-07T10:34:14.010231+08:00"
+  },
+  {
     "slug": "news-2026-03-07",
     "type": "news",
     "type_label": "每日早报",
