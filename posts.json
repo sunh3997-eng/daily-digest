@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-03-08",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-08",
+    "title_en": "Daily Briefing · 2026-03-08",
+    "summary_zh": "📰 每日早报 · 2026-03-08（周日）",
+    "summary_en": "📰 Daily Briefing · 2026-03-08 (Sun)",
+    "bullets_zh": [
+      "Anthropic Claude 两周内发现 Firefox 22 个漏洞",
+      "OpenAI 机器人负责人 Caitlin Kalinowski 因五角大楼交易辞职",
+      "微软、谷歌、亚马逊声明：Anthropic Claude 仍面向非国防客户开放",
+      "Scientific American：使用 AI 的开发者为何工作时间更长？"
+    ],
+    "bullets_en": [
+      "Anthropic's Claude Found 22 Vulnerabilities in Firefox in Two Weeks",
+      "OpenAI Robotics Lead Caitlin Kalinowski Resigns Over Pentagon Deal",
+      "Microsoft, Google, Amazon: Claude Remains Available to Non-Defense Customers",
+      "Why Developers Using AI Are Working Longer Hours"
+    ],
+    "items_zh": [
+      {
+        "title": "Anthropic Claude 两周内发现 Firefox 22 个漏洞",
+        "desc": "02:00 OpenAI 机器人负责人 Caitlin Kalinowski 因五角大楼交易辞职 — 她在社交媒体宣布因反对 OpenAI 与美国国防部合作而辞职 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "OpenAI 机器人负责人 Caitlin Kalinowski 因五角大楼交易辞职",
+        "desc": "01:00 微软、谷歌、亚马逊声明：Anthropic Claude 仍面向非国防客户开放 — 三大云厂商安抚客户，确认 Claude 不会因五角大楼合约而限制商业使用 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "微软、谷歌、亚马逊声明：Anthropic Claude 仍面向非国防客户开放",
+        "desc": "23:39 Scientific American：使用 AI 的开发者为何工作时间更长？ — 研究发现 AI 编程工具反而增加了开发者的工作时长，引发 HN 热议 Scientific American",
+        "url": ""
+      },
+      {
+        "title": "Scientific American：使用 AI 的开发者为何工作时间更长？",
+        "desc": "00:00 OpenAI 再次推迟 ChatGPT「成人模式」 — 该功能原计划近期上线，现已第二次延期 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "OpenAI 再次推迟 ChatGPT「成人模式」",
+        "desc": "22:00 Bill Gates 的 TerraPower 获批建造新型核反应堆 — 新一代核能技术获得监管批准，向商业化迈进一步 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Bill Gates 的 TerraPower 获批建造新型核反应堆",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "伊朗总统向海湾国家道歉，特朗普威胁进一步打击",
+        "desc": "17:59 特朗普在开战前无视严峻警告 — 报道揭示情报机构曾警告大规模战争「不太可能」推翻伊朗政权 Daily Beast / Washington Post",
+        "url": ""
+      },
+      {
+        "title": "特朗普在开战前无视严峻警告",
+        "desc": "16:48 谁炸了伊朗女子学校？卫星图像揭示线索 — USA Today 通过卫星影像分析追踪袭击来源 USA Today",
+        "url": ""
+      },
+      {
+        "title": "谁炸了伊朗女子学校？卫星图像揭示线索",
+        "desc": "20:00 伊朗发射弹道导弹，以色列南部拉响警报 — 以色列时报报道探测到伊朗弹道导弹发射 Times of Israel",
+        "url": ""
+      },
+      {
+        "title": "伊朗发射弹道导弹，以色列南部拉响警报",
+        "desc": "19:00 哈梅内伊曾希望他的遗产永存 — 经济学人深度分析伊朗最高领袖的政治遗产 The Economist",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Anthropic's Claude Found 22 Vulnerabilities in Firefox in Two Weeks",
+        "desc": "02:00 OpenAI Robotics Lead Caitlin Kalinowski Resigns Over Pentagon Deal — Key departure amid controversy over military ",
+        "url": ""
+      },
+      {
+        "title": "OpenAI Robotics Lead Caitlin Kalinowski Resigns Over Pentagon Deal",
+        "desc": "01:00 Microsoft, Google, Amazon: Claude Remains Available to Non-Defense Customers — Cloud giants reassure commercial us",
+        "url": ""
+      },
+      {
+        "title": "Microsoft, Google, Amazon: Claude Remains Available to Non-Defense Customers",
+        "desc": "23:39 Why Developers Using AI Are Working Longer Hours — Scientific American study finds AI coding tools paradoxically i",
+        "url": ""
+      },
+      {
+        "title": "Why Developers Using AI Are Working Longer Hours",
+        "desc": "00:00 OpenAI Delays ChatGPT 'Adult Mode' Again — Feature postponed for the second time TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "OpenAI Delays ChatGPT 'Adult Mode' Again",
+        "desc": "22:00 Bill Gates' TerraPower Gets Approval to Build New Nuclear Reactor — Next-gen nuclear tech clears regulatory hurdle",
+        "url": ""
+      },
+      {
+        "title": "Bill Gates' TerraPower Gets Approval to Build New Nuclear Reactor",
+        "desc": "🌍 World News",
+        "url": ""
+      },
+      {
+        "title": "Iran's President Apologizes to Gulf Nations; Trump Threatens Further Strikes",
+        "desc": "17:59 Trump Ignored Grim Warnings Before Starting His War — Intel report warned large-scale war 'unlikely' to oust Iran'",
+        "url": ""
+      },
+      {
+        "title": "Trump Ignored Grim Warnings Before Starting His War",
+        "desc": "16:48 Who Bombed the Girls School in Iran? Satellite Images Reveal Clues — Visual investigation traces attack origins US",
+        "url": ""
+      },
+      {
+        "title": "Who Bombed the Girls School in Iran? Satellite Images Reveal Clues",
+        "desc": "20:00 Iranian Ballistic Missile Launch Detected; Sirens in Southern Israel — Active military exchanges continue Times of",
+        "url": ""
+      },
+      {
+        "title": "Iranian Ballistic Missile Launch Detected; Sirens in Southern Israel",
+        "desc": "💡 Tech Circle",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月08日",
+    "date_fmt_zh": "2026年03月08日",
+    "date_fmt_en": "Mar 08, 2026",
+    "ts": "2026-03-08T08:01:59.842603+08:00"
+  },
+  {
     "slug": "radar-2026-03-07",
     "type": "radar",
     "type_label": "商机雷达",
