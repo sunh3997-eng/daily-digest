@@ -1,5 +1,129 @@
 [
   {
+    "slug": "perspective-2026-03-10",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-09",
+    "title_en": "Multi-Perspective · 2026-03-09",
+    "summary_zh": "🔍 多视角 · 美以对伊朗战争升级：哈梅内伊之子接任最高领袖 · 2026-03-09",
+    "summary_en": "🔍 Multi-Perspective · US-Israeli War on Iran Escalates: Khamenei's Son Named Supreme Leader · 2026-03-09",
+    "bullets_zh": [
+      "Reuters",
+      "参议员格雷厄姆",
+      "以色列外交部",
+      "以色列军方"
+    ],
+    "bullets_en": [
+      "Trump",
+      "Sen. Lindsey Graham",
+      "Israel's Foreign Ministry",
+      "Israeli military"
+    ],
+    "items_zh": [
+      {
+        "title": "Reuters",
+        "desc": "- 整体基调：将任命框定为\"王朝政治\"，质疑其合法性，同时关注战争对油价和全球经济的冲击",
+        "url": ""
+      },
+      {
+        "title": "参议员格雷厄姆",
+        "desc": "- 以色列外交部发推文配图称穆杰塔巴是\"暴君\"，\"有其父必有其子\"（Like Father Like Son）",
+        "url": ""
+      },
+      {
+        "title": "以色列外交部",
+        "desc": "- 以色列军方此前威胁要杀死任何接替哈梅内伊的人",
+        "url": ""
+      },
+      {
+        "title": "以色列军方",
+        "desc": "- 保守派叙事：伊朗政权\"不可救药\"，任命哈梅内伊之子证明不会改革，军事行动有正当性",
+        "url": ""
+      },
+      {
+        "title": "中国外交部",
+        "desc": "- 明确反对\"以任何借口干涉他国内政\"，强调应尊重伊朗主权、安全和领土完整",
+        "url": ""
+      },
+      {
+        "title": "半岛电视台",
+        "desc": "- 报道伊朗反击已扩展至巴林、科威特、沙特——战争正在区域化",
+        "url": ""
+      },
+      {
+        "title": "（前调停者）、",
+        "desc": "- 也门胡塞武装欢迎新领袖",
+        "url": ""
+      },
+      {
+        "title": "也门胡塞武装",
+        "desc": "- 民调显示多数以色列人支持对伊战争，但反对者面临威胁和暴力",
+        "url": ""
+      },
+      {
+        "title": "一句话总结：",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Trump",
+        "desc": "- Sen. Lindsey Graham said openly: \"We're going to make a tonne of money\" — appearing to link the war to controlling Ira",
+        "url": ""
+      },
+      {
+        "title": "Sen. Lindsey Graham",
+        "desc": "- Israel's Foreign Ministry posted \"Like Father Like Son\" with a photo of both Khameneis holding guns, calling Mojtaba a",
+        "url": ""
+      },
+      {
+        "title": "Israel's Foreign Ministry",
+        "desc": "- Israeli military had previously threatened to kill any successor to Khamenei",
+        "url": ""
+      },
+      {
+        "title": "Israeli military",
+        "desc": "- Conservative narrative: the appointment proves the regime won't reform; military action is justified",
+        "url": ""
+      },
+      {
+        "title": "China's Foreign Ministry",
+        "desc": "- \"China opposes interference in other countries' internal affairs under any pretext\"",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "- Reports Iranian counterattacks spreading to Bahrain, Kuwait, Saudi Arabia — regionalization of the conflict",
+        "url": ""
+      },
+      {
+        "title": "Russia",
+        "desc": "- Oman (former mediator) and Iraq sent congratulations",
+        "url": ""
+      },
+      {
+        "title": "Oman",
+        "desc": "- Yemen's Houthis welcomed the new leader",
+        "url": ""
+      },
+      {
+        "title": "Yemen's Houthis",
+        "desc": "- Polls show most Israelis back the war, but opponents face threats and violence",
+        "url": ""
+      },
+      {
+        "title": "Bottom line:",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月10日",
+    "date_fmt_zh": "2026年03月10日",
+    "date_fmt_en": "Mar 10, 2026",
+    "ts": "2026-03-10T10:02:58.185308+08:00"
+  },
+  {
     "slug": "radar-2026-03-10",
     "type": "radar",
     "type_label": "商机雷达",
