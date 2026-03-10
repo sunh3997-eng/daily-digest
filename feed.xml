@@ -5,13 +5,21 @@
   <link>https://daily.sundigest.xyz</link>
   <description>Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 10 Mar 2026 00:01:40 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 10 Mar 2026 01:02:06 GMT</lastBuildDate>
   <atom:link href="https://daily.sundigest.xyz/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://daily.sundigest.xyz/assets/og.png</url>
     <title>Daily Digest</title>
     <link>https://daily.sundigest.xyz</link>
   </image>
+  <item>
+    <title>Hidden Opportunities · 2026-03-10 — Opportunity Radar</title>
+    <link>https://daily.sundigest.xyz/posts/radar-2026-03-10.html</link>
+    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-10.html</guid>
+    <pubDate>Tue, 10 Mar 2026 01:02:06 GMT</pubDate>
+    <description>🔍 Hidden Opportunities Daily 2026-03-10</description>
+    <category>Opportunity Radar</category>
+  </item>
   <item>
     <title>Daily Briefing · 2026-03-10 — Daily Briefing</title>
     <link>https://daily.sundigest.xyz/posts/news-2026-03-10.html</link>
@@ -163,14 +171,6 @@
     <pubDate>Mon, 02 Mar 2026 01:04:47 GMT</pubDate>
     <description>🔍 Hidden Opportunities Daily 2026-03-02 · PST</description>
     <category>Opportunity Radar</category>
-  </item>
-  <item>
-    <title>Daily Briefing · 2026-03-01 — Daily Briefing</title>
-    <link>https://daily.sundigest.xyz/posts/news-2026-03-02.html</link>
-    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/news-2026-03-02.html</guid>
-    <pubDate>Mon, 02 Mar 2026 00:03:15 GMT</pubDate>
-    <description>Top Story: US-Israel strikes on Iran kill Supreme Leader Khamenei, triggering regional crisis</description>
-    <category>Daily Briefing</category>
   </item>
 </channel>
 </rss>
