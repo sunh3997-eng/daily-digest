@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-03-10",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-10",
+    "title_en": "Daily Briefing · 2026-03-10",
+    "summary_zh": "📰 每日早报 · 2026-03-10（周二）",
+    "summary_en": "📰 Daily Briefing · 2026-03-10 (Tue)",
+    "bullets_zh": [
+      "美以伊朗战争进入第二周",
+      "伊朗新最高领袖：哈梅内伊之子",
+      "油价飙升突破$100/桶",
+      "普京与Trump通话讨论结束伊朗战争"
+    ],
+    "bullets_en": [
+      "Iran War Enters Second Week",
+      "Iran's New Supreme Leader: Khamenei's Son",
+      "Oil Prices Surge Past $100/Barrel",
+      "Putin-Trump Call on Ending Iran War"
+    ],
+    "items_zh": [
+      {
+        "title": "美以伊朗战争进入第二周",
+        "desc": "• 伊朗新最高领袖：哈梅内伊之子 — 56岁的穆杰塔巴·哈梅内伊被任命为伊朗新最高领袖，Trump称此选择是\"大错误\" DW/CNN/NYT",
+        "url": ""
+      },
+      {
+        "title": "伊朗新最高领袖：哈梅内伊之子",
+        "desc": "• 油价飙升突破$100/桶 — 布伦特原油一度冲至$120，随后回落至$90；加州油价突破$5/加仑，共和党内部对能源价格上涨焦虑加剧 WSJ/Fortune/Guardian",
+        "url": ""
+      },
+      {
+        "title": "油价飙升突破$100/桶",
+        "desc": "• 普京与Trump通话讨论结束伊朗战争 — 克里姆林宫称普京提出快速结束战争的方案，同时讨论了乌克兰问题 Reuters/Axios/Jerusalem Post",
+        "url": ""
+      },
+      {
+        "title": "普京与Trump通话讨论结束伊朗战争",
+        "desc": "• 美国学校误炸争议 — 新视频显示美军战斧导弹击中伊朗学校附近区域，造成至少165人死亡；美军方拒绝支持Trump称伊朗自己炸了学校的说法 AP/NBC/The Intercept",
+        "url": ""
+      },
+      {
+        "title": "美国学校误炸争议",
+        "desc": "• 澳大利亚为5名伊朗女足球员提供庇护 — 球员因未在国歌中敬礼被批为\"战时叛徒\"，Trump曾提出让她们来美但遭拒 WashPost/NYT",
+        "url": ""
+      },
+      {
+        "title": "澳大利亚为5名伊朗女足球员提供庇护",
+        "desc": "• 奥斯陆美国大使馆爆炸 — 挪威警方公布嫌疑人照片，调查显示爆炸由简易装置引起，不排除恐怖主义 BBC",
+        "url": ""
+      },
+      {
+        "title": "奥斯陆美国大使馆爆炸",
+        "desc": "• 克罗地亚恢复征兵制 — 数百名青少年报到，训练涵盖传统技能、无人机控制和网络战 BBC",
+        "url": ""
+      },
+      {
+        "title": "克罗地亚恢复征兵制",
+        "desc": "🤖 AI/科技",
+        "url": ""
+      },
+      {
+        "title": "Anthropic 起诉五角大楼",
+        "desc": "• OpenAI 收购 Promptfoo — 收购AI安全测试初创公司，用于保障AI智能体的安全性 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "OpenAI 收购 Promptfoo",
+        "desc": "• Anthropic 推出代码审查工具 — Claude Code新增多智能体代码审查系统，自动分析AI生成代码并标记逻辑错误 TechCrunch",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Iran War Enters Second Week",
+        "desc": "• Iran's New Supreme Leader: Khamenei's Son — 56-year-old Mojtaba Khamenei named new supreme leader; Trump calls the cho",
+        "url": ""
+      },
+      {
+        "title": "Iran's New Supreme Leader: Khamenei's Son",
+        "desc": "• Oil Prices Surge Past $100/Barrel — Brent crude briefly hit $120 before falling to $90; California gas tops $5/gallon;",
+        "url": ""
+      },
+      {
+        "title": "Oil Prices Surge Past $100/Barrel",
+        "desc": "• Putin-Trump Call on Ending Iran War — Kremlin says Putin shared proposals to end the conflict quickly; Ukraine also di",
+        "url": ""
+      },
+      {
+        "title": "Putin-Trump Call on Ending Iran War",
+        "desc": "• US School Strike Controversy — New footage shows US Tomahawk missile hitting near Iranian school where 165+ died; US m",
+        "url": ""
+      },
+      {
+        "title": "US School Strike Controversy",
+        "desc": "• Australia Grants Asylum to 5 Iranian Women's Soccer Players — Players faced backlash for not saluting during anthem Wa",
+        "url": ""
+      },
+      {
+        "title": "Australia Grants Asylum to 5 Iranian Women's Soccer Players",
+        "desc": "• Oslo US Embassy Explosion — Norwegian police release suspect images; investigating terrorism angle BBC",
+        "url": ""
+      },
+      {
+        "title": "Oslo US Embassy Explosion",
+        "desc": "• Croatia Reinstates Military Conscription — Hundreds of teenagers report for duty BBC",
+        "url": ""
+      },
+      {
+        "title": "Croatia Reinstates Military Conscription",
+        "desc": "🤖 AI & Tech",
+        "url": ""
+      },
+      {
+        "title": "Anthropic Sues Pentagon",
+        "desc": "• OpenAI Acquires Promptfoo — AI security testing startup acquired to secure AI agents TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "OpenAI Acquires Promptfoo",
+        "desc": "• Anthropic Launches Code Review Tool — Multi-agent system in Claude Code that automatically reviews AI-generated code T",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月10日",
+    "date_fmt_zh": "2026年03月10日",
+    "date_fmt_en": "Mar 10, 2026",
+    "ts": "2026-03-10T08:01:40.090631+08:00"
+  },
+  {
     "slug": "perspective-2026-03-09",
     "type": "perspective",
     "type_label": "商机雷达",
