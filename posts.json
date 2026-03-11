@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-03-11",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-10",
+    "title_en": "Multi-Perspective · 2026-03-10",
+    "summary_zh": "🔍 多视角 · 美以对伊朗战争第11天 · 2026-03-10",
+    "summary_en": "🔍 Multi-Perspective · US-Israel War on Iran Day 11 · 2026-03-10",
+    "bullets_zh": [
+      "人道视角",
+      "政治争议",
+      "经济影响",
+      "卫星图像"
+    ],
+    "bullets_en": [
+      "Military",
+      "Humanitarian",
+      "Constitutional debate",
+      "Economic"
+    ],
+    "items_zh": [
+      {
+        "title": "人道视角",
+        "desc": "- 政治争议：参议院战争权力决议失败，宪法层面的分权辩论激烈——总统是否有权未经国会授权发动如此规模的军事行动？",
+        "url": ""
+      },
+      {
+        "title": "政治争议",
+        "desc": "- 经济影响：霍尔木兹海峡通行受威胁，全球油价震荡，白宫称油价飙升\"暂时性的\"",
+        "url": ""
+      },
+      {
+        "title": "经济影响",
+        "desc": "- 外交：多国卷入冲突，地区局势持续升级",
+        "url": ""
+      },
+      {
+        "title": "卫星图像",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "战略叙事",
+        "desc": "- 驳斥批评：称\"外交政策专家假设打击伊朗会孤立美国——Operation Epic Fury 证明华盛顿传统智慧错得离谱\"",
+        "url": ""
+      },
+      {
+        "title": "驳斥批评",
+        "desc": "- 民意：共和党人大多支持，民主党人压倒性反对，呈现尖锐党派分裂",
+        "url": ""
+      },
+      {
+        "title": "核心立场",
+        "desc": "- 分析视角：CGTN 发表评论文章《伊朗战争暴露美国军事力量的局限》，认为美国并非无所不能",
+        "url": ""
+      },
+      {
+        "title": "分析视角",
+        "desc": "- 人道行动：中国东方航空从伊斯坦布尔撤离中国公民回国",
+        "url": ""
+      },
+      {
+        "title": "人道行动",
+        "desc": "- 油价：报道油价下跌时将其归因于\"特朗普的混合信号和中国的撤侨行动\"",
+        "url": ""
+      },
+      {
+        "title": "宪政质疑",
+        "desc": "- 专家分析：《Of Bombs and Regime Change》一文质疑美以的真实战略目标——到底是削弱伊朗核能力，还是追求政权更迭？",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Military",
+        "desc": "- Humanitarian: BBC reports attacks rocking Iranian cities, cutting power. Civilians quote: \"I just want to be able to s",
+        "url": ""
+      },
+      {
+        "title": "Humanitarian",
+        "desc": "- Constitutional debate: Senate war powers resolution failed — fierce debate over whether the president can wage war at ",
+        "url": ""
+      },
+      {
+        "title": "Constitutional debate",
+        "desc": "- Economic: Strait of Hormuz under threat, global oil markets in turmoil. White House calls price spike \"temporary\"",
+        "url": ""
+      },
+      {
+        "title": "Economic",
+        "desc": "- Satellite imagery: Shows extensive damage across Iranian military bases and ports",
+        "url": ""
+      },
+      {
+        "title": "Satellite imagery",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Tone",
+        "desc": "- Strategic narrative: Gen. Jack Keane says organizations sustaining Iran's regime are being \"systematically and deliber",
+        "url": ""
+      },
+      {
+        "title": "Strategic narrative",
+        "desc": "- Pushback on critics: Claims foreign policy establishment was wrong that strikes would isolate America",
+        "url": ""
+      },
+      {
+        "title": "Pushback on critics",
+        "desc": "- Polling: Sharp partisan divide — Republicans largely support, Democrats overwhelmingly oppose",
+        "url": ""
+      },
+      {
+        "title": "Polling",
+        "desc": "- Geopolitical: Strikes expose limits of Beijing and Moscow's power as US flexes strength",
+        "url": ""
+      },
+      {
+        "title": "Geopolitical",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月11日",
+    "date_fmt_zh": "2026年03月11日",
+    "date_fmt_en": "Mar 11, 2026",
+    "ts": "2026-03-11T10:03:17.042201+08:00"
+  },
+  {
     "slug": "radar-2026-03-11",
     "type": "radar",
     "type_label": "商机雷达",
