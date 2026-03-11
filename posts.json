@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-03-11",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-11",
+    "title_en": "Daily Briefing · 2026-03-11",
+    "summary_zh": "📰 每日早报 · 2026-03-11（周三）",
+    "summary_en": "📰 Daily Briefing · 2026-03-11 (Wed)",
+    "bullets_zh": [
+      "AutoKernel：GPU内核自动研究工具",
+      "RunAnywhere（YC W26）：Apple Silicon最快AI推理引擎",
+      "Hume AI开源TADA语音生成模型",
+      "ChatGPT新增交互式可视化"
+    ],
+    "bullets_en": [
+      "AutoKernel: Auto-research for GPU Kernels",
+      "RunAnywhere (YC W26): Fastest AI Inference on Apple Silicon",
+      "Hume AI Open-Sources TADA Speech Generation",
+      "ChatGPT Adds Interactive Visuals"
+    ],
+    "items_zh": [
+      {
+        "title": "AutoKernel：GPU内核自动研究工具",
+        "desc": "",
+        "url": "https://www.hume.ai/blog/opensource-tada"
+      },
+      {
+        "title": "RunAnywhere（YC W26）：Apple Silicon最快AI推理引擎",
+        "desc": "",
+        "url": "https://techcrunch.com"
+      },
+      {
+        "title": "Hume AI开源TADA语音生成模型",
+        "desc": "",
+        "url": "https://techcrunch.com"
+      },
+      {
+        "title": "ChatGPT新增交互式可视化",
+        "desc": "",
+        "url": "https://techcrunch.com"
+      },
+      {
+        "title": "Thinking Machines Lab与Nvidia签署大规模算力协议",
+        "desc": "",
+        "url": "https://techcrunch.com"
+      },
+      {
+        "title": "AI驱动应用长期留存率堪忧",
+        "desc": "",
+        "url": "https://techcrunch.com"
+      },
+      {
+        "title": "Legora AI法律科技估值55.5亿美元",
+        "desc": "🌍 国际要闻",
+        "url": "https://techcrunch.com"
+      },
+      {
+        "title": "Google将Chrome中的Gemini引入印度市场",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "瑞士巴士起火至少6人死亡",
+        "desc": "",
+        "url": "https://bbc.co.uk/news/world"
+      },
+      {
+        "title": "俄罗斯驱逐乌克兰儿童构成反人类罪",
+        "desc": "",
+        "url": "https://bbc.co.uk/news/world"
+      }
+    ],
+    "items_en": [
+      {
+        "title": "AutoKernel: Auto-research for GPU Kernels",
+        "desc": "",
+        "url": "https://www.hume.ai/blog/opensource-tada"
+      },
+      {
+        "title": "RunAnywhere (YC W26): Fastest AI Inference on Apple Silicon",
+        "desc": "",
+        "url": "https://techcrunch.com"
+      },
+      {
+        "title": "Hume AI Open-Sources TADA Speech Generation",
+        "desc": "",
+        "url": "https://techcrunch.com"
+      },
+      {
+        "title": "ChatGPT Adds Interactive Visuals",
+        "desc": "",
+        "url": "https://techcrunch.com"
+      },
+      {
+        "title": "Thinking Machines Lab Signs Massive Compute Deal with Nvidia",
+        "desc": "",
+        "url": "https://techcrunch.com"
+      },
+      {
+        "title": "AI-Powered Apps Struggle with Long-Term Retention",
+        "desc": "🌍 World News",
+        "url": "https://techcrunch.com"
+      },
+      {
+        "title": "Legora Reaches $5.55B Valuation",
+        "desc": "🌍 World News",
+        "url": ""
+      },
+      {
+        "title": "At Least 6 Dead in Switzerland Bus Fire",
+        "desc": "",
+        "url": "https://bbc.co.uk/news/world"
+      },
+      {
+        "title": "Russia's Deportation of Ukrainian Children Amounts to Crime Against Humanity",
+        "desc": "",
+        "url": "https://bbc.co.uk/news/world"
+      },
+      {
+        "title": "Large Parts of Dresden Evacuated",
+        "desc": "",
+        "url": "https://bbc.co.uk/news/world"
+      }
+    ],
+    "date_fmt": "2026年03月11日",
+    "date_fmt_zh": "2026年03月11日",
+    "date_fmt_en": "Mar 11, 2026",
+    "ts": "2026-03-11T20:25:23.749583+08:00"
+  },
+  {
     "slug": "perspective-2026-03-11",
     "type": "perspective",
     "type_label": "商机雷达",
