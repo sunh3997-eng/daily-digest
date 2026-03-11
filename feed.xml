@@ -5,13 +5,21 @@
   <link>https://daily.sundigest.xyz</link>
   <description>Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 10 Mar 2026 02:02:58 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Mar 2026 01:02:43 GMT</lastBuildDate>
   <atom:link href="https://daily.sundigest.xyz/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://daily.sundigest.xyz/assets/og.png</url>
     <title>Daily Digest</title>
     <link>https://daily.sundigest.xyz</link>
   </image>
+  <item>
+    <title>Hidden Opportunities · 2026-03-10 — Opportunity Radar</title>
+    <link>https://daily.sundigest.xyz/posts/radar-2026-03-11.html</link>
+    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-11.html</guid>
+    <pubDate>Wed, 11 Mar 2026 01:02:43 GMT</pubDate>
+    <description>🔍 Hidden Opportunities Daily 2026-03-10</description>
+    <category>Opportunity Radar</category>
+  </item>
   <item>
     <title>Multi-Perspective · 2026-03-09 — Opportunity Radar</title>
     <link>https://daily.sundigest.xyz/posts/perspective-2026-03-10.html</link>
@@ -162,14 +170,6 @@
     <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-04.html</guid>
     <pubDate>Wed, 04 Mar 2026 03:37:20 GMT</pubDate>
     <description>🔍 Hidden Opportunity Radar · March 3, 2026 · PST</description>
-    <category>Opportunity Radar</category>
-  </item>
-  <item>
-    <title>Hidden Opportunities · 2026-03-02 — Opportunity Radar</title>
-    <link>https://daily.sundigest.xyz/posts/radar-2026-03-03.html</link>
-    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-03.html</guid>
-    <pubDate>Tue, 03 Mar 2026 01:05:03 GMT</pubDate>
-    <description>🔍 Hidden Opportunities Daily · March 2, 2026 · PST</description>
     <category>Opportunity Radar</category>
   </item>
 </channel>

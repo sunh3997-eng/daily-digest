@@ -1,5 +1,38 @@
 [
   {
+    "slug": "radar-2026-03-11",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-03-10",
+    "title_en": "Hidden Opportunities · 2026-03-10",
+    "summary_zh": "🔍 隐藏商机日报 2026-03-10",
+    "summary_en": "🔍 Hidden Opportunities Daily 2026-03-10",
+    "bullets_zh": [
+      "OpenClaw Shield"
+    ],
+    "bullets_en": [
+      "OpenClaw Shield"
+    ],
+    "items_zh": [
+      {
+        "title": "OpenClaw Shield",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "OpenClaw Shield",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月11日",
+    "date_fmt_zh": "2026年03月11日",
+    "date_fmt_en": "Mar 11, 2026",
+    "ts": "2026-03-11T09:02:43.673257+08:00"
+  },
+  {
     "slug": "perspective-2026-03-10",
     "type": "perspective",
     "type_label": "商机雷达",
