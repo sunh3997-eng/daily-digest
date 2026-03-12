@@ -1,5 +1,38 @@
 [
   {
+    "slug": "radar-2026-03-12",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-03-11",
+    "title_en": "Hidden Opportunities · 2026-03-11",
+    "summary_zh": "🔍 隐藏商机日报 2026-03-12",
+    "summary_en": "🔍 Hidden Opportunities Daily 2026-03-12",
+    "bullets_zh": [
+      "AI Agent 合规审计 SaaS"
+    ],
+    "bullets_en": [
+      "AI Agent Compliance Platform"
+    ],
+    "items_zh": [
+      {
+        "title": "AI Agent 合规审计 SaaS",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "AI Agent Compliance Platform",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月12日",
+    "date_fmt_zh": "2026年03月12日",
+    "date_fmt_en": "Mar 12, 2026",
+    "ts": "2026-03-12T09:02:29.759893+08:00"
+  },
+  {
     "slug": "news-2026-03-12",
     "type": "news",
     "type_label": "每日早报",
