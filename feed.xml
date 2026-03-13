@@ -5,13 +5,21 @@
   <link>https://daily.sundigest.xyz</link>
   <description>Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 13 Mar 2026 00:02:02 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Mar 2026 01:02:50 GMT</lastBuildDate>
   <atom:link href="https://daily.sundigest.xyz/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://daily.sundigest.xyz/assets/og.png</url>
     <title>Daily Digest</title>
     <link>https://daily.sundigest.xyz</link>
   </image>
+  <item>
+    <title>Hidden Opportunities · 2026-03-13 — Opportunity Radar</title>
+    <link>https://daily.sundigest.xyz/posts/radar-2026-03-13.html</link>
+    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-13.html</guid>
+    <pubDate>Fri, 13 Mar 2026 01:02:50 GMT</pubDate>
+    <description>🔍 Hidden Opportunities Daily 2026-03-13</description>
+    <category>Opportunity Radar</category>
+  </item>
   <item>
     <title>Daily Briefing · 2026-03-13 — Daily Briefing</title>
     <link>https://daily.sundigest.xyz/posts/news-2026-03-13.html</link>
@@ -162,14 +170,6 @@
     <guid isPermaLink="true">https://daily.sundigest.xyz/posts/perspective-2026-03-06.html</guid>
     <pubDate>Fri, 06 Mar 2026 02:03:05 GMT</pubDate>
     <description>🔍 Multi-Perspective · US Strikes Kill Iran's Khamenei; Trump Claims Role in Choosing Iran's Next Leader · 2026-03-06</description>
-    <category>Opportunity Radar</category>
-  </item>
-  <item>
-    <title>Hidden Opportunities · 2026-03-06 — Opportunity Radar</title>
-    <link>https://daily.sundigest.xyz/posts/radar-2026-03-06.html</link>
-    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-06.html</guid>
-    <pubDate>Fri, 06 Mar 2026 01:02:09 GMT</pubDate>
-    <description>🔍 Hidden Opportunities Daily 2026-03-06</description>
     <category>Opportunity Radar</category>
   </item>
 </channel>

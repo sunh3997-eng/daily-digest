@@ -1,5 +1,38 @@
 [
   {
+    "slug": "radar-2026-03-13",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-03-13",
+    "title_en": "Hidden Opportunities · 2026-03-13",
+    "summary_zh": "🔍 隐藏商机日报 2026-03-13",
+    "summary_en": "🔍 Hidden Opportunities Daily 2026-03-13",
+    "bullets_zh": [
+      "AgentBench"
+    ],
+    "bullets_en": [
+      "AgentBench"
+    ],
+    "items_zh": [
+      {
+        "title": "AgentBench",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "AgentBench",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月13日",
+    "date_fmt_zh": "2026年03月13日",
+    "date_fmt_en": "Mar 13, 2026",
+    "ts": "2026-03-13T09:02:50.461502+08:00"
+  },
+  {
     "slug": "news-2026-03-13",
     "type": "news",
     "type_label": "每日早报",
