@@ -1,5 +1,109 @@
 [
   {
+    "slug": "perspective-2026-03-13",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-13",
+    "title_en": "Multi-Perspective · 2026-03-13",
+    "summary_zh": "🔍 多视角 · 美伊战争升级：新最高领袖强硬表态与霍尔木兹海峡危机 · 2026-03-13",
+    "summary_en": "🔍 Multi-Perspective · US-Iran War Escalation: New Supreme Leader's Defiance & the Strait of Hormuz Crisis · 2026-03-13",
+    "bullets_zh": [
+      "整体基调",
+      "Fox News",
+      "内塔尼亚胡",
+      "\"战争信号：俄罗斯和中国如何帮助伊朗感知战场\""
+    ],
+    "bullets_en": [
+      "Reuters",
+      "Overall tone",
+      "Fox News",
+      "Netanyahu's"
+    ],
+    "items_zh": [
+      {
+        "title": "整体基调",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "内塔尼亚胡",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "\"战争信号：俄罗斯和中国如何帮助伊朗感知战场\"",
+        "desc": "中国的一贯立场是：反对单边军事行动，呼吁通过对话解决分歧，强调霍尔木兹海峡航行自由对全球经济的重要性。同日，中国批准了《民族团结法》要求少数民族学习普通话——内政议程与中东局势形成微妙的注意力分流。",
+        "url": ""
+      },
+      {
+        "title": "半岛电视台",
+        "desc": "- 伊朗总统提出停战条件：要求\"赔偿\"以及美以不再攻击的保证——这被视为一个潜在的\"出口匝道\"",
+        "url": ""
+      },
+      {
+        "title": "Hacker News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "最值得注意的信号",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Reuters",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Overall tone",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Netanyahu's",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "\"The war of signals: How Russia and China help Iran see the battlefield\"",
+        "desc": "China's consistent position: opposition to unilateral military action, calls for dialogue, emphasis on Hormuz freedom of",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "- Iran's president set ceasefire terms: demanding \"reparations\" and guarantees against future attacks — framed as a pote",
+        "url": ""
+      },
+      {
+        "title": "Hacker News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Most notable signal",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月13日",
+    "date_fmt_zh": "2026年03月13日",
+    "date_fmt_en": "Mar 13, 2026",
+    "ts": "2026-03-13T10:03:06.246187+08:00"
+  },
+  {
     "slug": "radar-2026-03-13",
     "type": "radar",
     "type_label": "商机雷达",
