@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-03-14",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-13",
+    "title_en": "Multi-Perspective · 2026-03-13",
+    "summary_zh": "🔍 多视角 · 美军轰炸伊朗哈尔克岛：第14天战事升级 · 2026-03-13",
+    "summary_en": "🔍 Multi-Perspective · US Strikes Iran's Kharg Island: Day 14 Escalation · 2026-03-13",
+    "bullets_zh": [
+      "叙事框架：战争升级引发全球担忧",
+      "共和党内部裂痕",
+      "关键词：升级、分裂、经济冲击、国际法争议",
+      "叙事框架：果断打击，展示实力"
+    ],
+    "bullets_en": [
+      "Narrative: Dangerous escalation with global consequences",
+      "Republican coalition cracks",
+      "Keywords: escalation, division, economic shockwaves, international law",
+      "Narrative: Decisive action, projecting strength"
+    ],
+    "items_zh": [
+      {
+        "title": "叙事框架：战争升级引发全球担忧",
+        "desc": "- 《纽约时报》以\"伊朗战争实时更新\"为头条，强调美军打击了伊朗石油出口枢纽，但特朗普声称\"未针对石油设施本身\"——这一措辞被分析人士认为是在给市场预期留余地。",
+        "url": ""
+      },
+      {
+        "title": "共和党内部裂痕",
+        "desc": "- CNN 报道美军正从日本调遣两栖戒备群增援中东，暗示冲突可能进一步升级。",
+        "url": ""
+      },
+      {
+        "title": "关键词：升级、分裂、经济冲击、国际法争议",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "叙事框架：果断打击，展示实力",
+        "desc": "- Fox News 标题用词为\"特朗普称美国'彻底摧毁'了哈尔克岛目标\"，语气偏向正面呈现军事行动的决断力。",
+        "url": ""
+      },
+      {
+        "title": "关键词：摧毁、果断、精确打击（但内部有反战声音）",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "叙事框架：美国霸权主义与地区动荡",
+        "desc": "- 虽然本次未能直接抓取到新华社和CGTN的专题文章（网站技术限制），但根据Al Jazeera引述的分析，中俄两国正通过电子战和情报共享削弱美以在海湾地区数十年的军事优势——这一视角在中文媒体中被广泛报道。",
+        "url": ""
+      },
+      {
+        "title": "电子战和情报共享",
+        "desc": "- 中方一贯立场：反对单边军事行动，呼吁通过对话解决争端，批评美国\"双重标准\"。",
+        "url": ""
+      },
+      {
+        "title": "关键词：霸权、单边主义、能源安全、全球经济风险",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "叙事框架：国际法红线与平民代价",
+        "desc": "- Al Jazeera 报道最为尖锐：直接引用分析人士称美国国防部长赫格塞斯\"不留活口、不留情面\"的言论违反国际法。该媒体还详细描述了哈尔克岛作为\"被禁之岛\"的历史文化脉络——古代遗迹与石油帝国神经中枢并存。",
+        "url": ""
+      },
+      {
+        "title": "违反国际法",
+        "desc": "- 伊朗总统已提出停战条件：要求\"赔偿\"并保证美以不再发动攻击，但分析人士认为这些条件在当前局势下几乎不可能被接受。",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Narrative: Dangerous escalation with global consequences",
+        "desc": "- NYT led with live updates emphasizing the strike on Iran's oil export hub, noting Trump's careful claim that \"oil infr",
+        "url": ""
+      },
+      {
+        "title": "Republican coalition cracks",
+        "desc": "- CNN reported the US is moving additional Marines and warships from Japan to the Middle East, signaling potential furth",
+        "url": ""
+      },
+      {
+        "title": "Keywords: escalation, division, economic shockwaves, international law",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Narrative: Decisive action, projecting strength",
+        "desc": "- Fox News headline: Trump says US 'obliterated' targets — framing emphasizes decisiveness and military effectiveness.",
+        "url": ""
+      },
+      {
+        "title": "Keywords: obliterated, decisive, precision (but internal anti-war voices)",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Narrative: US hegemony destabilizing the region",
+        "desc": "- While direct article extraction was limited by technical barriers, Al Jazeera's analysis noted that Russia and China a",
+        "url": ""
+      },
+      {
+        "title": "Keywords: hegemony, unilateralism, energy security, global economic risk",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Narrative: International law violations and civilian cost",
+        "desc": "- Al Jazeera's coverage was the most pointed: analysts directly stated that Hegseth's \"no quarter, no mercy\" declaration",
+        "url": ""
+      },
+      {
+        "title": "violates international law",
+        "desc": "- Iran's president set ceasefire conditions: reparations and guarantees against future US-Israeli attacks — conditions a",
+        "url": ""
+      },
+      {
+        "title": "Keywords: international law, civilians, reparations, anti-war movement",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月14日",
+    "date_fmt_zh": "2026年03月14日",
+    "date_fmt_en": "Mar 14, 2026",
+    "ts": "2026-03-14T10:02:52.985187+08:00"
+  },
+  {
     "slug": "radar-2026-03-14",
     "type": "radar",
     "type_label": "商机雷达",
