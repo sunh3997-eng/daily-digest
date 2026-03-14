@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-03-14",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-14",
+    "title_en": "Daily Briefing · 2026-03-14",
+    "summary_zh": "📰 每日早报 · 2026年3月14日（周六）",
+    "summary_en": "📰 Daily Briefing · March 14, 2026 (Saturday)",
+    "bullets_zh": [
+      "美军加油机在伊拉克坠毁，6名机组人员全部遇难",
+      "美国防部长称伊朗新最高领袖穆杰塔巴·哈梅内伊受伤\"毁容\"",
+      "美军轰炸伊朗哈尔克岛石油出口枢纽",
+      "五角大楼派遣USS Tripoli及数千海军陆战队前往中东"
+    ],
+    "bullets_en": [
+      "All 6 crew members killed in US refueling plane crash in Iraq",
+      "US bombs Iran's Kharg Island oil export hub",
+      "Pentagon sends USS Tripoli, 2,500 Marines to Middle East",
+      "Grassley slams Trump for lifting Russian oil sanctions"
+    ],
+    "items_zh": [
+      {
+        "title": "美军加油机在伊拉克坠毁，6名机组人员全部遇难",
+        "desc": "14:50 美国防部长称伊朗新最高领袖穆杰塔巴·哈梅内伊受伤\"毁容\" — Hegseth声称美以打击已伤及伊朗新任最高领袖 Al Jazeera",
+        "url": ""
+      },
+      {
+        "title": "美国防部长称伊朗新最高领袖穆杰塔巴·哈梅内伊受伤\"毁容\"",
+        "desc": "13:06 美军轰炸伊朗哈尔克岛石油出口枢纽 — Trump称已\"彻底摧毁\"该岛所有军事目标，威胁若油轮被阻将攻击石油基础设施 CNBC",
+        "url": ""
+      },
+      {
+        "title": "美军轰炸伊朗哈尔克岛石油出口枢纽",
+        "desc": "17:51 五角大楼派遣USS Tripoli及数千海军陆战队前往中东 — 战争近两周后美国向中东增兵2500人 Axios",
+        "url": ""
+      },
+      {
+        "title": "五角大楼派遣USS Tripoli及数千海军陆战队前往中东",
+        "desc": "18:20 德黑兰\"古都斯日\"集会吸引数千人上街 — 以色列此前威胁打击集会区域，集会期间德黑兰传出爆炸声 Al Jazeera",
+        "url": ""
+      },
+      {
+        "title": "德黑兰\"古都斯日\"集会吸引数千人上街",
+        "desc": "19:55 Grassley批评Trump取消对俄石油制裁：错误之举 — 欧洲及乌克兰盟友也猛烈谴责美国暂时解除俄罗斯石油制裁 The Hill",
+        "url": ""
+      },
+      {
+        "title": "Grassley批评Trump取消对俄石油制裁：错误之举",
+        "desc": "22:02 联邦法官阻止司法部对美联储主席鲍威尔的传票 — 法官称调查具政治动机，司法部将上诉 NYT",
+        "url": ""
+      },
+      {
+        "title": "联邦法官阻止司法部对美联储主席鲍威尔的传票",
+        "desc": "22:14 密歇根犹太教堂汽车冲撞嫌疑人曾购买2000美元烟花 — 袭击者在与保安交火中自杀 NBC News",
+        "url": ""
+      },
+      {
+        "title": "密歇根犹太教堂汽车冲撞嫌疑人曾购买2000美元烟花",
+        "desc": "🤖 AI/科技",
+        "url": ""
+      },
+      {
+        "title": "Amazon将使用Cerebras巨型芯片运行AI模型",
+        "desc": "11:02 Parallels确认MacBook Neo可运行Windows虚拟机 — $599的MacBook Neo被评为\"最可维修苹果笔记本\" MacRumors",
+        "url": ""
+      },
+      {
+        "title": "Parallels确认MacBook Neo可运行Windows虚拟机",
+        "desc": "14:36 iPhone Fold无折痕屏幕即将达成重大里程碑 — 传闻将配备类似iPad的分屏多任务功能 9to5Mac",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "All 6 crew members killed in US refueling plane crash in Iraq",
+        "desc": "14:50 Hegseth claims Iran's new Supreme Leader Mojtaba Khamenei injured and \"disfigured\" — US casts doubt on his post-st",
+        "url": ""
+      },
+      {
+        "title": "Hegseth claims Iran's new Supreme Leader Mojtaba Khamenei injured and \"disfigured\"",
+        "desc": "13:06 US bombs Iran's Kharg Island oil export hub — Trump says \"every military target totally obliterated,\" threatens oi",
+        "url": ""
+      },
+      {
+        "title": "US bombs Iran's Kharg Island oil export hub",
+        "desc": "17:51 Pentagon sends USS Tripoli, 2,500 Marines to Middle East — Force buildup after nearly two weeks of war Axios",
+        "url": ""
+      },
+      {
+        "title": "Pentagon sends USS Tripoli, 2,500 Marines to Middle East",
+        "desc": "19:55 Grassley slams Trump for lifting Russian oil sanctions — Europe, Ukraine allies also condemn the move The Hill",
+        "url": ""
+      },
+      {
+        "title": "Grassley slams Trump for lifting Russian oil sanctions",
+        "desc": "22:02 Federal judge blocks DOJ subpoenas of Fed Chair Powell — Judge calls probe politically motivated; DOJ to appeal NY",
+        "url": ""
+      },
+      {
+        "title": "Federal judge blocks DOJ subpoenas of Fed Chair Powell",
+        "desc": "22:14 Michigan synagogue car-ramming suspect bought $2,000 in fireworks before attack — Attacker killed himself during g",
+        "url": ""
+      },
+      {
+        "title": "Michigan synagogue car-ramming suspect bought $2,000 in fireworks before attack",
+        "desc": "🤖 AI & Tech",
+        "url": ""
+      },
+      {
+        "title": "Amazon partners with Cerebras for AI inference chips on AWS",
+        "desc": "11:02 Parallels confirms $599 MacBook Neo can run Windows VM — Praised as most repairable Apple laptop in years MacRumor",
+        "url": ""
+      },
+      {
+        "title": "Parallels confirms $599 MacBook Neo can run Windows VM",
+        "desc": "14:36 iPhone Fold's crease-free display nears major milestone — Rumored iPad-like split-screen multitasking 9to5Mac",
+        "url": ""
+      },
+      {
+        "title": "iPhone Fold's crease-free display nears major milestone",
+        "desc": "16:40 Elon Musk pushes out more xAI founders as AI coding effort falters — Internal turmoil at xAI deepens FT",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月14日",
+    "date_fmt_zh": "2026年03月14日",
+    "date_fmt_en": "Mar 14, 2026",
+    "ts": "2026-03-14T08:02:15.412040+08:00"
+  },
+  {
     "slug": "perspective-2026-03-13",
     "type": "perspective",
     "type_label": "商机雷达",
