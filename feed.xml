@@ -5,13 +5,21 @@
   <link>https://daily.sundigest.xyz</link>
   <description>Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.</description>
   <language>en</language>
-  <lastBuildDate>Sat, 14 Mar 2026 00:02:15 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 14 Mar 2026 01:03:00 GMT</lastBuildDate>
   <atom:link href="https://daily.sundigest.xyz/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://daily.sundigest.xyz/assets/og.png</url>
     <title>Daily Digest</title>
     <link>https://daily.sundigest.xyz</link>
   </image>
+  <item>
+    <title>Hidden Opportunities · 2026-03-13 — Opportunity Radar</title>
+    <link>https://daily.sundigest.xyz/posts/radar-2026-03-14.html</link>
+    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-14.html</guid>
+    <pubDate>Sat, 14 Mar 2026 01:03:00 GMT</pubDate>
+    <description>🔍 Hidden Opportunities Daily 2026-03-13</description>
+    <category>Opportunity Radar</category>
+  </item>
   <item>
     <title>Daily Briefing · 2026-03-14 — Daily Briefing</title>
     <link>https://daily.sundigest.xyz/posts/news-2026-03-14.html</link>
@@ -163,14 +171,6 @@
     <pubDate>Sat, 07 Mar 2026 02:34:14 GMT</pubDate>
     <description>🔍 Hidden Opportunities Daily 2026-03-07</description>
     <category>Opportunity Radar</category>
-  </item>
-  <item>
-    <title>Daily Briefing · 2026-03-06 — Daily Briefing</title>
-    <link>https://daily.sundigest.xyz/posts/news-2026-03-07.html</link>
-    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/news-2026-03-07.html</guid>
-    <pubDate>Sat, 07 Mar 2026 02:31:21 GMT</pubDate>
-    <description>📰 Daily Briefing · March 6, 2026 (Friday)</description>
-    <category>Daily Briefing</category>
   </item>
 </channel>
 </rss>
