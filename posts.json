@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-03-15",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-15",
+    "title_en": "Daily Briefing · 2026-03-15",
+    "summary_zh": "📰 每日早报 · 2026-03-15 (周日)",
+    "summary_en": "📰 Daily Briefing · March 15, 2026 (Sunday)",
+    "bullets_zh": [
+      "特朗普呼吁英国派军舰保持霍尔木兹海峡畅通",
+      "特朗普称伊朗已准备谈判停火，但自己\"还没准备好\"",
+      "美国能源部长命令得州石油公司恢复加州近海作业",
+      "以色列与黎巴嫩拟就真主党冲突展开谈判"
+    ],
+    "bullets_en": [
+      "Trump Urges UK to Send Warships to Keep Strait of Hormuz Open",
+      "Trump Says Iran Ready to Negotiate Ceasefire but He's \"Not Ready\"",
+      "Israel and Lebanon to Talk as War with Hezbollah Rages",
+      "Six Killed in Russian Air Attacks on Ukraine"
+    ],
+    "items_zh": [
+      {
+        "title": "特朗普呼吁英国派军舰保持霍尔木兹海峡畅通",
+        "desc": "23:12 特朗普称伊朗已准备谈判停火，但自己\"还没准备好\" — 在G7通话中声称伊朗\"即将投降\" NBC News",
+        "url": ""
+      },
+      {
+        "title": "特朗普称伊朗已准备谈判停火，但自己\"还没准备好\"",
+        "desc": "21:12 美国能源部长命令得州石油公司恢复加州近海作业 — 动用紧急权力应对伊朗战争引发的能源短缺 CBS News",
+        "url": ""
+      },
+      {
+        "title": "美国能源部长命令得州石油公司恢复加州近海作业",
+        "desc": "15:10 以色列与黎巴嫩拟就真主党冲突展开谈判 — 以色列同时规划大规模地面入侵黎巴嫩，WHO称医疗中心遇袭致12死 Reuters",
+        "url": ""
+      },
+      {
+        "title": "以色列与黎巴嫩拟就真主党冲突展开谈判",
+        "desc": "06:59 俄罗斯空袭乌克兰致至少6死 — 基辅地区能源基础设施遭大规模夜间打击，哈尔科夫公寓楼被导弹击中致10死 Reuters",
+        "url": ""
+      },
+      {
+        "title": "俄罗斯空袭乌克兰致至少6死",
+        "desc": "19:25 宾州两名青少年涉嫌纽约ISIS式炸弹袭击 — 试图在市长官邸外抗议活动中引爆爆炸装置，FBI展开恐怖主义调查 NBC News",
+        "url": ""
+      },
+      {
+        "title": "宾州两名青少年涉嫌纽约ISIS式炸弹袭击",
+        "desc": "🤖 AI/科技",
+        "url": ""
+      },
+      {
+        "title": "Anthropic 向 Claude 合作伙伴网络投资 1 亿美元",
+        "desc": "16:18 Meta 将移除 Instagram DM 端到端加密 — 称\"极少人使用\"，5月生效，隐私倡导者批评 Mashable",
+        "url": ""
+      },
+      {
+        "title": "Meta 将移除 Instagram DM 端到端加密",
+        "desc": "05:33 微软将于2026年为 Xbox 主机添加 AI Gaming Copilot — 游戏内 AI 助手，引发创作者版权讨论 TechPowerUp",
+        "url": ""
+      },
+      {
+        "title": "微软将于2026年为 Xbox 主机添加 AI Gaming Copilot",
+        "desc": "23:20 Apple MacBook Neo 成十余年来最易维修笔记本 — PC 厂商尚未准备好应对竞争 Reuters",
+        "url": ""
+      },
+      {
+        "title": "Apple MacBook Neo 成十余年来最易维修笔记本",
+        "desc": "12:01 CPU 造假丑闻扩大：Chuwi 又一款笔记本以旧充新 — 标称 Ryzen 5 7430U 实发 5500U，ODM 供应链追责 Notebookcheck",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Trump Urges UK to Send Warships to Keep Strait of Hormuz Open",
+        "desc": "• Trump Says Iran Ready to Negotiate Ceasefire but He's \"Not Ready\" — Claims Iran \"about to surrender\" in G7 call NBC Ne",
+        "url": ""
+      },
+      {
+        "title": "Trump Says Iran Ready to Negotiate Ceasefire but He's \"Not Ready\"",
+        "desc": "• US Energy Secretary Orders Texas Oil Company to Restart California Offshore Operations — Emergency powers invoked amid",
+        "url": ""
+      },
+      {
+        "title": "US Energy Secretary Orders Texas Oil Company to Restart California Offshore Operations",
+        "desc": "• Israel and Lebanon to Talk as War with Hezbollah Rages — Israel planning massive ground invasion; WHO reports 12 kille",
+        "url": ""
+      },
+      {
+        "title": "Israel and Lebanon to Talk as War with Hezbollah Rages",
+        "desc": "• Six Killed in Russian Air Attacks on Ukraine — Massive overnight strike on Kyiv energy infrastructure; Kharkiv apartme",
+        "url": ""
+      },
+      {
+        "title": "Six Killed in Russian Air Attacks on Ukraine",
+        "desc": "• Two Pennsylvania Teens Charged in ISIS-Inspired NYC Bomb Plot — Attempted to detonate explosives outside mayor's resid",
+        "url": ""
+      },
+      {
+        "title": "Two Pennsylvania Teens Charged in ISIS-Inspired NYC Bomb Plot",
+        "desc": "🤖 AI & Tech",
+        "url": ""
+      },
+      {
+        "title": "Anthropic Invests $100M in Claude Partner Network",
+        "desc": "• Meta Removing End-to-End Encryption from Instagram DMs — Takes effect May 2026; \"very few\" used it, says Meta Mashable",
+        "url": ""
+      },
+      {
+        "title": "Meta Removing End-to-End Encryption from Instagram DMs",
+        "desc": "• Microsoft Adding AI Gaming Copilot to Xbox Consoles in 2026 — In-game AI assistant sparks creator rights debate TechPo",
+        "url": ""
+      },
+      {
+        "title": "Microsoft Adding AI Gaming Copilot to Xbox Consoles in 2026",
+        "desc": "• Apple MacBook Neo: Most Repairable MacBook in Over a Decade — PC makers scramble to compete Reuters",
+        "url": ""
+      },
+      {
+        "title": "Apple MacBook Neo: Most Repairable MacBook in Over a Decade",
+        "desc": "• CPU Fraud Scandal Spreads: Chuwi Caught Again with Fake Chips — Advertised Ryzen 5 7430U, shipped older 5500U Notebook",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月15日",
+    "date_fmt_zh": "2026年03月15日",
+    "date_fmt_en": "Mar 15, 2026",
+    "ts": "2026-03-15T08:01:43.567480+08:00"
+  },
+  {
     "slug": "perspective-2026-03-14",
     "type": "perspective",
     "type_label": "商机雷达",
