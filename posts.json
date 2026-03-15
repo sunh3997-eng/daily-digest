@@ -1,5 +1,84 @@
 [
   {
+    "slug": "perspective-2026-03-15",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-14",
+    "title_en": "Multi-Perspective · 2026-03-14",
+    "summary_zh": "🔍 多视角 · FCC主席威胁吊销电视台执照以审查战争报道 · 2026-03-14",
+    "summary_en": "🔍 Multi-Perspective · FCC Chairman Threatens to Revoke TV Licenses Over War Coverage · 2026-03-14",
+    "bullets_zh": [
+      "Fortune/Bloomberg 报道：",
+      "Reuters 报道：",
+      "Hacker News（105+赞，47+评论）：",
+      "Reddit"
+    ],
+    "bullets_en": [
+      "Fortune/Bloomberg:",
+      "Reuters:",
+      "Hacker News (105+ points, 47+ comments):",
+      "Reddit"
+    ],
+    "items_zh": [
+      {
+        "title": "Fortune/Bloomberg 报道：",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Reuters 报道：",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Hacker News（105+赞，47+评论）：",
+        "desc": "- \"也许我们该把FCC改名叫'宣传部'了\"",
+        "url": ""
+      },
+      {
+        "title": "Reddit",
+        "desc": "- \"FCC：按总统要求报道伊朗战争，否则吊销执照\"",
+        "url": ""
+      },
+      {
+        "title": "本质分歧：",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Fortune/Bloomberg:",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Reuters:",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Hacker News (105+ points, 47+ comments):",
+        "desc": "- \"Maybe we should rename the FCC to the 'Ministry of Propaganda'\"",
+        "url": ""
+      },
+      {
+        "title": "Reddit",
+        "desc": "- \"FCC: Cover the Iran war the way the president wants or lose your broadcast license\"",
+        "url": ""
+      },
+      {
+        "title": "Core tension:",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月15日",
+    "date_fmt_zh": "2026年03月15日",
+    "date_fmt_en": "Mar 15, 2026",
+    "ts": "2026-03-15T10:02:59.413776+08:00"
+  },
+  {
     "slug": "radar-2026-03-15",
     "type": "radar",
     "type_label": "商机雷达",

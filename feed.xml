@@ -5,13 +5,21 @@
   <link>https://daily.sundigest.xyz</link>
   <description>Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.</description>
   <language>en</language>
-  <lastBuildDate>Sun, 15 Mar 2026 01:03:16 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 15 Mar 2026 02:02:59 GMT</lastBuildDate>
   <atom:link href="https://daily.sundigest.xyz/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://daily.sundigest.xyz/assets/og.png</url>
     <title>Daily Digest</title>
     <link>https://daily.sundigest.xyz</link>
   </image>
+  <item>
+    <title>Multi-Perspective · 2026-03-14 — Opportunity Radar</title>
+    <link>https://daily.sundigest.xyz/posts/perspective-2026-03-15.html</link>
+    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/perspective-2026-03-15.html</guid>
+    <pubDate>Sun, 15 Mar 2026 02:02:59 GMT</pubDate>
+    <description>🔍 Multi-Perspective · FCC Chairman Threatens to Revoke TV Licenses Over War Coverage · 2026-03-14</description>
+    <category>Opportunity Radar</category>
+  </item>
   <item>
     <title>Hidden Opportunities · 2026-03-15 — Opportunity Radar</title>
     <link>https://daily.sundigest.xyz/posts/radar-2026-03-15.html</link>
@@ -162,14 +170,6 @@
     <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-09.html</guid>
     <pubDate>Mon, 09 Mar 2026 01:02:18 GMT</pubDate>
     <description>🔍 Hidden Opportunities Daily 2026-03-08</description>
-    <category>Opportunity Radar</category>
-  </item>
-  <item>
-    <title>Multi-Perspective · 2026-03-07 — Opportunity Radar</title>
-    <link>https://daily.sundigest.xyz/posts/perspective-2026-03-08.html</link>
-    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/perspective-2026-03-08.html</guid>
-    <pubDate>Sun, 08 Mar 2026 02:02:52 GMT</pubDate>
-    <description>🔍 Multi-Perspective · Day 8 of US-Israel War on Iran: De-escalation Signals &amp; Internal Rifts · 2026-03-07</description>
     <category>Opportunity Radar</category>
   </item>
 </channel>
