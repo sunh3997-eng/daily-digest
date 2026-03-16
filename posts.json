@@ -1,5 +1,109 @@
 [
   {
+    "slug": "perspective-2026-03-16",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-15",
+    "title_en": "Multi-Perspective · 2026-03-15",
+    "summary_zh": "🔍 多视角 · 以色列大规模空袭伊朗 & 霍尔木兹海峡危机 · 2026-03-15",
+    "summary_en": "🔍 Multi-Perspective · Israel's Extensive Strikes on Iran & Hormuz Strait Crisis · 2026-03-15",
+    "bullets_zh": [
+      "Guardian",
+      "Bloomberg",
+      "Politico",
+      "叙事基调"
+    ],
+    "bullets_en": [
+      "Guardian",
+      "Bloomberg",
+      "Narrative tone",
+      "Global Times"
+    ],
+    "items_zh": [
+      {
+        "title": "Guardian",
+        "desc": "- CNN：实时更新伊朗战事，特朗普敦促中国帮助解决霍尔木兹海峡危机——将中国拉入多边框架的外交试探。",
+        "url": ""
+      },
+      {
+        "title": "Bloomberg",
+        "desc": "- Politico：特朗普要求\"约7个国家\"加入护航联盟，外交口吻强势但实际响应者寥寥。",
+        "url": ""
+      },
+      {
+        "title": "Politico",
+        "desc": "- NYT：各国对特朗普派军舰护航的呼吁\"谨慎回应\"——暗示盟友对美国单边行动的疲惫。",
+        "url": ""
+      },
+      {
+        "title": "叙事基调",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "环球时报",
+        "desc": "- CGTN首页同样以国内科技新闻为主，中东局势未获显著位置。",
+        "url": ""
+      },
+      {
+        "title": "CGTN",
+        "desc": "- 中国官方媒体的整体态度：避免直接批评美以（因正值中美贸易关系敏感期），但特朗普拉中国护航霍尔木兹的提议大概率不会被接受——中国立场一贯是反对域外军事干预。",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "- 特朗普称可能\"为了好玩\"再次打击伊朗哈尔克岛（石油枢纽）——半岛用此凸显美方的轻率态度。",
+        "url": ""
+      },
+      {
+        "title": "核心分歧",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Guardian",
+        "desc": "- CNN: Live updates on Iran war; Trump urging China to help address Hormuz crisis — a diplomatic probe to bring Beijing ",
+        "url": ""
+      },
+      {
+        "title": "Bloomberg",
+        "desc": "- NYT: Nations respond to Trump's warship call \"with caution\" — implying allied fatigue with US unilateralism.",
+        "url": ""
+      },
+      {
+        "title": "Narrative tone",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Global Times",
+        "desc": "- CGTN similarly focuses on domestic tech news; Middle East buried.",
+        "url": ""
+      },
+      {
+        "title": "CGTN",
+        "desc": "- China's overall posture: avoid criticizing US/Israel directly (given sensitive US-China trade dynamics), but Trump's i",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "- Trump saying he might hit Kharg Island again \"just for fun\" — used to highlight American recklessness.",
+        "url": ""
+      },
+      {
+        "title": "Core divergence",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月16日",
+    "date_fmt_zh": "2026年03月16日",
+    "date_fmt_en": "Mar 16, 2026",
+    "ts": "2026-03-16T10:03:02.986745+08:00"
+  },
+  {
     "slug": "radar-2026-03-16",
     "type": "radar",
     "type_label": "商机雷达",
