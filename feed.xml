@@ -5,13 +5,21 @@
   <link>https://daily.sundigest.xyz</link>
   <description>Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 17 Mar 2026 01:03:17 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Mar 2026 02:03:02 GMT</lastBuildDate>
   <atom:link href="https://daily.sundigest.xyz/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://daily.sundigest.xyz/assets/og.png</url>
     <title>Daily Digest</title>
     <link>https://daily.sundigest.xyz</link>
   </image>
+  <item>
+    <title>Multi-Perspective · 2026-03-16 — Opportunity Radar</title>
+    <link>https://daily.sundigest.xyz/posts/perspective-2026-03-17.html</link>
+    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/perspective-2026-03-17.html</guid>
+    <pubDate>Tue, 17 Mar 2026 02:03:02 GMT</pubDate>
+    <description>🔍 Multi-Perspective · Strait of Hormuz Standoff: Trump Demands Allied Warships, Gets Rejected · 2026-03-16</description>
+    <category>Opportunity Radar</category>
+  </item>
   <item>
     <title>Hidden Opportunities · 2026-03-16 — Opportunity Radar</title>
     <link>https://daily.sundigest.xyz/posts/radar-2026-03-17.html</link>
@@ -162,14 +170,6 @@
     <guid isPermaLink="true">https://daily.sundigest.xyz/posts/perspective-2026-03-11.html</guid>
     <pubDate>Wed, 11 Mar 2026 02:03:17 GMT</pubDate>
     <description>🔍 Multi-Perspective · US-Israel War on Iran Day 11 · 2026-03-10</description>
-    <category>Opportunity Radar</category>
-  </item>
-  <item>
-    <title>Hidden Opportunities · 2026-03-10 — Opportunity Radar</title>
-    <link>https://daily.sundigest.xyz/posts/radar-2026-03-11.html</link>
-    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-11.html</guid>
-    <pubDate>Wed, 11 Mar 2026 01:02:43 GMT</pubDate>
-    <description>🔍 Hidden Opportunities Daily 2026-03-10</description>
     <category>Opportunity Radar</category>
   </item>
 </channel>

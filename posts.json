@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-03-17",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-16",
+    "title_en": "Multi-Perspective · 2026-03-16",
+    "summary_zh": "🔍 多视角 · 霍尔木兹海峡争端：特朗普要求盟友派军舰遭拒 · 2026-03-16",
+    "summary_en": "🔍 Multi-Perspective · Strait of Hormuz Standoff: Trump Demands Allied Warships, Gets Rejected · 2026-03-16",
+    "bullets_zh": [
+      "纽约时报",
+      "NBC News",
+      "Reuters",
+      "Axios"
+    ],
+    "bullets_en": [
+      "NBC News",
+      "Reuters",
+      "Axios",
+      "Allied free-riding"
+    ],
+    "items_zh": [
+      {
+        "title": "纽约时报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "NBC News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Reuters",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Axios",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "强调盟友\"搭便车\"",
+        "desc": "- 万斯的背书：副总统万斯表态\"信任特朗普不会重蹈过去的错误\"，暗示与伊拉克战争做切割",
+        "url": ""
+      },
+      {
+        "title": "万斯的背书",
+        "desc": "- Rubio的施压外交：国务卿逐一致电盟国，将安全责任描述为\"共同利益\"而非美国单方面要求",
+        "url": ""
+      },
+      {
+        "title": "Rubio的施压外交",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "环球时报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Sinocism（Bill Bishop）",
+        "desc": "中国的沉默本身就是立场：作为伊朗石油的最大买家，中国不可能派军舰去帮助美国封锁自己的能源供应线。",
+        "url": ""
+      },
+      {
+        "title": "半岛电视台（Al Jazeera）",
+        "desc": "- 报道美以联军空袭德黑兰后从废墟中救出平民",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "NBC News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Reuters",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Axios",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Allied free-riding",
+        "desc": "- Vance's endorsement: VP expresses trust that Trump won't repeat \"mistakes of the past\" (distancing from Iraq War compa",
+        "url": ""
+      },
+      {
+        "title": "Vance's endorsement",
+        "desc": "- Rubio's pressure campaign: Framing the ask as \"shared interest\" rather than a unilateral demand",
+        "url": ""
+      },
+      {
+        "title": "Rubio's pressure campaign",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Global Times",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Sinocism (Bill Bishop)",
+        "desc": "China's silence IS the position: as Iran's largest oil buyer, Beijing won't send warships to help blockade its own energ",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "- Reports civilians pulled from rubble after US-Israeli strikes on Tehran",
+        "url": ""
+      },
+      {
+        "title": "Hacker News / Tech Community",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月17日",
+    "date_fmt_zh": "2026年03月17日",
+    "date_fmt_en": "Mar 17, 2026",
+    "ts": "2026-03-17T10:03:02.990764+08:00"
+  },
+  {
     "slug": "radar-2026-03-17",
     "type": "radar",
     "type_label": "商机雷达",
