@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-03-17",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-17",
+    "title_en": "Daily Briefing · 2026-03-17",
+    "summary_zh": "📰 每日早报 · 2026-03-17（周二）",
+    "summary_en": "📰 Daily Briefing · 2026-03-17 (Tue)",
+    "bullets_zh": [
+      "NVIDIA DLSS 5 发布",
+      "黄仁勋：Blackwell + Vera Rubin 订单将达 1 万亿美元",
+      "Nvidia 推出 NemoClaw",
+      "参议员 Warren 质询五角大楼授予 xAI 机密网络访问权"
+    ],
+    "bullets_en": [
+      "NVIDIA DLSS 5 announced",
+      "Jensen Huang: $1T in Blackwell + Vera Rubin orders",
+      "Nvidia launches NemoClaw",
+      "Sen. Warren challenges Pentagon on xAI classified access"
+    ],
+    "items_zh": [
+      {
+        "title": "NVIDIA DLSS 5 发布",
+        "desc": "• 21:41 黄仁勋：Blackwell + Vera Rubin 订单将达 1 万亿美元 — Nvidia GTC 大会上公布史上最大销售预期 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "黄仁勋：Blackwell + Vera Rubin 订单将达 1 万亿美元",
+        "desc": "• 22:45 Nvidia 推出 NemoClaw — 基于 OpenClaw 的企业级开源 AI Agent 平台，主打安全性 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Nvidia 推出 NemoClaw",
+        "desc": "• 20:58 参议员 Warren 质询五角大楼授予 xAI 机密网络访问权 — 指 Grok 存在安全风险 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "参议员 Warren 质询五角大楼授予 xAI 机密网络访问权",
+        "desc": "• 19:18 xAI 面临 CSAM 诉讼 — 三名未成年人起诉 Grok 生成其裸体图像 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "xAI 面临 CSAM 诉讼",
+        "desc": "• 16:51 Apple 发布 AirPods Max 2 — 搭载 H2 芯片，增强降噪，$549，4月上市 Ars Technica",
+        "url": ""
+      },
+      {
+        "title": "Apple 发布 AirPods Max 2",
+        "desc": "• 18:36 MacBook Neo 成\"最可修复 MacBook\" — iFixit 评其为近14年来最易维修的苹果笔记本 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "MacBook Neo 成\"最可修复 MacBook\"",
+        "desc": "• 19:23 Apple 收购 MotionVFX — 视频编辑软件公司，对标 Adobe TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Apple 收购 MotionVFX",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "美伊战争进入第三周",
+        "desc": "• 22:01 特朗普称将\"荣幸地接管古巴\" — 古巴全岛断电，美古谈判进行中 CNBC",
+        "url": ""
+      },
+      {
+        "title": "特朗普称将\"荣幸地接管古巴\"",
+        "desc": "• 22:00 法官驳回 RFK Jr. 疫苗政策 — 联邦法官临时阻止儿童疫苗推荐改革 NYT",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "NVIDIA DLSS 5 announced",
+        "desc": "• 21:41 Jensen Huang: $1T in Blackwell + Vera Rubin orders — Record sales projection unveiled at Nvidia GTC TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Jensen Huang: $1T in Blackwell + Vera Rubin orders",
+        "desc": "• 22:45 Nvidia launches NemoClaw — Open enterprise AI agent platform built on OpenClaw, focused on security TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Nvidia launches NemoClaw",
+        "desc": "• 20:58 Sen. Warren challenges Pentagon on xAI classified access — Calls Grok a national security risk TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Sen. Warren challenges Pentagon on xAI classified access",
+        "desc": "• 19:18 xAI sued over alleged CSAM — Three minors claim Grok generated nude images of them TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "xAI sued over alleged CSAM",
+        "desc": "• 16:51 Apple AirPods Max 2 — H2 chip, enhanced ANC, $549, launching April Ars Technica",
+        "url": ""
+      },
+      {
+        "title": "Apple AirPods Max 2",
+        "desc": "• 18:36 MacBook Neo is most repairable MacBook in 14 years — iFixit teardown praises battery design TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "MacBook Neo is most repairable MacBook in 14 years",
+        "desc": "• 19:23 Apple acquires MotionVFX — Video editing firm, competing with Adobe TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Apple acquires MotionVFX",
+        "desc": "🌍 World News",
+        "url": ""
+      },
+      {
+        "title": "Iran war enters week 3",
+        "desc": "• 22:01 Trump says he'll have the \"honor\" of \"taking Cuba\" — Island-wide blackout as US oil blockade bites CNBC",
+        "url": ""
+      },
+      {
+        "title": "Trump says he'll have the \"honor\" of \"taking Cuba\"",
+        "desc": "• 22:00 Judge blocks RFK Jr.'s vaccine overhaul — Federal judge temporarily halts childhood vaccine policy changes NYT",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月17日",
+    "date_fmt_zh": "2026年03月17日",
+    "date_fmt_en": "Mar 17, 2026",
+    "ts": "2026-03-17T08:01:40.382649+08:00"
+  },
+  {
     "slug": "perspective-2026-03-16",
     "type": "perspective",
     "type_label": "商机雷达",
