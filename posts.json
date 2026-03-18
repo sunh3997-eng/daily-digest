@@ -1,5 +1,84 @@
 [
   {
+    "slug": "perspective-2026-03-18",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-17",
+    "title_en": "Multi-Perspective · 2026-03-17",
+    "summary_zh": "🔍 多视角 · 美以对伊战争升级：高官辞职与伊朗高层接连被杀 · 2026-03-17",
+    "summary_en": "🔍 Multi-Perspective · US-Israel War on Iran Escalates: Top Official Resigns, Iranian Leaders Killed · 2026-03-17",
+    "bullets_zh": [
+      "半岛电视台（Al Jazeera）",
+      "肯特辞职的深层意义",
+      "人道主义视角",
+      "海上打击争议"
+    ],
+    "bullets_en": [
+      "Al Jazeera",
+      "The deeper meaning of Kent's resignation",
+      "Humanitarian concerns",
+      "Escalation risk"
+    ],
+    "items_zh": [
+      {
+        "title": "半岛电视台（Al Jazeera）",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "肯特辞职的深层意义",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "人道主义视角",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "海上打击争议",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "核心分歧",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Al Jazeera",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The deeper meaning of Kent's resignation",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Humanitarian concerns",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Escalation risk",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Core divide",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月18日",
+    "date_fmt_zh": "2026年03月18日",
+    "date_fmt_en": "Mar 18, 2026",
+    "ts": "2026-03-18T10:02:38.967543+08:00"
+  },
+  {
     "slug": "radar-2026-03-18",
     "type": "radar",
     "type_label": "商机雷达",
