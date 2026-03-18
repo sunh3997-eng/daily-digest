@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-03-18",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-18",
+    "title_en": "Daily Briefing · 2026-03-18",
+    "summary_zh": "📰 每日早报 · 2026年3月18日（周三）",
+    "summary_en": "📰 Daily Briefing · March 18, 2026 (Wed)",
+    "bullets_zh": [
+      "Nvidia DLSS 5 引发玩家强烈反弹",
+      "Nebius 宣布融资37.5亿美元，与Meta达270亿AI基建合作",
+      "SEC发布加密资产证券法新指引",
+      "Mistral AI 发布 Forge"
+    ],
+    "bullets_en": [
+      "Nvidia DLSS 5 sparks gamer backlash",
+      "Nebius to raise $3.75B in debt after $27B Meta AI infra deal",
+      "SEC declares \"most crypto assets\" not securities",
+      "Mistral AI releases Forge"
+    ],
+    "items_zh": [
+      {
+        "title": "Nvidia DLSS 5 引发玩家强烈反弹",
+        "desc": "13:56 Nebius 宣布融资37.5亿美元，与Meta达270亿AI基建合作 — 股价暴跌12%，投资者担忧AI竞争成本 Yahoo Finance / WSJ",
+        "url": ""
+      },
+      {
+        "title": "Nebius 宣布融资37.5亿美元，与Meta达270亿AI基建合作",
+        "desc": "19:49 SEC发布加密资产证券法新指引 — 声明\"大多数加密资产\"非证券，涵盖质押、空投和比特币挖矿，CFTC同步协调 SEC.gov",
+        "url": ""
+      },
+      {
+        "title": "SEC发布加密资产证券法新指引",
+        "desc": "00:00 Mistral AI 发布 Forge — 新模型/平台上线，登上Hacker News首页 HN",
+        "url": ""
+      },
+      {
+        "title": "Mistral AI 发布 Forge",
+        "desc": "00:00 Java 26 正式发布 / Python 3.15 JIT 重回正轨 — 两大编程语言同日迎来重要更新 HN",
+        "url": ""
+      },
+      {
+        "title": "Java 26 正式发布 / Python 3.15 JIT 重回正轨",
+        "desc": "18:05 三星承认Galaxy S26 Ultra隐私屏幕略影响显示质量 — 新一代防窥屏引发讨论 9to5Google",
+        "url": ""
+      },
+      {
+        "title": "三星承认Galaxy S26 Ultra隐私屏幕略影响显示质量",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "伊朗证实安全委员会主席拉里贾尼、巴斯基指挥官苏莱曼尼被击毙",
+        "desc": "22:25 美国国家反恐中心主任Joe Kent因伊朗战争辞职 — 首位因此战争辞职的高级官员 NBC News",
+        "url": ""
+      },
+      {
+        "title": "美国国家反恐中心主任Joe Kent因伊朗战争辞职",
+        "desc": "17:44 巴基斯坦空袭喀布尔，数十人死亡 — 医院被炸，死亡人数升至400，巴方否认 NYT / Al Jazeera",
+        "url": ""
+      },
+      {
+        "title": "巴基斯坦空袭喀布尔，数十人死亡",
+        "desc": "22:27 伊朗问题专家称特朗普的\"选择性战争\"已演变为\"必要战争\" — 油价飞涨，美联储降息路径被打乱 NPR / AP",
+        "url": ""
+      },
+      {
+        "title": "伊朗问题专家称特朗普的\"选择性战争\"已演变为\"必要战争\"",
+        "desc": "23:33 泽连斯基警告欧洲应为恐怖分子无人机袭击做准备 — 俄罗斯向伊朗提供卫星图像和无人机技术 The Independent / WSJ",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Nvidia DLSS 5 sparks gamer backlash",
+        "desc": "• Nebius to raise $3.75B in debt after $27B Meta AI infra deal — Stock drops 12% on dilution fears Yahoo Finance / WSJ",
+        "url": ""
+      },
+      {
+        "title": "Nebius to raise $3.75B in debt after $27B Meta AI infra deal",
+        "desc": "• SEC declares \"most crypto assets\" not securities — New guidance covers staking, airdrops, mining; CFTC coordinates SEC",
+        "url": ""
+      },
+      {
+        "title": "SEC declares \"most crypto assets\" not securities",
+        "desc": "• Mistral AI releases Forge — New model platform hits HN front page HN",
+        "url": ""
+      },
+      {
+        "title": "Mistral AI releases Forge",
+        "desc": "• Java 26 released / Python 3.15 JIT back on track — Major language updates HN",
+        "url": ""
+      },
+      {
+        "title": "Java 26 released / Python 3.15 JIT back on track",
+        "desc": "• Samsung admits Galaxy S26 Ultra privacy screen affects display quality — Trade-off acknowledged 9to5Google",
+        "url": ""
+      },
+      {
+        "title": "Samsung admits Galaxy S26 Ultra privacy screen affects display quality",
+        "desc": "🌍 World",
+        "url": ""
+      },
+      {
+        "title": "Iran confirms security chief Larijani and Basij commander killed",
+        "desc": "• US counterterrorism chief Joe Kent resigns over Iran war — First major administration defection NBC News",
+        "url": ""
+      },
+      {
+        "title": "US counterterrorism chief Joe Kent resigns over Iran war",
+        "desc": "• Pakistani airstrike on Kabul kills dozens — Hospital hit, death toll reaches 400; Pakistan denies NYT / Al Jazeera",
+        "url": ""
+      },
+      {
+        "title": "Pakistani airstrike on Kabul kills dozens",
+        "desc": "• Iran war morphs into \"war of necessity,\" expert says — Gas prices soar, Fed rate path disrupted NPR / AP",
+        "url": ""
+      },
+      {
+        "title": "Iran war morphs into \"war of necessity,\" expert says",
+        "desc": "• Zelensky warns Europe of drone strikes by terrorists — Russia sharing satellite imagery and drone tech with Iran WSJ /",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月18日",
+    "date_fmt_zh": "2026年03月18日",
+    "date_fmt_en": "Mar 18, 2026",
+    "ts": "2026-03-18T08:02:00.888255+08:00"
+  },
+  {
     "slug": "perspective-2026-03-17",
     "type": "perspective",
     "type_label": "商机雷达",
