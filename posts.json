@@ -1,5 +1,94 @@
 [
   {
+    "slug": "perspective-2026-03-19",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-18",
+    "title_en": "Multi-Perspective · 2026-03-18",
+    "summary_zh": "🔍 多视角 · 以色列定点清除伊朗安全高官，中东战局升级 · 2026-03-18",
+    "summary_en": "🔍 Multi-Perspective · Israel Kills Iran's Top Security Officials, Regional Escalation Intensifies · 2026-03-18",
+    "bullets_zh": [
+      "叙事分歧的核心：这是\"反恐\"还是\"暗杀\"？",
+      "最值得关注的信号：",
+      "加伯德证词是今天最大的\"房间里的大象\"",
+      "伊朗攻击海湾能源设施标志着战争性质的转变"
+    ],
+    "bullets_en": [
+      "Core narrative divergence: \"Counter-terrorism\" or \"Assassination\"?",
+      "Key signals to watch:",
+      "Gabbard's testimony is the elephant in the room",
+      "Iran attacking Gulf energy infrastructure marks a conflict transformation"
+    ],
+    "items_zh": [
+      {
+        "title": "叙事分歧的核心：这是\"反恐\"还是\"暗杀\"？",
+        "desc": "| 维度 | 西方主流 | 保守派 | 中俄媒体 | 独立媒体 |",
+        "url": ""
+      },
+      {
+        "title": "最值得关注的信号：",
+        "desc": "1. 加伯德证词是今天最大的\"房间里的大象\"——美国自己的情报总监承认伊朗战前未重建浓缩能力，直接动摇了战争的合法性叙事，但这条新闻在保守派媒体中几乎隐形。",
+        "url": ""
+      },
+      {
+        "title": "加伯德证词是今天最大的\"房间里的大象\"",
+        "desc": "2. 伊朗攻击海湾能源设施标志着战争性质的转变——从美以vs伊朗的双边冲突扩散为影响全球能源供应的区域战争。卡塔尔驱逐伊朗武官意味着伊朗正在付出外交代价。",
+        "url": ""
+      },
+      {
+        "title": "伊朗攻击海湾能源设施标志着战争性质的转变",
+        "desc": "3. 美联储暂停加息 + 特朗普豁免琼斯法案——两个看似不相关的政策信号都指向同一个现实：这场战争的经济代价正在反噬美国国内。",
+        "url": ""
+      },
+      {
+        "title": "美联储暂停加息 + 特朗普豁免琼斯法案",
+        "desc": "4. 伊朗内部大规模逮捕——\"数百名叛徒被捕\"暗示伊朗领导层在外部压力下对内部异见采取更激进的镇压，这与外长\"结构稳固\"的官方叙事形成张力。",
+        "url": ""
+      },
+      {
+        "title": "伊朗内部大规模逮捕",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Core narrative divergence: \"Counter-terrorism\" or \"Assassination\"?",
+        "desc": "| Dimension | Western MSM | Conservative | China/Russia | Independent |",
+        "url": ""
+      },
+      {
+        "title": "Key signals to watch:",
+        "desc": "1. Gabbard's testimony is the elephant in the room — America's own intelligence chief admits Iran wasn't rebuilding enri",
+        "url": ""
+      },
+      {
+        "title": "Gabbard's testimony is the elephant in the room",
+        "desc": "2. Iran attacking Gulf energy infrastructure marks a conflict transformation — from bilateral US-Israel vs Iran to a reg",
+        "url": ""
+      },
+      {
+        "title": "Iran attacking Gulf energy infrastructure marks a conflict transformation",
+        "desc": "3. Fed rate hold + Jones Act waiver — two seemingly unrelated policy moves both pointing to the same reality: the war's ",
+        "url": ""
+      },
+      {
+        "title": "Fed rate hold + Jones Act waiver",
+        "desc": "4. Mass arrests inside Iran — \"hundreds of traitors arrested\" suggests leadership crackdown on internal dissent under ex",
+        "url": ""
+      },
+      {
+        "title": "Mass arrests inside Iran",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月19日",
+    "date_fmt_zh": "2026年03月19日",
+    "date_fmt_en": "Mar 19, 2026",
+    "ts": "2026-03-19T10:03:21.897599+08:00"
+  },
+  {
     "slug": "radar-2026-03-19",
     "type": "radar",
     "type_label": "商机雷达",
