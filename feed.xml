@@ -5,13 +5,21 @@
   <link>https://daily.sundigest.xyz</link>
   <description>Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 18 Mar 2026 02:02:38 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 19 Mar 2026 00:01:50 GMT</lastBuildDate>
   <atom:link href="https://daily.sundigest.xyz/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://daily.sundigest.xyz/assets/og.png</url>
     <title>Daily Digest</title>
     <link>https://daily.sundigest.xyz</link>
   </image>
+  <item>
+    <title>Daily Briefing · 2026-03-19 — Daily Briefing</title>
+    <link>https://daily.sundigest.xyz/posts/news-2026-03-19.html</link>
+    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/news-2026-03-19.html</guid>
+    <pubDate>Thu, 19 Mar 2026 00:01:50 GMT</pubDate>
+    <description>📰 Daily Briefing · March 19, 2026 (Wed)</description>
+    <category>Daily Briefing</category>
+  </item>
   <item>
     <title>Multi-Perspective · 2026-03-17 — Opportunity Radar</title>
     <link>https://daily.sundigest.xyz/posts/perspective-2026-03-18.html</link>
@@ -162,14 +170,6 @@
     <guid isPermaLink="true">https://daily.sundigest.xyz/posts/perspective-2026-03-12.html</guid>
     <pubDate>Thu, 12 Mar 2026 02:03:37 GMT</pubDate>
     <description>🔍 Multi-Perspective · Day 12 of US-Israel War on Iran: Strait of Hormuz Crisis &amp; Record Oil Reserve Release · 2026-03-11</description>
-    <category>Opportunity Radar</category>
-  </item>
-  <item>
-    <title>Hidden Opportunities · 2026-03-11 — Opportunity Radar</title>
-    <link>https://daily.sundigest.xyz/posts/radar-2026-03-12.html</link>
-    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-12.html</guid>
-    <pubDate>Thu, 12 Mar 2026 01:02:29 GMT</pubDate>
-    <description>🔍 Hidden Opportunities Daily 2026-03-12</description>
     <category>Opportunity Radar</category>
   </item>
 </channel>

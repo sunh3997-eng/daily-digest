@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-03-19",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-19",
+    "title_en": "Daily Briefing · 2026-03-19",
+    "summary_zh": "📰 每日早报 · 2026-03-19（周三）",
+    "summary_en": "📰 Daily Briefing · March 19, 2026 (Wed)",
+    "bullets_zh": [
+      "以色列袭击卡塔尔天然气设施造成重大损失",
+      "美联储维持利率不变，伊朗战争令经济前景蒙阴",
+      "白宫用meme推销伊朗战争引争议",
+      "中国拒绝美国霍尔木兹海峡请求，特朗普北京之行推迟"
+    ],
+    "bullets_en": [
+      "Israel Strike Causes Significant Damage at Qatar Gas Facility",
+      "Fed Holds Rates Steady as Iran War Clouds Outlook",
+      "White House Meme Campaign to Sell Iran War Draws Scrutiny",
+      "China Dismisses US Hormuz Request; Trump Beijing Trip Delayed"
+    ],
+    "items_zh": [
+      {
+        "title": "以色列袭击卡塔尔天然气设施造成重大损失",
+        "desc": "23:42 美联储维持利率不变，伊朗战争令经济前景蒙阴 — 鲍威尔表示全球油价危机可能只有暂时经济影响，但市场不买账，道指暴跌750点 Washington Post / WSJ",
+        "url": ""
+      },
+      {
+        "title": "美联储维持利率不变，伊朗战争令经济前景蒙阴",
+        "desc": "21:00 白宫用meme推销伊朗战争引争议 — 从宝可梦到Wii Sports，政府社交媒体宣传引发\"战争meme化\"批评 Politico / Forbes",
+        "url": ""
+      },
+      {
+        "title": "白宫用meme推销伊朗战争引争议",
+        "desc": "14:37 中国拒绝美国霍尔木兹海峡请求，特朗普北京之行推迟 — 特朗普称美国不需要盟友就能重开海峡，欧洲表示\"这不是我们的战争\" PBS / Reuters",
+        "url": ""
+      },
+      {
+        "title": "中国拒绝美国霍尔木兹海峡请求，特朗普北京之行推迟",
+        "desc": "17:32 俄罗斯成为伊朗战争最大赢家 — 泽连斯基称俄罗斯两周内靠油价飙升赚回100亿美元赤字 CBS / Business Insider",
+        "url": ""
+      },
+      {
+        "title": "俄罗斯成为伊朗战争最大赢家",
+        "desc": "19:40 以色列炸毁黎巴嫩南部桥梁，加倍增兵 — 中东冲突第18天，黎巴嫩轰炸造成20余人死亡 BBC / Reuters",
+        "url": ""
+      },
+      {
+        "title": "以色列炸毁黎巴嫩南部桥梁，加倍增兵",
+        "desc": "🤖 AI/科技",
+        "url": ""
+      },
+      {
+        "title": "NVIDIA CEO黄仁勋回应DLSS 5争议",
+        "desc": "13:00 苹果打击\"Vibe Coding\"应用 — App Store开始限制用AI编程工具快速生成的应用更新 The Information / 9to5Mac",
+        "url": ""
+      },
+      {
+        "title": "苹果打击\"Vibe Coding\"应用",
+        "desc": "02:29 MacBook Neo基准测试匹敌云服务器 — 数据库负载测试中表现惊人，MKBHD称其为苹果\"最具颠覆性\"产品 9to5Mac / Business Insider",
+        "url": ""
+      },
+      {
+        "title": "MacBook Neo基准测试匹敌云服务器",
+        "desc": "HN Snowflake AI沙箱逃逸执行恶意软件 — 严重安全漏洞引发关注 Hacker News",
+        "url": ""
+      },
+      {
+        "title": "Snowflake AI沙箱逃逸执行恶意软件",
+        "desc": "HN OpenAI新焦点：IPO — 公司战略重心转向上市 Hacker News",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Israel Strike Causes Significant Damage at Qatar Gas Facility",
+        "desc": "23:42 Fed Holds Rates Steady as Iran War Clouds Outlook — Powell says oil crisis may have temporary effects; Dow drops 7",
+        "url": ""
+      },
+      {
+        "title": "Fed Holds Rates Steady as Iran War Clouds Outlook",
+        "desc": "21:00 White House Meme Campaign to Sell Iran War Draws Scrutiny — Wii Sports imagery follows Pokémon controversy in gove",
+        "url": ""
+      },
+      {
+        "title": "White House Meme Campaign to Sell Iran War Draws Scrutiny",
+        "desc": "14:37 China Dismisses US Hormuz Request; Trump Beijing Trip Delayed — Europe tells Trump Iran is \"not our war\"; Trump sa",
+        "url": ""
+      },
+      {
+        "title": "China Dismisses US Hormuz Request; Trump Beijing Trip Delayed",
+        "desc": "17:32 Russia Emerges as Biggest Winner of Iran War — Zelenskyy says Russia earned back $10B deficit in 2 weeks from oil ",
+        "url": ""
+      },
+      {
+        "title": "Russia Emerges as Biggest Winner of Iran War",
+        "desc": "19:40 Israel Destroys Bridges in Southern Lebanon, Doubles Troops — Day 18 of conflict; bombardment kills 20+ across Leb",
+        "url": ""
+      },
+      {
+        "title": "Israel Destroys Bridges in Southern Lebanon, Doubles Troops",
+        "desc": "🤖 AI & Tech",
+        "url": ""
+      },
+      {
+        "title": "NVIDIA CEO Defends DLSS 5 Against \"AI Slop\" Backlash",
+        "desc": "13:00 Apple Cracks Down on \"Vibe Coding\" Apps — App Store restricting updates for AI-generated applications The Informat",
+        "url": ""
+      },
+      {
+        "title": "Apple Cracks Down on \"Vibe Coding\" Apps",
+        "desc": "02:29 MacBook Neo Benchmarks Rival Cloud Servers — Database workloads show impressive performance; MKBHD calls it Apple'",
+        "url": ""
+      },
+      {
+        "title": "MacBook Neo Benchmarks Rival Cloud Servers",
+        "desc": "HN Snowflake AI Escapes Sandbox, Executes Malware — Critical security vulnerability Hacker News",
+        "url": ""
+      },
+      {
+        "title": "Snowflake AI Escapes Sandbox, Executes Malware",
+        "desc": "HN OpenAI Shifts Focus to IPO — Strategic pivot toward going public Hacker News",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月19日",
+    "date_fmt_zh": "2026年03月19日",
+    "date_fmt_en": "Mar 19, 2026",
+    "ts": "2026-03-19T08:01:50.878073+08:00"
+  },
+  {
     "slug": "perspective-2026-03-18",
     "type": "perspective",
     "type_label": "商机雷达",
