@@ -1,5 +1,22 @@
 [
   {
+    "slug": "news-2026-03-20",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-20",
+    "title_en": "Daily Briefing · 2026-03-20",
+    "summary_zh": "📰 每日早报 · 2026年3月20日（周五）",
+    "summary_en": "📰 Daily Briefing · March 20, 2026 (Friday)",
+    "bullets_zh": [],
+    "bullets_en": [],
+    "items_zh": [],
+    "items_en": [],
+    "date_fmt": "2026年03月20日",
+    "date_fmt_zh": "2026年03月20日",
+    "date_fmt_en": "Mar 20, 2026",
+    "ts": "2026-03-20T08:01:56.245600+08:00"
+  },
+  {
     "slug": "perspective-2026-03-19",
     "type": "perspective",
     "type_label": "商机雷达",
