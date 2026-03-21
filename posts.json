@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-03-21",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-21",
+    "title_en": "Multi-Perspective · 2026-03-21",
+    "summary_zh": "🔍 多视角 · 马斯克被判误导推特投资者 · 2026-03-21",
+    "summary_en": "🔍 Multi-Perspective · Musk Found Liable for Misleading Twitter Investors · 2026-03-21",
+    "bullets_zh": [
+      "PBS/AP",
+      "CNBC",
+      "核心叙事",
+      "同时免除了马斯克的\"阴谋欺诈\"指控"
+    ],
+    "bullets_en": [
+      "PBS/AP",
+      "CNBC",
+      "Core narrative",
+      "cleared Musk of the \"scheme\" allegation"
+    ],
+    "items_zh": [
+      {
+        "title": "PBS/AP",
+        "desc": "- CNBC：强调陪审团经历近四天审议才做出裁定，凸显案件复杂性",
+        "url": ""
+      },
+      {
+        "title": "CNBC",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "核心叙事",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "同时免除了马斯克的\"阴谋欺诈\"指控",
+        "desc": "- 马斯克方面的辩护逻辑：推特管理层在虚假账户数量上撒谎在先，马斯克质疑平台数据是合理的尽职调查",
+        "url": ""
+      },
+      {
+        "title": "潜在叙事",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "资本市场监管",
+        "desc": "- 社交媒体治理：推特/X从收购到现在的混乱历程，反映美国科技平台治理的结构性问题",
+        "url": ""
+      },
+      {
+        "title": "社交媒体治理",
+        "desc": "- \"美式法治\"的双标：21亿美元对于身家8140亿的马斯克来说只是九牛一毛，惩罚力度是否真的足以震慑？",
+        "url": ""
+      },
+      {
+        "title": "\"美式法治\"的双标",
+        "desc": "- 马斯克的政治角色：结合马斯克在特朗普政府中的DOGE（政府效率部门）角色，可能引申为美国政商关系的缩影",
+        "url": ""
+      },
+      {
+        "title": "马斯克的政治角色",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Ars Technica",
+        "desc": "- TechCrunch：强调马斯克\"试图退出收购\"时的误导行为，聚焦科技行业治理",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "PBS/AP",
+        "desc": "- CNBC: Highlights the nearly four days of jury deliberation",
+        "url": ""
+      },
+      {
+        "title": "CNBC",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Core narrative",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "cleared Musk of the \"scheme\" allegation",
+        "desc": "- Musk's defense: Twitter's own leadership lied about bot counts first; his skepticism was legitimate due diligence",
+        "url": ""
+      },
+      {
+        "title": "Likely narrative",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Market regulation",
+        "desc": "- Platform governance: The chaotic Twitter-to-X saga as a case study in American tech governance failures",
+        "url": ""
+      },
+      {
+        "title": "Platform governance",
+        "desc": "- \"Rule of law\" double standard: Is $2.1B against an $814B fortune actually deterrent, or performative justice?",
+        "url": ""
+      },
+      {
+        "title": "\"Rule of law\" double standard",
+        "desc": "- Political implications: Musk's dual role as DOGE head and defendant — the American oligarch-politician complex",
+        "url": ""
+      },
+      {
+        "title": "Political implications",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Ars Technica",
+        "desc": "- TechCrunch: Emphasizes Musk's attempt to escape the acquisition through misleading statements",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月21日",
+    "date_fmt_zh": "2026年03月21日",
+    "date_fmt_en": "Mar 21, 2026",
+    "ts": "2026-03-21T10:02:56.343307+08:00"
+  },
+  {
     "slug": "radar-2026-03-21",
     "type": "radar",
     "type_label": "商机雷达",
