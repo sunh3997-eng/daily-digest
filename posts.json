@@ -1,5 +1,38 @@
 [
   {
+    "slug": "radar-2026-03-21",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-03-20",
+    "title_en": "Hidden Opportunities · 2026-03-20",
+    "summary_zh": "🔍 隐藏商机日报 2026-03-20",
+    "summary_en": "🔍 Hidden Opportunities Daily 2026-03-20",
+    "bullets_zh": [
+      "「VoiceTiny」— 基于 KittenTTS 的离线语音 API 服务"
+    ],
+    "bullets_en": [
+      "\"VoiceTiny\" — Offline Voice API Powered by KittenTTS"
+    ],
+    "items_zh": [
+      {
+        "title": "「VoiceTiny」— 基于 KittenTTS 的离线语音 API 服务",
+        "desc": "把 <25MB 的 TTS 模型打包成一行代码可调用的 SDK。面向 IoT 设备商、游戏开发者、无障碍应用。免费基础版 + 付费多语言/情感语音。市场上没有这么轻量的解决方案。现在是窗口期——模型刚开源，生态还没建立。",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "\"VoiceTiny\" — Offline Voice API Powered by KittenTTS",
+        "desc": "Package the <25MB TTS models into a one-line SDK. Target IoT device makers, game developers, accessibility apps. Free ba",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月21日",
+    "date_fmt_zh": "2026年03月21日",
+    "date_fmt_en": "Mar 21, 2026",
+    "ts": "2026-03-21T09:02:54.403015+08:00"
+  },
+  {
     "slug": "perspective-2026-03-20",
     "type": "perspective",
     "type_label": "商机雷达",
