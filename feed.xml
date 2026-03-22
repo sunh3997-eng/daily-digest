@@ -5,13 +5,21 @@
   <link>https://daily.sundigest.xyz</link>
   <description>Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.</description>
   <language>en</language>
-  <lastBuildDate>Sun, 22 Mar 2026 00:02:07 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 22 Mar 2026 01:02:37 GMT</lastBuildDate>
   <atom:link href="https://daily.sundigest.xyz/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://daily.sundigest.xyz/assets/og.png</url>
     <title>Daily Digest</title>
     <link>https://daily.sundigest.xyz</link>
   </image>
+  <item>
+    <title>Hidden Opportunities · 2026-03-21 — Opportunity Radar</title>
+    <link>https://daily.sundigest.xyz/posts/radar-2026-03-22.html</link>
+    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-22.html</guid>
+    <pubDate>Sun, 22 Mar 2026 01:02:37 GMT</pubDate>
+    <description>🔍 Hidden Opportunities Daily 2026-03-21</description>
+    <category>Opportunity Radar</category>
+  </item>
   <item>
     <title>Daily Briefing · 2026-03-22 — Daily Briefing</title>
     <link>https://daily.sundigest.xyz/posts/news-2026-03-22.html</link>
@@ -162,14 +170,6 @@
     <guid isPermaLink="true">https://daily.sundigest.xyz/posts/perspective-2026-03-15.html</guid>
     <pubDate>Sun, 15 Mar 2026 02:02:59 GMT</pubDate>
     <description>🔍 Multi-Perspective · FCC Chairman Threatens to Revoke TV Licenses Over War Coverage · 2026-03-14</description>
-    <category>Opportunity Radar</category>
-  </item>
-  <item>
-    <title>Hidden Opportunities · 2026-03-15 — Opportunity Radar</title>
-    <link>https://daily.sundigest.xyz/posts/radar-2026-03-15.html</link>
-    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-15.html</guid>
-    <pubDate>Sun, 15 Mar 2026 01:03:16 GMT</pubDate>
-    <description>🔍 Hidden Opportunities Daily 2026-03-15</description>
     <category>Opportunity Radar</category>
   </item>
 </channel>
