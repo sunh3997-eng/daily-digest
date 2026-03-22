@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-03-22",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-22",
+    "title_en": "Daily Briefing · 2026-03-22",
+    "summary_zh": "📰 每日早报 · 2026年3月22日（周日）",
+    "summary_en": "📰 Daily Briefing · March 22, 2026 (Sunday)",
+    "bullets_zh": [
+      "前FBI局长穆勒去世，享年81岁",
+      "伊朗导弹袭击英美迭戈加西亚军事基地",
+      "特朗普政府解除部分伊朗石油制裁",
+      "特朗普威胁派ICE探员接管机场安检"
+    ],
+    "bullets_en": [
+      "Former FBI Director Robert Mueller dies at 81",
+      "Iran fires missiles at US-UK Diego Garcia base",
+      "Trump admin eases Iran oil sanctions",
+      "Trump threatens ICE agents at airports over DHS shutdown"
+    ],
+    "items_zh": [
+      {
+        "title": "前FBI局长穆勒去世，享年81岁",
+        "desc": "20:20 伊朗导弹袭击英美迭戈加西亚军事基地 — 伊朗向印度洋英美联合基地发射弹道导弹，展示远程打击能力；同时报复性袭击以色列阿拉德核设施附近地区 AP / Bloomberg / Guardian",
+        "url": ""
+      },
+      {
+        "title": "伊朗导弹袭击英美迭戈加西亚军事基地",
+        "desc": "21:05 特朗普政府解除部分伊朗石油制裁 — 为遏制能源价格上涨，美方允许30天内出售海上伊朗原油，同时却在增兵中东，对伊政策信号混乱 Washington Post / Reuters",
+        "url": ""
+      },
+      {
+        "title": "特朗普政府解除部分伊朗石油制裁",
+        "desc": "22:57 特朗普威胁派ICE探员接管机场安检 — 因DHS关门僵局，特朗普称将在周一向机场派遣移民执法人员；马斯克提出代付TSA员工薪水 NBC / CNN",
+        "url": ""
+      },
+      {
+        "title": "特朗普威胁派ICE探员接管机场安检",
+        "desc": "15:45 捷克爆发2019年以来最大规模反政府抗议 — 数十万人聚集布拉格，抗议巴比什新政府及拟议中的\"外国代理人\"法案 Reuters / Bloomberg",
+        "url": ""
+      },
+      {
+        "title": "捷克爆发2019年以来最大规模反政府抗议",
+        "desc": "19:01 南蒂罗尔雪崩致2名滑雪者死亡 — 意大利北部靠近奥地利边境发生严重雪崩，25人一度被困，大规模搜救行动展开 NBC / People",
+        "url": ""
+      },
+      {
+        "title": "南蒂罗尔雪崩致2名滑雪者死亡",
+        "desc": "🤖 AI / 科技",
+        "url": ""
+      },
+      {
+        "title": "马斯克被判误导Twitter股东",
+        "desc": "06:26 微软发布Windows 11七项改进计划 — 回应\"Microslop\"批评，承诺系统更快、更轻、更灵活；macOS Tahoe用户表示\"相比之下我们挺好的\" TechPowerUp / The Verge / CNET",
+        "url": ""
+      },
+      {
+        "title": "微软发布Windows 11七项改进计划",
+        "desc": "21:02 Halide联合创始人起诉前合伙人 — 指控其将源代码带至Apple；诉讼意外揭露苹果曾考虑收购Halide以升级iPhone 18 Pro相机 The Verge / MacRumors",
+        "url": ""
+      },
+      {
+        "title": "Halide联合创始人起诉前合伙人",
+        "desc": "20:08 Tinybox：120B参数离线AI设备 — tinygrad推出本地AI硬件方案，HN热帖引发广泛讨论（243赞/136评论）Hacker News",
+        "url": ""
+      },
+      {
+        "title": "Tinybox：120B参数离线AI设备",
+        "desc": "15:30 研究：AI正重塑人类推理方式 — SSRN新论文探讨AI如何影响快思考与慢思考，HN 83赞 SSRN / Hacker News",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Former FBI Director Robert Mueller dies at 81",
+        "desc": "20:20 Iran fires missiles at US-UK Diego Garcia base — Ballistic missiles targeted the Indian Ocean military base, demon",
+        "url": ""
+      },
+      {
+        "title": "Iran fires missiles at US-UK Diego Garcia base",
+        "desc": "21:05 Trump admin eases Iran oil sanctions — Allows 30-day sale of Iranian oil at sea to tame energy prices, while simul",
+        "url": ""
+      },
+      {
+        "title": "Trump admin eases Iran oil sanctions",
+        "desc": "22:57 Trump threatens ICE agents at airports over DHS shutdown — Plans to deploy immigration agents Monday; Musk offers ",
+        "url": ""
+      },
+      {
+        "title": "Trump threatens ICE agents at airports over DHS shutdown",
+        "desc": "15:45 Czechs hold largest anti-government protest since 2019 — Hundreds of thousands rally in Prague against PM Babiš an",
+        "url": ""
+      },
+      {
+        "title": "Czechs hold largest anti-government protest since 2019",
+        "desc": "19:01 Deadly avalanche in South Tyrol kills 2 skiers — 25 trapped near Austria border, major rescue operation underway N",
+        "url": ""
+      },
+      {
+        "title": "Deadly avalanche in South Tyrol kills 2 skiers",
+        "desc": "🤖 AI & Tech",
+        "url": ""
+      },
+      {
+        "title": "Musk found liable for misleading Twitter shareholders",
+        "desc": "06:26 Microsoft announces 7-point plan to fix Windows 11 — Responding to \"Microslop\" criticism with promises of faster, ",
+        "url": ""
+      },
+      {
+        "title": "Microsoft announces 7-point plan to fix Windows 11",
+        "desc": "21:02 Halide co-founder sues partner over Apple source code — Lawsuit reveals Apple considered acquiring Halide for iPho",
+        "url": ""
+      },
+      {
+        "title": "Halide co-founder sues partner over Apple source code",
+        "desc": "20:08 Tinybox: offline AI device with 120B parameters — tinygrad's local AI hardware hits HN front page (243 pts) Hacker",
+        "url": ""
+      },
+      {
+        "title": "Tinybox: offline AI device with 120B parameters",
+        "desc": "15:30 Paper: AI is reshaping human reasoning patterns — New SSRN study on AI's impact on fast/slow thinking (83 pts on H",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月22日",
+    "date_fmt_zh": "2026年03月22日",
+    "date_fmt_en": "Mar 22, 2026",
+    "ts": "2026-03-22T08:02:07.267623+08:00"
+  },
+  {
     "slug": "perspective-2026-03-21",
     "type": "perspective",
     "type_label": "商机雷达",
