@@ -1,5 +1,96 @@
 [
   {
+    "slug": "perspective-2026-03-22",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-21",
+    "title_en": "Multi-Perspective · 2026-03-21",
+    "summary_zh": "🔍 多视角 · 伊朗-以色列核设施互袭与霍尔木兹海峡危机 · 2026-03-21",
+    "summary_en": "🔍 Multi-Perspective · Iran-Israel Nuclear Facility Strikes & Hormuz Crisis · 2026-03-21",
+    "bullets_zh": [
+      "客观呈现事实，强调核设施风险与人道伤亡，对双方行动均有质疑",
+      "强烈支持军事行动，将伊朗塑造为必须被遏制的威胁，淡化平民伤亡",
+      "反对军事干预，强调外交途径和国际法，关注能源安全与全球经济影响",
+      "沙特驱逐伊朗武官"
+    ],
+    "bullets_en": [
+      "Bottom line:"
+    ],
+    "items_zh": [
+      {
+        "title": "客观呈现事实，强调核设施风险与人道伤亡，对双方行动均有质疑",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "强烈支持军事行动，将伊朗塑造为必须被遏制的威胁，淡化平民伤亡",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "反对军事干预，强调外交途径和国际法，关注能源安全与全球经济影响",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "沙特驱逐伊朗武官",
+        "desc": "- 伊朗允许日本船只通过霍尔木兹海峡——选择性封锁策略",
+        "url": ""
+      },
+      {
+        "title": "伊朗允许日本船只通过霍尔木兹海峡",
+        "desc": "- 巴西总统卢拉警告\"外国殖民意图\"——全球南方反美情绪上升",
+        "url": ""
+      },
+      {
+        "title": "巴西总统卢拉警告\"外国殖民意图\"",
+        "desc": "- 特朗普一边说\"考虑收尾（winding down）\"，一边向中东增兵——信号混乱",
+        "url": ""
+      },
+      {
+        "title": "批判性视角，关注平民伤亡和全球连锁反应，质疑美以军事行动正当性",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "一句话总结：",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Factual, emphasizing nuclear risks and humanitarian costs, questioning both sides.",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Strongly pro-military action, frames Iran as existential threat, downplays civilian casualties.",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Anti-intervention, emphasizes diplomacy and international law, focused on energy security.",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Critical, focused on civilian harm and global ripple effects, questions US-Israeli legitimacy.",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Bottom line:",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月22日",
+    "date_fmt_zh": "2026年03月22日",
+    "date_fmt_en": "Mar 22, 2026",
+    "ts": "2026-03-22T10:02:25.276744+08:00"
+  },
+  {
     "slug": "radar-2026-03-22",
     "type": "radar",
     "type_label": "商机雷达",
