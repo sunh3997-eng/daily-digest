@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-03-23",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-23",
+    "title_en": "Multi-Perspective · 2026-03-23",
+    "summary_zh": "🔍 多视角 · 伊朗-以色列-美国中东局势急剧升级 · 2026-03-23",
+    "summary_en": "🔍 Multi-Perspective · Iran-Israel-US Middle East Escalation · 2026-03-23",
+    "bullets_zh": [
+      "BBC / 卫报 / 路透社 / 纽约时报 / AP",
+      "伊朗导弹袭击",
+      "霍尔木兹海峡",
+      "特朗普策略转变"
+    ],
+    "bullets_en": [
+      "BBC / The Guardian / Reuters / NYT / AP",
+      "Iranian strikes",
+      "Hormuz threat",
+      "Trump's shifting strategy"
+    ],
+    "items_zh": [
+      {
+        "title": "BBC / 卫报 / 路透社 / 纽约时报 / AP",
+        "desc": "西方主流媒体以\"实时危机\"框架报道此事，核心叙事线：",
+        "url": ""
+      },
+      {
+        "title": "伊朗导弹袭击",
+        "desc": "- 霍尔木兹海峡: 伊朗革命卫队(IRGC)宣称若美国打击伊朗电厂等基础设施，将\"完全封锁\"霍尔木兹海峡——全球约20%石油运输的咽喉",
+        "url": ""
+      },
+      {
+        "title": "霍尔木兹海峡",
+        "desc": "- 特朗普策略转变: AP指出特朗普在霍尔木兹策略上\"不断变化\"，引发美国备战方向的质疑",
+        "url": ""
+      },
+      {
+        "title": "特朗普策略转变",
+        "desc": "- 英美联动: 英国首相斯塔默与特朗普通话，达成\"必须重新开放海峡\"的共识；英国已向美国派遣军事顾问，协助制定霍尔木兹方案。纽约时报和卫报对英国被拖入战争表达担忧",
+        "url": ""
+      },
+      {
+        "title": "英美联动",
+        "desc": "- 市场恐慌: 亚洲市场暴跌——日经、韩国KOSPI跌4%；油价飙升；Bloomberg标题：\"交易员为动荡开盘做准备\"",
+        "url": ""
+      },
+      {
+        "title": "市场恐慌",
+        "desc": "- 人道视角: 以色列南部居民在废墟中\"捡拾碎片\"，Times of Israel详细记录了破坏场景",
+        "url": ""
+      },
+      {
+        "title": "人道视角",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "Fox News的报道框架有明显差异：",
+        "url": ""
+      },
+      {
+        "title": "聚焦特朗普领导力",
+        "desc": "- 强调伊朗威胁: 更突出伊朗\"威胁打击海湾能源和水资源设施\"的侵略性，将伊朗定位为唯一的升级方",
+        "url": ""
+      },
+      {
+        "title": "强调伊朗威胁",
+        "desc": "- 框架差异: 相比主流媒体质疑特朗普策略的一致性，Fox将最后通牒描绘为果断的强硬外交",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "BBC / The Guardian / Reuters / NYT / AP",
+        "desc": "Western mainstream outlets frame this as a live, escalating crisis:",
+        "url": ""
+      },
+      {
+        "title": "Iranian strikes",
+        "desc": "- Hormuz threat: IRGC declares it will \"completely close\" the Strait of Hormuz—chokepoint for ~20% of global oil—if the ",
+        "url": ""
+      },
+      {
+        "title": "Hormuz threat",
+        "desc": "- Trump's shifting strategy: AP notes Trump's \"changing course on Strait of Hormuz strategy raises questions about US wa",
+        "url": ""
+      },
+      {
+        "title": "Trump's shifting strategy",
+        "desc": "- UK-US coordination: Starmer-Trump call agrees Hormuz \"must reopen\"; UK sends military advisers to help develop options",
+        "url": ""
+      },
+      {
+        "title": "UK-US coordination",
+        "desc": "- Market panic: Asia crashes—Nikkei and KOSPI down 4%; oil surges; stocks, bonds, and gold all fall simultaneously (CNN:",
+        "url": ""
+      },
+      {
+        "title": "Market panic",
+        "desc": "- Human toll: Residents of Arad and Dimona \"begin picking up the pieces\" amid destruction",
+        "url": ""
+      },
+      {
+        "title": "Human toll",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Tone",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "Fox News frames events with notable differences:",
+        "url": ""
+      },
+      {
+        "title": "Trump as leader",
+        "desc": "- Iran as sole aggressor: Heavy emphasis on Iran \"threatening Gulf energy and water infrastructure,\" framing Iran as the",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月23日",
+    "date_fmt_zh": "2026年03月23日",
+    "date_fmt_en": "Mar 23, 2026",
+    "ts": "2026-03-23T10:03:04.040810+08:00"
+  },
+  {
     "slug": "radar-2026-03-23",
     "type": "radar",
     "type_label": "商机雷达",
