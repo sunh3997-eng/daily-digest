@@ -5,13 +5,21 @@
   <link>https://daily.sundigest.xyz</link>
   <description>Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 24 Mar 2026 00:02:50 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Mar 2026 01:05:01 GMT</lastBuildDate>
   <atom:link href="https://daily.sundigest.xyz/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://daily.sundigest.xyz/assets/og.png</url>
     <title>Daily Digest</title>
     <link>https://daily.sundigest.xyz</link>
   </image>
+  <item>
+    <title>Hidden Opportunities · 2026-03-24 — Opportunity Radar</title>
+    <link>https://daily.sundigest.xyz/posts/radar-2026-03-24.html</link>
+    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-24.html</guid>
+    <pubDate>Tue, 24 Mar 2026 01:05:01 GMT</pubDate>
+    <description>🔍 Hidden Opportunities Daily 2026-03-24</description>
+    <category>Opportunity Radar</category>
+  </item>
   <item>
     <title>Daily Briefing · 2026-03-24 — Daily Briefing</title>
     <link>https://daily.sundigest.xyz/posts/news-2026-03-24.html</link>
@@ -162,14 +170,6 @@
     <guid isPermaLink="true">https://daily.sundigest.xyz/posts/perspective-2026-03-17.html</guid>
     <pubDate>Tue, 17 Mar 2026 02:03:02 GMT</pubDate>
     <description>🔍 Multi-Perspective · Strait of Hormuz Standoff: Trump Demands Allied Warships, Gets Rejected · 2026-03-16</description>
-    <category>Opportunity Radar</category>
-  </item>
-  <item>
-    <title>Hidden Opportunities · 2026-03-16 — Opportunity Radar</title>
-    <link>https://daily.sundigest.xyz/posts/radar-2026-03-17.html</link>
-    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-17.html</guid>
-    <pubDate>Tue, 17 Mar 2026 01:03:17 GMT</pubDate>
-    <description>🔍 Hidden Opportunities Daily 2026-03-17</description>
     <category>Opportunity Radar</category>
   </item>
 </channel>
