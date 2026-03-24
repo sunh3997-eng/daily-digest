@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-03-24",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-24",
+    "title_en": "Daily Briefing · 2026-03-24",
+    "summary_zh": "📰 每日早报 · 2026-03-24（周二）",
+    "summary_en": "📰 Daily Briefing · March 24, 2026 (Tue)",
+    "bullets_zh": [
+      "Apple 宣布 WWDC 2026 定于 6 月 8 日开幕",
+      "iPhone 漏洞利用工具被公开泄露",
+      "Elon Musk 宣布 Terafab 项目",
+      "SpaceX 展示轨道数据中心卫星"
+    ],
+    "bullets_en": [
+      "Apple Announces WWDC 2026 for June 8",
+      "iPhone Exploit Kit Publicly Leaked",
+      "Elon Musk Unveils $20B 'Terafab' Chip Factory",
+      "SpaceX Shows Orbiting Data Center Satellites"
+    ],
+    "items_zh": [
+      {
+        "title": "Apple 宣布 WWDC 2026 定于 6 月 8 日开幕",
+        "desc": "20:42 iPhone 漏洞利用工具被公开泄露 — 名为 DarkSword 的 exploit kit 可入侵数百万台 iPhone，Apple 紧急呼吁用户更新系统 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "iPhone 漏洞利用工具被公开泄露",
+        "desc": "20:10 Elon Musk 宣布 Terafab 项目 — Tesla 和 SpaceX 将在德州奥斯汀建造 200 亿美元芯片工厂，号称\"史上最大芯片制造设施\" WSJ/IBD",
+        "url": ""
+      },
+      {
+        "title": "Elon Musk 宣布 Terafab 项目",
+        "desc": "16:20 SpaceX 展示轨道数据中心卫星 — 体积超过国际空间站，引发天文学界强烈抗议 PCMag",
+        "url": ""
+      },
+      {
+        "title": "SpaceX 展示轨道数据中心卫星",
+        "desc": "14:30 iPhone 17 Pro 演示运行 4000 亿参数 LLM — 展示端侧大模型推理能力 Hacker News",
+        "url": ""
+      },
+      {
+        "title": "iPhone 17 Pro 演示运行 4000 亿参数 LLM",
+        "desc": "18:10 Nvidia CEO 回应 DLSS 5 争议 — 黄仁勋称理解玩家不满：\"我自己也不喜欢 AI 粗制滥造\" Kotaku",
+        "url": ""
+      },
+      {
+        "title": "Nvidia CEO 回应 DLSS 5 争议",
+        "desc": "21:28 FCC 更新受限清单，纳入外国制造消费级路由器 — 涉及网络安全审查 FCC",
+        "url": ""
+      },
+      {
+        "title": "FCC 更新受限清单，纳入外国制造消费级路由器",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "Trump 推迟对伊朗霍尔木兹海峡最后通牒",
+        "desc": "23:30 ICE 特工进驻美国机场，TSA 安检等待超 4 小时 — 休斯顿、纽约等多地机场陷入混乱，与 DHS 停摆拨款争议交织 Washington Post",
+        "url": ""
+      },
+      {
+        "title": "ICE 特工进驻美国机场，TSA 安检等待超 4 小时",
+        "desc": "22:29 哥伦比亚军机坠毁，至少 34 人死亡 — 载有 121 人的军用飞机起飞时坠毁，77 人受伤 AP/Reuters",
+        "url": ""
+      },
+      {
+        "title": "哥伦比亚军机坠毁，至少 34 人死亡",
+        "desc": "16:24 意大利公投否决 Meloni 司法改革 — 总理承认失败，称其为\"失去的机会\" Euronews",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Apple Announces WWDC 2026 for June 8",
+        "desc": "20:42 iPhone Exploit Kit Publicly Leaked — 'DarkSword' can hack millions of iPhones; Apple urges immediate updates TechC",
+        "url": ""
+      },
+      {
+        "title": "iPhone Exploit Kit Publicly Leaked",
+        "desc": "20:10 Elon Musk Unveils $20B 'Terafab' Chip Factory — Tesla & SpaceX to build in Austin, TX; called 'largest chip facili",
+        "url": ""
+      },
+      {
+        "title": "Elon Musk Unveils $20B 'Terafab' Chip Factory",
+        "desc": "16:20 SpaceX Shows Orbiting Data Center Satellites — Larger than the ISS, drawing protests from astronomers PCMag",
+        "url": ""
+      },
+      {
+        "title": "SpaceX Shows Orbiting Data Center Satellites",
+        "desc": "14:30 iPhone 17 Pro Runs 400B Parameter LLM On-Device — Showcasing local AI inference capabilities HN",
+        "url": ""
+      },
+      {
+        "title": "iPhone 17 Pro Runs 400B Parameter LLM On-Device",
+        "desc": "18:10 Nvidia CEO Responds to DLSS 5 Backlash — Jensen Huang: 'I don't love AI slop myself' Kotaku",
+        "url": ""
+      },
+      {
+        "title": "Nvidia CEO Responds to DLSS 5 Backlash",
+        "desc": "21:28 FCC Updates Covered List to Include Foreign-Made Consumer Routers — Network security implications FCC",
+        "url": ""
+      },
+      {
+        "title": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
+        "desc": "🌍 World News",
+        "url": ""
+      },
+      {
+        "title": "Trump Postpones Iran Strait of Hormuz Ultimatum",
+        "desc": "23:30 ICE Agents Deploy to US Airports Amid TSA Staff Shortages — Wait times exceed 4 hours at Houston, NYC airports; li",
+        "url": ""
+      },
+      {
+        "title": "ICE Agents Deploy to US Airports Amid TSA Staff Shortages",
+        "desc": "22:29 Colombian Military Plane Crash Kills At Least 34 — Aircraft with 121 aboard crashed on takeoff; 77 injured AP/Reut",
+        "url": ""
+      },
+      {
+        "title": "Colombian Military Plane Crash Kills At Least 34",
+        "desc": "16:24 Italy's Meloni Concedes Defeat in Judicial Reform Referendum — Calls it 'a lost opportunity' Euronews",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月24日",
+    "date_fmt_zh": "2026年03月24日",
+    "date_fmt_en": "Mar 24, 2026",
+    "ts": "2026-03-24T08:02:50.389767+08:00"
+  },
+  {
     "slug": "perspective-2026-03-23",
     "type": "perspective",
     "type_label": "商机雷达",
