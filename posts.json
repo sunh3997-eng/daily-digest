@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-03-24",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-23",
+    "title_en": "Multi-Perspective · 2026-03-23",
+    "summary_zh": "🔍 多视角 · 特朗普称与伊朗\"谈判顺利\"，伊朗矢口否认 · 2026-03-23",
+    "summary_en": "🔍 Multi-Perspective · Trump Claims \"Very Good\" Iran Talks; Iran Denies Any Contact · 2026-03-23",
+    "bullets_zh": [
+      "纽约时报",
+      "Fox News",
+      "《大西洋月刊》",
+      "Axios"
+    ],
+    "bullets_en": [
+      "New York Times",
+      "AP News",
+      "The Guardian",
+      "Fox News"
+    ],
+    "items_zh": [
+      {
+        "title": "纽约时报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "《大西洋月刊》",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Axios",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "信息矛盾",
+        "desc": "2. 市场异动 — 特朗普发帖前的期货交易量飙升，暗示信息不对称和潜在的内幕交易",
+        "url": ""
+      },
+      {
+        "title": "市场异动",
+        "desc": "3. 平民伤亡 — 持续关注战争对伊朗平民的影响，呼吁国际社会推动停火",
+        "url": ""
+      },
+      {
+        "title": "平民伤亡",
+        "desc": "中方立场一贯主张通过外交途径解决伊朗问题，反对军事干预，强调中东地区的和平稳定符合各方利益。",
+        "url": ""
+      },
+      {
+        "title": "CNBC调查性报道",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Paul Krugman（Substack）",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "半岛电视台",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "New York Times",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "AP News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The Guardian",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The Atlantic",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Axios",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Credibility gap",
+        "desc": "2. Market anomalies — Pre-announcement futures surge suggests information asymmetry and potential insider trading",
+        "url": ""
+      },
+      {
+        "title": "Market anomalies",
+        "desc": "3. Civilian toll — Continued coverage of war's impact on Iranian civilians, calling for international ceasefire efforts",
+        "url": ""
+      },
+      {
+        "title": "Civilian toll",
+        "desc": "China's consistent position advocates diplomatic resolution, opposes military intervention, and emphasizes regional peac",
+        "url": ""
+      },
+      {
+        "title": "CNBC Investigation",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月24日",
+    "date_fmt_zh": "2026年03月24日",
+    "date_fmt_en": "Mar 24, 2026",
+    "ts": "2026-03-24T10:03:00.024746+08:00"
+  },
+  {
     "slug": "radar-2026-03-24",
     "type": "radar",
     "type_label": "商机雷达",
