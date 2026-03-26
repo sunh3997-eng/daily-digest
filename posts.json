@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-03-26",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-26",
+    "title_en": "Multi-Perspective · 2026-03-26",
+    "summary_zh": "🔍 多视角 · 陪审团裁定Meta和Google社交媒体成瘾案败诉 · 2026-03-26",
+    "summary_en": "🔍 Multi-Perspective · Jury Finds Meta and Google Negligent in Landmark Social Media Addiction Case · 2026-03-26",
+    "bullets_zh": [
+      "基调：里程碑式胜利，行业变革的开端",
+      "基调：关注判决但质疑法律基础",
+      "对科技公司过度监管的担忧",
+      "个人/家庭责任"
+    ],
+    "bullets_en": [
+      "Tone: Milestone victory, dawn of industry accountability",
+      "Tone: Covering the story but questioning legal foundations",
+      "Overregulation concerns",
+      "Personal/family responsibility"
+    ],
+    "items_zh": [
+      {
+        "title": "基调：里程碑式胜利，行业变革的开端",
+        "desc": "NPR详细报道了庭审细节：原告律师Mark Lanier用一罐M&M糖果代表公司市值的每个十亿美元，试图说服陪审团加重处罚。陪审团女成员Victoria直言：\"我们想让他们感受到痛。我们想让他们知道这不可接受。\"",
+        "url": ""
+      },
+      {
+        "title": "基调：关注判决但质疑法律基础",
+        "desc": "Fox News大量报道了此案，但邀请法学教授Jonathan Turley进行评论。Turley认为该判决\"明显可被挑战\"（clearly challengeable），暗示上诉阶段可能被推翻。",
+        "url": ""
+      },
+      {
+        "title": "对科技公司过度监管的担忧",
+        "desc": "- 个人/家庭责任：孩子6岁就使用社交媒体，家长监管在哪里？",
+        "url": ""
+      },
+      {
+        "title": "个人/家庭责任",
+        "desc": "- 言论自由隐忧：如果平台设计本身被认定为\"缺陷\"，是否所有吸引注意力的数字产品都有法律风险？",
+        "url": ""
+      },
+      {
+        "title": "言论自由隐忧",
+        "desc": "- Fox同时报道了\"保护儿童远离社交媒体的新解决方案\"，立场偏向家庭自律而非政府立法",
+        "url": ""
+      },
+      {
+        "title": "预期基调：美国科技垄断的自食其果",
+        "desc": "中国官媒虽未第一时间专题报道此案，但基于此前同类事件的报道模式，预计将从以下角度解读：",
+        "url": ""
+      },
+      {
+        "title": "基调：分裂——在保护儿童与产品责任过度扩张之间",
+        "desc": "科技社区对此案反应复杂：",
+        "url": ""
+      },
+      {
+        "title": "支持方观点：",
+        "desc": "- 社交媒体公司内部文件（如Facebook Papers）早已证明公司明知Instagram对青少年心理健康有害",
+        "url": ""
+      },
+      {
+        "title": "反对方观点：",
+        "desc": "- \"成瘾性设计\"的定义过于模糊——所有好产品都试图留住用户，这何时变成了\"缺陷\"？",
+        "url": ""
+      },
+      {
+        "title": "法律界普遍认为：",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Tone: Milestone victory, dawn of industry accountability",
+        "desc": "NPR reported extensively on the trial details. Lead attorney Mark Lanier used a jar of M&Ms — each representing $1 billi",
+        "url": ""
+      },
+      {
+        "title": "Tone: Covering the story but questioning legal foundations",
+        "desc": "Fox News covered the verdict extensively but featured legal analyst Jonathan Turley calling the verdict \"clearly challen",
+        "url": ""
+      },
+      {
+        "title": "Overregulation concerns",
+        "desc": "- Personal/family responsibility: The child started social media at age 6 — where were the parents?",
+        "url": ""
+      },
+      {
+        "title": "Personal/family responsibility",
+        "desc": "- Free speech implications: If platform design is a \"defect,\" could every attention-capturing digital product face legal",
+        "url": ""
+      },
+      {
+        "title": "Free speech implications",
+        "desc": "- Fox simultaneously covered \"new solutions to keep kids off social media,\" favoring family-led solutions over legislati",
+        "url": ""
+      },
+      {
+        "title": "Expected tone: American tech monopolies reaping what they sowed",
+        "desc": "Based on established reporting patterns for similar cases:",
+        "url": ""
+      },
+      {
+        "title": "Tone: Deeply divided — between protecting children and overextending product liability",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "In favor:",
+        "desc": "- Internal company documents (Facebook Papers) already proved companies knew Instagram harmed teen mental health",
+        "url": ""
+      },
+      {
+        "title": "Against:",
+        "desc": "- \"Addictive design\" is dangerously vague — all good products try to retain users; when does engagement become a \"defect",
+        "url": ""
+      },
+      {
+        "title": "Legal consensus:",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月26日",
+    "date_fmt_zh": "2026年03月26日",
+    "date_fmt_en": "Mar 26, 2026",
+    "ts": "2026-03-26T10:05:08.315137+08:00"
+  },
+  {
     "slug": "radar-2026-03-26",
     "type": "radar",
     "type_label": "商机雷达",
