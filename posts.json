@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-03-26",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-26",
+    "title_en": "Daily Briefing · 2026-03-26",
+    "summary_zh": "📰 每日早报 · 2026年3月26日 星期四",
+    "summary_en": "📰 Daily Briefing · March 26, 2026 (Thursday)",
+    "bullets_zh": [
+      "Anthropic 发布 AI 技能差距报告",
+      "Google 发布 TurboQuant AI 内存压缩算法",
+      "Google 推出 Lyria 3 Pro 音乐生成模型",
+      "90% Claude 相关代码输出流向星标不到2的 GitHub 仓库"
+    ],
+    "bullets_en": [
+      "Anthropic: AI Skills Gap Is Growing",
+      "Google Unveils TurboQuant AI Memory Compression",
+      "Google Launches Lyria 3 Pro Music Generation",
+      "90% of Claude-Linked Output Goes to <2-Star GitHub Repos"
+    ],
+    "items_zh": [
+      {
+        "title": "Anthropic 发布 AI 技能差距报告",
+        "desc": "04:38 Google 发布 TurboQuant AI 内存压缩算法 — 网友戏称其为现实版《硅谷》中的 Pied Piper 压缩算法，可大幅降低 AI 模型内存占用",
+        "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/"
+      },
+      {
+        "title": "Google 发布 TurboQuant AI 内存压缩算法",
+        "desc": "00:37 Google 推出 Lyria 3 Pro 音乐生成模型 — 可生成更长、更可定制的音乐曲目，AI 音乐创作再进一步",
+        "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/"
+      },
+      {
+        "title": "Google 推出 Lyria 3 Pro 音乐生成模型",
+        "desc": "02:16 90% Claude 相关代码输出流向星标不到2的 GitHub 仓库 — 数据显示 AI 编程助手主要被小型个人项目使用",
+        "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/"
+      },
+      {
+        "title": "% Claude 相关代码输出流向星标不到2的 GitHub 仓库",
+        "desc": "22:12 ARC-AGI-3 基准测试发布 — 新一代 AGI 评估基准上线，继续测试 AI 在抽象推理方面的极限",
+        "url": "https://www.claudescode.dev/?window=since_launch"
+      },
+      {
+        "title": "ARC-AGI-3 基准测试发布",
+        "desc": "02:55 Melania Trump 倡议用机器人进行家庭教育 — 第一夫人认为 AI 和机器人应在美国教育中扮演重要角色",
+        "url": "https://arcprize.org/arc-agi/3"
+      },
+      {
+        "title": "Melania Trump 倡议用机器人进行家庭教育",
+        "desc": "🌍 国际要闻",
+        "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/"
+      },
+      {
+        "title": "Meta 和 YouTube 在社交媒体成瘾诉讼中被判有责",
+        "desc": "01:18 特朗普政府向伊朗提出 15 点和平方案 — 巴基斯坦提出主持谈判，但伊朗否认正在与美国进行对话",
+        "url": "https://www.bbc.com/news/articles/c747x7gz249o"
+      },
+      {
+        "title": "特朗普政府向伊朗提出 15 点和平方案",
+        "desc": "03:28 特朗普被指在私人航班上向乘客展示机密地图 — BBC 报道引发国家安全担忧",
+        "url": "https://news.google.com/"
+      },
+      {
+        "title": "特朗普被指在私人航班上向乘客展示机密地图",
+        "desc": "00:12 联合国投票承认非洲奴隶制为\"最严重的反人类罪行\" — 里程碑式决议呼吁道歉并建立赔偿基金",
+        "url": "https://www.bbc.com/"
+      },
+      {
+        "title": "联合国投票承认非洲奴隶制为\"最严重的反人类罪行\"",
+        "desc": "00:07 格陵兰独立党首次赢得丹麦议会席位 — 在美国对格陵兰兴趣增加的背景下，独立运动获得关键突破",
+        "url": "https://www.bbc.com/news/articles/cvg06q36052o"
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Anthropic: AI Skills Gap Is Growing",
+        "desc": "20:38 UTC Google Unveils TurboQuant AI Memory Compression — Internet dubs it the real-life \"Pied Piper\" from HBO's Silic",
+        "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/"
+      },
+      {
+        "title": "Google Unveils TurboQuant AI Memory Compression",
+        "desc": "16:37 UTC Google Launches Lyria 3 Pro Music Generation — Upgraded model generates longer, more customizable music tracks",
+        "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/"
+      },
+      {
+        "title": "Google Launches Lyria 3 Pro Music Generation",
+        "desc": "18:16 UTC 90% of Claude-Linked Output Goes to <2-Star GitHub Repos — Data shows AI coding assistants are predominantly u",
+        "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/"
+      },
+      {
+        "title": "% of Claude-Linked Output Goes to <2-Star GitHub Repos",
+        "desc": "18:16 UTC ARC-AGI-3 Benchmark Released — Next-generation AGI evaluation testing AI's limits in abstract reasoning",
+        "url": "https://www.claudescode.dev/?window=since_launch"
+      },
+      {
+        "title": "ARC-AGI-3 Benchmark Released",
+        "desc": "18:55 UTC Melania Trump Pushes Robot Homeschooling — First lady envisions AI and robotics playing prominent role in Amer",
+        "url": "https://arcprize.org/arc-agi/3"
+      },
+      {
+        "title": "Melania Trump Pushes Robot Homeschooling",
+        "desc": "🌍 World News",
+        "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/"
+      },
+      {
+        "title": "Meta & YouTube Found Liable in Social Media Addiction Trial",
+        "desc": "17:18 UTC Trump Admin Pitches 15-Point Iran Peace Proposal — Pakistan offers to host talks; Iran denies any negotiations",
+        "url": "https://www.bbc.com/news/articles/c747x7gz249o"
+      },
+      {
+        "title": "Trump Admin Pitches 15-Point Iran Peace Proposal",
+        "desc": "19:28 UTC Trump Accused of Showing Classified Map on Private Flight — Incident raises national security concerns",
+        "url": "https://news.google.com/"
+      },
+      {
+        "title": "Trump Accused of Showing Classified Map on Private Flight",
+        "desc": "20:12 UTC UN Votes to Recognize Enslavement of Africans as 'Gravest Crime Against Humanity' — Landmark resolution calls ",
+        "url": "https://www.bbc.com/"
+      },
+      {
+        "title": "UN Votes to Recognize Enslavement of Africans as 'Gravest Crime Against Humanity'",
+        "desc": "16:12 UTC Greenland Independence Party Wins Danish Parliament Seat — Key breakthrough amid growing US interest in Greenl",
+        "url": "https://www.bbc.com/news/articles/cvg06q36052o"
+      }
+    ],
+    "date_fmt": "2026年03月26日",
+    "date_fmt_zh": "2026年03月26日",
+    "date_fmt_en": "Mar 26, 2026",
+    "ts": "2026-03-26T08:02:33.104992+08:00"
+  },
+  {
     "slug": "perspective-2026-03-25",
     "type": "perspective",
     "type_label": "商机雷达",
