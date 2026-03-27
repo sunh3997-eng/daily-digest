@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-03-27",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-27",
+    "title_en": "Daily Briefing · 2026-03-27",
+    "summary_zh": "📰 每日早报 · 2026年3月27日（周五）",
+    "summary_en": "📰 Daily Briefing · March 27, 2026 (Friday)",
+    "bullets_zh": [
+      "Google Gemini 推出 ChatGPT 迁移工具",
+      "Anthropic 诉美国国防部获临时禁令",
+      "Apple 宣布停产 Mac Pro",
+      "AMD 发布 Ryzen 9 9950X3D2 双版本"
+    ],
+    "bullets_en": [
+      "Google Gemini launches ChatGPT migration tool",
+      "Anthropic wins preliminary injunction against US Dept. of War",
+      "Apple discontinues Mac Pro",
+      "AMD unveils Ryzen 9 9950X3D2 Dual Edition"
+    ],
+    "items_zh": [
+      {
+        "title": "Google Gemini 推出 ChatGPT 迁移工具",
+        "desc": "• 23:11 Anthropic 诉美国国防部获临时禁令 — 法院批准 Anthropic 的初步禁令动议，限制其 AI 技术被强制用于军事目的 HN / CourtListener",
+        "url": ""
+      },
+      {
+        "title": "Anthropic 诉美国国防部获临时禁令",
+        "desc": "• 23:11 Apple 宣布停产 Mac Pro — 苹果正式终结其旗舰台式工作站产品线，自研芯片转型已完成高端产品整合 HN",
+        "url": ""
+      },
+      {
+        "title": "Apple 宣布停产 Mac Pro",
+        "desc": "• 15:20 AMD 发布 Ryzen 9 9950X3D2 双版本 — 全球首款双 3D V-Cache CPU，5.6 GHz、208 MB 缓存、200W TDP，4月上市 Wccftech / Tom's Hardware",
+        "url": ""
+      },
+      {
+        "title": "AMD 发布 Ryzen 9 9950X3D2 双版本",
+        "desc": "• 16:46 Intel Arrow Lake 刷新版评测发布 — Core Ultra 270K/250K Plus 评测出炉，Ars Technica 称\"有条件地优秀\"；确认取消 Core Ultra 9 290K Plus Ars",
+        "url": ""
+      },
+      {
+        "title": "Intel Arrow Lake 刷新版评测发布",
+        "desc": "• 17:35 Meta 股价暴跌近 8% — 法院在社交媒体成瘾诉讼中判 Meta 和 YouTube 需承担责任，市场将其比作\"大烟草时刻\" CNBC / IBD",
+        "url": ""
+      },
+      {
+        "title": "Meta 股价暴跌近 8%",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "Trump 延长伊朗打击暂停期",
+        "desc": "• 23:04 Trump 下令\"立即\"支付 TSA 工资 — DHS 部分关闭持续，ICE 人员进驻机场安检；白宫拒绝了 Musk 代付 TSA 工资的提议 NBC / CNBC",
+        "url": ""
+      },
+      {
+        "title": "Trump 下令\"立即\"支付 TSA 工资",
+        "desc": "• 23:30 美股遭遇伊朗战争以来最大跌幅 — 道指跌超 450 点，油价再破 $100，股票、债券、黄金三杀 WSJ / NYT / CNN",
+        "url": ""
+      },
+      {
+        "title": "美股遭遇伊朗战争以来最大跌幅",
+        "desc": "• 19:51 AP 正式将以色列对黎巴嫩行动定性为\"入侵\" — 以军向黎南部增兵，黎巴嫩民众担忧新一轮占领 AP / Al Jazeera",
+        "url": ""
+      },
+      {
+        "title": "AP 正式将以色列对黎巴嫩行动定性为\"入侵\"",
+        "desc": "• 18:49 马杜罗在纽约受审 — 美检方称其\"掠夺\"委内瑞拉财富，法官质疑为何冻结其律师费 BBC / NYT",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Google Gemini launches ChatGPT migration tool",
+        "desc": "• 23:11 Anthropic wins preliminary injunction against US Dept. of War — Court limits forced military use of Anthropic's ",
+        "url": ""
+      },
+      {
+        "title": "Anthropic wins preliminary injunction against US Dept. of War",
+        "desc": "• 23:11 Apple discontinues Mac Pro — The flagship desktop workstation line is officially retired as Apple Silicon transi",
+        "url": ""
+      },
+      {
+        "title": "Apple discontinues Mac Pro",
+        "desc": "• 15:20 AMD unveils Ryzen 9 9950X3D2 Dual Edition — World's first dual 3D V-Cache CPU: 5.6 GHz, 208 MB cache, 200W TDP, ",
+        "url": ""
+      },
+      {
+        "title": "AMD unveils Ryzen 9 9950X3D2 Dual Edition",
+        "desc": "• 16:46 Intel Arrow Lake refresh reviews drop — Core Ultra 270K/250K Plus reviewed as \"conditionally great\"; Core Ultra ",
+        "url": ""
+      },
+      {
+        "title": "Intel Arrow Lake refresh reviews drop",
+        "desc": "• 17:35 Meta stock plunges ~8% — Courts find Meta and YouTube liable in social media addiction trial, drawing \"Big Tobac",
+        "url": ""
+      },
+      {
+        "title": "Meta stock plunges ~8%",
+        "desc": "🌍 World News",
+        "url": ""
+      },
+      {
+        "title": "Trump extends pause on Iran strikes",
+        "desc": "• 23:04 Trump orders \"immediate\" TSA pay during DHS shutdown — ICE agents deployed to airports; White House rejects Musk",
+        "url": ""
+      },
+      {
+        "title": "Trump orders \"immediate\" TSA pay during DHS shutdown",
+        "desc": "• 23:30 Wall Street suffers biggest drop since Iran war began — Dow falls 450+, oil pushes past $100 again, stocks-bonds",
+        "url": ""
+      },
+      {
+        "title": "Wall Street suffers biggest drop since Iran war began",
+        "desc": "• 19:51 AP formally calls Israel's Lebanon operation an \"invasion\" — Israel sends more troops into southern Lebanon as g",
+        "url": ""
+      },
+      {
+        "title": "AP formally calls Israel's Lebanon operation an \"invasion\"",
+        "desc": "• 18:49 Maduro on trial in New York — Prosecutors argue he \"plundered\" Venezuela; judge questions freeze on his legal fe",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月27日",
+    "date_fmt_zh": "2026年03月27日",
+    "date_fmt_en": "Mar 27, 2026",
+    "ts": "2026-03-27T08:02:15.673850+08:00"
+  },
+  {
     "slug": "perspective-2026-03-26",
     "type": "perspective",
     "type_label": "商机雷达",
