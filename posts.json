@@ -1,5 +1,124 @@
 [
   {
+    "slug": "perspective-2026-03-27",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-27",
+    "title_en": "Multi-Perspective · 2026-03-27",
+    "summary_zh": "🔍 多视角 · IOC禁止跨性别女性参加奥运女子项目 · 2026-03-27",
+    "summary_en": "🔍 Multi-Perspective · IOC Bans Transgender Women from Olympic Women's Events · 2026-03-27",
+    "bullets_zh": [
+      "NPR / The Guardian / ESPN / NYT：",
+      "间性人（intersex）运动员",
+      "The Guardian",
+      "Fox News："
+    ],
+    "bullets_en": [
+      "NPR / The Guardian / ESPN / NYT:",
+      "intersex athletes",
+      "The Guardian",
+      "Fox News:"
+    ],
+    "items_zh": [
+      {
+        "title": "NPR / The Guardian / ESPN / NYT：",
+        "desc": "- NPR深入报道了科学争议：发现SRY基因的科学家Andrew Sinclair本人公开反对将该基因用于性别判定，称\"它只能告诉你基因是否存在，无法说明该基因是否在发挥功能、是否产生了睾酮、身体是否能利用睾酮\"",
+        "url": ""
+      },
+      {
+        "title": "间性人（intersex）运动员",
+        "desc": "- 隐私担忧：欧洲多国（法国、挪威）禁止非医疗目的的基因检测，这些国家的运动员需出国接受检测",
+        "url": ""
+      },
+      {
+        "title": "The Guardian",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News：",
+        "desc": "- 保守派长期以来将跨性别运动员参加女子赛事视为对女性权益的侵犯",
+        "url": ""
+      },
+      {
+        "title": "报道较少且语调克制",
+        "desc": "- 中国体育政策传统上关注竞技公平性，支持科学标准，但避免卷入西方\"文化战争\"",
+        "url": ""
+      },
+      {
+        "title": "权益组织 interACT（间性人权利倡导组织）：",
+        "desc": "- 执行主任Erika Lorshbough质疑：\"这个过程是否会涉及对女孩身体的检查？是否需要进一步的生物医学测试？\"",
+        "url": ""
+      },
+      {
+        "title": "SRY基因发现者Andrew Sinclair：",
+        "desc": "- 2025年在The Conversation发表评论文章，明确反对将自己发现的基因用于性别判定",
+        "url": ""
+      },
+      {
+        "title": "Reddit/社交媒体：",
+        "desc": "- 讨论两极化——支持者称这是\"保护女性运动员的必要之举\"",
+        "url": ""
+      },
+      {
+        "title": "核心张力：",
+        "desc": "这条线划在哪里，将在未来数月乃至数年持续引发争论。2028洛杉矶奥运会——美国本土举办，叠加美国国内跨性别议题的高度政治化——注定让这一政策成为最具争议的奥运话题之一。",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "NPR / The Guardian / ESPN / NYT:",
+        "desc": "- NPR highlighted the scientific controversy: Andrew Sinclair, who discovered the SRY gene, publicly opposes using it fo",
+        "url": ""
+      },
+      {
+        "title": "intersex athletes",
+        "desc": "- Privacy concerns: France and Norway ban non-medical genetic testing; their athletes must travel abroad for screening",
+        "url": ""
+      },
+      {
+        "title": "The Guardian",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News:",
+        "desc": "- Conservatives have long viewed trans women in women's sports as an infringement on women's rights",
+        "url": ""
+      },
+      {
+        "title": "minimal and cautiously neutral",
+        "desc": "- China's sports policy traditionally focuses on competitive fairness and supports scientific standards, but avoids West",
+        "url": ""
+      },
+      {
+        "title": "interACT (Intersex Rights Advocacy):",
+        "desc": "- Executive Director Erika Lorshbough: \"Will this involve examination of a girl's body? Will it require further biomedic",
+        "url": ""
+      },
+      {
+        "title": "Andrew Sinclair (SRY Gene Discoverer):",
+        "desc": "- Published an op-ed in The Conversation opposing the use of his discovery for sex determination",
+        "url": ""
+      },
+      {
+        "title": "Social Media / Reddit:",
+        "desc": "- Deeply polarized — supporters call it \"necessary to protect women's sports\"",
+        "url": ""
+      },
+      {
+        "title": "Core tension:",
+        "desc": "Where that line is drawn will remain contested for months and years. The 2028 LA Olympics — on American soil, amid the h",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月27日",
+    "date_fmt_zh": "2026年03月27日",
+    "date_fmt_en": "Mar 27, 2026",
+    "ts": "2026-03-27T10:03:40.318284+08:00"
+  },
+  {
     "slug": "news-2026-03-27",
     "type": "news",
     "type_label": "每日早报",
