@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-03-28",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-27",
+    "title_en": "Multi-Perspective · 2026-03-27",
+    "summary_zh": "🔍 多视角 · 美伊战争一个月：僵局、市场恐慌与和平博弈 · 2026-03-27",
+    "summary_en": "🔍 Multi-Perspective · One Month Into the Iran War: Stalemate, Market Panic & Peace Gambit · 2026-03-27",
+    "bullets_zh": [
+      "Reuters/BBC",
+      "《纽约时报》",
+      "Stars and Stripes（军方媒体）",
+      "Fox News"
+    ],
+    "bullets_en": [
+      "Reuters/BBC",
+      "New York Times",
+      "Stars and Stripes",
+      "Fox News"
+    ],
+    "items_zh": [
+      {
+        "title": "Reuters/BBC",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "《纽约时报》",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Stars and Stripes（军方媒体）",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "MSN/保守派分析",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "卡内基国际和平基金会",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "CGTN",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "中文媒体整体叙事",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Truthout（独立左翼）",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Reuters/BBC",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "New York Times",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Stars and Stripes",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "MSN/Conservative analysis",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Carnegie Endowment",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "CGTN",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Overall Chinese narrative",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Truthout",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月28日",
+    "date_fmt_zh": "2026年03月28日",
+    "date_fmt_en": "Mar 28, 2026",
+    "ts": "2026-03-28T10:05:36.158975+08:00"
+  },
+  {
     "slug": "radar-2026-03-28",
     "type": "radar",
     "type_label": "商机雷达",
