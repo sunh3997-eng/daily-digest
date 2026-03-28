@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-03-28",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-28",
+    "title_en": "Daily Briefing · 2026-03-28",
+    "summary_zh": "📰 每日早报 · 2026年3月28日 星期六",
+    "summary_en": "📰 Daily Briefing · March 28, 2026 (Saturday)",
+    "bullets_zh": [
+      "鲁比奥称美国预计\"几周内\"结束对伊战争",
+      "以色列打击伊朗核设施，德黑兰誓言\"不再以眼还眼\"",
+      "美军大量使用战斧导弹引五角大楼担忧",
+      "伊朗持续封锁霍尔木兹海峡，威胁封锁更多航道"
+    ],
+    "bullets_en": [
+      "Rubio says US expects to finish Iran war 'in next couple of weeks'",
+      "Israel strikes Iran's nuclear facilities; Tehran vows escalated retaliation",
+      "US burning through Tomahawk missiles at alarming rate",
+      "Iran keeps Strait of Hormuz closed, threatens more shipping lanes"
+    ],
+    "items_zh": [
+      {
+        "title": "鲁比奥称美国预计\"几周内\"结束对伊战争",
+        "desc": "19:23 以色列打击伊朗核设施，德黑兰誓言\"不再以眼还眼\" — 以色列加大对伊朗核设施的空袭力度，伊朗方面警告将升级报复行动 Fortune",
+        "url": ""
+      },
+      {
+        "title": "以色列打击伊朗核设施，德黑兰誓言\"不再以眼还眼\"",
+        "desc": "17:00 美军大量使用战斧导弹引五角大楼担忧 — 华盛顿邮报报道美国在对伊行动中已消耗数百枚战斧巡航导弹，库存补充速度远低于消耗速度 Washington Post",
+        "url": ""
+      },
+      {
+        "title": "美军大量使用战斧导弹引五角大楼担忧",
+        "desc": "17:07 伊朗持续封锁霍尔木兹海峡，威胁封锁更多航道 — 伊朗不仅维持海峡封锁，还对经过的油轮收取\"通行费\"，并威胁封锁其他中东关键航线 CBS News",
+        "url": ""
+      },
+      {
+        "title": "伊朗持续封锁霍尔木兹海峡，威胁封锁更多航道",
+        "desc": "19:04 以色列与真主党新一轮冲突已致400余名真主党武装人员死亡 — 路透社引述消息人士称以军在黎巴嫩南部持续推进，击杀真主党高级反坦克部队指挥官 Reuters",
+        "url": ""
+      },
+      {
+        "title": "以色列与真主党新一轮冲突已致400余名真主党武装人员死亡",
+        "desc": "19:56 美国众议院共和党否决参议院DHS拨款法案 — 国土安全部资金僵局持续，TSA员工薪资受影响，机场延误加剧；特朗普签署行政令为TSA发薪 Washington Post",
+        "url": ""
+      },
+      {
+        "title": "美国众议院共和党否决参议院DHS拨款法案",
+        "desc": "12:00 第三次\"No Kings\"大规模抗议活动遍布全美 — 从阿拉巴马到怀俄明，甚至北极圈，全美多地举行反特朗普\"No Kings\"集会 CNN",
+        "url": ""
+      },
+      {
+        "title": "第三次\"No Kings\"大规模抗议活动遍布全美",
+        "desc": "🤖 AI / 科技",
+        "url": ""
+      },
+      {
+        "title": "Anthropic未发布模型信息泄露，网络安全股暴跌",
+        "desc": "14:47 苹果正式停产Mac Pro台式机 — Mac Pro在多年挣扎后正式退役，苹果将Mac Studio定位为旗舰桌面产品线 Ars Technica",
+        "url": ""
+      },
+      {
+        "title": "苹果正式停产Mac Pro台式机",
+        "desc": "19:08 索尼PS5涨价100美元 — 受AI芯片需求和伊朗战争推高存储芯片成本影响，索尼宣布全球PS5涨价最高150美元 The Guardian",
+        "url": ""
+      },
+      {
+        "title": "索尼PS5涨价100美元",
+        "desc": "13:39 Android 17 Beta 3发布 — 恢复一键Wi-Fi切换开关，新增桌面多任务模式，\"优先充电\"功能曝光 9to5Google",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
+        "desc": "19:23 Israel strikes Iran's nuclear facilities; Tehran vows escalated retaliation — Israel intensifies bombing of Irania",
+        "url": ""
+      },
+      {
+        "title": "Israel strikes Iran's nuclear facilities; Tehran vows escalated retaliation",
+        "desc": "17:00 US burning through Tomahawk missiles at alarming rate — Hundreds of cruise missiles used in Iran campaign; stockpi",
+        "url": ""
+      },
+      {
+        "title": "US burning through Tomahawk missiles at alarming rate",
+        "desc": "17:07 Iran keeps Strait of Hormuz closed, threatens more shipping lanes — Iran charging tankers millions in \"tolls\" and ",
+        "url": ""
+      },
+      {
+        "title": "Iran keeps Strait of Hormuz closed, threatens more shipping lanes",
+        "desc": "19:04 Over 400 Hezbollah fighters killed in new war with Israel — IDF eliminates senior anti-tank commander as fighting ",
+        "url": ""
+      },
+      {
+        "title": "Over 400 Hezbollah fighters killed in new war with Israel",
+        "desc": "19:56 House GOP rejects Senate DHS funding bill amid TSA crisis — Airport delays mount as funding stalemate continues; T",
+        "url": ""
+      },
+      {
+        "title": "House GOP rejects Senate DHS funding bill amid TSA crisis",
+        "desc": "🤖 AI & Tech",
+        "url": ""
+      },
+      {
+        "title": "Anthropic's unreleased 'Mythos' model details leak; cybersecurity stocks plunge",
+        "desc": "14:47 Apple officially discontinues Mac Pro — After years of fitful effort, the tower desktop is gone; Mac Studio takes ",
+        "url": ""
+      },
+      {
+        "title": "Apple officially discontinues Mac Pro",
+        "desc": "19:08 Sony hikes PS5 prices by up to $150 — Blames AI chip demand and Iran war driving up memory costs The Guardian",
+        "url": ""
+      },
+      {
+        "title": "Sony hikes PS5 prices by up to $150",
+        "desc": "13:39 Android 17 Beta 3 drops with Wi-Fi toggle fix — Restores single-tap Wi-Fi, adds desktop multitasking mode 9to5Goog",
+        "url": ""
+      },
+      {
+        "title": "Android 17 Beta 3 drops with Wi-Fi toggle fix",
+        "desc": "HN Microsoft insiders push to drop mandatory Microsoft Account — Internal effort to remove forced account requirement ga",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月28日",
+    "date_fmt_zh": "2026年03月28日",
+    "date_fmt_en": "Mar 28, 2026",
+    "ts": "2026-03-28T08:02:25.641994+08:00"
+  },
+  {
     "slug": "perspective-2026-03-27",
     "type": "perspective",
     "type_label": "商机雷达",
