@@ -5,13 +5,21 @@
   <link>https://daily.sundigest.xyz</link>
   <description>Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.</description>
   <language>en</language>
-  <lastBuildDate>Sat, 28 Mar 2026 00:02:25 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 28 Mar 2026 01:03:05 GMT</lastBuildDate>
   <atom:link href="https://daily.sundigest.xyz/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://daily.sundigest.xyz/assets/og.png</url>
     <title>Daily Digest</title>
     <link>https://daily.sundigest.xyz</link>
   </image>
+  <item>
+    <title>Hidden Opportunities · 2026-03-28 — Opportunity Radar</title>
+    <link>https://daily.sundigest.xyz/posts/radar-2026-03-28.html</link>
+    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-28.html</guid>
+    <pubDate>Sat, 28 Mar 2026 01:03:05 GMT</pubDate>
+    <description>🔍 Hidden Opportunities Daily 2026-03-28</description>
+    <category>Opportunity Radar</category>
+  </item>
   <item>
     <title>Daily Briefing · 2026-03-28 — Daily Briefing</title>
     <link>https://daily.sundigest.xyz/posts/news-2026-03-28.html</link>
@@ -162,14 +170,6 @@
     <guid isPermaLink="true">https://daily.sundigest.xyz/posts/perspective-2026-03-21.html</guid>
     <pubDate>Sat, 21 Mar 2026 02:02:56 GMT</pubDate>
     <description>🔍 Multi-Perspective · Musk Found Liable for Misleading Twitter Investors · 2026-03-21</description>
-    <category>Opportunity Radar</category>
-  </item>
-  <item>
-    <title>Hidden Opportunities · 2026-03-20 — Opportunity Radar</title>
-    <link>https://daily.sundigest.xyz/posts/radar-2026-03-21.html</link>
-    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-21.html</guid>
-    <pubDate>Sat, 21 Mar 2026 01:02:54 GMT</pubDate>
-    <description>🔍 Hidden Opportunities Daily 2026-03-20</description>
     <category>Opportunity Radar</category>
   </item>
 </channel>
