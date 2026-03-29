@@ -5,13 +5,21 @@
   <link>https://daily.sundigest.xyz</link>
   <description>Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.</description>
   <language>en</language>
-  <lastBuildDate>Sun, 29 Mar 2026 00:02:52 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 29 Mar 2026 01:02:51 GMT</lastBuildDate>
   <atom:link href="https://daily.sundigest.xyz/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://daily.sundigest.xyz/assets/og.png</url>
     <title>Daily Digest</title>
     <link>https://daily.sundigest.xyz</link>
   </image>
+  <item>
+    <title>Hidden Opportunities · 2026-03-28 — Opportunity Radar</title>
+    <link>https://daily.sundigest.xyz/posts/radar-2026-03-29.html</link>
+    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-29.html</guid>
+    <pubDate>Sun, 29 Mar 2026 01:02:51 GMT</pubDate>
+    <description>🔍 Hidden Opportunities Daily 2026-03-28</description>
+    <category>Opportunity Radar</category>
+  </item>
   <item>
     <title>Daily Briefing · 2026-03-29 — Daily Briefing</title>
     <link>https://daily.sundigest.xyz/posts/news-2026-03-29.html</link>
@@ -162,14 +170,6 @@
     <guid isPermaLink="true">https://daily.sundigest.xyz/posts/perspective-2026-03-22.html</guid>
     <pubDate>Sun, 22 Mar 2026 02:02:25 GMT</pubDate>
     <description>🔍 Multi-Perspective · Iran-Israel Nuclear Facility Strikes &amp; Hormuz Crisis · 2026-03-21</description>
-    <category>Opportunity Radar</category>
-  </item>
-  <item>
-    <title>Hidden Opportunities · 2026-03-21 — Opportunity Radar</title>
-    <link>https://daily.sundigest.xyz/posts/radar-2026-03-22.html</link>
-    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-03-22.html</guid>
-    <pubDate>Sun, 22 Mar 2026 01:02:37 GMT</pubDate>
-    <description>🔍 Hidden Opportunities Daily 2026-03-21</description>
     <category>Opportunity Radar</category>
   </item>
 </channel>
