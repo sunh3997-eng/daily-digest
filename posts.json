@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-03-29",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-29",
+    "title_en": "Multi-Perspective · 2026-03-29",
+    "summary_zh": "🔍 多视角 · \"No Kings 3\" 全美大游行 · 2026-03-29",
+    "summary_en": "🔍 Multi-Perspective · \"No Kings 3\" Nationwide Protests · 2026-03-29",
+    "bullets_zh": [
+      "Reuters",
+      "Washington Post",
+      "The Guardian",
+      "TIME"
+    ],
+    "bullets_en": [
+      "Reuters",
+      "Washington Post",
+      "The Guardian",
+      "TIME"
+    ],
+    "items_zh": [
+      {
+        "title": "Reuters",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Washington Post",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The Guardian",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "TIME",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "总体基调",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "白宫官方回应",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "FOX 11 Los Angeles",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "DC Media Group",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "PublicSource",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Reuters",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Washington Post",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The Guardian",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "TIME",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Overall tone",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "White House response",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "FOX 11 Los Angeles",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Xinhua",
+        "desc": "For No Kings 3, Chinese state media is expected to continue the following narrative framework:",
+        "url": ""
+      },
+      {
+        "title": "DC Media Group",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月29日",
+    "date_fmt_zh": "2026年03月29日",
+    "date_fmt_en": "Mar 29, 2026",
+    "ts": "2026-03-29T10:02:50.454119+08:00"
+  },
+  {
     "slug": "radar-2026-03-29",
     "type": "radar",
     "type_label": "商机雷达",
