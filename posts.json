@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-03-30",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-30",
+    "title_en": "Multi-Perspective · 2026-03-30",
+    "summary_zh": "🔍 多视角 · 美伊战争升级：伊朗反击袭击海湾工业设施 · 2026-03-30",
+    "summary_en": "🔍 Multi-Perspective · US-Iran War Escalation: Iran Retaliates with Strikes on Gulf Industrial Sites · 2026-03-30",
+    "bullets_zh": [
+      "Reuters",
+      "关键立场",
+      "Fox News",
+      "The Jerusalem Post"
+    ],
+    "bullets_en": [
+      "Reuters",
+      "Key stance",
+      "Fox News",
+      "The Jerusalem Post"
+    ],
+    "items_zh": [
+      {
+        "title": "Reuters",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "关键立场",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The Jerusalem Post",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "新浪/中国媒体",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Time 杂志援引中方立场",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "\"No Kings\" 抗议运动",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Kash Patel 邮件泄露事件",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "霍尔木兹海峡危机",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "今日最大信号",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Reuters",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Key stance",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The Jerusalem Post",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Sina/Chinese outlets",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Time Magazine citing China's position",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "\"No Kings\" Protest Movement",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Kash Patel Email Leak",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Strait of Hormuz Crisis",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Today's biggest signal",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月30日",
+    "date_fmt_zh": "2026年03月30日",
+    "date_fmt_en": "Mar 30, 2026",
+    "ts": "2026-03-30T10:03:33.601522+08:00"
+  },
+  {
     "slug": "radar-2026-03-30",
     "type": "radar",
     "type_label": "商机雷达",
