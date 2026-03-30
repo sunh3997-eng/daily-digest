@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-03-30",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-03-30",
+    "title_en": "Daily Briefing · 2026-03-30",
+    "summary_zh": "📰 每日早报 · 2026-03-30（周一）",
+    "summary_en": "📰 Daily Briefing · 2026-03-30 (Monday)",
+    "bullets_zh": [
+      "五角大楼准备对伊朗开展数周地面行动",
+      "伊朗警告美军地面入侵将遭\"烈火焚身\"",
+      "胡塞武装加入伊朗战争，向以色列发射弹道导弹",
+      "伊朗击中美军E-3预警机和空中加油机"
+    ],
+    "bullets_en": [
+      "Pentagon Prepares Weeks of Ground Operations in Iran",
+      "Iran Warns US Troops Will Be \"Set on Fire\" if Ground Invasion Launched",
+      "Houthis Join Iran War, Fire Ballistic Missile at Israel",
+      "Iran Strikes US E-3 AWACS at Saudi Air Base, 12 Troops Injured"
+    ],
+    "items_zh": [
+      {
+        "title": "五角大楼准备对伊朗开展数周地面行动",
+        "desc": "20:05 伊朗警告美军地面入侵将遭\"烈火焚身\" — 伊朗称其军队正在\"等待\"，同时巴基斯坦主持霍尔木兹海峡地区和平谈判 CBS News/NPR",
+        "url": ""
+      },
+      {
+        "title": "伊朗警告美军地面入侵将遭\"烈火焚身\"",
+        "desc": "17:51 胡塞武装加入伊朗战争，向以色列发射弹道导弹 — 中东冲突进一步升级，也门胡塞武装宣布将继续攻击以色列 France 24/Bloomberg",
+        "url": ""
+      },
+      {
+        "title": "胡塞武装加入伊朗战争，向以色列发射弹道导弹",
+        "desc": "13:34 伊朗击中美军E-3预警机和空中加油机 — 沙特空军基地遭伊朗导弹袭击，12名美军受伤，E-3哨兵预警机首次在战斗中受损 Al Jazeera/Bloomberg",
+        "url": ""
+      },
+      {
+        "title": "伊朗击中美军E-3预警机和空中加油机",
+        "desc": "21:52 以色列警察在棕榈主日阻拦红衣主教进入圣墓教堂 — 此举引发多方谴责，包括美国参议员克鲁兹和国务院发言人 Al Jazeera/Reuters",
+        "url": ""
+      },
+      {
+        "title": "以色列警察在棕榈主日阻拦红衣主教进入圣墓教堂",
+        "desc": "21:05 美国允许俄罗斯油轮抵达古巴，打破封锁 — 纽约时报报道，美方在石油封锁问题上做出让步 NYT/Reuters",
+        "url": ""
+      },
+      {
+        "title": "美国允许俄罗斯油轮抵达古巴，打破封锁",
+        "desc": "22:54 油价飙升，霍尔木兹海峡石油冲击波蔓延 — 高盛预测油价可能突破2008年创纪录的147美元，布伦特原油月涨幅创历史新高 Axios/Bloomberg/FT",
+        "url": ""
+      },
+      {
+        "title": "油价飙升，霍尔木兹海峡石油冲击波蔓延",
+        "desc": "14:30 教皇利奥十四世棕榈主日讲话被视为谴责特朗普 — 教皇称上帝拒绝\"双手沾满鲜血\"的领导者的祈祷 Guardian/Reuters",
+        "url": ""
+      },
+      {
+        "title": "教皇利奥十四世棕榈主日讲话被视为谴责特朗普",
+        "desc": "10:37 全球\"No Kings\"抗议运动创纪录参与 — 旧金山湾区等地爆发大规模反特朗普中期选举动员 SF Chronicle/NYT",
+        "url": ""
+      },
+      {
+        "title": "全球\"No Kings\"抗议运动创纪录参与",
+        "desc": "18:40 泽连斯基访问约旦，与海湾国家达成防务合作 — 乌克兰与阿联酋、卡塔尔签署防空装备协议 Al Jazeera/Reuters",
+        "url": ""
+      },
+      {
+        "title": "泽连斯基访问约旦，与海湾国家达成防务合作",
+        "desc": "🤖 AI / 科技",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Pentagon Prepares Weeks of Ground Operations in Iran",
+        "desc": "20:05 Iran Warns US Troops Will Be \"Set on Fire\" if Ground Invasion Launched — Iran says forces are \"waiting\" as Pakista",
+        "url": ""
+      },
+      {
+        "title": "Iran Warns US Troops Will Be \"Set on Fire\" if Ground Invasion Launched",
+        "desc": "17:51 Houthis Join Iran War, Fire Ballistic Missile at Israel — Middle East conflict escalates as Yemen's Houthis vow fu",
+        "url": ""
+      },
+      {
+        "title": "Houthis Join Iran War, Fire Ballistic Missile at Israel",
+        "desc": "13:34 Iran Strikes US E-3 AWACS at Saudi Air Base, 12 Troops Injured — First combat loss of a US E-3 Sentry surveillance",
+        "url": ""
+      },
+      {
+        "title": "Iran Strikes US E-3 AWACS at Saudi Air Base, 12 Troops Injured",
+        "desc": "21:52 Israeli Police Block Cardinal from Holy Sepulchre on Palm Sunday — Move sparks outcry from US senators Cruz and Hu",
+        "url": ""
+      },
+      {
+        "title": "Israeli Police Block Cardinal from Holy Sepulchre on Palm Sunday",
+        "desc": "21:05 US to Allow Russian Oil Tanker to Reach Cuba, Breaking Blockade — Tanker enters Cuba's exclusive economic zone as ",
+        "url": ""
+      },
+      {
+        "title": "US to Allow Russian Oil Tanker to Reach Cuba, Breaking Blockade",
+        "desc": "22:54 Oil Prices Surge as Strait of Hormuz Shock Spreads — Goldman Sachs warns oil could surpass 2008's $147 record; Bre",
+        "url": ""
+      },
+      {
+        "title": "Oil Prices Surge as Strait of Hormuz Shock Spreads",
+        "desc": "14:30 Pope Leo XIV Appears to Rebuke Trump on Palm Sunday — Pope says God rejects prayers of leaders with \"hands full of",
+        "url": ""
+      },
+      {
+        "title": "Pope Leo XIV Appears to Rebuke Trump on Palm Sunday",
+        "desc": "10:37 'No Kings' Protests Set Record Global Turnout — Third nationwide anti-Trump rally draws massive crowds as midterm ",
+        "url": ""
+      },
+      {
+        "title": "'No Kings' Protests Set Record Global Turnout",
+        "desc": "18:40 Zelenskyy Visits Jordan, Signs Defense Deals with Gulf Nations — Ukraine secures air defense cooperation with UAE ",
+        "url": ""
+      },
+      {
+        "title": "Zelenskyy Visits Jordan, Signs Defense Deals with Gulf Nations",
+        "desc": "🤖 AI & Tech",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月30日",
+    "date_fmt_zh": "2026年03月30日",
+    "date_fmt_en": "Mar 30, 2026",
+    "ts": "2026-03-30T08:02:25.608809+08:00"
+  },
+  {
     "slug": "perspective-2026-03-29",
     "type": "perspective",
     "type_label": "商机雷达",
