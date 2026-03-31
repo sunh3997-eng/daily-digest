@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-03-31",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-03-31",
+    "title_en": "Multi-Perspective · 2026-03-31",
+    "summary_zh": "🔍 多视角 · 美伊冲突全面升级：盟友分裂、教皇谴责、全球震荡 · 2026-03-31",
+    "summary_en": "🔍 Multi-Perspective · US-Iran Conflict Escalates: Allies Split, Pope Condemns, Markets Reel · 2026-03-31",
+    "bullets_zh": [
+      "关键叙事：危机升级，盟友裂痕加深",
+      "特朗普再发威胁",
+      "军事集结",
+      "西班牙关闭领空"
+    ],
+    "bullets_en": [
+      "Key Narrative: Escalating Crisis, Growing Allied Fractures",
+      "Trump's New Threat",
+      "Military Buildup",
+      "Spain Closes Airspace"
+    ],
+    "items_zh": [
+      {
+        "title": "关键叙事：危机升级，盟友裂痕加深",
+        "desc": "- 特朗普再发威胁：在社交媒体发文称若伊朗不\"尽快\"达成停火，将\"摧毁\"（obliterate）伊朗整个能源网络。CNN实时追踪报道称伊朗方面回应美国提案\"不切实际\"。",
+        "url": ""
+      },
+      {
+        "title": "特朗普再发威胁",
+        "desc": "- 军事集结：Reuters确认数千名82空降师士兵抵达中东，NYT统计美军在中东总兵力已超5万，WashPost报道五角大楼正为\"数周地面行动\"做准备。",
+        "url": ""
+      },
+      {
+        "title": "军事集结",
+        "desc": "- 西班牙关闭领空：AP/BBC/Reuters均重点报道——西班牙拒绝美军使用安达卢西亚两座联合军事基地，并关闭领空禁止涉伊战争的美国飞机通过。这是北约盟友首次以如此方式公开对抗华盛顿。",
+        "url": ""
+      },
+      {
+        "title": "西班牙关闭领空",
+        "desc": "- 教皇利奥谴责：在棕枝主日弥撒上，教皇含蓄批评\"双手沾满鲜血\"的领导人祈祷无效，被广泛解读为针对美国国防部长海格赛斯。白宫随后辩护称\"为军人祈祷是正当的\"。",
+        "url": ""
+      },
+      {
+        "title": "教皇利奥谴责",
+        "desc": "- 市场震荡：MarketWatch指出美股表现\"比历史上其他地缘冲击时更差\"，且仍有大幅下跌空间。Reuters报道伊朗战争波动正冲击全球最大交易市场。",
+        "url": ""
+      },
+      {
+        "title": "市场震荡",
+        "desc": "- UN维和人员遇难：NYT/BBC报道24小时内3名印尼维和人员在黎巴嫩南部遇难。",
+        "url": ""
+      },
+      {
+        "title": "UN维和人员遇难",
+        "desc": "- 基调：严肃关切。强调国际秩序碎裂、战争成本、人道代价，但总体维持\"客观报道\"框架。",
+        "url": ""
+      },
+      {
+        "title": "关键叙事：盟友背叛，必须强硬",
+        "desc": "- Fox News 标题：\"关键美国盟友封锁对伊军事飞行领空，升级与特朗普的对峙\"——注意措辞是\"盟友升级对峙\"，将西班牙定位为挑衅方，而非美国政策导致盟友离心。",
+        "url": ""
+      },
+      {
+        "title": "Fox News 标题",
+        "desc": "- Fox Business：\"特朗普据报想'拿走伊朗的石油'\"——对此采用相对中性报道，暗示资源控制是战略目标的合理选项。",
+        "url": ""
+      },
+      {
+        "title": "Fox Business",
+        "desc": "- The Hill分析\"伊朗反击的4种方式\"——以安全威胁框架讨论，强化\"伊朗是危险对手\"的叙事。",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Key Narrative: Escalating Crisis, Growing Allied Fractures",
+        "desc": "- Trump's New Threat: Posted on social media that he would \"obliterate\" Iran's entire energy network if a ceasefire isn'",
+        "url": ""
+      },
+      {
+        "title": "Trump's New Threat",
+        "desc": "- Military Buildup: Reuters confirmed thousands of 82nd Airborne paratroopers arriving in the Middle East. NYT counted 5",
+        "url": ""
+      },
+      {
+        "title": "Military Buildup",
+        "desc": "- Spain Closes Airspace: AP/BBC/Reuters all highlighted Spain refusing US military use of two joint bases in Andalusia a",
+        "url": ""
+      },
+      {
+        "title": "Spain Closes Airspace",
+        "desc": "- Pope Leo's Rebuke: During Palm Sunday Mass, the Pope implicitly criticized leaders with \"hands full of blood\" whose pr",
+        "url": ""
+      },
+      {
+        "title": "Pope Leo's Rebuke",
+        "desc": "- Market Turmoil: MarketWatch noted US stocks are \"faring worse than during past geopolitical shocks\" with room to fall ",
+        "url": ""
+      },
+      {
+        "title": "Market Turmoil",
+        "desc": "- UN Peacekeepers Killed: NYT/BBC reported 3 Indonesian peacekeepers killed within 24 hours in southern Lebanon.",
+        "url": ""
+      },
+      {
+        "title": "UN Peacekeepers Killed",
+        "desc": "- Tone: Serious concern. Emphasis on fracturing international order, war costs, and humanitarian toll, within an \"object",
+        "url": ""
+      },
+      {
+        "title": "Tone",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Key Narrative: Allied Betrayal, Strength Required",
+        "desc": "- Fox News Headline: \"Key US ally blocks airspace to military flights over Iran, escalating standoff with Trump\" — note ",
+        "url": ""
+      },
+      {
+        "title": "Fox News Headline",
+        "desc": "- Fox Business: \"Trump reportedly wants to 'take the oil in Iran'\" — reported with relative neutrality, implying resourc",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年03月31日",
+    "date_fmt_zh": "2026年03月31日",
+    "date_fmt_en": "Mar 31, 2026",
+    "ts": "2026-03-31T10:02:57.575845+08:00"
+  },
+  {
     "slug": "radar-2026-03-31",
     "type": "radar",
     "type_label": "商机雷达",
