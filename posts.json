@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-01",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-01",
+    "title_en": "Daily Briefing · 2026-04-01",
+    "summary_zh": "📰 每日早报 · 2026-04-01（周三）",
+    "summary_en": "📰 Daily Briefing · 2026-04-01 (Wed)",
+    "bullets_zh": [
+      "Apple 测试 Siri 多任务功能",
+      "OpenAI 完成 1220 亿美元融资，散户投入 30 亿",
+      "Oracle 大裁员数千人，加码 AI 投资",
+      "Salesforce 为 Slack 推出 30 项 AI 新功能"
+    ],
+    "bullets_en": [
+      "Apple Tests Siri Multi-Command Feature",
+      "OpenAI Raises $122B, Including $3B From Retail Investors",
+      "Oracle Fires Thousands in AI Pivot",
+      "Salesforce Drops 30 AI Features for Slack"
+    ],
+    "items_zh": [
+      {
+        "title": "Apple 测试 Siri 多任务功能",
+        "desc": "21:25 OpenAI 完成 1220 亿美元融资，散户投入 30 亿 — 由 Amazon、Nvidia、SoftBank 领投，估值达 8520 亿美元，IPO 在即 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "OpenAI 完成 1220 亿美元融资，散户投入 30 亿",
+        "desc": "16:14 Oracle 大裁员数千人，加码 AI 投资 — Oracle 以邮件通知方式裁员数千人，股价反涨 2%，公司将资金转向 AI 基础设施 Forbes/BBC",
+        "url": ""
+      },
+      {
+        "title": "Oracle 大裁员数千人，加码 AI 投资",
+        "desc": "22:46 Salesforce 为 Slack 推出 30 项 AI 新功能 — 包括 AI 摘要、智能回复等深度 AI 集成 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Salesforce 为 Slack 推出 30 项 AI 新功能",
+        "desc": "23:58 Anthropic 本周再出状况 — 月内第二次人为失误事件 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Anthropic 本周再出状况",
+        "desc": "12:30 Google 终于允许美国用户更改 Gmail 地址 — 多年来首次开放，用户可修改 @gmail.com 前缀 TechCrunch/Wired",
+        "url": ""
+      },
+      {
+        "title": "Google 终于允许美国用户更改 Gmail 地址",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "特朗普暗示伊朗战争可能在\"两三周内\"结束",
+        "desc": "18:00 欧洲多国拒绝配合美国对伊军事行动 — 关键盟友封锁空域，北约裂痕加深 Reuters/Bloomberg",
+        "url": ""
+      },
+      {
+        "title": "欧洲多国拒绝配合美国对伊军事行动",
+        "desc": "15:30 油价创历史最大季度涨幅，均价突破 115 美元/桶 — 美国汽油均价触及 4 美元/加仑 OilPrice/Axios",
+        "url": ""
+      },
+      {
+        "title": "油价创历史最大季度涨幅，均价突破 115 美元/桶",
+        "desc": "22:26 法官叫停特朗普白宫舞厅建设项目 — 裁定总统是白宫\"管家\"而非所有者 NYT/CNN",
+        "url": ""
+      },
+      {
+        "title": "法官叫停特朗普白宫舞厅建设项目",
+        "desc": "23:18 最高法院推翻科罗拉多州转化疗法禁令 — 涉及对 LGBTQ 未成年人的转化治疗 NPR/NYT",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Apple Tests Siri Multi-Command Feature",
+        "desc": "21:25 OpenAI Raises $122B, Including $3B From Retail Investors — Led by Amazon, Nvidia, and SoftBank; valuation hits $85",
+        "url": ""
+      },
+      {
+        "title": "OpenAI Raises $122B, Including $3B From Retail Investors",
+        "desc": "16:14 Oracle Fires Thousands in AI Pivot — Mass layoffs via email as Oracle shifts spending to AI infrastructure; shares",
+        "url": ""
+      },
+      {
+        "title": "Oracle Fires Thousands in AI Pivot",
+        "desc": "22:46 Salesforce Drops 30 AI Features for Slack — Deep AI integration including summaries, smart replies, and more TechC",
+        "url": ""
+      },
+      {
+        "title": "Salesforce Drops 30 AI Features for Slack",
+        "desc": "23:58 Anthropic Has Another Rough Week — Second human error incident this month TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Anthropic Has Another Rough Week",
+        "desc": "12:30 Google Finally Lets US Users Change Gmail Addresses — First time ever; users can now modify their @gmail.com usern",
+        "url": ""
+      },
+      {
+        "title": "Google Finally Lets US Users Change Gmail Addresses",
+        "desc": "🌍 World News",
+        "url": ""
+      },
+      {
+        "title": "Trump Signals Iran War Could End in \"Two to Three Weeks\"",
+        "desc": "18:00 Europe Pushes Back on US Military Operations Against Iran — Key allies block airspace; NATO tensions deepen Reuter",
+        "url": ""
+      },
+      {
+        "title": "Europe Pushes Back on US Military Operations Against Iran",
+        "desc": "15:30 Oil Posts Biggest Quarterly Surge in History, Hits $115/Barrel — US gas prices reach $4/gallon average OilPrice/Ax",
+        "url": ""
+      },
+      {
+        "title": "Oil Posts Biggest Quarterly Surge in History, Hits $115/Barrel",
+        "desc": "22:26 Judge Halts Trump's White House Ballroom Construction — Rules president is \"steward\" not owner of White House NYT/",
+        "url": ""
+      },
+      {
+        "title": "Judge Halts Trump's White House Ballroom Construction",
+        "desc": "23:18 Supreme Court Strikes Down Colorado Conversion Therapy Ban — Ruling affects LGBTQ minor protections nationwide NPR",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月01日",
+    "date_fmt_zh": "2026年04月01日",
+    "date_fmt_en": "Apr 01, 2026",
+    "ts": "2026-04-01T08:01:55.114715+08:00"
+  },
+  {
     "slug": "perspective-2026-03-31",
     "type": "perspective",
     "type_label": "商机雷达",
