@@ -1,5 +1,124 @@
 [
   {
+    "slug": "perspective-2026-04-02",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 美国最高法院审理出生公民权案 · 2026-04-02",
+    "title_en": "Multi-Perspective · Supreme Court Hears Birthright Citizenship Case · 2026-04-02",
+    "summary_zh": "🔍 多视角 · 美国最高法院审理出生公民权案 · 2026-04-02",
+    "summary_en": "🔍 Multi-Perspective · Supreme Court Hears Birthright Citizenship Case · 2026-04-02",
+    "bullets_zh": [
+      "华盛顿邮报",
+      "整体基调",
+      "Fox News",
+      "Reason"
+    ],
+    "bullets_en": [
+      "Washington Post",
+      "Tone",
+      "Fox News",
+      "Reason"
+    ],
+    "items_zh": [
+      {
+        "title": "华盛顿邮报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "整体基调",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "- 第14修正案的原始含义存在争议空间",
+        "url": ""
+      },
+      {
+        "title": "Reason",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "宪法学界",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "自由意志主义者",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "法律实务界",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "关键共识",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "核心分歧",
+        "desc": "📰 来源：CNN, Fox News, Washington Post, Reason/Volokh Conspiracy, BBC",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Washington Post",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Tone",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Reason",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Legal academia",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Libertarians",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Civil rights organizations",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Key consensus",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Core divide",
+        "desc": "📰 Sources: CNN, Fox News, Washington Post, Reason/Volokh Conspiracy, BBC",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月02日",
+    "date_fmt_zh": "2026年04月02日",
+    "date_fmt_en": "Apr 02, 2026",
+    "ts": "2026-04-02T10:03:26.284769+08:00"
+  },
+  {
     "slug": "radar-2026-04-02",
     "type": "radar",
     "type_label": "商机雷达",
