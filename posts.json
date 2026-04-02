@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-02",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-02",
+    "title_en": "Daily Briefing · 2026-04-02",
+    "summary_zh": "📰 每日早报 · 2026-04-02（周四）",
+    "summary_en": "📰 Daily Briefing · April 2, 2026 (Thursday)",
+    "bullets_zh": [
+      "SpaceX 秘密提交 IPO 申请",
+      "Anthropic 误删数千 GitHub 仓库",
+      "Cloudflare 发布 EmDash",
+      "百度无人出租车大规模瘫痪"
+    ],
+    "bullets_en": [
+      "SpaceX Confidentially Files for IPO",
+      "Anthropic Accidentally Nuked Thousands of GitHub Repos",
+      "Cloudflare Launches EmDash",
+      "Baidu Robotaxi Fleet Paralyzed"
+    ],
+    "items_zh": [
+      {
+        "title": "SpaceX 秘密提交 IPO 申请",
+        "desc": "• 22:12 Anthropic 误删数千 GitHub 仓库 — 试图撤回泄露源代码时 DMCA 通知范围过大，公司称系意外并已撤回大部分通知 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Anthropic 误删数千 GitHub 仓库",
+        "desc": "• 16:14 Cloudflare 发布 EmDash — WordPress 精神续作，从架构层面解决插件安全问题，HN 热度 434 分 Cloudflare Blog",
+        "url": ""
+      },
+      {
+        "title": "Cloudflare 发布 EmDash",
+        "desc": "• 21:12 百度无人出租车大规模瘫痪 — 至少 100 辆 robotaxi \"系统故障\"，乘客被困长达两小时，百度未回应 TechCrunch/BBC",
+        "url": ""
+      },
+      {
+        "title": "百度无人出租车大规模瘫痪",
+        "desc": "• 21:14 礼来减肥药片 Foundayo 获 FDA 批准 — 口服 GLP-1 药物 orforglipron，无需空腹/限水，开启与诺和诺德新一轮竞争 Reuters/NYT",
+        "url": ""
+      },
+      {
+        "title": "礼来减肥药片 Foundayo 获 FDA 批准",
+        "desc": "• 16:20 Apple 迎来 50 周年 — Tim Cook 谈与 Trump 的关系，回顾从车库到 3 万亿市值的半世纪旅程 MacRumors/CNN",
+        "url": ""
+      },
+      {
+        "title": "Apple 迎来 50 周年",
+        "desc": "• 20:25 Q1 创业融资破纪录 — OpenAI、Anthropic、xAI、Waymo 四笔超大交易推动，市场整体火热 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Q1 创业融资破纪录",
+        "desc": "• 16:34 WhatsApp 通知数百用户安装了政府间谍软件 — 假冒 App 由间谍软件厂商制作 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "WhatsApp 通知数百用户安装了政府间谍软件",
+        "desc": "• 08:15 Google 修复 Gemini for Home — 智能音箱终于能正确理解更多命令，新增\"氛围灯光\"语音控制 Android Central",
+        "url": ""
+      },
+      {
+        "title": "Google 修复 Gemini for Home",
+        "desc": "• 07:09 Oracle 大规模裁员 — 数千人受影响，具体数字未公布 BBC",
+        "url": ""
+      },
+      {
+        "title": "Oracle 大规模裁员",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "SpaceX Confidentially Files for IPO",
+        "desc": "• 22:12 Anthropic Accidentally Nuked Thousands of GitHub Repos — Overly broad DMCA takedowns while trying to remove leak",
+        "url": ""
+      },
+      {
+        "title": "Anthropic Accidentally Nuked Thousands of GitHub Repos",
+        "desc": "• 16:14 Cloudflare Launches EmDash — A spiritual successor to WordPress that sandboxes plugins to solve security issues;",
+        "url": ""
+      },
+      {
+        "title": "Cloudflare Launches EmDash",
+        "desc": "• 21:12 Baidu Robotaxi Fleet Paralyzed — At least 100 autonomous taxis suffered \"system failure\" in China, trapping pass",
+        "url": ""
+      },
+      {
+        "title": "Baidu Robotaxi Fleet Paralyzed",
+        "desc": "• 21:14 Lilly's Weight-Loss Pill Foundayo Gets FDA Approval — Oral GLP-1 drug orforglipron can be taken anytime without ",
+        "url": ""
+      },
+      {
+        "title": "Lilly's Weight-Loss Pill Foundayo Gets FDA Approval",
+        "desc": "• 16:20 Apple Turns 50 — Tim Cook reflects on his relationship with Trump and the company's half-century journey from ga",
+        "url": ""
+      },
+      {
+        "title": "Apple Turns 50",
+        "desc": "• 20:25 Startup Funding Shatters Q1 Records — Mega-rounds for OpenAI, Anthropic, xAI, and Waymo drive historic quarter T",
+        "url": ""
+      },
+      {
+        "title": "Startup Funding Shatters Q1 Records",
+        "desc": "• 16:34 WhatsApp Alerts Users About Government Spyware App — Hundreds notified they installed a fake app made by a spywa",
+        "url": ""
+      },
+      {
+        "title": "WhatsApp Alerts Users About Government Spyware App",
+        "desc": "• 08:15 Google Fixes Gemini for Home — Smart speakers now understand more commands; new \"expressive\" lighting controls A",
+        "url": ""
+      },
+      {
+        "title": "Google Fixes Gemini for Home",
+        "desc": "• 07:09 Oracle Lays Off Thousands — Mass job cuts across the tech giant; exact numbers undisclosed BBC",
+        "url": ""
+      },
+      {
+        "title": "Oracle Lays Off Thousands",
+        "desc": "🌍 World News",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月02日",
+    "date_fmt_zh": "2026年04月02日",
+    "date_fmt_en": "Apr 02, 2026",
+    "ts": "2026-04-02T08:01:56.440438+08:00"
+  },
+  {
     "slug": "radar-2026-04-01",
     "type": "radar",
     "type_label": "商机雷达",
