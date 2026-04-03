@@ -5,13 +5,21 @@
   <link>https://daily.sundigest.xyz</link>
   <description>Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 03 Apr 2026 00:02:03 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 03 Apr 2026 01:04:33 GMT</lastBuildDate>
   <atom:link href="https://daily.sundigest.xyz/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://daily.sundigest.xyz/assets/og.png</url>
     <title>Daily Digest</title>
     <link>https://daily.sundigest.xyz</link>
   </image>
+  <item>
+    <title>Hidden Opportunities · 2026-04-03 — Opportunity Radar</title>
+    <link>https://daily.sundigest.xyz/posts/radar-2026-04-03.html</link>
+    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-04-03.html</guid>
+    <pubDate>Fri, 03 Apr 2026 01:04:33 GMT</pubDate>
+    <description>🔍 Hidden Opportunities Daily 2026-04-03</description>
+    <category>Opportunity Radar</category>
+  </item>
   <item>
     <title>Daily Briefing · 2026-04-03 — Daily Briefing</title>
     <link>https://daily.sundigest.xyz/posts/news-2026-04-03.html</link>
@@ -163,14 +171,6 @@
     <pubDate>Fri, 27 Mar 2026 02:03:40 GMT</pubDate>
     <description>🔍 Multi-Perspective · IOC Bans Transgender Women from Olympic Women's Events · 2026-03-27</description>
     <category>Opportunity Radar</category>
-  </item>
-  <item>
-    <title>Daily Briefing · 2026-03-27 — Daily Briefing</title>
-    <link>https://daily.sundigest.xyz/posts/news-2026-03-27.html</link>
-    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/news-2026-03-27.html</guid>
-    <pubDate>Fri, 27 Mar 2026 00:02:15 GMT</pubDate>
-    <description>📰 Daily Briefing · March 27, 2026 (Friday)</description>
-    <category>Daily Briefing</category>
   </item>
 </channel>
 </rss>
