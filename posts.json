@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-03",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-03",
+    "title_en": "Daily Briefing · 2026-04-03",
+    "summary_zh": "📰 每日早报 · 2026-04-03（周五）",
+    "summary_en": "📰 Daily Briefing · 2026-04-03 (Friday)",
+    "bullets_zh": [
+      "OpenAI 收购科技脱口秀 TBPN",
+      "SpaceX 计划 IPO，目标估值超 2 万亿美元",
+      "微软发布三款新基础模型",
+      "ElevenLabs 推出 AI 音乐生成应用 ElevenMusic"
+    ],
+    "bullets_en": [
+      "OpenAI Acquires Tech Talk Show TBPN",
+      "SpaceX Targets $2T+ Valuation in IPO Filing",
+      "Microsoft Launches Three New Foundation Models",
+      "ElevenLabs Releases AI Music Generation App"
+    ],
+    "items_zh": [
+      {
+        "title": "OpenAI 收购科技脱口秀 TBPN",
+        "desc": "19:42 SpaceX 计划 IPO，目标估值超 2 万亿美元 — 马斯克旗下 SpaceX 正式提交 IPO 申请，有望成为史上最大规模公开上市，或令马斯克成为首位万亿富翁 Bloomberg",
+        "url": ""
+      },
+      {
+        "title": "SpaceX 计划 IPO，目标估值超 2 万亿美元",
+        "desc": "16:48 微软发布三款新基础模型 — MAI 团队推出语音转文字、音频生成和图像生成三款 AI 模型，正面对决竞争对手 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "微软发布三款新基础模型",
+        "desc": "18:58 ElevenLabs 推出 AI 音乐生成应用 ElevenMusic — 用户可通过文字提示创作和混音歌曲，ElevenLabs 从语音模型向音乐领域扩展 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "ElevenLabs 推出 AI 音乐生成应用 ElevenMusic",
+        "desc": "15:00 三星 2026 款 Frame Pro 和 OLED 电视开售 — 全新设计升级，更像真画框，Frame Pro 售价低于去年款 Engadget",
+        "url": ""
+      },
+      {
+        "title": "三星 2026 款 Frame Pro 和 OLED 电视开售",
+        "desc": "10:33 iPhone 18 Pro 据报将取消黑色 — 泄露信息显示苹果 iPhone 18 系列最大变化将是新配色方案 MacRumors",
+        "url": ""
+      },
+      {
+        "title": "iPhone 18 Pro 据报将取消黑色",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "美国防长解除陆军参谋长职务",
+        "desc": "22:16 特朗普解除司法部长 Pam Bondi 职务 — Bondi 因 Epstein 调查处理不当被罢免，前辩护律师 Blanche 暂代 WaPo/Politico",
+        "url": ""
+      },
+      {
+        "title": "特朗普解除司法部长 Pam Bondi 职务",
+        "desc": "15:24 伊朗反击以色列和海湾邻国 — 美以联合空袭摧毁伊朗最大桥梁，特朗普警告\"后续还有更多\"；伊朗两大钢铁厂因空袭停产 PBS/Guardian/BBC",
+        "url": ""
+      },
+      {
+        "title": "伊朗反击以色列和海湾邻国",
+        "desc": "19:04 盟友为霍尔木兹海峡准备 B 计划 — 英国召集超40国讨论施压伊朗重开海峡，欧洲表示愿意参与巡逻但前提是停火 Bloomberg/AP",
+        "url": ""
+      },
+      {
+        "title": "盟友为霍尔木兹海峡准备 B 计划",
+        "desc": "19:59 特朗普签署药品 100% 关税令 — 对品牌药征收100%关税，同时调整钢铁等金属关税，迫使药企达成降价协议 Politico/USA Today",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "OpenAI Acquires Tech Talk Show TBPN",
+        "desc": "19:42 SpaceX Targets $2T+ Valuation in IPO Filing — Elon Musk's SpaceX files to go public in what could be the largest-e",
+        "url": ""
+      },
+      {
+        "title": "SpaceX Targets $2T+ Valuation in IPO Filing",
+        "desc": "16:48 Microsoft Launches Three New Foundation Models — MAI releases voice-to-text, audio generation, and image generatio",
+        "url": ""
+      },
+      {
+        "title": "Microsoft Launches Three New Foundation Models",
+        "desc": "18:58 ElevenLabs Releases AI Music Generation App — ElevenMusic lets users create and remix songs via text prompts, expa",
+        "url": ""
+      },
+      {
+        "title": "ElevenLabs Releases AI Music Generation App",
+        "desc": "15:00 Samsung 2026 Frame Pro and OLED TVs Now Available — Refreshed designs look more like actual paintings; Frame Pro p",
+        "url": ""
+      },
+      {
+        "title": "Samsung 2026 Frame Pro and OLED TVs Now Available",
+        "desc": "10:33 iPhone 18 Pro Reportedly Dropping Black Color — Leakers say biggest design change for iPhone 18 will be new color ",
+        "url": ""
+      },
+      {
+        "title": "iPhone 18 Pro Reportedly Dropping Black Color",
+        "desc": "🌍 World News",
+        "url": ""
+      },
+      {
+        "title": "Hegseth Ousts Army Chief of Staff",
+        "desc": "22:16 Trump Fires Attorney General Pam Bondi — Removed over DOJ's handling of Epstein files; former defense lawyer Blanc",
+        "url": ""
+      },
+      {
+        "title": "Trump Fires Attorney General Pam Bondi",
+        "desc": "15:24 Iran Strikes Back at Israel and Gulf Neighbors — US-Israeli strikes destroy Iran's largest bridge; Trump warns \"mo",
+        "url": ""
+      },
+      {
+        "title": "Iran Strikes Back at Israel and Gulf Neighbors",
+        "desc": "19:04 Allies Prepare Plan B for Strait of Hormuz — UK gathers 40+ countries to pressure Iran; Europe willing to help pat",
+        "url": ""
+      },
+      {
+        "title": "Allies Prepare Plan B for Strait of Hormuz",
+        "desc": "19:59 Trump Signs 100% Tariff on Brand-Name Pharmaceuticals — Executive order targets drug makers, adjusts steel/metals ",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月03日",
+    "date_fmt_zh": "2026年04月03日",
+    "date_fmt_en": "Apr 03, 2026",
+    "ts": "2026-04-03T08:02:03.272083+08:00"
+  },
+  {
     "slug": "perspective-2026-04-02",
     "type": "perspective",
     "type_label": "商机雷达",
