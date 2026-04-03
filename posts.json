@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-04-03",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-04-03",
+    "title_en": "Multi-Perspective · 2026-04-03",
+    "summary_zh": "🔍 多视角 · 美伊战争升级：特朗普\"炸回石器时代\"演讲引全球震荡 · 2026-04-03",
+    "summary_en": "🔍 Multi-Perspective · US-Iran War Escalation: Trump's \"Bomb Back to Stone Ages\" Speech Rattles the World · 2026-04-03",
+    "bullets_zh": [
+      "纽约时报",
+      "华盛顿邮报",
+      "路透社/Axios",
+      "Politico"
+    ],
+    "bullets_en": [
+      "Washington Post",
+      "Politico",
+      "The Atlantic",
+      "Fox News"
+    ],
+    "items_zh": [
+      {
+        "title": "纽约时报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "华盛顿邮报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "路透社/Axios",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Politico",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "保守派分歧信号",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "新华社/CGTN",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "印度Hindustan Times",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "法国Le Monde",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "《纽约客》",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Washington Post",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Politico",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The Atlantic",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Notable fissure",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Xinhua/CGTN",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Hindustan Times",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Le Monde (France)",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The New Yorker",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月03日",
+    "date_fmt_zh": "2026年04月03日",
+    "date_fmt_en": "Apr 03, 2026",
+    "ts": "2026-04-03T10:02:56.996461+08:00"
+  },
+  {
     "slug": "radar-2026-04-03",
     "type": "radar",
     "type_label": "商机雷达",
