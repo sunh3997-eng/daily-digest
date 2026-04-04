@@ -1,5 +1,72 @@
 [
   {
+    "slug": "perspective-2026-04-04",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-04-04",
+    "title_en": "Multi-Perspective · 2026-04-04",
+    "summary_zh": "🔍 多视角 · 美军战机被伊朗击落：飞行员生死未卜 · 2026-04-04",
+    "summary_en": "🔍 Multi-Perspective · US Fighter Jet Downed Over Iran: Pilot Missing · 2026-04-04",
+    "bullets_zh": [
+      "BBC / AP / NBC / Reuters 报道要点：",
+      "叙事基调：",
+      "基于 Google News 聚合的保守派媒体声音：",
+      "新华社英文首页 4月4日报道要点："
+    ],
+    "bullets_en": [
+      "Tone:",
+      "Key Information Gaps:"
+    ],
+    "items_zh": [
+      {
+        "title": "BBC / AP / NBC / Reuters 报道要点：",
+        "desc": "• 美军F-15E战斗机在执行伊朗境内任务时被伊朗防空系统击中坠毁",
+        "url": ""
+      },
+      {
+        "title": "叙事基调：",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "基于 Google News 聚合的保守派媒体声音：",
+        "desc": "• 国防部长赫格塞斯(Hegseth)在战时解雇了多名高级将领，包括陆军参谋长兰迪·乔治将军和首席牧师——此举遭到两党震惊",
+        "url": ""
+      },
+      {
+        "title": "新华社英文首页 4月4日报道要点：",
+        "desc": "• \"伊朗拒绝美国提出的48小时停火提议\"——标题显眼置于头条区域",
+        "url": ""
+      },
+      {
+        "title": "Hacker News 前页 & 独立媒体：",
+        "desc": "• \"伊朗空袭导致AWS巴林和迪拜可用区'硬宕机'\"——Big Technology报道，战争对全球科技基础设施的直接冲击引发技术社区高度关注",
+        "url": ""
+      },
+      {
+        "title": "关键信息差：",
+        "desc": "1. 西方媒体极少提及\"伊朗拒绝停火\"的细节（美方提了什么条件？），中方媒体则将此作为核心叙事",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Tone:",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Key Information Gaps:",
+        "desc": "1. Western media rarely details the ceasefire terms Iran rejected; Chinese media centers this",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月04日",
+    "date_fmt_zh": "2026年04月04日",
+    "date_fmt_en": "Apr 04, 2026",
+    "ts": "2026-04-04T10:03:06.789051+08:00"
+  },
+  {
     "slug": "radar-2026-04-04",
     "type": "radar",
     "type_label": "商机雷达",
