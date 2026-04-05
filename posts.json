@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-05",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-05",
+    "title_en": "Daily Briefing · 2026-04-05",
+    "summary_zh": "📰 每日早报 · 2026年4月5日（周日）",
+    "summary_en": "📰 Daily Briefing · April 5, 2026 (Sunday)",
+    "bullets_zh": [
+      "美军第二架F-15E战斗机在霍尔木兹海峡被击落",
+      "美国逮捕苏莱曼尼将军亲属",
+      "俄罗斯无人机袭击乌克兰市场致5死21伤",
+      "阿富汗5.8级地震致8人死亡"
+    ],
+    "bullets_en": [
+      "Second US F-15E downed near Strait of Hormuz",
+      "US arrests relatives of slain Iranian Gen. Soleimani",
+      "Russian drone strike kills 5 at Ukrainian market",
+      "Afghanistan earthquake kills 8"
+    ],
+    "items_zh": [
+      {
+        "title": "美军第二架F-15E战斗机在霍尔木兹海峡被击落",
+        "desc": "19:34 美国逮捕苏莱曼尼将军亲属 — 国务卿Rubio撤销已故伊朗革命卫队指挥官苏莱曼尼侄女的美国居留权，其亲属被ICE拘留 Reuters / BBC",
+        "url": ""
+      },
+      {
+        "title": "美国逮捕苏莱曼尼将军亲属",
+        "desc": "18:54 俄罗斯无人机袭击乌克兰市场致5死21伤 — 泽连斯基称俄罗斯选择\"复活节升级\"而非停火，数百枚无人机和导弹袭击乌克兰 BBC",
+        "url": ""
+      },
+      {
+        "title": "俄罗斯无人机袭击乌克兰市场致5死21伤",
+        "desc": "21:35 阿富汗5.8级地震致8人死亡 — 喀布尔郊区同一家庭8名成员遇难，死者包括从伊朗遣返的难民家庭 NYT / AP",
+        "url": ""
+      },
+      {
+        "title": "阿富汗5.8级地震致8人死亡",
+        "desc": "22:31 路易斯安那州新年游行汽车冲撞人群 — New Iberia老挝新年庆典中一辆汽车冲入人群，十余人受伤，驾驶员已被拘留 NBC News / CNN",
+        "url": ""
+      },
+      {
+        "title": "路易斯安那州新年游行汽车冲撞人群",
+        "desc": "18:44 Pam Bondi被免去司法部长职务 — Todd Blanche接任，白宫称Trump\"不间断工作\"但连续数天未公开露面 Daily Beast / CNN",
+        "url": ""
+      },
+      {
+        "title": "Pam Bondi被免去司法部长职务",
+        "desc": "21:16 德国45岁以下男性长期出国或需军事审批 — 新法规要求获得许可，但如何执行尚不清楚 BBC",
+        "url": ""
+      },
+      {
+        "title": "德国45岁以下男性长期出国或需军事审批",
+        "desc": "🤖 AI / 科技",
+        "url": ""
+      },
+      {
+        "title": "微软发布三款新基础AI模型",
+        "desc": "16:32 Anthropic：Claude Code订阅者使用OpenClaw需额外付费 — 第三方工具集成将变得更贵 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Anthropic：Claude Code订阅者使用OpenClaw需额外付费",
+        "desc": "20:35 OpenAI高管洗牌 — COO Brad Lightcap转任\"特别项目\"负责人，CMO Kate Rouch因抗癌暂离 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "OpenAI高管洗牌",
+        "desc": "16:16 Apple批准Nvidia eGPU驱动支持Arm Mac — HN热帖329点，Apple Silicon Mac终于能用Nvidia外接GPU The Verge / HN",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Second US F-15E downed near Strait of Hormuz",
+        "desc": "19:34 US arrests relatives of slain Iranian Gen. Soleimani — Secretary Rubio revokes green card of Soleimani's niece; fa",
+        "url": ""
+      },
+      {
+        "title": "US arrests relatives of slain Iranian Gen. Soleimani",
+        "desc": "18:54 Russian drone strike kills 5 at Ukrainian market — Zelensky accuses Russia of choosing \"Easter escalation\" over ce",
+        "url": ""
+      },
+      {
+        "title": "Russian drone strike kills 5 at Ukrainian market",
+        "desc": "21:35 Afghanistan earthquake kills 8 — Magnitude 5.8 quake strikes near Kabul; all victims from single refugee family re",
+        "url": ""
+      },
+      {
+        "title": "Afghanistan earthquake kills 8",
+        "desc": "22:31 Car plows into Lao New Year parade in Louisiana — Over a dozen injured in New Iberia; driver in custody NBC News /",
+        "url": ""
+      },
+      {
+        "title": "Car plows into Lao New Year parade in Louisiana",
+        "desc": "18:44 Pam Bondi ousted as Attorney General — Todd Blanche takes over DOJ; White House says Trump \"working nonstop\" despi",
+        "url": ""
+      },
+      {
+        "title": "Pam Bondi ousted as Attorney General",
+        "desc": "21:16 Germany may require military approval for young men traveling abroad — Males under 45 could need permission for ex",
+        "url": ""
+      },
+      {
+        "title": "Germany may require military approval for young men traveling abroad",
+        "desc": "🤖 AI & Tech",
+        "url": ""
+      },
+      {
+        "title": "Microsoft launches 3 new foundational AI models",
+        "desc": "16:32 Anthropic: Claude Code users will pay extra for OpenClaw — Third-party tool integration costs rising TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Anthropic: Claude Code users will pay extra for OpenClaw",
+        "desc": "20:35 OpenAI executive shuffle — COO Brad Lightcap moves to \"special projects\"; CMO Kate Rouch steps away for cancer tre",
+        "url": ""
+      },
+      {
+        "title": "OpenAI executive shuffle",
+        "desc": "16:16 Apple approves Nvidia eGPU driver for Arm Macs — Major HN discussion (329 pts); Apple Silicon Macs can finally use",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月05日",
+    "date_fmt_zh": "2026年04月05日",
+    "date_fmt_en": "Apr 05, 2026",
+    "ts": "2026-04-05T08:02:03.062182+08:00"
+  },
+  {
     "slug": "perspective-2026-04-04",
     "type": "perspective",
     "type_label": "商机雷达",
