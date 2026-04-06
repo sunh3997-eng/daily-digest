@@ -1,5 +1,89 @@
 [
   {
+    "slug": "perspective-2026-04-06",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-04-06",
+    "title_en": "Multi-Perspective · 2026-04-06",
+    "summary_zh": "🔍 多视角 · 美伊战争升级：营救飞行员与霍尔木兹海峡危机 · 2026-04-06",
+    "summary_en": "🔍 Multi-Perspective · US-Iran War Escalation: Pilot Rescue & Hormuz Crisis · 2026-04-06",
+    "bullets_zh": [
+      "\"中国愿与俄罗斯合作缓和中东局势\"",
+      "\"中方认为停火是解决霍尔木兹海峡危机的关键\"",
+      "\"特朗普暗示可能延长要求伊朗重开海峡的最后期限\"",
+      "\"美以对伊朗的战争\""
+    ],
+    "bullets_en": [
+      "\"China willing to cooperate with Russia to de-escalate Mideast situation\"",
+      "\"Ceasefire is key to resolving Hormuz Strait crisis\"",
+      "\"Trump hints at extending deadline\"",
+      "\"US-Israeli war on Iran\""
+    ],
+    "items_zh": [
+      {
+        "title": "\"中国愿与俄罗斯合作缓和中东局势\"",
+        "desc": "- \"中方认为停火是解决霍尔木兹海峡危机的关键\" ——强调和平解决路径",
+        "url": ""
+      },
+      {
+        "title": "\"中方认为停火是解决霍尔木兹海峡危机的关键\"",
+        "desc": "- \"特朗普暗示可能延长要求伊朗重开海峡的最后期限\" ——客观报道但不评论",
+        "url": ""
+      },
+      {
+        "title": "\"特朗普暗示可能延长要求伊朗重开海峡的最后期限\"",
+        "desc": "经济角度：新华社重点关注全球市场动荡中\"中国资产的相对韧性\"，以及OPEC+决定在5月增产应对能源危机。中国的\"茶壶\"炼油厂（小型独立炼油厂）如何帮助中国继续从伊朗进口石油，也是重要报道主题。",
+        "url": ""
+      },
+      {
+        "title": "\"美以对伊朗的战争\"",
+        "desc": "- 头条标题：伊朗称霍尔木兹海峡对美以将\"永远无法恢复原状\"",
+        "url": ""
+      },
+      {
+        "title": "最深层的分歧不在事实，而在框架。",
+        "desc": "当Planet Labs宣布封锁战区卫星影像时，独立核实真相的能力被进一步削弱——这或许是所有视角分歧中最值得警惕的信号。",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "\"China willing to cooperate with Russia to de-escalate Mideast situation\"",
+        "desc": "- \"Ceasefire is key to resolving Hormuz Strait crisis\" — emphasizing peaceful resolution",
+        "url": ""
+      },
+      {
+        "title": "\"Ceasefire is key to resolving Hormuz Strait crisis\"",
+        "desc": "- \"Trump hints at extending deadline\" — factual reporting without editorial comment",
+        "url": ""
+      },
+      {
+        "title": "\"Trump hints at extending deadline\"",
+        "desc": "Economic angle: Xinhua highlights Chinese assets' \"relative resilience\" amid global market turmoil, OPEC+ increasing May",
+        "url": ""
+      },
+      {
+        "title": "\"US-Israeli war on Iran\"",
+        "desc": "- Headline: Iran says Hormuz Strait will \"never return to former state\" for US, Israel",
+        "url": ""
+      },
+      {
+        "title": "Planet Labs announced an imagery blackout",
+        "desc": "- Kuwait's power and water infrastructure damaged by Iranian retaliatory strikes",
+        "url": ""
+      },
+      {
+        "title": "The deepest divide isn't about facts — it's about framing.",
+        "desc": "When Planet Labs announces an imagery blackout over the war zone, the ability to independently verify truth erodes furth",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月06日",
+    "date_fmt_zh": "2026年04月06日",
+    "date_fmt_en": "Apr 06, 2026",
+    "ts": "2026-04-06T10:03:40.819188+08:00"
+  },
+  {
     "slug": "radar-2026-04-06",
     "type": "radar",
     "type_label": "商机雷达",
