@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-06",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-06",
+    "title_en": "Daily Briefing · 2026-04-06",
+    "summary_zh": "📰 每日早报 · 2026-04-06（周一）",
+    "summary_en": "📰 Daily Briefing · April 6, 2026 (Monday)",
+    "bullets_zh": [
+      "Google Gemma 4 登陆 iPhone",
+      "Qwen-3.6-Plus 日处理突破 1 万亿 tokens",
+      "三星将于 7 月停用自家短信应用",
+      "微软 Copilot 条款：仅供娱乐用途"
+    ],
+    "bullets_en": [
+      "Google Gemma 4 now runs locally on iPhone",
+      "Qwen-3.6-Plus breaks 1 trillion tokens processed in a single day",
+      "Samsung to discontinue its Messages app in July",
+      "Microsoft Copilot labeled \"for entertainment purposes only\" in TOS"
+    ],
+    "items_zh": [
+      {
+        "title": "Google Gemma 4 登陆 iPhone",
+        "desc": "",
+        "url": "https://www.engadget.com/]"
+      },
+      {
+        "title": "Qwen-3.6-Plus 日处理突破 1 万亿 tokens",
+        "desc": "",
+        "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/]"
+      },
+      {
+        "title": "三星将于 7 月停用自家短信应用",
+        "desc": "",
+        "url": "https://news.ycombinator.com/item?id=47653471]"
+      },
+      {
+        "title": "微软 Copilot 条款：仅供娱乐用途",
+        "desc": "",
+        "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/]"
+      },
+      {
+        "title": "音乐人指控 AI 公司克隆其音乐并反向维权",
+        "desc": "🌍 国际要闻",
+        "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/]"
+      },
+      {
+        "title": "日本推进实体 AI 机器人上岗",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "伊朗战争：美军成功营救被击落飞行员，特朗普威胁升级",
+        "desc": "",
+        "url": "https://www.nytimes.com/]"
+      },
+      {
+        "title": "教皇利奥首次复活节弥撒呼吁和平",
+        "desc": "",
+        "url": "https://www.theguardian.com/]"
+      },
+      {
+        "title": "德国复活节彩蛋活动中大树倒塌致 3 死",
+        "desc": "",
+        "url": "https://www.bloomberg.com/]"
+      },
+      {
+        "title": "Artemis II 宇航员即将抵达月球远端",
+        "desc": "",
+        "url": "https://www.bbc.com/news/articles/cj60x206dx1o]"
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Google Gemma 4 now runs locally on iPhone",
+        "desc": "",
+        "url": "https://www.engadget.com/]"
+      },
+      {
+        "title": "Qwen-3.6-Plus breaks 1 trillion tokens processed in a single day",
+        "desc": "",
+        "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/]"
+      },
+      {
+        "title": "Samsung to discontinue its Messages app in July",
+        "desc": "",
+        "url": "https://news.ycombinator.com/item?id=47653471]"
+      },
+      {
+        "title": "Microsoft Copilot labeled \"for entertainment purposes only\" in TOS",
+        "desc": "",
+        "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/]"
+      },
+      {
+        "title": "Musician accuses AI company of cloning her music and filing claims against her",
+        "desc": "🌍 World News",
+        "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/]"
+      },
+      {
+        "title": "Japan deploying physical AI robots for real-world jobs",
+        "desc": "🌍 World News",
+        "url": ""
+      },
+      {
+        "title": "Iran War: US rescues downed airman, Trump escalates threats",
+        "desc": "",
+        "url": "https://www.nytimes.com/]"
+      },
+      {
+        "title": "Pope Leo calls for peace in first Easter Mass",
+        "desc": "",
+        "url": "https://www.theguardian.com/]"
+      },
+      {
+        "title": "dead after tree topples during Easter egg hunt in Germany",
+        "desc": "",
+        "url": "https://www.bloomberg.com/]"
+      },
+      {
+        "title": "Artemis II astronauts approaching far side of the Moon",
+        "desc": "",
+        "url": "https://www.bbc.com/news/articles/cj60x206dx1o]"
+      }
+    ],
+    "date_fmt": "2026年04月06日",
+    "date_fmt_zh": "2026年04月06日",
+    "date_fmt_en": "Apr 06, 2026",
+    "ts": "2026-04-06T08:02:10.680448+08:00"
+  },
+  {
     "slug": "perspective-2026-04-05",
     "type": "perspective",
     "type_label": "商机雷达",
