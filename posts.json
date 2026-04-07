@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-04-07",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-04-07",
+    "title_en": "Multi-Perspective · 2026-04-07",
+    "summary_zh": "🔍 多视角 · 特朗普伊朗最后通牒：霍尔木兹海峡危机倒计时 · 2026-04-07",
+    "summary_en": "🔍 Multi-Perspective · Trump's Iran Ultimatum: Strait of Hormuz Countdown · 2026-04-07",
+    "bullets_zh": [
+      "纽约时报",
+      "华盛顿邮报",
+      "Axios",
+      "Fox News"
+    ],
+    "bullets_en": [
+      "New York Times",
+      "The Guardian",
+      "Washington Post",
+      "Axios"
+    ],
+    "items_zh": [
+      {
+        "title": "纽约时报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "华盛顿邮报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Axios",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "整体叙事：特朗普展现力量、军事行动取得胜利、伊朗在压力下退缩。对战争罪争议基本不予关注。",
+        "url": ""
+      },
+      {
+        "title": "半岛电视台（Al Jazeera）",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "BBC世界频道",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "摩根大通CEO戴蒙（Jamie Dimon）年度致信",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "油价市场",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "万斯的幕后斡旋",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "PBS/卫报法律分析",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "New York Times",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The Guardian",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Washington Post",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Axios",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "Overall narrative: Trump projecting strength, military operations succeeding, Iran buckling under pressure. War crimes d",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "BBC World",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "WSJ/Bloomberg",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "JPMorgan CEO Jamie Dimon's annual letter",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Oil markets",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月07日",
+    "date_fmt_zh": "2026年04月07日",
+    "date_fmt_en": "Apr 07, 2026",
+    "ts": "2026-04-07T10:02:41.052088+08:00"
+  },
+  {
     "slug": "radar-2026-04-07",
     "type": "radar",
     "type_label": "商机雷达",
