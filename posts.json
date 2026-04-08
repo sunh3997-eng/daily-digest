@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-08",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-08",
+    "title_en": "Daily Briefing · 2026-04-08",
+    "summary_zh": "📰 每日早报 · 2026-04-08（星期三）",
+    "summary_en": "📰 Daily Briefing · 2026-04-08 (Wednesday)",
+    "bullets_zh": [
+      "美伊达成两周停火协议",
+      "中俄否决联合国霍尔木兹海峡航运保护决议",
+      "教皇利奥谴责特朗普对伊朗的威胁",
+      "民主党要求启用第25修正案或弹劾特朗普"
+    ],
+    "bullets_en": [
+      "US-Iran Agree to Two-Week Ceasefire",
+      "China & Russia Veto UN Hormuz Shipping Resolution",
+      "Pope Leo Condemns Trump's Threats Against Iran",
+      "Democrats Push for 25th Amendment / Impeachment Over Iran Threats"
+    ],
+    "items_zh": [
+      {
+        "title": "美伊达成两周停火协议",
+        "desc": "22:33 中俄否决联合国霍尔木兹海峡航运保护决议 — 安理会表决中，中国和俄罗斯动用否决权，10国与美国投赞成票。Reuters",
+        "url": ""
+      },
+      {
+        "title": "中俄否决联合国霍尔木兹海峡航运保护决议",
+        "desc": "22:10 教皇利奥谴责特朗普对伊朗的威胁 — 称其对整个文明的威胁\"真正不可接受\"，这是教皇迄今对特朗普最强硬的谴责。Politico/WaPo",
+        "url": ""
+      },
+      {
+        "title": "教皇利奥谴责特朗普对伊朗的威胁",
+        "desc": "18:17 民主党要求启用第25修正案或弹劾特朗普 — 因其威胁摧毁伊朗\"整个文明\"、电厂和桥梁引发两党争议。The Guardian/CNN",
+        "url": ""
+      },
+      {
+        "title": "民主党要求启用第25修正案或弹劾特朗普",
+        "desc": "17:43 万斯访问布达佩斯为欧尔班拉票 — 特朗普电话连线集会，指责欧盟\"干涉\"匈牙利选举。Politico/NYT",
+        "url": ""
+      },
+      {
+        "title": "万斯访问布达佩斯为欧尔班拉票",
+        "desc": "21:42 美军人妻子被ICE逮捕后获释 — 在路易斯安那军事基地被拘留引发广泛争议。The Guardian",
+        "url": ""
+      },
+      {
+        "title": "美军人妻子被ICE逮捕后获释",
+        "desc": "12:46 澳大利亚起诉最高荣勋士兵涉战争罪 — Ben Roberts-Smith被控在阿富汗犯下5起战争罪谋杀。NPR/BBC",
+        "url": ""
+      },
+      {
+        "title": "澳大利亚起诉最高荣勋士兵涉战争罪",
+        "desc": "14:51 伊斯坦布尔以色列领事馆遭枪击 — 一名枪手被击毙，两人受伤；该领事馆已空置两年半。BBC",
+        "url": ""
+      },
+      {
+        "title": "伊斯坦布尔以色列领事馆遭枪击",
+        "desc": "🤖 AI / 科技",
+        "url": ""
+      },
+      {
+        "title": "Anthropic发布新AI模型\"Mythos\"预览版",
+        "desc": "21:35 开源小团队Arcee AI引发关注 — 仅26人的美国创业公司构建高性能大型开源LLM，在OpenClaw用户中日益流行。TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "开源小团队Arcee AI引发关注",
+        "desc": "18:10 Intel加入马斯克Terafab芯片项目 — 将与SpaceX、Tesla共同在德州建设新半导体工厂。TechCrunch",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "US-Iran Agree to Two-Week Ceasefire",
+        "desc": "22:33 China & Russia Veto UN Hormuz Shipping Resolution — Security Council vote blocked despite 10 countries backing US.",
+        "url": ""
+      },
+      {
+        "title": "China & Russia Veto UN Hormuz Shipping Resolution",
+        "desc": "22:10 Pope Leo Condemns Trump's Threats Against Iran — Calls threats to destroy \"whole civilization\" truly unacceptable,",
+        "url": ""
+      },
+      {
+        "title": "Pope Leo Condemns Trump's Threats Against Iran",
+        "desc": "18:17 Democrats Push for 25th Amendment / Impeachment Over Iran Threats — Bipartisan alarm over Trump's threats to destr",
+        "url": ""
+      },
+      {
+        "title": "Democrats Push for 25th Amendment / Impeachment Over Iran Threats",
+        "desc": "17:43 Vance Visits Budapest to Back Orbán's Re-election — Trump calls in to rally; VP accuses EU of \"interference\" in Hu",
+        "url": ""
+      },
+      {
+        "title": "Vance Visits Budapest to Back Orbán's Re-election",
+        "desc": "21:42 US Soldier's Wife Released After ICE Detention at Military Base — Arrest at Louisiana base sparks widespread contr",
+        "url": ""
+      },
+      {
+        "title": "US Soldier's Wife Released After ICE Detention at Military Base",
+        "desc": "12:46 Australia Charges Most-Decorated Soldier With War Crimes — Ben Roberts-Smith faces 5 murder charges from Afghanist",
+        "url": ""
+      },
+      {
+        "title": "Australia Charges Most-Decorated Soldier With War Crimes",
+        "desc": "14:51 Gunman Killed at Israeli Consulate in Istanbul — Two others injured; consulate has been empty for 2.5 years. BBC",
+        "url": ""
+      },
+      {
+        "title": "Gunman Killed at Israeli Consulate in Istanbul",
+        "desc": "🤖 AI & TECH",
+        "url": ""
+      },
+      {
+        "title": "Anthropic Unveils \"Mythos\" AI Model Preview",
+        "desc": "21:35 Tiny Open-Source AI Startup Arcee Gains Traction — 26-person US company builds high-performing open-source LLM. Te",
+        "url": ""
+      },
+      {
+        "title": "Tiny Open-Source AI Startup Arcee Gains Traction",
+        "desc": "18:10 Intel Joins Musk's Terafab Chip Project — Partnering with SpaceX, Tesla to build new semiconductor fab in Texas. T",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月08日",
+    "date_fmt_zh": "2026年04月08日",
+    "date_fmt_en": "Apr 08, 2026",
+    "ts": "2026-04-08T08:02:12.941423+08:00"
+  },
+  {
     "slug": "perspective-2026-04-07",
     "type": "perspective",
     "type_label": "商机雷达",
