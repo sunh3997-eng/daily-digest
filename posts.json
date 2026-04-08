@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-04-08",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 美伊两周停火协议：悬崖边的外交 · 2026-04-08",
+    "title_en": "Multi-Perspective · US-Iran Two-Week Ceasefire: Diplomacy on the Brink · 2026-04-08",
+    "summary_zh": "🔍 多视角 · 美伊两周停火协议：悬崖边的外交 · 2026-04-08",
+    "summary_en": "🔍 Multi-Perspective · US-Iran Two-Week Ceasefire: Diplomacy on the Brink · 2026-04-08",
+    "bullets_zh": [
+      "AP/Reuters/CNN/BBC",
+      "The Guardian",
+      "核心叙事",
+      "Fox News"
+    ],
+    "bullets_en": [
+      "AP/Reuters/CNN/BBC",
+      "The Guardian",
+      "Core narrative",
+      "Fox News"
+    ],
+    "items_zh": [
+      {
+        "title": "AP/Reuters/CNN/BBC",
+        "desc": "- AP: \"特朗普抓住了外交出口\"——强调这是在距最后期限不到两小时时做出的戏剧性转变，暗示特朗普在巨大国内外压力下不得不让步。",
+        "url": ""
+      },
+      {
+        "title": "The Guardian",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "核心叙事",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "- 标题: \"特朗普暂停伊朗打击两周，以谈判10点方案\"（Trump pauses Iran strikes）",
+        "url": ""
+      },
+      {
+        "title": "Fox 的叙事",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "CGTN",
+        "desc": "- 中俄联合国安理会否决: 当天，中国和俄罗斯在联合国安理会否决了要求重新开放霍尔木兹海峡的决议。中方警告此举将导致\"严重后果\"和\"进一步升级\"",
+        "url": ""
+      },
+      {
+        "title": "中俄联合国安理会否决",
+        "desc": "- 中国立场核心: 反对单边军事行动，主张通过多边框架解决争端。否决票传递的信号是：中国不愿为美国的军事冒险行为背书，即使涉及全球航运安全",
+        "url": ""
+      },
+      {
+        "title": "中国立场核心",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "中方叙事",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Hacker News（170+赞，370+评论）",
+        "desc": "- 热门讨论聚焦于美国石油独立性——多位用户指出，霍尔木兹海峡封锁对全球经济的冲击远大于对美国本土的影响，质疑\"这是否就是某些人的计划\"",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "AP/Reuters/CNN/BBC",
+        "desc": "- AP: \"Trump seizes diplomatic offramp\" — framing the dramatic U-turn as a result of immense domestic and international ",
+        "url": ""
+      },
+      {
+        "title": "The Guardian",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Core narrative",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "- \"Trump pauses Iran strikes for two weeks to negotiate 10-point plan\"",
+        "url": ""
+      },
+      {
+        "title": "Fox narrative",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "CGTN",
+        "desc": "- China-Russia UN Security Council veto: On the same day, China and Russia vetoed a resolution demanding the Strait of H",
+        "url": ""
+      },
+      {
+        "title": "China-Russia UN Security Council veto",
+        "desc": "- Core Chinese position: Oppose unilateral military action, advocate multilateral frameworks. The veto signals: China wo",
+        "url": ""
+      },
+      {
+        "title": "Core Chinese position",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Chinese narrative",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Hacker News (170+ points, 370+ comments)",
+        "desc": "- Top discussion focused on US petroleum independence — multiple users noted the Hormuz blockade hurts the world far mor",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月08日",
+    "date_fmt_zh": "2026年04月08日",
+    "date_fmt_en": "Apr 08, 2026",
+    "ts": "2026-04-08T10:02:41.013230+08:00"
+  },
+  {
     "slug": "radar-2026-04-08",
     "type": "radar",
     "type_label": "商机雷达",
