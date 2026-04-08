@@ -1,5 +1,134 @@
 [
   {
+    "slug": "radar-2026-04-08",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-04-08",
+    "title_en": "Hidden Opportunities · 2026-04-08",
+    "summary_zh": "🔍 隐藏商机日报 2026-04-08",
+    "summary_en": "🔍 Hidden Opportunities Daily 2026-04-08",
+    "bullets_zh": [
+      "隐藏商机日报",
+      "副业者注意",
+      "AI Agent 成本分析工具 — Kerf-CLI",
+      "API → CLI 自动生成器 — Clify"
+    ],
+    "bullets_en": [
+      "Hidden Opportunities Daily",
+      "For Side Hustlers",
+      "AI Agent Cost Analytics — Kerf-CLI Signal",
+      "API-to-CLI Auto Generator — Clify"
+    ],
+    "items_zh": [
+      {
+        "title": "隐藏商机日报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "副业者注意",
+        "desc": "1. AI Agent 成本分析工具 — Kerf-CLI",
+        "url": ""
+      },
+      {
+        "title": "AI Agent 成本分析工具 — Kerf-CLI",
+        "desc": "今日 HN Show 出现 Kerf-CLI，一个 SQLite 驱动的 Claude Code 成本分析器。随着 AI coding agent（Claude Code、Cursor、Copilot Workspace）爆发式增长，开发者",
+        "url": ""
+      },
+      {
+        "title": "机会：做一个跨平台的 AI API 用量 dashboard（覆盖 OpenAI / Anthropic / Google），$9-29/月订阅，独立开发者 1 人可做。",
+        "desc": "2. API → CLI 自动生成器 — Clify",
+        "url": ""
+      },
+      {
+        "title": "API → CLI 自动生成器 — Clify",
+        "desc": "Clify 把任意 API 文档变成可执行 CLI，单次调用 token 消耗比 MCP 低 10-32 倍。这暴露了一个结构性问题：大量优质 API 缺少 agent-friendly 的接口。机会：做\"Agent-Ready API W",
+        "url": ""
+      },
+      {
+        "title": "播客个性化摘要工具 — Decant",
+        "desc": "HN Show 上出现定制播客摘要器：用户自定义\"信息标签\"，AI 只提取你关心的内容。长播客（1-2 小时）是普遍痛点，但通用摘要不精准。机会：做垂直领域版 —— 比如专为投资者做的\"财报电话会/播客关键数据提取器\"，$19/月，附带 a",
+        "url": ""
+      },
+      {
+        "title": "机会：做垂直领域版 —— 比如专为投资者做的\"财报电话会/播客关键数据提取器\"，$19/月，附带 alert 功能。",
+        "desc": "📈 投资者注意",
+        "url": ""
+      },
+      {
+        "title": "投资者注意",
+        "desc": "1. 仿生情感机器人赛道加速 — 首形科技 A1 轮数亿",
+        "url": ""
+      },
+      {
+        "title": "仿生情感机器人赛道加速 — 首形科技 A1 轮数亿",
+        "desc": "首形科技完成数亿元 A1 轮融资（华控基金+互联网大厂领投），做超高仿生情感交互机器人。这是继 Figure、1X 之后，中国本土\"情感 + 具身\"赛道的重要信号。结合 Google CEO Pichai 今日表态\"AI shift 是一代",
+        "url": ""
+      },
+      {
+        "title": "Sand.ai / VidMuse — 音频驱动视频生成",
+        "desc": "Sand.ai 完成 ~5000 万美元新一轮融资，旗下 VidMuse 上线仅 2 个月 ARR 即超千万美金。\"Music in Video Out\"是全新范式 —— 用音频驱动视频创作。在 Sora 因算力被关停（奥特曼今日亲口确认）",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Hidden Opportunities Daily",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "For Side Hustlers",
+        "desc": "1. AI Agent Cost Analytics — Kerf-CLI Signal",
+        "url": ""
+      },
+      {
+        "title": "AI Agent Cost Analytics — Kerf-CLI Signal",
+        "desc": "Today's HN Show featured Kerf-CLI, a SQLite-backed cost analytics tool for Claude Code. As AI coding agents explode (Cla",
+        "url": ""
+      },
+      {
+        "title": "API-to-CLI Auto Generator — Clify",
+        "desc": "Clify turns any API docs into a working CLI, using 10-32x fewer tokens than MCP calls. This reveals a structural gap: to",
+        "url": ""
+      },
+      {
+        "title": "Personalized Podcast Summarizer — Decant",
+        "desc": "Custom podcast summarizer on HN: users define \"info tags\" and AI extracts only what matters. Long podcasts (1-2 hrs) are",
+        "url": ""
+      },
+      {
+        "title": "For Investors",
+        "desc": "1. Humanoid Emotion Robots Accelerating — Shouxing Tech's Multi-Hundred-Million A1 Round",
+        "url": ""
+      },
+      {
+        "title": "Humanoid Emotion Robots Accelerating — Shouxing Tech's Multi-Hundred-Million A1 Round",
+        "desc": "Shouxing Tech closed a multi-hundred-million RMB A1 round (led by Huakong Fund + a major internet company) for ultra-rea",
+        "url": ""
+      },
+      {
+        "title": "Sand.ai / VidMuse — Audio-Driven Video Generation",
+        "desc": "Sand.ai closed ~$50M new funding. Its product VidMuse hit >$10M ARR in just 2 months with \"Music in Video Out\" — a new p",
+        "url": ""
+      },
+      {
+        "title": "Samsung Q1 Operating Profit Surges 755%",
+        "desc": "Samsung Electronics Q1 OP reached 57.2T KRW (~$38B), up 755% YoY, far exceeding expectations. HBM and AI chip demand rem",
+        "url": ""
+      },
+      {
+        "title": "This reinforces the thesis that AI infrastructure expansion is still accelerating.",
+        "desc": "🎬 For Content Creators",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月08日",
+    "date_fmt_zh": "2026年04月08日",
+    "date_fmt_en": "Apr 08, 2026",
+    "ts": "2026-04-08T09:02:41.091993+08:00"
+  },
+  {
     "slug": "news-2026-04-08",
     "type": "news",
     "type_label": "每日早报",
