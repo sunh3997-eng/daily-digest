@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-09",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-09",
+    "title_en": "Daily Briefing · 2026-04-09",
+    "summary_zh": "📰 每日早报 · 2026年4月9日 周三",
+    "summary_en": "📰 Daily Briefing · April 9, 2026 (Wed)",
+    "bullets_zh": [
+      "美伊停火协议达成，各国领导人表示欢迎",
+      "停火首日即现争议：霍尔木兹海峡成最大闪点",
+      "以色列猛烈空袭黎巴嫩致250人死亡",
+      "民主党发起第25修正案罢免总统动议"
+    ],
+    "bullets_en": [
+      "Trump's Iran Ceasefire Draws Global Praise",
+      "Strait of Hormuz Becomes Ceasefire Flashpoint",
+      "Israel Kills 250 in Deadliest Day of Lebanon Strikes",
+      "House Democrats Signal Openness to 25th Amendment Push"
+    ],
+    "items_zh": [
+      {
+        "title": "美伊停火协议达成，各国领导人表示欢迎",
+        "desc": "• 05:34 停火首日即现争议：霍尔木兹海峡成最大闪点 — 伊朗坚持对通过海峡船只收取加密货币费用，白宫称\"完全不可接受\"，少数船只敢通行 BBC / WSJ / NYT",
+        "url": ""
+      },
+      {
+        "title": "停火首日即现争议：霍尔木兹海峡成最大闪点",
+        "desc": "• 04:54 以色列猛烈空袭黎巴嫩致250人死亡 — 以色列称伊朗停火不适用于黎巴嫩，发动战争以来最致命单日打击 BBC / Reuters",
+        "url": ""
+      },
+      {
+        "title": "以色列猛烈空袭黎巴嫩致250人死亡",
+        "desc": "• 04:43 民主党发起第25修正案罢免总统动议 — 众议院民主党领导层突然表态支持，数十名民主党人呼吁罢免特朗普 Axios / NBC",
+        "url": ""
+      },
+      {
+        "title": "民主党发起第25修正案罢免总统动议",
+        "desc": "• 06:56 特朗普会见北约秘书长，暗示可能退出联盟 — 因伊朗战争期间北约支持不力，特朗普考虑惩罚部分成员国 AP / WSJ",
+        "url": ""
+      },
+      {
+        "title": "特朗普会见北约秘书长，暗示可能退出联盟",
+        "desc": "• 04:44 Gilgo Beach 连环杀手认罪 — 建筑师 Rex Heuermann 承认谋杀8名女性，长岛连环杀手案终于有了交代 AP / CNN",
+        "url": ""
+      },
+      {
+        "title": "Gilgo Beach 连环杀手认罪",
+        "desc": "• 05:05 \"氯胺酮女王\"因 Matthew Perry 之死被判15年 — 涉及《老友记》明星 Perry 药物过量致死案的主要被告被判入狱 Reuters / CNN",
+        "url": ""
+      },
+      {
+        "title": "\"氯胺酮女王\"因 Matthew Perry 之死被判15年",
+        "desc": "• 04:48 油价暴跌、股市大涨 — 美伊停火消息推动全球市场剧烈波动，但专家警告汽油价格短期难以大幅下降 BBC / CNBC",
+        "url": ""
+      },
+      {
+        "title": "油价暴跌、股市大涨",
+        "desc": "🤖 AI / 科技",
+        "url": ""
+      },
+      {
+        "title": "Meta 发布超级智能团队首个 AI 模型 Muse Spark",
+        "desc": "• 05:05 Canva 连续收购 Simtheory 和 Ortto — 加速 AI 和营销自动化布局，进一步扩大企业级产品矩阵 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Canva 连续收购 Simtheory 和 Ortto",
+        "desc": "• 04:09 AWS 老板解释为何同时投资 Anthropic 和 OpenAI — 亚马逊 AWS CEO 回应两头下注引发的利益冲突质疑 TechCrunch",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Trump's Iran Ceasefire Draws Global Praise",
+        "desc": "• 05:34 Strait of Hormuz Becomes Ceasefire Flashpoint — Iran demands crypto fees for ship passage; White House calls it ",
+        "url": ""
+      },
+      {
+        "title": "Strait of Hormuz Becomes Ceasefire Flashpoint",
+        "desc": "• 04:54 Israel Kills 250 in Deadliest Day of Lebanon Strikes — Israel says Iran ceasefire doesn't cover Lebanon; massive",
+        "url": ""
+      },
+      {
+        "title": "Israel Kills 250 in Deadliest Day of Lebanon Strikes",
+        "desc": "• 04:43 House Democrats Signal Openness to 25th Amendment Push — Dozens of Democrats call for Trump's removal amid Iran ",
+        "url": ""
+      },
+      {
+        "title": "House Democrats Signal Openness to 25th Amendment Push",
+        "desc": "• 06:56 Trump Meets NATO Chief, Mulls Alliance Withdrawal — Weighs punishing allies over lack of Iran war support AP / W",
+        "url": ""
+      },
+      {
+        "title": "Trump Meets NATO Chief, Mulls Alliance Withdrawal",
+        "desc": "• 04:44 Gilgo Beach Serial Killer Pleads Guilty — Rex Heuermann admits to murdering 8 women in Long Island case AP / CNN",
+        "url": ""
+      },
+      {
+        "title": "Gilgo Beach Serial Killer Pleads Guilty",
+        "desc": "• 05:05 'Ketamine Queen' Gets 15 Years in Matthew Perry Death — Key figure in Friends star's overdose case sentenced Reu",
+        "url": ""
+      },
+      {
+        "title": "'Ketamine Queen' Gets 15 Years in Matthew Perry Death",
+        "desc": "• 04:48 Oil Plunges, Stocks Jump on Ceasefire — Markets swing wildly but experts warn gas prices won't drop quickly BBC ",
+        "url": ""
+      },
+      {
+        "title": "Oil Plunges, Stocks Jump on Ceasefire",
+        "desc": "🤖 AI & Tech",
+        "url": ""
+      },
+      {
+        "title": "Meta Unveils Muse Spark from Superintelligence Team",
+        "desc": "• 05:05 Canva Acquires Simtheory & Ortto — Doubling down on AI and marketing automation TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Canva Acquires Simtheory & Ortto",
+        "desc": "• 04:09 AWS Boss Defends Investing in Both Anthropic and OpenAI — Says dual investment isn't a conflict TechCrunch",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月09日",
+    "date_fmt_zh": "2026年04月09日",
+    "date_fmt_en": "Apr 09, 2026",
+    "ts": "2026-04-09T08:02:39.751928+08:00"
+  },
+  {
     "slug": "perspective-2026-04-08",
     "type": "perspective",
     "type_label": "商机雷达",
