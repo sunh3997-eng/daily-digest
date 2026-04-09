@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-04-09",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-04-09",
+    "title_en": "Multi-Perspective · 2026-04-09",
+    "summary_zh": "🔍 多视角 · 美伊停火与霍尔木兹海峡危机 · 2026-04-09",
+    "summary_en": "🔍 Multi-Perspective · US-Iran Ceasefire & Strait of Hormuz Crisis · 2026-04-09",
+    "bullets_zh": [
+      "纽约时报",
+      "AP/路透社",
+      "Bloomberg",
+      "Fox News"
+    ],
+    "bullets_en": [
+      "AP/Reuters",
+      "Bloomberg",
+      "Fox News",
+      "Defense Secretary Hegseth"
+    ],
+    "items_zh": [
+      {
+        "title": "纽约时报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "AP/路透社",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Bloomberg",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "国防部长Hegseth",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Politico",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The Hill",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Time",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The Conversation",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "经济学人",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "AP/Reuters",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Bloomberg",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Defense Secretary Hegseth",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Politico",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The Hill",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Time",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The Conversation",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The Economist",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Consumer impact",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月09日",
+    "date_fmt_zh": "2026年04月09日",
+    "date_fmt_en": "Apr 09, 2026",
+    "ts": "2026-04-09T10:02:31.318115+08:00"
+  },
+  {
     "slug": "radar-2026-04-09",
     "type": "radar",
     "type_label": "商机雷达",
