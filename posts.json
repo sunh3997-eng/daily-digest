@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-10",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-10",
+    "title_en": "Daily Briefing · 2026-04-10",
+    "summary_zh": "📰 每日早报 · 2026年4月10日（周五）",
+    "summary_en": "📰 Daily Briefing · April 10, 2026 (Friday)",
+    "bullets_zh": [
+      "佛州总检察长对 OpenAI 发起调查",
+      "YouTube 推出 AI 虚拟分身功能",
+      "Gemini 整合 NotebookLM 推出\"笔记本\"功能",
+      "Spotify 全面开放关闭视频功能"
+    ],
+    "bullets_en": [
+      "Florida AG Opens Investigation into OpenAI",
+      "YouTube Launches AI-Generated Creator Avatars",
+      "Gemini Gets Notebooks (NotebookLM Integration)",
+      "Spotify Lets Everyone Turn Off Videos"
+    ],
+    "items_zh": [
+      {
+        "title": "佛州总检察长对 OpenAI 发起调查",
+        "desc": "14:02 YouTube 推出 AI 虚拟分身功能 — Google 为 YouTube Shorts 引入 AI 生成的创作者虚拟形象，用户可用 AI 版的自己制作短视频 Engadget",
+        "url": ""
+      },
+      {
+        "title": "YouTube 推出 AI 虚拟分身功能",
+        "desc": "00:06 Gemini 整合 NotebookLM 推出\"笔记本\"功能 — Google 将 NotebookLM 研究工具直接嵌入 Gemini，帮助用户按项目组织对话和资料 The Verge",
+        "url": ""
+      },
+      {
+        "title": "Gemini 整合 NotebookLM 推出\"笔记本\"功能",
+        "desc": "13:49 Spotify 全面开放关闭视频功能 — 用户现可在 Spotify 中完全关闭视频播放，专注纯音频体验 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Spotify 全面开放关闭视频功能",
+        "desc": "HN Trivy 供应链攻击曝光 — 安全工具 Trivy 被利用从 secrets managers 中窃取凭证，引发供应链安全关注 Hacker News",
+        "url": ""
+      },
+      {
+        "title": "Trivy 供应链攻击曝光",
+        "desc": "HN EFF 宣布离开 X（原 Twitter） — 电子前哨基金会正式退出 X 平台 Hacker News",
+        "url": ""
+      },
+      {
+        "title": "EFF 宣布离开 X（原 Twitter）",
+        "desc": "HN 缅因州即将成为首个禁止新建大型数据中心的州 — 引发 AI 基础设施布局讨论 Hacker News",
+        "url": ""
+      },
+      {
+        "title": "缅因州即将成为首个禁止新建大型数据中心的州",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "以色列同意与黎巴嫩直接谈判，但不停止打击真主党",
+        "desc": "21:01 霍尔木兹海峡仍近乎关闭，特朗普要求伊朗停止收费 — 美伊停火协议执行混乱，双方对协议内容各执一词，油价波动 Axios",
+        "url": ""
+      },
+      {
+        "title": "霍尔木兹海峡仍近乎关闭，特朗普要求伊朗停止收费",
+        "desc": "23:20 欧洲领导人要求美伊停火必须涵盖黎巴嫩 — 以色列持续轰炸贝鲁特，医院不堪重负，NATO 内部因伊朗战争出现严重裂痕 NYT",
+        "url": ""
+      },
+      {
+        "title": "欧洲领导人要求美伊停火必须涵盖黎巴嫩",
+        "desc": "21:46 特朗普与 NATO 秘书长吕特激烈冲突 — 白宫考虑惩罚未支持伊朗战争的 NATO 成员国，并重提从欧洲撤军和收购格陵兰 Politico",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Florida AG Opens Investigation into OpenAI",
+        "desc": "14:02 YouTube Launches AI-Generated Creator Avatars — Google introduces AI avatar tool for YouTube Shorts, letting creat",
+        "url": ""
+      },
+      {
+        "title": "YouTube Launches AI-Generated Creator Avatars",
+        "desc": "00:06 Gemini Gets Notebooks (NotebookLM Integration) — Google bakes its research tool directly into Gemini for project-f",
+        "url": ""
+      },
+      {
+        "title": "Gemini Gets Notebooks (NotebookLM Integration)",
+        "desc": "13:49 Spotify Lets Everyone Turn Off Videos — New controls allow users to disable all video playback for audio-only expe",
+        "url": ""
+      },
+      {
+        "title": "Spotify Lets Everyone Turn Off Videos",
+        "desc": "HN Trivy Supply Chain Attack Exposed — Security tool exploited to harvest credentials from secrets managers Hacker News",
+        "url": ""
+      },
+      {
+        "title": "Trivy Supply Chain Attack Exposed",
+        "desc": "HN EFF Leaves X (Twitter) — Electronic Frontier Foundation formally exits the platform Hacker News",
+        "url": ""
+      },
+      {
+        "title": "EFF Leaves X (Twitter)",
+        "desc": "HN Maine Set to Ban Major New Data Centers — Would be first US state to do so Hacker News",
+        "url": ""
+      },
+      {
+        "title": "Maine Set to Ban Major New Data Centers",
+        "desc": "🌍 World News",
+        "url": ""
+      },
+      {
+        "title": "Israel Agrees to Direct Talks with Lebanon, Won't Stop Hezbollah Strikes",
+        "desc": "21:01 Strait of Hormuz Remains Effectively Closed — Trump demands Iran stop tolls; ceasefire terms disputed by both side",
+        "url": ""
+      },
+      {
+        "title": "Strait of Hormuz Remains Effectively Closed",
+        "desc": "23:20 European Leaders Demand Lebanon Be Included in Iran Ceasefire — Beirut hospitals overwhelmed; NATO rift deepens ov",
+        "url": ""
+      },
+      {
+        "title": "European Leaders Demand Lebanon Be Included in Iran Ceasefire",
+        "desc": "21:46 Trump Blows Up at NATO's Rutte — White House explores punishing NATO allies who didn't support Iran war; Greenland",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月10日",
+    "date_fmt_zh": "2026年04月10日",
+    "date_fmt_en": "Apr 10, 2026",
+    "ts": "2026-04-10T08:03:07.621152+08:00"
+  },
+  {
     "slug": "perspective-2026-04-09",
     "type": "perspective",
     "type_label": "商机雷达",
