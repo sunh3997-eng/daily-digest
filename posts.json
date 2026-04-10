@@ -1,5 +1,104 @@
 [
   {
+    "slug": "perspective-2026-04-10",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 美伊停火与伊斯兰堡和谈 · 2026-04-10",
+    "title_en": "Multi-Perspective · US-Iran Ceasefire & Islamabad Talks · 2026-04-10",
+    "summary_zh": "🔍 多视角 · 美伊停火与伊斯兰堡和谈 · 2026-04-10",
+    "summary_en": "🔍 Multi-Perspective · US-Iran Ceasefire & Islamabad Talks · 2026-04-10",
+    "bullets_zh": [
+      "关键叙事：「悬崖边的外交转向」",
+      "总体基调：",
+      "关键叙事：「特朗普的和平胜利」",
+      "关键叙事：「美国自食其果，海峡危机远未结束」"
+    ],
+    "bullets_en": [
+      "Key narrative: \"Diplomatic swerve at the cliff's edge\"",
+      "Overall tone:",
+      "Key narrative: \"Trump's peace victory\"",
+      "Key narrative: \"America reaps what it sows; the strait crisis is far from over\""
+    ],
+    "items_zh": [
+      {
+        "title": "关键叙事：「悬崖边的外交转向」",
+        "desc": "- CNN：强调停火在特朗普最后通牒到期前不到90分钟达成，是\"一个半月螺旋升级冲突后的戏剧性逆转\"。聚焦伊朗提出的10点和平方案作为谈判基础",
+        "url": ""
+      },
+      {
+        "title": "总体基调：",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "关键叙事：「特朗普的和平胜利」",
+        "desc": "- Fox News标题直接是\"特朗普与伊朗的停火赢得世界领袖赞誉\"，以内塔尼亚胡的支持背书为核心素材",
+        "url": ""
+      },
+      {
+        "title": "关键叙事：「美国自食其果，海峡危机远未结束」",
+        "desc": "- 央视早期报道（3月）聚焦特朗普的\"48小时最后通牒\"策略，语气偏批评：暗示美国的军事威胁是地区紧张的根源",
+        "url": ""
+      },
+      {
+        "title": "关键叙事：「停火不等于和平，深层矛盾未解」",
+        "desc": "- Chatham House分析：停火对特朗普、德黑兰、以色列和美国盟友意味着完全不同的东西。每方都在用\"停火\"包装自己的胜利叙事，但结构性分歧毫无进展",
+        "url": ""
+      },
+      {
+        "title": "最深层的分歧：",
+        "desc": "📅 今日关键时间线：",
+        "url": ""
+      },
+      {
+        "title": "月10日（今天）",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Key narrative: \"Diplomatic swerve at the cliff's edge\"",
+        "desc": "- CNN: Emphasizes the ceasefire came less than 90 minutes before Trump's deadline, calling it a \"dramatic reversal after",
+        "url": ""
+      },
+      {
+        "title": "Overall tone:",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Key narrative: \"Trump's peace victory\"",
+        "desc": "- Fox News headline: \"Trump's ceasefire with Iran draws praise from world leaders\" — Netanyahu's endorsement front and c",
+        "url": ""
+      },
+      {
+        "title": "Key narrative: \"America reaps what it sows; the strait crisis is far from over\"",
+        "desc": "- CCTV (March coverage): Focused on Trump's \"48-hour ultimatum\" strategy with critical tone — implying US military threa",
+        "url": ""
+      },
+      {
+        "title": "Key narrative: \"Ceasefire ≠ peace; deep contradictions remain\"",
+        "desc": "- Chatham House: The ceasefire means entirely different things to Trump, Tehran, Israel, and US allies. Each side is pac",
+        "url": ""
+      },
+      {
+        "title": "The deepest divide:",
+        "desc": "📅 Key Timeline:",
+        "url": ""
+      },
+      {
+        "title": "April 10 (today)",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月10日",
+    "date_fmt_zh": "2026年04月10日",
+    "date_fmt_en": "Apr 10, 2026",
+    "ts": "2026-04-10T10:03:40.950007+08:00"
+  },
+  {
     "slug": "radar-2026-04-10",
     "type": "radar",
     "type_label": "商机雷达",
