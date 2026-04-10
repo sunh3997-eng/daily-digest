@@ -1,5 +1,36 @@
 [
   {
+    "slug": "radar-2026-04-10",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-04-10",
+    "title_en": "Hidden Opportunities · 2026-04-10",
+    "summary_zh": "🔍 隐藏商机日报 2026-04-10",
+    "summary_en": "🔍 Hidden Opportunities Daily 2026-04-10",
+    "bullets_zh": [
+      "验证过的需求数据库",
+      "3D 打印耗材订阅 + 设计社区"
+    ],
+    "bullets_en": [],
+    "items_zh": [
+      {
+        "title": "验证过的需求数据库",
+        "desc": "→ 信号源：Product Hunt 4/9 上线，讨论热度高。",
+        "url": ""
+      },
+      {
+        "title": "D 打印耗材订阅 + 设计社区",
+        "desc": "━━━━━━━━━━━━━━━━━━━━",
+        "url": ""
+      }
+    ],
+    "items_en": [],
+    "date_fmt": "2026年04月10日",
+    "date_fmt_zh": "2026年04月10日",
+    "date_fmt_en": "Apr 10, 2026",
+    "ts": "2026-04-10T09:03:09.315649+08:00"
+  },
+  {
     "slug": "news-2026-04-10",
     "type": "news",
     "type_label": "每日早报",
