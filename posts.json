@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-11",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-11",
+    "title_en": "Daily Briefing · 2026-04-11",
+    "summary_zh": "📰 每日早报 · 2026-04-11（周六）",
+    "summary_en": "📰 Daily Briefing · April 11, 2026 (Saturday)",
+    "bullets_zh": [
+      "Sam Altman 住所遭燃烧瓶袭击，20岁嫌疑人已被捕",
+      "Anthropic 一度封禁 OpenClaw 创始人的 Claude 访问权限",
+      "跟踪受害者起诉 OpenAI：ChatGPT 助长了跟踪者妄想",
+      "法国宣布政府系统弃用 Windows 转向 Linux"
+    ],
+    "bullets_en": [
+      "Molotov cocktail thrown at Sam Altman's SF home; 20-year-old arrested",
+      "Anthropic temporarily banned OpenClaw creator from Claude access",
+      "Stalking victim sues OpenAI, alleging ChatGPT fueled her abuser's delusions",
+      "France to ditch Windows for Linux across government systems"
+    ],
+    "items_zh": [
+      {
+        "title": "Sam Altman 住所遭燃烧瓶袭击，20岁嫌疑人已被捕",
+        "desc": "20:27 Anthropic 一度封禁 OpenClaw 创始人的 Claude 访问权限 — 在上周 Claude 对 OpenClaw 用户调整定价后，Anthropic 临时封禁了创建者账号 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Anthropic 一度封禁 OpenClaw 创始人的 Claude 访问权限",
+        "desc": "16:41 跟踪受害者起诉 OpenAI：ChatGPT 助长了跟踪者妄想 — 新诉讼称 OpenAI 无视三次警告（含自家大规模伤亡标记），任由用户骚扰前女友 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "跟踪受害者起诉 OpenAI：ChatGPT 助长了跟踪者妄想",
+        "desc": "14:39 法国宣布政府系统弃用 Windows 转向 Linux — 法国政府最新\"去美国科技依赖\"举措，将把办公系统迁移至 Linux TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "法国宣布政府系统弃用 Windows 转向 Linux",
+        "desc": "15:22 iPhone Fold 新泄露：或名\"Ultra\"，9月发布，7.8英寸 — Bloomberg 确认可折叠 iPhone 九月首发在轨，苹果同步打造\"Ultra\"产品线 9to5Mac / Bloomberg",
+        "url": ""
+      },
+      {
+        "title": "iPhone Fold 新泄露：或名\"Ultra\"，9月发布，7.8英寸",
+        "desc": "18:00 微软允许 Windows 11 测试者无需 ViVeTool 即可解锁实验功能 — Insider 计划改革，简化通道切换 The Verge",
+        "url": ""
+      },
+      {
+        "title": "微软允许 Windows 11 测试者无需 ViVeTool 即可解锁实验功能",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "美伊和谈前夕局势紧张：Vance 赴伊斯兰堡，霍尔木兹海峡仍封锁",
+        "desc": "22:48 Artemis II 宇航员今日溅落返回地球 — NASA 月球绕飞任务顺利完成，飞船在圣迭戈海域溅落，热防护盾表现成功 NPR / NYT / TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Artemis II 宇航员今日溅落返回地球",
+        "desc": "21:22 美国 3 月通胀飙升：伊朗战争推高油价和能源成本 — CPI 录得大幅上升，汽油价格创纪录，市场不确定性加剧 Guardian / Reuters / CNBC",
+        "url": ""
+      },
+      {
+        "title": "美国 3 月通胀飙升：伊朗战争推高油价和能源成本",
+        "desc": "20:31 卡玛拉·哈里斯暗示将参选 2028 总统大选 — 在集会上群众高喊\"再跑一次\"，哈里斯回应\"我在考虑\" Al Jazeera / Politico / NYT",
+        "url": ""
+      },
+      {
+        "title": "卡玛拉·哈里斯暗示将参选 2028 总统大选",
+        "desc": "13:05 匈牙利大选在即：民调显示欧尔班可能落败 — 周日投票，反对派支持率逼近执政党，15年来首次可能变天 Euronews / NYT / The Atlantic",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Molotov cocktail thrown at Sam Altman's SF home; 20-year-old arrested",
+        "desc": "20:27 Anthropic temporarily banned OpenClaw creator from Claude access — The ban followed last week's pricing changes fo",
+        "url": ""
+      },
+      {
+        "title": "Anthropic temporarily banned OpenClaw creator from Claude access",
+        "desc": "16:41 Stalking victim sues OpenAI, alleging ChatGPT fueled her abuser's delusions — Lawsuit claims OpenAI ignored three ",
+        "url": ""
+      },
+      {
+        "title": "Stalking victim sues OpenAI, alleging ChatGPT fueled her abuser's delusions",
+        "desc": "14:39 France to ditch Windows for Linux across government systems — The move is part of France's broader effort to reduc",
+        "url": ""
+      },
+      {
+        "title": "France to ditch Windows for Linux across government systems",
+        "desc": "15:22 iPhone Fold leaks: \"Ultra\" branding, 7.8-inch display, September launch — Bloomberg confirms foldable iPhone on tr",
+        "url": ""
+      },
+      {
+        "title": "iPhone Fold leaks: \"Ultra\" branding, 7.8-inch display, September launch",
+        "desc": "18:00 Microsoft lets Windows 11 Insiders unlock experimental features without ViVeTool — Major overhaul of the Insider P",
+        "url": ""
+      },
+      {
+        "title": "Microsoft lets Windows 11 Insiders unlock experimental features without ViVeTool",
+        "desc": "🌍 World News",
+        "url": ""
+      },
+      {
+        "title": "US-Iran peace talks loom: Vance heads to Islamabad as Hormuz remains blocked",
+        "desc": "22:48 Artemis II astronauts splash down safely after historic Moon flyby — NASA crew returns to Earth off San Diego coas",
+        "url": ""
+      },
+      {
+        "title": "Artemis II astronauts splash down safely after historic Moon flyby",
+        "desc": "21:22 US inflation surges in March as Iran war drives energy costs higher — CPI jumps sharply; gasoline prices hit recor",
+        "url": ""
+      },
+      {
+        "title": "US inflation surges in March as Iran war drives energy costs higher",
+        "desc": "20:31 Kamala Harris hints at 2028 presidential run — Crowd chants \"Run again!\" at rally; Harris responds \"I'm thinking a",
+        "url": ""
+      },
+      {
+        "title": "Kamala Harris hints at 2028 presidential run",
+        "desc": "13:05 Hungary election this Sunday: polls show Orbán could lose — Opposition closing in after 15 years of Fidesz rule Eu",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月11日",
+    "date_fmt_zh": "2026年04月11日",
+    "date_fmt_en": "Apr 11, 2026",
+    "ts": "2026-04-11T08:02:12.293690+08:00"
+  },
+  {
     "slug": "perspective-2026-04-10",
     "type": "perspective",
     "type_label": "商机雷达",
