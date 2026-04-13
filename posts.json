@@ -1,5 +1,22 @@
 [
   {
+    "slug": "radar-2026-04-13",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-04-12",
+    "title_en": "Hidden Opportunities · 2026-04-12",
+    "summary_zh": "🔍 隐藏商机日报 2026-04-12",
+    "summary_en": "🔍 Hidden Opportunities Daily 2026-04-12",
+    "bullets_zh": [],
+    "bullets_en": [],
+    "items_zh": [],
+    "items_en": [],
+    "date_fmt": "2026年04月13日",
+    "date_fmt_zh": "2026年04月13日",
+    "date_fmt_en": "Apr 13, 2026",
+    "ts": "2026-04-13T11:33:16.851148+08:00"
+  },
+  {
     "slug": "perspective-2026-04-13",
     "type": "perspective",
     "type_label": "商机雷达",
