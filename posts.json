@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-04-13",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-04-13",
+    "title_en": "Multi-Perspective · 2026-04-13",
+    "summary_zh": "🔍 多视角 · 美伊和谈破裂，特朗普宣布封锁霍尔木兹海峡 · 2026-04-13",
+    "summary_en": "🔍 Multi-Perspective · US-Iran Peace Talks Collapse, Trump Announces Hormuz Blockade · 2026-04-13",
+    "bullets_zh": [
+      "核心叙事：外交失败，局势升级",
+      "Reuters",
+      "关键信息",
+      "核心叙事：特朗普展示实力，伊朗应为失败负责"
+    ],
+    "bullets_en": [
+      "Core Narrative: Diplomatic Failure, Dangerous Escalation",
+      "Reuters",
+      "Core Narrative: Trump Shows Strength, Iran Bears Responsibility",
+      "Fox News"
+    ],
+    "items_zh": [
+      {
+        "title": "核心叙事：外交失败，局势升级",
+        "desc": "- NYT：21小时谈判未果，万斯称伊朗拒绝接受美方条件。关键分歧在于霍尔木兹海峡通行权和伊朗核库存问题。标题用\"Fail\"直接定性。",
+        "url": ""
+      },
+      {
+        "title": "Reuters",
+        "desc": "- WSJ：率先报道特朗普正在考虑对伊朗实施\"有限打击\"，将海上封锁与军事打击选项并列讨论。",
+        "url": ""
+      },
+      {
+        "title": "关键信息",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "核心叙事：特朗普展示实力，伊朗应为失败负责",
+        "desc": "- Fox News：报道聚焦万斯在谈判中的努力——\"友好但坚定\"的谈判风格。详细追踪特朗普对伊朗的系列最后通牒时间线，将封锁定位为\"合理的施压手段\"。同时报道伊朗革命卫队声称海峡仍在其\"完全控制\"之下。",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "- WSJ社论：标题\"美伊对峙的新风险\"，但论述重心在于伊朗的不合作态度和核扩散威胁，暗示军事选项可能不可避免。",
+        "url": ""
+      },
+      {
+        "title": "WSJ社论",
+        "desc": "- NY Post：用更激进的口吻，强调是伊朗\"过分要求\"导致谈判破裂。",
+        "url": ""
+      },
+      {
+        "title": "NY Post",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "与主流差异",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "核心叙事：美国单边行动威胁全球能源安全，中国利益受损",
+        "desc": "- LA Times分析（引述中方立场）：完整封锁霍尔木兹海峡可能迫使中国更直接介入冲突。中国是伊朗石油的最大买家，封锁直接损害中国能源安全。",
+        "url": ""
+      },
+      {
+        "title": "LA Times分析",
+        "desc": "- 伊朗革命卫队（通过半官方媒体）：声称海峡仍在伊朗\"完全控制\"之下，暗示不会坐视美国封锁。",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Core Narrative: Diplomatic Failure, Dangerous Escalation",
+        "desc": "- NYT: 21 hours wasn't enough. VP Vance said Iran refused American terms. Key sticking points: Strait of Hormuz transit ",
+        "url": ""
+      },
+      {
+        "title": "Reuters",
+        "desc": "- WSJ: First to report Trump weighing \"limited strikes\" against Iran, placing naval blockade alongside military strike o",
+        "url": ""
+      },
+      {
+        "title": "Core Narrative: Trump Shows Strength, Iran Bears Responsibility",
+        "desc": "- Fox News: Focused on Vance's negotiating effort — \"friendly but firm.\" Tracked Trump's escalating ultimatums timeline,",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "- WSJ Editorial: Emphasized Iran's non-cooperation and nuclear proliferation threat, suggesting military options may be ",
+        "url": ""
+      },
+      {
+        "title": "WSJ Editorial",
+        "desc": "- Conservative consensus: Iran's \"excessive demands\" sank the talks; blockade is justified.",
+        "url": ""
+      },
+      {
+        "title": "Conservative consensus",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Core Narrative: US Unilateralism Threatens Global Energy Security",
+        "desc": "- LA Times analysis: A full Hormuz blockade could force China into more direct involvement — China is Iran's largest oil",
+        "url": ""
+      },
+      {
+        "title": "LA Times analysis",
+        "desc": "- Iran's IRGC (via semi-official media): Claimed the strait remains under Iran's \"full control.\"",
+        "url": ""
+      },
+      {
+        "title": "Iran's IRGC",
+        "desc": "- Gulf News: Detailed Iran's anti-ship missiles, drone boats, and mines that pose massive threats to shipping, questioni",
+        "url": ""
+      },
+      {
+        "title": "Gulf News",
+        "desc": "- Likely Chinese position: Oppose unilateral military action, call for dialogue, emphasize freedom of navigation and ene",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月13日",
+    "date_fmt_zh": "2026年04月13日",
+    "date_fmt_en": "Apr 13, 2026",
+    "ts": "2026-04-13T10:02:19.516301+08:00"
+  },
+  {
     "slug": "news-2026-04-13",
     "type": "news",
     "type_label": "每日早报",
