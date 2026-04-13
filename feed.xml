@@ -5,13 +5,21 @@
   <link>https://daily.sundigest.xyz</link>
   <description>Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.</description>
   <language>en</language>
-  <lastBuildDate>Sat, 11 Apr 2026 02:03:01 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 13 Apr 2026 00:02:01 GMT</lastBuildDate>
   <atom:link href="https://daily.sundigest.xyz/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://daily.sundigest.xyz/assets/og.png</url>
     <title>Daily Digest</title>
     <link>https://daily.sundigest.xyz</link>
   </image>
+  <item>
+    <title>Daily Briefing · 2026-04-13 — Daily Briefing</title>
+    <link>https://daily.sundigest.xyz/posts/news-2026-04-13.html</link>
+    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/news-2026-04-13.html</guid>
+    <pubDate>Mon, 13 Apr 2026 00:02:01 GMT</pubDate>
+    <description>📰 Daily Briefing · April 13, 2026 (Monday)</description>
+    <category>Daily Briefing</category>
+  </item>
   <item>
     <title>Multi-Perspective · US-Iran Peace Talks: Can the Pakistan Summit End the Third Gulf War? · 2026-04-11 — Opportunity Radar</title>
     <link>https://daily.sundigest.xyz/posts/perspective-2026-04-11.html</link>
@@ -162,14 +170,6 @@
     <guid isPermaLink="true">https://daily.sundigest.xyz/posts/perspective-2026-04-05.html</guid>
     <pubDate>Sun, 05 Apr 2026 02:04:19 GMT</pubDate>
     <description>🔍 Multi-Perspective · US-Iran Trade &quot;Hell&quot; Threats as Missing Airman Becomes Pivotal · 2026-04-05</description>
-    <category>Opportunity Radar</category>
-  </item>
-  <item>
-    <title>Hidden Opportunities · 2026-04-05 — Opportunity Radar</title>
-    <link>https://daily.sundigest.xyz/posts/radar-2026-04-05.html</link>
-    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-04-05.html</guid>
-    <pubDate>Sun, 05 Apr 2026 01:02:25 GMT</pubDate>
-    <description>🔍 Hidden Opportunities Daily 2026-04-05</description>
     <category>Opportunity Radar</category>
   </item>
 </channel>
