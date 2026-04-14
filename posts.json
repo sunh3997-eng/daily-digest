@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-14",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-14",
+    "title_en": "Daily Briefing · 2026-04-14",
+    "summary_zh": "📰 每日早报 · 2026-04-14（周二）",
+    "summary_en": "📰 Daily Briefing · April 14, 2026 (Tuesday)",
+    "bullets_zh": [
+      "国际要闻",
+      "美国两名国会议员宣布辞职",
+      "美军对伊朗霍尔木兹海峡港口实施封锁",
+      "美伊秘密外交渠道谈判进行中"
+    ],
+    "bullets_en": [
+      "World News",
+      "Two US congressmen announce resignations",
+      "US military blockade of Iranian ports begins",
+      "Back-channel diplomacy: mediators pursue Iran-US deal"
+    ],
+    "items_zh": [
+      {
+        "title": "国际要闻",
+        "desc": "• 22:46 UTC 美国两名国会议员宣布辞职 — 德州众议员 Tony Gonzales 和加州众议员 Eric Swalwell 在性行为不端指控下宣布辞职，避免被投票驱逐 NYT/Forbes",
+        "url": ""
+      },
+      {
+        "title": "美国两名国会议员宣布辞职",
+        "desc": "• 20:23 UTC 美军对伊朗霍尔木兹海峡港口实施封锁 — 美国海军封锁正式开始，特朗普威胁\"击毁\"靠近封锁线的伊朗军舰，油价再度剧烈波动 CBS/AP/Economist",
+        "url": ""
+      },
+      {
+        "title": "美军对伊朗霍尔木兹海峡港口实施封锁",
+        "desc": "• 15:37 UTC 美伊秘密外交渠道谈判进行中 — 美方要求伊朗冻结铀浓缩20年，双方考虑第二轮面对面会谈 FT/CNN/Axios",
+        "url": ""
+      },
+      {
+        "title": "美伊秘密外交渠道谈判进行中",
+        "desc": "• 19:56 UTC 匈牙利变天：Magyar 击败欧尔班赢得大选 — Péter Magyar 誓言追究\"掠夺国家者\"，欧尔班承认败选，被视为特朗普外交政策的重大打击 Guardian/Politico/NPR",
+        "url": ""
+      },
+      {
+        "title": "匈牙利变天：Magyar 击败欧尔班赢得大选",
+        "desc": "• 19:19 UTC 特朗普与教皇 Leo 持续对峙 — 特朗普拒绝就\"耶稣自拍\"争议道歉，分析称可能失去关键天主教摇摆选民 Axios/NYT/AP",
+        "url": ""
+      },
+      {
+        "title": "特朗普与教皇 Leo 持续对峙",
+        "desc": "• 15:58 UTC 教皇 Leo 成为首位访问阿尔及利亚的教皇 — 开启重大非洲巡访之旅 BBC/NYT",
+        "url": ""
+      },
+      {
+        "title": "教皇 Leo 成为首位访问阿尔及利亚的教皇",
+        "desc": "• 17:59 UTC 真主党官员：不接受美国主持的黎以谈判协议 AP",
+        "url": ""
+      },
+      {
+        "title": "真主党官员：不接受美国主持的黎以谈判协议",
+        "desc": "• 19:04 UTC 明尼苏达州调查联邦特工拘留美国公民事件 — ICE 在寒冷天气中将苗族裔美国公民从家中带走，当地县以\"可能绑架\"立案调查 CNN/AP/NYT",
+        "url": ""
+      },
+      {
+        "title": "明尼苏达州调查联邦特工拘留美国公民事件",
+        "desc": "🤖 AI/科技",
+        "url": ""
+      },
+      {
+        "title": "AI/科技",
+        "desc": "• 19:05 UTC 微软正在开发类 OpenClaw 的 AI Agent — 计划将 Agent 能力整合到 Copilot，多源报道确认已在测试 TechCrunch/The Verge/CNET",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "World News",
+        "desc": "• 22:46 UTC Two US congressmen announce resignations — Reps. Tony Gonzales (R-TX) and Eric Swalwell (D-CA) resign amid s",
+        "url": ""
+      },
+      {
+        "title": "Two US congressmen announce resignations",
+        "desc": "• 20:23 UTC US military blockade of Iranian ports begins — Naval blockade in the Strait of Hormuz now active; Trump thre",
+        "url": ""
+      },
+      {
+        "title": "US military blockade of Iranian ports begins",
+        "desc": "• 15:37 UTC Back-channel diplomacy: mediators pursue Iran-US deal — US reportedly demands Iran freeze uranium enrichment",
+        "url": ""
+      },
+      {
+        "title": "Back-channel diplomacy: mediators pursue Iran-US deal",
+        "desc": "• 19:56 UTC Hungary's Orbán defeated: Péter Magyar wins election — Magyar vows to pursue those who \"plundered\" the count",
+        "url": ""
+      },
+      {
+        "title": "Hungary's Orbán defeated: Péter Magyar wins election",
+        "desc": "• 19:19 UTC Trump-Pope Leo feud escalates — Trump refuses to apologize over \"Jesus selfie\" meme; analysts warn he risks ",
+        "url": ""
+      },
+      {
+        "title": "Trump-Pope Leo feud escalates",
+        "desc": "• 15:58 UTC Pope Leo becomes first pope to visit Algeria — begins major Africa tour BBC/NYT",
+        "url": ""
+      },
+      {
+        "title": "Pope Leo becomes first pope to visit Algeria",
+        "desc": "• 19:04 UTC Minnesota county investigates ICE arrest of US citizen as possible kidnapping — Hmong American man removed f",
+        "url": ""
+      },
+      {
+        "title": "Minnesota county investigates ICE arrest of US citizen as possible kidnapping",
+        "desc": "🤖 AI & Tech",
+        "url": ""
+      },
+      {
+        "title": "AI & Tech",
+        "desc": "• 19:05 UTC Microsoft building OpenClaw-like AI agent for Copilot — multiple sources confirm testing of agentic features",
+        "url": ""
+      },
+      {
+        "title": "Microsoft building OpenClaw-like AI agent for Copilot",
+        "desc": "• 23:15 UTC Suspect in Molotov cocktail attack on Sam Altman's home charged with attempted murder — Texas man aimed to k",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月14日",
+    "date_fmt_zh": "2026年04月14日",
+    "date_fmt_en": "Apr 14, 2026",
+    "ts": "2026-04-14T08:02:32.595268+08:00"
+  },
+  {
     "slug": "radar-2026-04-13",
     "type": "radar",
     "type_label": "商机雷达",
