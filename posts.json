@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-04-14",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-04-14",
+    "title_en": "Multi-Perspective · 2026-04-14",
+    "summary_zh": "🔍 多视角 · 美国封锁霍尔木兹海峡：各方如何解读？ · 2026-04-14",
+    "summary_en": "🔍 Multi-Perspective · U.S. Naval Blockade of Iran's Hormuz Strait · 2026-04-14",
+    "bullets_zh": [
+      "华盛顿邮报",
+      "纽约时报",
+      "经济学人",
+      "Fox News"
+    ],
+    "bullets_en": [
+      "Washington Post",
+      "Reuters",
+      "The Economist",
+      "Fox News"
+    ],
+    "items_zh": [
+      {
+        "title": "华盛顿邮报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "纽约时报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "经济学人",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "保守派媒体整体基调偏向支持封锁行动，将其视为对伊朗核野心的必要遏制，并批评此前拜登时代的\"软弱外交\"未能解决问题。特朗普\"威胁击沉伊朗军舰\"的言论被保守派视为展示决心的强势姿态。",
+        "url": ""
+      },
+      {
+        "title": "李强总理的声明",
+        "desc": "中国官方媒体的整体框架是：①封锁破坏了国际航行自由；②全球能源供应链将受到严重冲击；③单边军事行动不能解决问题；④应通过对话和多边机制和平解决争端。",
+        "url": ""
+      },
+      {
+        "title": "半岛电视台（Al Jazeera）",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "BBC InDepth分析",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "LVMH财报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "HN/科技圈",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "核心观察",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Washington Post",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Reuters",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The Economist",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Xinhua",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Premier Li Qiang's statement",
+        "desc": "Chinese state media framing: ① Blockade violates freedom of navigation; ② Global energy supply chains face severe disrup",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Carnegie Center",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "LVMH earnings",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Bloomberg",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月14日",
+    "date_fmt_zh": "2026年04月14日",
+    "date_fmt_en": "Apr 14, 2026",
+    "ts": "2026-04-14T10:03:09.913750+08:00"
+  },
+  {
     "slug": "radar-2026-04-14",
     "type": "radar",
     "type_label": "商机雷达",
