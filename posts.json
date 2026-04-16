@@ -1,5 +1,38 @@
 [
   {
+    "slug": "radar-2026-04-16",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-04-16",
+    "title_en": "Hidden Opportunities · 2026-04-16",
+    "summary_zh": "🔍 隐藏商机日报 2026-04-16",
+    "summary_en": "🔍 Hidden Opportunities Daily 2026-04-16",
+    "bullets_zh": [
+      "浏览器端 AI 工具集"
+    ],
+    "bullets_en": [
+      "Browser-Native AI Toolkit"
+    ],
+    "items_zh": [
+      {
+        "title": "浏览器端 AI 工具集",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Browser-Native AI Toolkit",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月16日",
+    "date_fmt_zh": "2026年04月16日",
+    "date_fmt_en": "Apr 16, 2026",
+    "ts": "2026-04-16T09:04:00.554648+08:00"
+  },
+  {
     "slug": "news-2026-04-16",
     "type": "news",
     "type_label": "每日早报",
