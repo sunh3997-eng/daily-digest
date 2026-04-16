@@ -5,13 +5,21 @@
   <link>https://daily.sundigest.xyz</link>
   <description>Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 15 Apr 2026 02:02:38 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 16 Apr 2026 00:01:52 GMT</lastBuildDate>
   <atom:link href="https://daily.sundigest.xyz/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://daily.sundigest.xyz/assets/og.png</url>
     <title>Daily Digest</title>
     <link>https://daily.sundigest.xyz</link>
   </image>
+  <item>
+    <title>Daily Briefing · 2026-04-16 — Daily Briefing</title>
+    <link>https://daily.sundigest.xyz/posts/news-2026-04-16.html</link>
+    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/news-2026-04-16.html</guid>
+    <pubDate>Thu, 16 Apr 2026 00:01:52 GMT</pubDate>
+    <description>📰 Daily Briefing · April 16, 2026 (Wednesday)</description>
+    <category>Daily Briefing</category>
+  </item>
   <item>
     <title>Multi-Perspective · US Hormuz Blockade · 2026-04-15 — Opportunity Radar</title>
     <link>https://daily.sundigest.xyz/posts/perspective-2026-04-15.html</link>
@@ -162,14 +170,6 @@
     <guid isPermaLink="true">https://daily.sundigest.xyz/posts/perspective-2026-04-08.html</guid>
     <pubDate>Wed, 08 Apr 2026 02:02:41 GMT</pubDate>
     <description>🔍 Multi-Perspective · US-Iran Two-Week Ceasefire: Diplomacy on the Brink · 2026-04-08</description>
-    <category>Opportunity Radar</category>
-  </item>
-  <item>
-    <title>Hidden Opportunities · 2026-04-08 — Opportunity Radar</title>
-    <link>https://daily.sundigest.xyz/posts/radar-2026-04-08.html</link>
-    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-04-08.html</guid>
-    <pubDate>Wed, 08 Apr 2026 01:02:41 GMT</pubDate>
-    <description>🔍 Hidden Opportunities Daily 2026-04-08</description>
     <category>Opportunity Radar</category>
   </item>
 </channel>

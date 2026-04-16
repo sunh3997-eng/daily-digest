@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-16",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-16",
+    "title_en": "Daily Briefing · 2026-04-16",
+    "summary_zh": "📰 每日早报 · 2026年4月16日（周三）",
+    "summary_en": "📰 Daily Briefing · April 16, 2026 (Wednesday)",
+    "bullets_zh": [
+      "Amazon 投资的 X-energy 提交 IPO 申请",
+      "Allbirds 宣布放弃鞋业转型 AI 公司",
+      "OpenAI 更新 Agents SDK",
+      "Google 推出 Mac 版 Gemini AI 独立应用"
+    ],
+    "bullets_en": [
+      "Amazon-backed X-energy files for up to $800M IPO",
+      "Allbirds ditches footwear, pivots to become an AI company",
+      "OpenAI updates Agents SDK",
+      "Google launches standalone Gemini AI app on Mac"
+    ],
+    "items_zh": [
+      {
+        "title": "Amazon 投资的 X-energy 提交 IPO 申请",
+        "desc": "• 21:02 Allbirds 宣布放弃鞋业转型 AI 公司 — 股价暴涨近 600%，市值增加 1.27 亿美元 CBS/CNBC",
+        "url": ""
+      },
+      {
+        "title": "Allbirds 宣布放弃鞋业转型 AI 公司",
+        "desc": "• 19:28 OpenAI 更新 Agents SDK — 帮助企业构建更安全、更强大的 AI 代理 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "OpenAI 更新 Agents SDK",
+        "desc": "• 18:10 Google 推出 Mac 版 Gemini AI 独立应用 — 专注速度而非深度系统集成 The Verge",
+        "url": ""
+      },
+      {
+        "title": "Google 推出 Mac 版 Gemini AI 独立应用",
+        "desc": "• 19:35 Sam Altman 旧金山住宅遭燧石弹袭击 — 嫌疑人父母公开发声，反 AI 团体与暴力行为划清界限 SFGATE/NBC",
+        "url": ""
+      },
+      {
+        "title": "Sam Altman 旧金山住宅遭燧石弹袭击",
+        "desc": "• 18:51 LinkedIn 数据显示 AI 并非招聘下滑主因 — 自 2022 年以来招聘量下降 20%，高利率才是关键 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "LinkedIn 数据显示 AI 并非招聘下滑主因",
+        "desc": "• 18:50 美国联邦政府将要求数据中心公开电力账单 — 首次要求披露能源使用详情 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "美国联邦政府将要求数据中心公开电力账单",
+        "desc": "• 18:38 AI 学习应用 Gizmo 用户破 1300 万 — 获 2200 万美元 A 轮融资 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "AI 学习应用 Gizmo 用户破 1300 万",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "美伊停火谈判关键时刻",
+        "desc": "• 18:58 参议院共和党再次否决民主党终止伊朗战争决议 — 战争权力法案持续受阻 NBC News",
+        "url": ""
+      },
+      {
+        "title": "参议院共和党再次否决民主党终止伊朗战争决议",
+        "desc": "• 20:10 土耳其两天内发生第二起校园枪击案 — 9 人死亡，嫌疑人疑为八年级学生 BBC/CNN",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Amazon-backed X-energy files for up to $800M IPO",
+        "desc": "• 21:02 Allbirds ditches footwear, pivots to become an AI company — Stock soars ~600%, adds $127M in market value CBS/CN",
+        "url": ""
+      },
+      {
+        "title": "Allbirds ditches footwear, pivots to become an AI company",
+        "desc": "• 19:28 OpenAI updates Agents SDK — New capabilities to help enterprises build safer, more capable AI agents TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "OpenAI updates Agents SDK",
+        "desc": "• 18:10 Google launches standalone Gemini AI app on Mac — Focuses on speed over deep OS integration The Verge",
+        "url": ""
+      },
+      {
+        "title": "Google launches standalone Gemini AI app on Mac",
+        "desc": "• 19:35 Parents speak out after Molotov attack on Sam Altman's SF home — Anti-AI groups distance themselves from violenc",
+        "url": ""
+      },
+      {
+        "title": "Parents speak out after Molotov attack on Sam Altman's SF home",
+        "desc": "• 18:51 LinkedIn: AI isn't to blame for hiring decline… yet — Hiring down 20% since 2022, higher interest rates cited Te",
+        "url": ""
+      },
+      {
+        "title": "LinkedIn: AI isn't to blame for hiring decline… yet",
+        "desc": "• 18:50 Feds to require data centers to disclose power bills — First-ever energy use disclosure mandate TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Feds to require data centers to disclose power bills",
+        "desc": "• 18:38 AI learning app Gizmo hits 13M users — Secures $22M Series A funding TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "AI learning app Gizmo hits 13M users",
+        "desc": "🌍 World News",
+        "url": ""
+      },
+      {
+        "title": "Iran blockade 'fully implemented' as mediators push ceasefire extension",
+        "desc": "• 18:58 Senate Republicans again block Democratic effort to end Trump's Iran war — War powers resolution fails NBC News",
+        "url": ""
+      },
+      {
+        "title": "Senate Republicans again block Democratic effort to end Trump's Iran war",
+        "desc": "• 20:10 Nine killed in second Turkish school shooting in two days — Suspect believed to be an 8th grader BBC/CNN",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月16日",
+    "date_fmt_zh": "2026年04月16日",
+    "date_fmt_en": "Apr 16, 2026",
+    "ts": "2026-04-16T08:01:52.028120+08:00"
+  },
+  {
     "slug": "perspective-2026-04-15",
     "type": "perspective",
     "type_label": "商机雷达",
