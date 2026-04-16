@@ -1,5 +1,119 @@
 [
   {
+    "slug": "perspective-2026-04-16",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-04-16",
+    "title_en": "Multi-Perspective · 2026-04-16",
+    "summary_zh": "🔍 多视角 · Google违背承诺向ICE移交用户数据 · 2026-04-16",
+    "summary_en": "🔍 Multi-Perspective · Google Breaks Promise, Hands User Data to ICE · 2026-04-16",
+    "bullets_zh": [
+      "EFF / 公民自由派立场：",
+      "核心观点：",
+      "移民执法优先论：",
+      "国家安全叙事："
+    ],
+    "bullets_en": [
+      "Mass exodus stories:",
+      "Legal deep-dives:",
+      "Self-hosting debate:",
+      "Google's motives:"
+    ],
+    "items_zh": [
+      {
+        "title": "EFF / 公民自由派立场：",
+        "desc": "这是一个标志性案例。Google承诺在交出数据前通知用户，给用户挑战传票的机会。这次它没有做到。更关键的是，ICE发出的行政传票（非法院签发）法律效力薄弱——根据ACLU的分析，Google完全可以拒绝配合，除非ICE获得法院强制令。",
+        "url": ""
+      },
+      {
+        "title": "核心观点：",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "移民执法优先论：",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "国家安全叙事：",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Google配合的\"合理性\"：",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "但也有例外：",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "\"灯下黑\"叙事：",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "人权双标：",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "系统性问题：",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Hacker News社区（1105分，480+评论）：",
+        "desc": "技术社区的讨论异常激烈，反映了深层焦虑：",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Mass exodus stories:",
+        "desc": "- Legal deep-dives: Community members dissected the difference between administrative and judicial subpoenas, citing ACL",
+        "url": ""
+      },
+      {
+        "title": "Legal deep-dives:",
+        "desc": "- Self-hosting debate: Some advocate encrypted self-hosting; others counter that expecting average users to maintain hom",
+        "url": ""
+      },
+      {
+        "title": "Self-hosting debate:",
+        "desc": "- Google's motives: Speculation ranges from employee error to deliberate capitulation under political pressure from the ",
+        "url": ""
+      },
+      {
+        "title": "Google's motives:",
+        "desc": "- Constitutional analysis: Detailed discussion of Bridges v. Wixon (1945) confirming First Amendment protections for ali",
+        "url": ""
+      },
+      {
+        "title": "Constitutional analysis:",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The deeper question:",
+        "desc": "The EFF's complaint asks a fundamental question: What is a tech company's privacy promise actually worth?",
+        "url": ""
+      },
+      {
+        "title": "What is a tech company's privacy promise actually worth?",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月16日",
+    "date_fmt_zh": "2026年04月16日",
+    "date_fmt_en": "Apr 16, 2026",
+    "ts": "2026-04-16T10:04:39.502617+08:00"
+  },
+  {
     "slug": "radar-2026-04-16",
     "type": "radar",
     "type_label": "商机雷达",
