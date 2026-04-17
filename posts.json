@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-04-17",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 黎以停火与伊朗战争走向 · 2026-04-17",
+    "title_en": "Multi-Perspective · Lebanon-Israel Ceasefire & Iran War · 2026-04-17",
+    "summary_zh": "🔍 多视角 · 黎以停火与伊朗战争走向 · 2026-04-17",
+    "summary_en": "🔍 Multi-Perspective · Lebanon-Israel Ceasefire & Iran War Trajectory · 2026-04-17",
+    "bullets_zh": [
+      "纽约时报",
+      "华尔街日报",
+      "CNN / CNBC",
+      "Fox News"
+    ],
+    "bullets_en": [
+      "CNN/CNBC",
+      "Reuters",
+      "Fox News",
+      "Focus on US military intervention's destructive impact"
+    ],
+    "items_zh": [
+      {
+        "title": "纽约时报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "华尔街日报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "CNN / CNBC",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "Fox 同时大篇幅报道了特朗普与教皇利奥的公开冲突（教皇批评\"一小撮暴君花数十亿打仗\"），CNN/Politico 报道指出这场口水战正在蚕食特朗普在保守派天主教徒中的支持率，但 Fox 将其框架转为\"教皇越界干预政治\"。",
+        "url": ""
+      },
+      {
+        "title": "强调美国军事干预的破坏性",
+        "desc": "- 反对单边制裁和封锁：中方一贯主张通过对话而非军事施压解决问题",
+        "url": ""
+      },
+      {
+        "title": "反对单边制裁和封锁",
+        "desc": "- 关注人道主义后果：黎巴嫩平民伤亡、医院被炸、大规模流离失所",
+        "url": ""
+      },
+      {
+        "title": "关注人道主义后果",
+        "desc": "- 质疑美国\"和平调停者\"角色：一边封锁一边谈判的矛盾性",
+        "url": ""
+      },
+      {
+        "title": "质疑美国\"和平调停者\"角色",
+        "desc": "此次停火如果最终促成更大协议，中方可能会将其解读为\"压力下的妥协\"而非美国外交胜利。",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Politico",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "CNN/CNBC",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Reuters",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "Fox also covered the Trump-Pope Leo feud extensively, framing it as papal overreach into politics, while other outlets n",
+        "url": ""
+      },
+      {
+        "title": "Focus on US military intervention's destructive impact",
+        "desc": "- Opposition to unilateral sanctions/blockades: China consistently advocates dialogue over military pressure",
+        "url": ""
+      },
+      {
+        "title": "Opposition to unilateral sanctions/blockades",
+        "desc": "- Humanitarian consequences: Lebanese civilian casualties, hospital bombings, mass displacement",
+        "url": ""
+      },
+      {
+        "title": "Humanitarian consequences",
+        "desc": "- Questioning America's \"peacemaker\" role: the contradiction of blockading while negotiating",
+        "url": ""
+      },
+      {
+        "title": "Questioning America's \"peacemaker\" role",
+        "desc": "If the ceasefire leads to a broader deal, Chinese state media will likely frame it as \"compromise under coercion\" rather",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The Guardian",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Politico",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月17日",
+    "date_fmt_zh": "2026年04月17日",
+    "date_fmt_en": "Apr 17, 2026",
+    "ts": "2026-04-17T10:02:41.983918+08:00"
+  },
+  {
     "slug": "radar-2026-04-17",
     "type": "radar",
     "type_label": "商机雷达",
