@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-17",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-17",
+    "title_en": "Daily Briefing · 2026-04-17",
+    "summary_zh": "📰 每日早报 · 2026-04-17（周四）",
+    "summary_en": "📰 Daily Briefing · April 17, 2026 (Thursday)",
+    "bullets_zh": [
+      "OpenAI 发布 Codex 重大更新，可后台操控桌面",
+      "OpenAI 推出 GPT-Rosalind 生命科学专用模型",
+      "Anthropic 发布 Claude Opus 4.7",
+      "Qwen3.6-35B-A3B 开源模型发布"
+    ],
+    "bullets_en": [
+      "OpenAI launches major Codex update with desktop control",
+      "OpenAI introduces GPT-Rosalind for life sciences",
+      "Anthropic releases Claude Opus 4.7",
+      "Qwen3.6-35B-A3B open-source model released"
+    ],
+    "items_zh": [
+      {
+        "title": "OpenAI 发布 Codex 重大更新，可后台操控桌面",
+        "desc": "06:24 OpenAI 推出 GPT-Rosalind 生命科学专用模型 — 面向生物医学研究的专业 AI 模型正式上线 OpenAI",
+        "url": ""
+      },
+      {
+        "title": "OpenAI 推出 GPT-Rosalind 生命科学专用模型",
+        "desc": "06:36 Anthropic 发布 Claude Opus 4.7 — 新一代旗舰模型，Hacker News 热议 Anthropic",
+        "url": ""
+      },
+      {
+        "title": "Anthropic 发布 Claude Opus 4.7",
+        "desc": "05:37 Qwen3.6-35B-A3B 开源模型发布 — 阿里通义千问发布轻量级代码能力模型，Simon Willison 实测称画鹈鹕比 Opus 好 Qwen / simonwillison.net",
+        "url": ""
+      },
+      {
+        "title": "Qwen3.6-35B-A3B 开源模型发布",
+        "desc": "05:22 Cloudflare 推出 AI 推理平台和 Agent 邮件服务 — 为 AI Agent 打造专用基础设施层 Cloudflare Blog",
+        "url": ""
+      },
+      {
+        "title": "Cloudflare 推出 AI 推理平台和 Agent 邮件服务",
+        "desc": "05:01 Apple $599 MacBook Neo 首月售罄 — 需求远超预期，四月份全线断货 MacRumors / 9to5Mac",
+        "url": ""
+      },
+      {
+        "title": "Apple $599 MacBook Neo 首月售罄",
+        "desc": "04:00 DJI Osmo Pocket 4 发布 — 支持 4K/240fps 慢动作和 ActiveTrack 7.0，但美国市场受限 The Verge / CNET",
+        "url": ""
+      },
+      {
+        "title": "DJI Osmo Pocket 4 发布",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "以色列与黎巴嫩达成10天停火协议",
+        "desc": "12:45 匈牙利欧尔班打破沉默承认选举失败 — 称\"一个政治时代已经结束\"，Peter Magyar 获胜 Politico EU / The Economist",
+        "url": ""
+      },
+      {
+        "title": "匈牙利欧尔班打破沉默承认选举失败",
+        "desc": "11:25 教皇利奥抨击\"一小撮暴君正在蹂躏世界\" — 与 Trump 白宫关系持续紧张 The Guardian / NPR",
+        "url": ""
+      },
+      {
+        "title": "教皇利奥抨击\"一小撮暴君正在蹂躏世界\"",
+        "desc": "15:00 联邦机构批准 Trump 凯旋门方案 — 尽管公众反馈压倒性反对，华盛顿巨型拱门推进中 AP / CNN / NYT",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "OpenAI launches major Codex update with desktop control",
+        "desc": "06:24 OpenAI introduces GPT-Rosalind for life sciences — Specialized AI model for biomedical research goes live OpenAI",
+        "url": ""
+      },
+      {
+        "title": "OpenAI introduces GPT-Rosalind for life sciences",
+        "desc": "06:36 Anthropic releases Claude Opus 4.7 — Latest flagship model sparks discussion on Hacker News Anthropic",
+        "url": ""
+      },
+      {
+        "title": "Anthropic releases Claude Opus 4.7",
+        "desc": "05:37 Qwen3.6-35B-A3B open-source model released — Alibaba's lightweight coding model; Simon Willison says it draws a be",
+        "url": ""
+      },
+      {
+        "title": "Qwen3.6-35B-A3B open-source model released",
+        "desc": "05:22 Cloudflare launches AI inference platform and Agent email service — Purpose-built infrastructure for AI agents Clo",
+        "url": ""
+      },
+      {
+        "title": "Cloudflare launches AI inference platform and Agent email service",
+        "desc": "05:01 Apple's $599 MacBook Neo sells out through April — Demand far exceeds supply for Apple's budget laptop MacRumors /",
+        "url": ""
+      },
+      {
+        "title": "Apple's $599 MacBook Neo sells out through April",
+        "desc": "04:00 DJI Osmo Pocket 4 announced — 4K/240fps slow-mo, ActiveTrack 7.0, but not available in the US The Verge / CNET",
+        "url": ""
+      },
+      {
+        "title": "DJI Osmo Pocket 4 announced",
+        "desc": "🌍 World News",
+        "url": ""
+      },
+      {
+        "title": "Israel and Lebanon agree to 10-day ceasefire",
+        "desc": "12:45 Orbán breaks silence after Hungarian election defeat — Says 'a political era has ended' as Peter Magyar wins Polit",
+        "url": ""
+      },
+      {
+        "title": "Orbán breaks silence after Hungarian election defeat",
+        "desc": "11:25 Pope Leo denounces 'handful of tyrants ravaging the world' — Tensions with Trump's White House continue The Guardi",
+        "url": ""
+      },
+      {
+        "title": "Pope Leo denounces 'handful of tyrants ravaging the world'",
+        "desc": "15:00 Federal agency approves Trump's Triumphal Arch concept — Moving forward despite overwhelmingly negative public fee",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月17日",
+    "date_fmt_zh": "2026年04月17日",
+    "date_fmt_en": "Apr 17, 2026",
+    "ts": "2026-04-17T08:01:47.991849+08:00"
+  },
+  {
     "slug": "perspective-2026-04-16",
     "type": "perspective",
     "type_label": "商机雷达",
