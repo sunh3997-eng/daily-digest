@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-18",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-18",
+    "title_en": "Daily Briefing · 2026-04-18",
+    "summary_zh": "📰 每日早报 · 2026-04-18（周六）",
+    "summary_en": "📰 Daily Briefing · 2026-04-18 (Saturday)",
+    "bullets_zh": [
+      "伊朗宣布霍尔木兹海峡\"完全开放\"，特朗普称将继续封锁",
+      "特朗普称伊朗已同意几乎所有要求，将以\"悠闲速度\"回收铀",
+      "欧洲加速组建霍尔木兹海峡护航力量，无视特朗普\"离远点\"警告",
+      "特朗普宣布以色列\"禁止\"继续攻击后不到一小时，以色列空袭黎巴嫩"
+    ],
+    "bullets_en": [
+      "Iran Says Strait of Hormuz \"Completely Open,\" Trump Vows to Continue Blockade",
+      "Europe Accelerates Hormuz Security Mission Despite Trump's \"STAY AWAY\" Warning",
+      "Russia Still Battling Blaze at Tuapse Port After Ukrainian Drone Strike",
+      "Scholar Rümeysa Öztürk Returns to Turkey After ICE Detention"
+    ],
+    "items_zh": [
+      {
+        "title": "伊朗宣布霍尔木兹海峡\"完全开放\"，特朗普称将继续封锁",
+        "desc": "22:45 特朗普称伊朗已同意几乎所有要求，将以\"悠闲速度\"回收铀 — 特朗普接受路透社采访时声称伊朗同意暂停核计划并移交浓缩铀 Reuters / Washington Post",
+        "url": ""
+      },
+      {
+        "title": "特朗普称伊朗已同意几乎所有要求，将以\"悠闲速度\"回收铀",
+        "desc": "18:20 欧洲加速组建霍尔木兹海峡护航力量，无视特朗普\"离远点\"警告 — 英法将牵头防御任务，十多个国家表示愿意参与 Politico EU / BBC / Reuters",
+        "url": ""
+      },
+      {
+        "title": "欧洲加速组建霍尔木兹海峡护航力量，无视特朗普\"离远点\"警告",
+        "desc": "19:53 特朗普宣布以色列\"禁止\"继续攻击后不到一小时，以色列空袭黎巴嫩 — 以军无人机在黎南部发动打击，被指对救护人员进行\"四连击\"式攻击 Common Dreams / Reuters / Guardian",
+        "url": ""
+      },
+      {
+        "title": "特朗普宣布以色列\"禁止\"继续攻击后不到一小时，以色列空袭黎巴嫩",
+        "desc": "08:20 俄罗斯仍在扑灭图阿普塞港大火 — 乌克兰无人机袭击后，港口炼油设施持续燃烧，乌方确认击中多个军事目标 Reuters / Bloomberg",
+        "url": ""
+      },
+      {
+        "title": "俄罗斯仍在扑灭图阿普塞港大火",
+        "desc": "18:53 土耳其学者Rümeysa Öztürk获释返回土耳其 — 此前因特朗普政府驱逐令被ICE拘留的Tufts大学博士生已完成学业并与美政府达成和解 Al Jazeera / Guardian",
+        "url": ""
+      },
+      {
+        "title": "土耳其学者Rümeysa Öztürk获释返回土耳其",
+        "desc": "05:10 ICE代理局长Todd Lyons宣布辞职 — 在创纪录的政府停摆期间，这位波士顿本地人计划5月离任 NPR / Washington Post",
+        "url": ""
+      },
+      {
+        "title": "ICE代理局长Todd Lyons宣布辞职",
+        "desc": "21:22 特朗普在FISA问题上罕见败北 — 众议院共和党人拒绝18个月延期方案，参议院将监听权力延期至4月30日 Axios / CNN",
+        "url": ""
+      },
+      {
+        "title": "特朗普在FISA问题上罕见败北",
+        "desc": "🤖 AI/科技",
+        "url": ""
+      },
+      {
+        "title": "Anthropic CEO访问白宫，与特朗普政府关系解冻",
+        "desc": "14:00 Google AI Mode新增本地商品库存查找功能 — 搜索升级帮助用户发现附近有库存的商品，同时推出酒店价格追踪等夏季出行功能 TechCrunch / 9to5Google",
+        "url": ""
+      },
+      {
+        "title": "Google AI Mode新增本地商品库存查找功能",
+        "desc": "11:00 Xbox新任CEO Asha Sharma公布平台投资计划 — 称Game Pass\"对玩家来说太贵了\"，考虑推出仅含第一方游戏的新套餐层级 Pure Xbox / The Verge / IGN",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Iran Says Strait of Hormuz \"Completely Open,\" Trump Vows to Continue Blockade",
+        "desc": "22:45 Trump Claims Iran Agreed to \"Nearly All\" Demands, Uranium Recovery at \"Leisurely Pace\" — In Reuters interview, Tru",
+        "url": ""
+      },
+      {
+        "title": "Trump Claims Iran Agreed to \"Nearly All\" Demands, Uranium Recovery at \"Leisurely Pace\"",
+        "desc": "18:20 Europe Accelerates Hormuz Security Mission Despite Trump's \"STAY AWAY\" Warning — UK and France to lead defensive m",
+        "url": ""
+      },
+      {
+        "title": "Europe Accelerates Hormuz Security Mission Despite Trump's \"STAY AWAY\" Warning",
+        "desc": "19:53 Israel Strikes Lebanon Less Than an Hour After Trump Declares Attacks \"PROHIBITED\" — IDF drone targets southern Le",
+        "url": ""
+      },
+      {
+        "title": "Israel Strikes Lebanon Less Than an Hour After Trump Declares Attacks \"PROHIBITED\"",
+        "desc": "08:20 Russia Still Battling Blaze at Tuapse Port After Ukrainian Drone Strike — Oil refinery fire continues; Ukraine con",
+        "url": ""
+      },
+      {
+        "title": "Russia Still Battling Blaze at Tuapse Port After Ukrainian Drone Strike",
+        "desc": "18:53 Scholar Rümeysa Öztürk Returns to Turkey After ICE Detention — Tufts PhD graduate settles with US government follo",
+        "url": ""
+      },
+      {
+        "title": "Scholar Rümeysa Öztürk Returns to Turkey After ICE Detention",
+        "desc": "05:10 Acting ICE Director Todd Lyons Resigns Amid Record Government Shutdown — Plans to step down in May, a year into Tr",
+        "url": ""
+      },
+      {
+        "title": "Acting ICE Director Todd Lyons Resigns Amid Record Government Shutdown",
+        "desc": "21:22 Trump Suffers Rare Defeat as House Republicans Reject FISA Extension — Senate extends surveillance powers to April",
+        "url": ""
+      },
+      {
+        "title": "Trump Suffers Rare Defeat as House Republicans Reject FISA Extension",
+        "desc": "🤖 AI & Tech",
+        "url": ""
+      },
+      {
+        "title": "Anthropic CEO Meets Trump Administration Officials as Feud Thaws",
+        "desc": "14:00 Google's AI Mode Can Now Help Find Products in Stock Nearby — Search upgrade adds local inventory discovery; new h",
+        "url": ""
+      },
+      {
+        "title": "Google's AI Mode Can Now Help Find Products in Stock Nearby",
+        "desc": "11:00 New Xbox CEO Asha Sharma Unveils Platform Investment Plans — Calls Game Pass \"too expensive for players,\" consider",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月18日",
+    "date_fmt_zh": "2026年04月18日",
+    "date_fmt_en": "Apr 18, 2026",
+    "ts": "2026-04-18T08:02:35.373955+08:00"
+  },
+  {
     "slug": "perspective-2026-04-17",
     "type": "perspective",
     "type_label": "商机雷达",
