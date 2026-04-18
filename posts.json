@@ -1,5 +1,104 @@
 [
   {
+    "slug": "perspective-2026-04-18",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-04-18",
+    "title_en": "Multi-Perspective · 2026-04-18",
+    "summary_zh": "🔍 多视角 · 霍尔木兹海峡重开与美伊核博弈 · 2026-04-18",
+    "summary_en": "🔍 Multi-Perspective · Strait of Hormuz Reopens Amid US-Iran Nuclear Standoff · 2026-04-18",
+    "bullets_zh": [
+      "关键叙事：",
+      "Reuters",
+      "华盛顿邮报",
+      "华尔街日报"
+    ],
+    "bullets_en": [
+      "Key narrative:",
+      "Tone:",
+      "Core contradiction:",
+      "The undercurrent:"
+    ],
+    "items_zh": [
+      {
+        "title": "关键叙事：",
+        "desc": "- Reuters 报道特朗普接受专访时称美国将以\"从容的节奏\"从伊朗回收铀，暗示谈判仍在进行",
+        "url": ""
+      },
+      {
+        "title": "Reuters",
+        "desc": "- 华盛顿邮报 引述特朗普称\"伊朗已同意几乎所有要求\"",
+        "url": ""
+      },
+      {
+        "title": "华盛顿邮报",
+        "desc": "- 华尔街日报 紧接着刊出伊朗官方声明：否认同意向美国转移浓缩铀",
+        "url": ""
+      },
+      {
+        "title": "华尔街日报",
+        "desc": "- CBS News 在现场报道中实录了海峡情况，标题直接点出矛盾：\"特朗普称继续封锁 vs 伊朗称海峡完全开放\"",
+        "url": ""
+      },
+      {
+        "title": "CBS News",
+        "desc": "- 纽约时报 冷静分析：\"特朗普在社交媒体上将伊朗战争框定为'基本结束'——但民调显示选民并不买账\"",
+        "url": ""
+      },
+      {
+        "title": "纽约时报",
+        "desc": "- AP / NPR 聚焦经济面：油价暴跌、汽油可能跌破4美元/加仑、市场创纪录反弹",
+        "url": ""
+      },
+      {
+        "title": "AP / NPR",
+        "desc": "- BBC 关注欧洲反应：英法将牵头在霍尔木兹海峡组织防御性护航任务，十余国表示参与",
+        "url": ""
+      },
+      {
+        "title": "Politico",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "- 保守派媒体更倾向强调特朗普的\"强硬换和平\"叙事——封锁迫使伊朗让步",
+        "url": ""
+      },
+      {
+        "title": "共和党内部出现裂痕",
+        "desc": "- Fox Business 则聚焦市场利好：霍尔木兹海峡重开 → 油价暴跌 → 经济获益",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Key narrative:",
+        "desc": "- Reuters: Trump says US will recover uranium from Iran at a \"leisurely pace\"",
+        "url": ""
+      },
+      {
+        "title": "Tone:",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Core contradiction:",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The undercurrent:",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月18日",
+    "date_fmt_zh": "2026年04月18日",
+    "date_fmt_en": "Apr 18, 2026",
+    "ts": "2026-04-18T10:03:00.734986+08:00"
+  },
+  {
     "slug": "radar-2026-04-18",
     "type": "radar",
     "type_label": "商机雷达",
