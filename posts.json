@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-04-19",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-04-19",
+    "title_en": "Multi-Perspective · 2026-04-19",
+    "summary_zh": "🔍 多视角 · 霍尔木兹海峡再度关闭：伊朗反复「开关」背后的多方博弈 · 2026-04-19",
+    "summary_en": "🔍 Multi-Perspective · Strait of Hormuz Closed Again: The Power Play Behind Iran's On-Off Blockade · 2026-04-19",
+    "bullets_zh": [
+      "叙事框架：「24小时的过山车」",
+      "纽约时报",
+      "AP/NPR",
+      "核心立场："
+    ],
+    "bullets_en": [
+      "Narrative: \"24 Hours of Whiplash\"",
+      "AP/NPR",
+      "Core stance:",
+      "Narrative: \"Trump's Maximum Pressure Is Working\""
+    ],
+    "items_zh": [
+      {
+        "title": "叙事框架：「24小时的过山车」",
+        "desc": "西方主流媒体以时间线叙事为核心，强调局势的混乱与不可预测性：",
+        "url": ""
+      },
+      {
+        "title": "纽约时报",
+        "desc": "- AP/NPR 重点报道了印度商船遇袭事件，以及印度紧急召见伊朗大使表达\"深切关切\"的外交反应",
+        "url": ""
+      },
+      {
+        "title": "AP/NPR",
+        "desc": "- BBC 着重指出，先开再关的反复操作本身就在摧毁航运业信心——即使海峡名义上开放，大量船只仍因不确定性而掉头返航",
+        "url": ""
+      },
+      {
+        "title": "核心立场：",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "叙事框架：「Trump强硬施压，伊朗虚张声势」",
+        "desc": "- Fox News 突出Trump的强硬表态——\"伊朗不能用封锁来勒索我们\"，\"我们或许不会延长停火，到时候就得继续扔炸弹了\"",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "- Fox Business 前一天大幅报道\"海峡重新开放，股市暴涨：'Trump赢了'\"，周六不得不面对剧情反转，转而强调Trump的军事选项仍在桌面上",
+        "url": ""
+      },
+      {
+        "title": "Fox Business",
+        "desc": "- 保守派智库FDD（防卫民主基金会）分析称伊朗内部存在路线分歧——外交派（总统佩泽什基安）试图对话，而IRGC则主张用海峡作为谈判筹码",
+        "url": ""
+      },
+      {
+        "title": "保守派智库FDD",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "叙事框架：「美国才是麻烦制造者，中国是理性调停者」",
+        "desc": "- CGTN 发表评论文章《中国在霍尔木兹危机中的理性角色》，强调中国在联合国安理会否决了一项可能加剧冲突的决议草案，是\"助力缓和紧张局势\"的关键力量",
+        "url": ""
+      },
+      {
+        "title": "CGTN",
+        "desc": "- CGTN 报道\"中国确认三艘中国籍船只近日已成功通过霍尔木兹海峡\"，暗示伊朗对\"友好国家\"区别对待",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Narrative: \"24 Hours of Whiplash\"",
+        "desc": "- CNN framed it as \"24 hours of whiplash,\" tracing the timeline from Friday's optimistic opening to Saturday's closure, ",
+        "url": ""
+      },
+      {
+        "title": "AP/NPR",
+        "desc": "- BBC emphasized that the open-then-close whiplash itself is destroying shipping confidence — even when nominally open, ",
+        "url": ""
+      },
+      {
+        "title": "Core stance:",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Narrative: \"Trump's Maximum Pressure Is Working\"",
+        "desc": "- Fox News highlighted Trump's combative rhetoric — \"Iran can't blackmail us,\" and \"Maybe I won't extend the ceasefire. ",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "- Fox Business had celebrated \"Stocks surge on Hormuz opening: 'Trump won'\" just a day earlier; Saturday's reversal was ",
+        "url": ""
+      },
+      {
+        "title": "Fox Business",
+        "desc": "- FDD (Foundation for Defense of Democracies) analyzed internal Iranian divisions — moderates (President Pezeshkian) see",
+        "url": ""
+      },
+      {
+        "title": "Narrative: \"The US Is the Problem; China Is the Solution\"",
+        "desc": "- CGTN published commentary titled \"China's Rational Role in the Strait of Hormuz Crisis,\" framing China's UN Security C",
+        "url": ""
+      },
+      {
+        "title": "CGTN",
+        "desc": "- CGTN reported that \"three Chinese vessels have navigated through the Strait in recent days,\" implicitly noting Iran's ",
+        "url": ""
+      },
+      {
+        "title": "Xinhua",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Narrative: \"Uncertainty Is the Real Weapon\"",
+        "desc": "- Maritime expert John-Paul Rodrigue (Texas A&M) told Al Jazeera: \"There is contradictory information being issued by al",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月19日",
+    "date_fmt_zh": "2026年04月19日",
+    "date_fmt_en": "Apr 19, 2026",
+    "ts": "2026-04-19T10:05:01.278738+08:00"
+  },
+  {
     "slug": "radar-2026-04-19",
     "type": "radar",
     "type_label": "商机雷达",
