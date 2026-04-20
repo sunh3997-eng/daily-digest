@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-20",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-20",
+    "title_en": "Daily Briefing · April 20, 2026",
+    "summary_zh": "📰 每日早报 · 2026-04-20（周日）",
+    "summary_en": "📰 Daily Briefing · April 20, 2026 (Sunday)",
+    "bullets_zh": [
+      "OpenAI 的\"存在危机\"",
+      "AI 芯片公司 Cerebras 正式提交 IPO",
+      "Anthropic 与特朗普政府关系回暖",
+      "机器人在北京半马破人类纪录"
+    ],
+    "bullets_en": [
+      "OpenAI's Existential Questions",
+      "AI Chip Startup Cerebras Files for IPO",
+      "Anthropic's Relationship with Trump Admin Thawing",
+      "Robots Smash Human Record at Beijing Half-Marathon"
+    ],
+    "items_zh": [
+      {
+        "title": "OpenAI 的\"存在危机\"",
+        "desc": "",
+        "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/"
+      },
+      {
+        "title": "AI 芯片公司 Cerebras 正式提交 IPO",
+        "desc": "",
+        "url": "https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/"
+      },
+      {
+        "title": "Anthropic 与特朗普政府关系回暖",
+        "desc": "",
+        "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/"
+      },
+      {
+        "title": "机器人在北京半马破人类纪录",
+        "desc": "",
+        "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/"
+      },
+      {
+        "title": "Sam Altman 的 World 项目与 Tinder 合作",
+        "desc": "🌍 国际要闻",
+        "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/"
+      },
+      {
+        "title": "App Store 重回增长轨道，AI 是关键推手",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "美国截获伊朗货船",
+        "desc": "",
+        "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o"
+      },
+      {
+        "title": "伊朗高官：永不放弃霍尔木兹海峡控制权",
+        "desc": "",
+        "url": "https://www.bbc.com/news/articles/c248m3z49j1o"
+      },
+      {
+        "title": "路易斯安那州枪击事件致 8 名儿童死亡",
+        "desc": "",
+        "url": "https://www.bbc.com/news/articles/c4gxv3874vjo"
+      },
+      {
+        "title": "泽连斯基谴责美国延长对俄制裁豁免",
+        "desc": "",
+        "url": "https://www.bbc.com/news/articles/ce84j261kj1o"
+      }
+    ],
+    "items_en": [
+      {
+        "title": "OpenAI's Existential Questions",
+        "desc": "",
+        "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/"
+      },
+      {
+        "title": "AI Chip Startup Cerebras Files for IPO",
+        "desc": "",
+        "url": "https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/"
+      },
+      {
+        "title": "Anthropic's Relationship with Trump Admin Thawing",
+        "desc": "",
+        "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/"
+      },
+      {
+        "title": "Robots Smash Human Record at Beijing Half-Marathon",
+        "desc": "🌍 World News",
+        "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/"
+      },
+      {
+        "title": "World (Altman's Project) Partners with Tinder",
+        "desc": "🌍 World News",
+        "url": ""
+      },
+      {
+        "title": "US Intercepts Iranian-Flagged Cargo Ship",
+        "desc": "",
+        "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o"
+      },
+      {
+        "title": "Iran: Will Never Cede Control of Strait of Hormuz",
+        "desc": "",
+        "url": "https://www.bbc.com/news/articles/c248m3z49j1o"
+      },
+      {
+        "title": "Children Killed in Louisiana Shooting",
+        "desc": "",
+        "url": "https://www.bbc.com/news/articles/c4gxv3874vjo"
+      },
+      {
+        "title": "Zelensky Condemns US Extension of Russia Sanctions Waiver",
+        "desc": "💡 Tech & Industry",
+        "url": "https://www.bbc.com/news/articles/c4gxv3874vjo"
+      },
+      {
+        "title": "WW2 Bomb Detonated in Paris, Thousands Evacuated",
+        "desc": "💡 Tech & Industry",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月20日",
+    "date_fmt_zh": "2026年04月20日",
+    "date_fmt_en": "Apr 20, 2026",
+    "ts": "2026-04-20T08:03:08.281124+08:00"
+  },
+  {
     "slug": "perspective-2026-04-19",
     "type": "perspective",
     "type_label": "商机雷达",
