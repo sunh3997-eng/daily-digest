@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-04-20",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-04-20",
+    "title_en": "Multi-Perspective · 2026-04-20",
+    "summary_zh": "🔍 多视角 · 美国扣押伊朗货船 & 霍尔木兹海峡再陷战区 · 2026-04-20",
+    "summary_en": "🔍 Multi-Perspective · US Seizes Iranian Ship & Hormuz Strait Becomes Combat Zone · 2026-04-20",
+    "bullets_zh": [
+      "Reuters",
+      "Axios",
+      "AP / Politico",
+      "整体基调"
+    ],
+    "bullets_en": [
+      "Reuters",
+      "Tone",
+      "Fox News",
+      "Military Times"
+    ],
+    "items_zh": [
+      {
+        "title": "Reuters",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Axios",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "AP / Politico",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "整体基调",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Military Times",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "基于已知立场推断",
+        "desc": "中方通常在此类事件中呼吁\"各方保持克制\"，反对\"单边军事行动\"。伊朗关闭霍尔木兹海峡直接威胁中国作为全球最大原油进口国的能源安全——约40%的中国进口石油经由霍尔木兹海峡。中方更关注油价和供应链稳定，而非选边站队。CNBC报道中国央行维持基",
+        "url": ""
+      },
+      {
+        "title": "Bloomberg",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fortune",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Daily Beast",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Reuters",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Tone",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Military Times",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Bloomberg",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fortune",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Daily Beast",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The Guardian",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Ship seizure",
+        "desc": "| Iran's behavior | Internally divided | Unreliable flip-flopper | Forced response | Rational actor under pressure |",
+        "url": ""
+      },
+      {
+        "title": "Iran's behavior",
+        "desc": "| Peace prospects | Uncertain | Requires strength | Dialogue, not force | Bleak |",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月20日",
+    "date_fmt_zh": "2026年04月20日",
+    "date_fmt_en": "Apr 20, 2026",
+    "ts": "2026-04-20T10:03:32.622568+08:00"
+  },
+  {
     "slug": "radar-2026-04-20",
     "type": "radar",
     "type_label": "商机雷达",
