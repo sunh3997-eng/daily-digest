@@ -1,5 +1,38 @@
 [
   {
+    "slug": "radar-2026-04-20",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-04-20",
+    "title_en": "Hidden Opportunities · 2026-04-20",
+    "summary_zh": "🔍 隐藏商机日报 2026-04-20",
+    "summary_en": "🔍 Hidden Opportunities Daily 2026-04-20",
+    "bullets_zh": [
+      "Agent 身份与权限管理"
+    ],
+    "bullets_en": [
+      "Agent Identity & Permission Management"
+    ],
+    "items_zh": [
+      {
+        "title": "Agent 身份与权限管理",
+        "desc": "想象一个 \"Auth0 for AI Agents\"：",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Agent Identity & Permission Management",
+        "desc": "Picture it:",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月20日",
+    "date_fmt_zh": "2026年04月20日",
+    "date_fmt_en": "Apr 20, 2026",
+    "ts": "2026-04-20T09:03:55.493427+08:00"
+  },
+  {
     "slug": "news-2026-04-20",
     "type": "news",
     "type_label": "每日早报",
