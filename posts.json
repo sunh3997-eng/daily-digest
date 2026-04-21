@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-04-21",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-04-21",
+    "title_en": "Multi-Perspective · 2026-04-21",
+    "summary_zh": "🔍 多视角 · 美伊停火倒计时：伊朗货船被扣、和谈前景堪忧 · 2026-04-21",
+    "summary_en": "🔍 Multi-Perspective · Iran Ceasefire Countdown: Ship Seized, Peace Talks in Doubt · 2026-04-21",
+    "bullets_zh": [
+      "核心叙事：停火倒计时与战争升级风险",
+      "Reuters",
+      "西方主流基调",
+      "核心叙事：展示美军实力，不能示弱"
+    ],
+    "bullets_en": [
+      "Core narrative: Countdown to war resumption",
+      "Reuters",
+      "Tone",
+      "Core narrative: Projecting strength, no weakness"
+    ],
+    "items_zh": [
+      {
+        "title": "核心叙事：停火倒计时与战争升级风险",
+        "desc": "- CNN：实时追踪报道，标题\"特朗普称停火周三结束，进一步延长'极不可能'\"。聚焦紧迫感和战争恢复的现实威胁。",
+        "url": ""
+      },
+      {
+        "title": "Reuters",
+        "desc": "- WSJ：从金融市场角度报道——\"伊朗战争驱动的供应短缺将很快出现\"，强调中东紧张局势拖累股市、推高油价。",
+        "url": ""
+      },
+      {
+        "title": "西方主流基调",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "核心叙事：展示美军实力，不能示弱",
+        "desc": "- Fox News：标题直接用\"US seizes Iranian ship after opening fire; Pakistan talks in doubt\"，语气更偏向展示美国军事行动的果断和必要性。",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "- Fortune：报道特朗普坚持\"没有压力结束他发起的伊朗战争\"，并引用其\"一切都会相对快速发生\"的表态。",
+        "url": ""
+      },
+      {
+        "title": "Fortune",
+        "desc": "- Business Insider：分析美军驱逐舰\"射击货船引擎\"这一行动，解读为美国海军在处理封锁突破者时的策略升级。",
+        "url": ""
+      },
+      {
+        "title": "Business Insider",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "保守派基调",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "可能的核心叙事：美国单边主义加剧地区动荡",
+        "desc": "- 中方一贯立场：反对单边制裁和军事封锁，呼吁通过对话协商解决争端。",
+        "url": ""
+      },
+      {
+        "title": "核心叙事：战争疲劳与系统性风险",
+        "desc": "- Hacker News：今日头条被Apple CEO换人和AI模型新闻占据，但此前对伊朗战争的讨论中，社区普遍质疑战争的长期成本和退出策略。",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Core narrative: Countdown to war resumption",
+        "desc": "- CNN: Live updates framing \"ceasefire ends Wednesday,\" emphasizing the immediacy of potential military escalation.",
+        "url": ""
+      },
+      {
+        "title": "Reuters",
+        "desc": "- WSJ: Financial angle — \"Iran war-driven supply shortfalls will soon start to appear.\" Markets pricing in renewed confl",
+        "url": ""
+      },
+      {
+        "title": "Tone",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Core narrative: Projecting strength, no weakness",
+        "desc": "- Fox News: \"US seizes Iranian ship after opening fire; Pakistan talks in doubt\" — language emphasizing decisive America",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "- Fortune: Trump \"insists there's no pressure to end the war in Iran that he started.\"",
+        "url": ""
+      },
+      {
+        "title": "Fortune",
+        "desc": "- Business Insider: Analyzes the Navy destroyer shooting out a cargo ship's engine as a tactical escalation in blockade ",
+        "url": ""
+      },
+      {
+        "title": "Business Insider",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Likely narrative: US unilateralism destabilizing the region",
+        "desc": "- China consistently opposes unilateral sanctions and military blockades, calling for dialogue.",
+        "url": ""
+      },
+      {
+        "title": "Core narrative: War fatigue and systemic risk",
+        "desc": "- Hacker News: Today dominated by Apple CEO transition and AI model releases, but prior Iran war threads show deep skept",
+        "url": ""
+      },
+      {
+        "title": "Hacker News",
+        "desc": "- Axios: Bluntly states \"Iran war-driven supply shortfalls will soon start to appear\" — an underappreciated economic ris",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月21日",
+    "date_fmt_zh": "2026年04月21日",
+    "date_fmt_en": "Apr 21, 2026",
+    "ts": "2026-04-21T10:02:42.057875+08:00"
+  },
+  {
     "slug": "radar-2026-04-21",
     "type": "radar",
     "type_label": "商机雷达",

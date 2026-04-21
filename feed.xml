@@ -5,13 +5,21 @@
   <link>https://daily.sundigest.xyz</link>
   <description>Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 21 Apr 2026 01:02:46 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 21 Apr 2026 02:02:42 GMT</lastBuildDate>
   <atom:link href="https://daily.sundigest.xyz/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://daily.sundigest.xyz/assets/og.png</url>
     <title>Daily Digest</title>
     <link>https://daily.sundigest.xyz</link>
   </image>
+  <item>
+    <title>Multi-Perspective · 2026-04-21 — Opportunity Radar</title>
+    <link>https://daily.sundigest.xyz/posts/perspective-2026-04-21.html</link>
+    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/perspective-2026-04-21.html</guid>
+    <pubDate>Tue, 21 Apr 2026 02:02:42 GMT</pubDate>
+    <description>🔍 Multi-Perspective · Iran Ceasefire Countdown: Ship Seized, Peace Talks in Doubt · 2026-04-21</description>
+    <category>Opportunity Radar</category>
+  </item>
   <item>
     <title>Hidden Opportunities · 2026-04-21 — Opportunity Radar</title>
     <link>https://daily.sundigest.xyz/posts/radar-2026-04-21.html</link>
@@ -163,14 +171,6 @@
     <pubDate>Wed, 15 Apr 2026 01:03:01 GMT</pubDate>
     <description>🔍 Hidden Opportunities Daily 2026-04-15</description>
     <category>Opportunity Radar</category>
-  </item>
-  <item>
-    <title>Daily Briefing · 2026-04-15 — Daily Briefing</title>
-    <link>https://daily.sundigest.xyz/posts/news-2026-04-15.html</link>
-    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/news-2026-04-15.html</guid>
-    <pubDate>Wed, 15 Apr 2026 00:02:13 GMT</pubDate>
-    <description>📰 Daily Briefing · April 15, 2026 (Wednesday)</description>
-    <category>Daily Briefing</category>
   </item>
 </channel>
 </rss>
