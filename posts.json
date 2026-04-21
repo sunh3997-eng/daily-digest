@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-21",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-21",
+    "title_en": "Daily Briefing · 2026-04-21",
+    "summary_zh": "📰 每日早报 · 2026-04-21（周一）",
+    "summary_en": "📰 Daily Briefing · April 21, 2026 (Monday)",
+    "bullets_zh": [
+      "苹果宣布 CEO 交接：Tim Cook 卸任，John Ternus 接棒",
+      "Anthropic 再获亚马逊 $50 亿投资，承诺 AWS 消费 $1000 亿",
+      "Deezer：44% 的每日上传歌曲由 AI 生成",
+      "OpenAI 广告合作伙伴开始基于\"prompt 相关性\"售卖 ChatGPT 广告位"
+    ],
+    "bullets_en": [
+      "Apple Names John Ternus as CEO; Tim Cook Becomes Executive Chairman",
+      "Anthropic Takes $5B from Amazon, Pledges $100B in AWS Spending",
+      "Deezer: 44% of Daily Song Uploads Are Now AI-Generated",
+      "OpenAI Ad Partner Selling ChatGPT Ad Placements Based on \"Prompt Relevance\""
+    ],
+    "items_zh": [
+      {
+        "title": "苹果宣布 CEO 交接：Tim Cook 卸任，John Ternus 接棒",
+        "desc": "• 23:10 Anthropic 再获亚马逊 $50 亿投资，承诺 AWS 消费 $1000 亿 — 又一笔循环 AI 投资：Amazon 出钱，Anthropic 花在 AWS 上。TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Anthropic 再获亚马逊 $50 亿投资，承诺 AWS 消费 $1000 亿",
+        "desc": "• 17:56 Deezer：44% 的每日上传歌曲由 AI 生成 — AI 音乐上传量已接近人类作品，大部分流播为欺诈性质。引发音乐行业对 AI 生成内容的广泛讨论。The Verge / TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Deezer：44% 的每日上传歌曲由 AI 生成",
+        "desc": "• 21:20 OpenAI 广告合作伙伴开始基于\"prompt 相关性\"售卖 ChatGPT 广告位 — 泄露 deck 显示 StackAdapt 按用户提示词匹配广告，引发社区隐忧。Adweek / HN 109pts",
+        "url": ""
+      },
+      {
+        "title": "OpenAI 广告合作伙伴开始基于\"prompt 相关性\"售卖 ChatGPT 广告位",
+        "desc": "• 15:28 Kimi K2.6 开源编程模型发布 — 月之暗面推出新一代开源代码模型。HN 热度 541 分。kimi.com",
+        "url": ""
+      },
+      {
+        "title": "Kimi K2.6 开源编程模型发布",
+        "desc": "• 14:05 通义千问 Qwen3.6-Max-Preview 发布 — 阿里云推出更强推理模型，HN 509 分热议。qwen.ai",
+        "url": ""
+      },
+      {
+        "title": "通义千问 Qwen3.6-Max-Preview 发布",
+        "desc": "• 12:23 Atlassian 默认开启数据收集用于 AI 训练 — Jira/Confluence 用户数据将被用于训练 AI，HN 476 分引发隐私争议。letsdatascience.com",
+        "url": ""
+      },
+      {
+        "title": "Atlassian 默认开启数据收集用于 AI 训练",
+        "desc": "• 16:06 NSA 被曝使用 Anthropic 受限模型 Mythos — 尽管五角大楼与 Anthropic 存在分歧，情报机构已在使用其模型。TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "NSA 被曝使用 Anthropic 受限模型 Mythos",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "日本发生 7.7 级地震并触发海啸预警",
+        "desc": "• 15:16 美军扣押伊朗船只，霍尔木兹海峡局势升级 — 美舰向船只引擎开火后扣押，伊朗誓言报复并称\"尚未决定\"是否继续和谈。油价上涨，航运近乎停滞。Reuters / Bloomberg",
+        "url": ""
+      },
+      {
+        "title": "美军扣押伊朗船只，霍尔木兹海峡局势升级",
+        "desc": "• 22:08 美伊停火即将到期，和谈前景不明 — Trump 称不会在达成协议前解除封锁，多方报道和平谈判陷入僵局。CBS / WSJ",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Apple Names John Ternus as CEO; Tim Cook Becomes Executive Chairman",
+        "desc": "• 23:10 Anthropic Takes $5B from Amazon, Pledges $100B in AWS Spending — Another circular AI deal: Amazon invests, Anthr",
+        "url": ""
+      },
+      {
+        "title": "Anthropic Takes $5B from Amazon, Pledges $100B in AWS Spending",
+        "desc": "• 17:56 Deezer: 44% of Daily Song Uploads Are Now AI-Generated — AI music is nearly overtaking human uploads on the plat",
+        "url": ""
+      },
+      {
+        "title": "Deezer: 44% of Daily Song Uploads Are Now AI-Generated",
+        "desc": "• 21:20 OpenAI Ad Partner Selling ChatGPT Ad Placements Based on \"Prompt Relevance\" — Leaked deck reveals StackAdapt's t",
+        "url": ""
+      },
+      {
+        "title": "OpenAI Ad Partner Selling ChatGPT Ad Placements Based on \"Prompt Relevance\"",
+        "desc": "• 15:28 Kimi K2.6: Open-Source Coding Model Released — Moonshot AI launches next-gen code model. 541 points on HN. kimi.",
+        "url": ""
+      },
+      {
+        "title": "Kimi K2.6: Open-Source Coding Model Released",
+        "desc": "• 14:05 Qwen3.6-Max-Preview Released — Alibaba Cloud's latest reasoning model draws 509 HN points. qwen.ai",
+        "url": ""
+      },
+      {
+        "title": "Qwen3.6-Max-Preview Released",
+        "desc": "• 12:23 Atlassian Enables Default Data Collection for AI Training — Jira/Confluence user data now feeds AI training by d",
+        "url": ""
+      },
+      {
+        "title": "Atlassian Enables Default Data Collection for AI Training",
+        "desc": "• 16:06 NSA Reportedly Using Anthropic's Restricted Mythos Model — Intelligence agency deploys Anthropic AI despite Pent",
+        "url": ""
+      },
+      {
+        "title": "NSA Reportedly Using Anthropic's Restricted Mythos Model",
+        "desc": "🌍 WORLD NEWS",
+        "url": ""
+      },
+      {
+        "title": "7-Magnitude Earthquake Hits Japan, Triggers Tsunami Warning",
+        "desc": "• 15:16 US Seizes Iranian Ship in Strait of Hormuz; Tensions Escalate — US destroyer fires on vessel's engine; Iran vows",
+        "url": ""
+      },
+      {
+        "title": "US Seizes Iranian Ship in Strait of Hormuz; Tensions Escalate",
+        "desc": "• 22:08 US-Iran Ceasefire Deadline Looms as Peace Talks Stall — Trump says blockade stays until deal is made. Status of ",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月21日",
+    "date_fmt_zh": "2026年04月21日",
+    "date_fmt_en": "Apr 21, 2026",
+    "ts": "2026-04-21T08:02:04.173859+08:00"
+  },
+  {
     "slug": "perspective-2026-04-20",
     "type": "perspective",
     "type_label": "商机雷达",
