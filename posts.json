@@ -1,5 +1,134 @@
 [
   {
+    "slug": "radar-2026-04-21",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-04-21",
+    "title_en": "Hidden Opportunities · 2026-04-21",
+    "summary_zh": "🔍 隐藏商机日报 2026-04-21",
+    "summary_en": "🔍 Hidden Opportunities Daily 2026-04-21",
+    "bullets_zh": [
+      "隐藏商机日报",
+      "副业者注意",
+      "垂直领域 AI 合规工具",
+      "Mac 剪贴板管理器"
+    ],
+    "bullets_en": [
+      "Hidden Opportunities Daily",
+      "For Side Hustlers",
+      "Vertical AI Compliance Tools",
+      "macOS Productivity Micro-Tools"
+    ],
+    "items_zh": [
+      {
+        "title": "隐藏商机日报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "副业者注意",
+        "desc": "1️⃣ 垂直领域 AI 合规工具 — Product Hunt 新上线 Auxilius.ai，将合规要求转化为可执行代码。目前主打欧美市场，但中国企业出海合规（GDPR、数据安全法）需求同样爆发。做一个面向中国出海企业的 AI 合规 Sa",
+        "url": ""
+      },
+      {
+        "title": "垂直领域 AI 合规工具",
+        "desc": "2️⃣ Mac 剪贴板管理器 — OptionV 刚上 Product Hunt，验证了一个被低估的细分：macOS 生产力小工具。这类工具开发成本低（SwiftUI 单人可搞定），通过 Setapp 或独立订阅变现。参考 CleanSho",
+        "url": ""
+      },
+      {
+        "title": "Mac 剪贴板管理器",
+        "desc": "3️⃣ 农业金融 AI — Telagri 做\"实时农田可见性驱动的农业贷款\"，这在东南亚和非洲有巨大空白。用卫星图 + AI 评估作物健康，帮助小额贷款机构做风控。技术栈成熟（Sentinel-2 免费卫星数据 + 开源模型），MVP 可",
+        "url": ""
+      },
+      {
+        "title": "农业金融 AI",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "投资者注意",
+        "desc": "1️⃣ ERP 拆解超级周期 — Lightspeed 发文指出 ERP 正在被垂直 SaaS 拆解，SAP/Oracle 的大客户开始用专精工具替代臃肿模块。关注专注于财务对账、供应链可视化、HR 合规等垂直领域的 seed 轮公司。中国",
+        "url": ""
+      },
+      {
+        "title": "ERP 拆解超级周期",
+        "desc": "2️⃣ AI 病理分析 + 合成数据 — MIRA Vision 用合成数据训练病理 AI，绕过了医疗数据隐私的最大障碍。合成数据 + 医疗 AI 的交叉点是 2026 年最值得押注的方向之一。关注 seed/A 轮。",
+        "url": ""
+      },
+      {
+        "title": "AI 病理分析 + 合成数据",
+        "desc": "3️⃣ 韩国→印度跨境创业潮 — KoreaTechDesk 报道韩国创业者正在涌入印度 16 亿人口市场。韩国的 K-beauty、游戏、fintech 经验 + 印度的市场规模 = 跨境创业的黄金组合。相关的 cross-border ",
+        "url": ""
+      },
+      {
+        "title": "韩国→印度跨境创业潮",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "内容创作者注意",
+        "desc": "1️⃣ \"AI 合规\" 科普赛道 — 随着全球 AI 监管法案密集出台（欧盟 AI Act、非洲各国新法），\"AI 合规\"内容在英文 YouTube/Newsletter 几乎空白。做一个 \"AI Regulation Weekly\" ne",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Hidden Opportunities Daily",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "For Side Hustlers",
+        "desc": "1️⃣ Vertical AI Compliance Tools — Auxilius.ai just launched on Product Hunt, turning compliance requirements into execu",
+        "url": ""
+      },
+      {
+        "title": "Vertical AI Compliance Tools",
+        "desc": "2️⃣ macOS Productivity Micro-Tools — OptionV (clipboard manager) validates that niche macOS utilities still have a marke",
+        "url": ""
+      },
+      {
+        "title": "macOS Productivity Micro-Tools",
+        "desc": "3️⃣ Agri-Finance AI — Telagri is doing \"real-time field visibility for agri-lending\" in India. The model (satellite imag",
+        "url": ""
+      },
+      {
+        "title": "Agri-Finance AI",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "For Investors",
+        "desc": "1️⃣ The Great ERP Unbundling — Lightspeed published on the ERP replacement super cycle. SAP/Oracle customers are replaci",
+        "url": ""
+      },
+      {
+        "title": "The Great ERP Unbundling",
+        "desc": "2️⃣ Synthetic Data + Medical AI — MIRA Vision uses synthetic data for pathology AI, sidestepping healthcare's biggest da",
+        "url": ""
+      },
+      {
+        "title": "Synthetic Data + Medical AI",
+        "desc": "3️⃣ Korea → India Cross-Border Startups — Korean founders are flooding into India's 1.6B-person market with K-beauty, ga",
+        "url": ""
+      },
+      {
+        "title": "Korea → India Cross-Border Startups",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "For Content Creators",
+        "desc": "1️⃣ \"AI Compliance\" Education Niche — With AI regulation bills dropping worldwide, \"AI Compliance Weekly\" as a newslette",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月21日",
+    "date_fmt_zh": "2026年04月21日",
+    "date_fmt_en": "Apr 21, 2026",
+    "ts": "2026-04-21T09:02:46.903371+08:00"
+  },
+  {
     "slug": "news-2026-04-21",
     "type": "news",
     "type_label": "每日早报",
