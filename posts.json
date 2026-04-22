@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-22",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-22",
+    "title_en": "Daily Briefing · 2026-04-22",
+    "summary_zh": "📰 每日早报 · 2026年4月22日（周三）",
+    "summary_en": "📰 Daily Briefing · April 22, 2026 (Wednesday)",
+    "bullets_zh": [
+      "Apple CEO 换帅：Tim Cook 卸任，John Ternus 接棒",
+      "SpaceX 与 Cursor 达成合作，持有 600 亿美元收购选择权",
+      "Meta 将记录员工键盘操作用于训练 AI 模型",
+      "OpenAI 发布 Images 2.0 升级版图像生成器"
+    ],
+    "bullets_en": [
+      "Apple CEO Transition: Tim Cook Steps Down, John Ternus Takes Over",
+      "SpaceX Partners with Cursor, Holds $60B Acquisition Option",
+      "Meta to Record Employee Keystrokes for AI Training",
+      "OpenAI Launches Images 2.0 with Web-Connected Generation"
+    ],
+    "items_zh": [
+      {
+        "title": "Apple CEO 换帅：Tim Cook 卸任，John Ternus 接棒",
+        "desc": "06:58 SpaceX 与 Cursor 达成合作，持有 600 亿美元收购选择权 — Musk 旗下 SpaceX 正式与 AI 编程工具 Cursor 合作，并保留 IPO 前收购选项 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "SpaceX 与 Cursor 达成合作，持有 600 亿美元收购选择权",
+        "desc": "06:45 Meta 将记录员工键盘操作用于训练 AI 模型 — Meta 开发内部工具，将鼠标点击和按键转化为 AI 训练数据 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Meta 将记录员工键盘操作用于训练 AI 模型",
+        "desc": "07:00 OpenAI 发布 Images 2.0 升级版图像生成器 — 新模型可从网页提取信息，文字渲染能力显著提升 The Verge",
+        "url": ""
+      },
+      {
+        "title": "OpenAI 发布 Images 2.0 升级版图像生成器",
+        "desc": "06:51 Sam Altman 炮轰 Anthropic 网安模型 Mythos：\"恐惧营销\" — Anthropic 的网安专用模型 Mythos 遭 OpenAI CEO 公开质疑 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Sam Altman 炮轰 Anthropic 网安模型 Mythos：\"恐惧营销\"",
+        "desc": "06:26 Anthropic 专属网安工具 Mythos 疑遭未授权访问 — 外部团体据报获取了 Anthropic 限量发行的安全模型访问权 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Anthropic 专属网安工具 Mythos 疑遭未授权访问",
+        "desc": "05:02 佛州总检察长对 ChatGPT 启动刑事调查 — 因 FSU 枪击案中 ChatGPT 被指提供作案时间和地点建议 AP News",
+        "url": ""
+      },
+      {
+        "title": "佛州总检察长对 ChatGPT 启动刑事调查",
+        "desc": "05:11 AI 研究公司 NeoCognition 获 4000 万美元种子轮 — 开发像人类一样学习的 AI 代理 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "AI 研究公司 NeoCognition 获 4000 万美元种子轮",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "特朗普延长对伊朗停火但继续港口封锁",
+        "desc": "05:33 特朗普经济支持率跌至 30% — AP-NORC 民调显示经济管理支持率创新低，多数人质疑其执政风格 AP-NORC / Reuters",
+        "url": ""
+      },
+      {
+        "title": "特朗普经济支持率跌至 30%",
+        "desc": "04:13 墨西哥特奥蒂瓦坎金字塔发生枪击，1名加拿大游客死亡 — 世界杯开幕前数周，古迹景区爆发枪击事件 BBC / CNN",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Apple CEO Transition: Tim Cook Steps Down, John Ternus Takes Over",
+        "desc": "06:58 SpaceX Partners with Cursor, Holds $60B Acquisition Option — SpaceX is working with AI coding startup Cursor and h",
+        "url": ""
+      },
+      {
+        "title": "SpaceX Partners with Cursor, Holds $60B Acquisition Option",
+        "desc": "06:45 Meta to Record Employee Keystrokes for AI Training — New internal tool converts mouse movements and clicks into tr",
+        "url": ""
+      },
+      {
+        "title": "Meta to Record Employee Keystrokes for AI Training",
+        "desc": "07:00 OpenAI Launches Images 2.0 with Web-Connected Generation — Updated model can pull information from the web and exc",
+        "url": ""
+      },
+      {
+        "title": "OpenAI Launches Images 2.0 with Web-Connected Generation",
+        "desc": "06:51 Sam Altman Calls Anthropic's Cyber Model Mythos \"Fear-Based Marketing\" — OpenAI CEO publicly criticizes competitor",
+        "url": ""
+      },
+      {
+        "title": "Sam Altman Calls Anthropic's Cyber Model Mythos \"Fear-Based Marketing\"",
+        "desc": "06:26 Anthropic's Exclusive Cyber Tool Mythos Allegedly Accessed by Unauthorized Group — Report claims external group ga",
+        "url": ""
+      },
+      {
+        "title": "Anthropic's Exclusive Cyber Tool Mythos Allegedly Accessed by Unauthorized Group",
+        "desc": "05:02 Florida AG Launches Criminal Probe into ChatGPT over FSU Shooting — ChatGPT allegedly advised shooter on timing an",
+        "url": ""
+      },
+      {
+        "title": "Florida AG Launches Criminal Probe into ChatGPT over FSU Shooting",
+        "desc": "05:11 AI Lab NeoCognition Raises $40M Seed Round — Building AI agents that learn like humans TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "AI Lab NeoCognition Raises $40M Seed Round",
+        "desc": "🌍 World News",
+        "url": ""
+      },
+      {
+        "title": "Trump Extends Iran Ceasefire but Maintains Port Blockade",
+        "desc": "05:33 Trump's Economic Approval Rating Falls to 30% — AP-NORC poll shows record low; many Americans question his tempera",
+        "url": ""
+      },
+      {
+        "title": "Trump's Economic Approval Rating Falls to 30%",
+        "desc": "04:13 Shooting at Mexico's Teotihuacán Pyramids Kills Canadian Tourist — Gunman opened fire at ancient site weeks before",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月22日",
+    "date_fmt_zh": "2026年04月22日",
+    "date_fmt_en": "Apr 22, 2026",
+    "ts": "2026-04-22T08:02:07.936013+08:00"
+  },
+  {
     "slug": "perspective-2026-04-21",
     "type": "perspective",
     "type_label": "商机雷达",

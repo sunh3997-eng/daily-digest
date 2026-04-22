@@ -5,13 +5,21 @@
   <link>https://daily.sundigest.xyz</link>
   <description>Daily AI-generated bilingual digest: tech news briefing + startup opportunity radar.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 21 Apr 2026 02:02:42 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 22 Apr 2026 00:02:07 GMT</lastBuildDate>
   <atom:link href="https://daily.sundigest.xyz/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://daily.sundigest.xyz/assets/og.png</url>
     <title>Daily Digest</title>
     <link>https://daily.sundigest.xyz</link>
   </image>
+  <item>
+    <title>Daily Briefing · 2026-04-22 — Daily Briefing</title>
+    <link>https://daily.sundigest.xyz/posts/news-2026-04-22.html</link>
+    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/news-2026-04-22.html</guid>
+    <pubDate>Wed, 22 Apr 2026 00:02:07 GMT</pubDate>
+    <description>📰 Daily Briefing · April 22, 2026 (Wednesday)</description>
+    <category>Daily Briefing</category>
+  </item>
   <item>
     <title>Multi-Perspective · 2026-04-21 — Opportunity Radar</title>
     <link>https://daily.sundigest.xyz/posts/perspective-2026-04-21.html</link>
@@ -162,14 +170,6 @@
     <guid isPermaLink="true">https://daily.sundigest.xyz/posts/perspective-2026-04-15.html</guid>
     <pubDate>Wed, 15 Apr 2026 02:02:38 GMT</pubDate>
     <description>🔍 Multi-Perspective · US Blockade of the Strait of Hormuz: Day Two · 2026-04-15</description>
-    <category>Opportunity Radar</category>
-  </item>
-  <item>
-    <title>Hidden Opportunities · 2026-04-15 — Opportunity Radar</title>
-    <link>https://daily.sundigest.xyz/posts/radar-2026-04-15.html</link>
-    <guid isPermaLink="true">https://daily.sundigest.xyz/posts/radar-2026-04-15.html</guid>
-    <pubDate>Wed, 15 Apr 2026 01:03:01 GMT</pubDate>
-    <description>🔍 Hidden Opportunities Daily 2026-04-15</description>
     <category>Opportunity Radar</category>
   </item>
 </channel>
