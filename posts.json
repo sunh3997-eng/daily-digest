@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-04-22",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 特朗普延长伊朗停火：外交博弈还是战略拖延？ · 2026-04-22",
+    "title_en": "Multi-Perspective · Trump Extends Iran Ceasefire: Diplomatic Chess or Strategic Stalling? · 2026-04-22",
+    "summary_zh": "🔍 多视角 · 特朗普延长伊朗停火：外交博弈还是战略拖延？ · 2026-04-22",
+    "summary_en": "🔍 Multi-Perspective · Trump Extends Iran Ceasefire: Diplomatic Chess or Strategic Stalling? · 2026-04-22",
+    "bullets_zh": [
+      "Reuters",
+      "Fox News",
+      "Axios",
+      "美国单边军事行动的破坏性"
+    ],
+    "bullets_en": [
+      "Reuters",
+      "Fox News",
+      "Axios",
+      "Destructiveness of US unilateral military action"
+    ],
+    "items_zh": [
+      {
+        "title": "Reuters",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Axios",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "美国单边军事行动的破坏性",
+        "desc": "2. 谈判诚意存疑：中方观点倾向于认为美方延长停火是为国内政治服务（中期选举、经济压力），而非真正寻求和平解决。",
+        "url": ""
+      },
+      {
+        "title": "谈判诚意存疑",
+        "desc": "3. 多边主义缺失：中方持续呼吁通过联合国框架解决争端，批评美国绕开国际机制的\"双边施压\"模式。",
+        "url": ""
+      },
+      {
+        "title": "多边主义缺失",
+        "desc": "4. 油价与能源安全：中国作为伊朗石油的重要买家，密切关注霍尔木兹海峡局势对全球能源供应链的影响。",
+        "url": ""
+      },
+      {
+        "title": "油价与能源安全",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Hacker News",
+        "desc": "- SpaceX 收购 Cursor（600亿美元）吸引了更多技术社区关注",
+        "url": ""
+      },
+      {
+        "title": "市场独立分析",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Reuters",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Axios",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Destructiveness of US unilateral military action",
+        "desc": "2. Questionable sincerity: China views the extension as serving US domestic politics (midterms, economic pressure) rathe",
+        "url": ""
+      },
+      {
+        "title": "Questionable sincerity",
+        "desc": "3. Absence of multilateralism: Calls for UN-framework resolution, criticizing US bilateral pressure.",
+        "url": ""
+      },
+      {
+        "title": "Absence of multilateralism",
+        "desc": "4. Energy security: As a major Iranian oil buyer, China monitors Strait of Hormuz tensions closely.",
+        "url": ""
+      },
+      {
+        "title": "Energy security",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Hacker News",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Market analysis",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月22日",
+    "date_fmt_zh": "2026年04月22日",
+    "date_fmt_en": "Apr 22, 2026",
+    "ts": "2026-04-22T10:03:16.119552+08:00"
+  },
+  {
     "slug": "radar-2026-04-22",
     "type": "radar",
     "type_label": "商机雷达",
