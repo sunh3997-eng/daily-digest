@@ -1,5 +1,134 @@
 [
   {
+    "slug": "radar-2026-04-22",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-04-22",
+    "title_en": "Hidden Opportunities · 2026-04-22",
+    "summary_zh": "🔍 隐藏商机日报 2026-04-22",
+    "summary_en": "🔍 Hidden Opportunities Daily 2026-04-22",
+    "bullets_zh": [
+      "隐藏商机日报",
+      "副业者注意",
+      "AI Agent 安全防护层",
+      "浏览器端隐私优先 SaaS"
+    ],
+    "bullets_en": [
+      "Hidden Opportunities Daily",
+      "For Side Hustlers",
+      "AI Agent Safety Layer",
+      "Privacy-First Browser SaaS"
+    ],
+    "items_zh": [
+      {
+        "title": "隐藏商机日报",
+        "desc": "数据来源：Hacker News、GitHub Trending、Product Hunt（实时抓取）",
+        "url": ""
+      },
+      {
+        "title": "副业者注意",
+        "desc": "1️⃣ AI Agent 安全防护层 — Brex 开源了 CrabTrap（LLM-as-a-judge HTTP 代理），CharlieLabs 推出 Daemons（专门\"收拾\"AI Agent 搞出的烂摊子）。信号：Agent 越来",
+        "url": ""
+      },
+      {
+        "title": "AI Agent 安全防护层",
+        "desc": "→ 💡 切入点：针对特定场景（如电商客服 Agent、金融 Agent）做垂直安全审计工具，按 API 调用计费",
+        "url": ""
+      },
+      {
+        "title": "浏览器端隐私优先 SaaS",
+        "desc": "→ 💡 WebAssembly + 本地处理 = 零服务器成本 + 隐私卖点，SaaS 毛利极高",
+        "url": ""
+      },
+      {
+        "title": "MCP 生态工具",
+        "desc": "→ 💡 做一个\"MCP 服务健康监控 + 用量统计\"的 SaaS，类似 Datadog for MCP",
+        "url": ""
+      },
+      {
+        "title": "投资者注意",
+        "desc": "1️⃣ Cursor 被 SpaceX 收购 $60B — 这条消息（如果确认）将是 AI 编码工具估值的分水岭。同时 Claude Code 可能移出 Pro 套餐（HN 230 分讨论），GitHub Copilot 也在调整个人版定价",
+        "url": ""
+      },
+      {
+        "title": "Cursor 被 SpaceX 收购 $60B",
+        "desc": "→ 🎯 关注尚未被收购的独立 AI 编码工具（如 Windsurf/Codeium、Supermaven）以及跨平台兼容层（如 Ctx）",
+        "url": ""
+      },
+      {
+        "title": "WiFi 感知技术商业化",
+        "desc": "→ 🎯 这类技术此前多在学术界，现在开始开源落地。留意相关硬件公司",
+        "url": ""
+      },
+      {
+        "title": "开源自托管复兴",
+        "desc": "→ 🎯 投资方向：提供\"一键自托管\"基础设施的公司（类似 Coolify、Dokku 的下一代）",
+        "url": ""
+      },
+      {
+        "title": "内容创作者注意",
+        "desc": "1️⃣ \"AI 编码工具大战\" — SpaceX 收购 Cursor、Claude Code 定价变化、GitHub Copilot 调整。做一期\"2026 年 AI 编码工具终极对比\"视频/文章，流量保证大。加入实测代码对比更有说服力。",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Hidden Opportunities Daily",
+        "desc": "Sources: Hacker News, GitHub Trending, Product Hunt (live data)",
+        "url": ""
+      },
+      {
+        "title": "For Side Hustlers",
+        "desc": "1️⃣ AI Agent Safety Layer — Brex open-sourced CrabTrap (LLM-as-a-judge HTTP proxy), CharlieLabs launched Daemons (\"clean",
+        "url": ""
+      },
+      {
+        "title": "AI Agent Safety Layer",
+        "desc": "→ 💡 Niche down: build vertical audit tools for specific agent types (e-commerce CS, finance), charge per API call",
+        "url": ""
+      },
+      {
+        "title": "Privacy-First Browser SaaS",
+        "desc": "→ 💡 WebAssembly + local processing = zero server cost + privacy moat, extremely high SaaS margins",
+        "url": ""
+      },
+      {
+        "title": "MCP Ecosystem Tools",
+        "desc": "→ 💡 Build \"Datadog for MCP\" — health monitoring + usage analytics for MCP servers",
+        "url": ""
+      },
+      {
+        "title": "For Investors",
+        "desc": "1️⃣ SpaceX to Acquire Cursor for $60B — If confirmed, this resets AI coding tool valuations entirely. Meanwhile, Claude ",
+        "url": ""
+      },
+      {
+        "title": "SpaceX to Acquire Cursor for $60B",
+        "desc": "→ 🎯 Watch independent AI coding tools not yet acquired (Windsurf/Codeium, Supermaven) and cross-platform compatibility l",
+        "url": ""
+      },
+      {
+        "title": "WiFi Sensing Goes Commercial",
+        "desc": "→ 🎯 Previously academic-only tech now open-sourcing. Watch for related hardware startups",
+        "url": ""
+      },
+      {
+        "title": "Open Source Self-Hosting Renaissance",
+        "desc": "→ 🎯 Investment thesis: next-gen \"one-click self-hosting\" infrastructure (the Coolify/Dokku successors)",
+        "url": ""
+      },
+      {
+        "title": "For Content Creators",
+        "desc": "1️⃣ \"The AI Coding Tool Wars\" — SpaceX acquiring Cursor, Claude Code pricing changes, Copilot adjustments. A \"2026 Ultim",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月22日",
+    "date_fmt_zh": "2026年04月22日",
+    "date_fmt_en": "Apr 22, 2026",
+    "ts": "2026-04-22T09:04:30.733558+08:00"
+  },
+  {
     "slug": "news-2026-04-22",
     "type": "news",
     "type_label": "每日早报",
