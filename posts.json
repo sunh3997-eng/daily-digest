@@ -1,5 +1,109 @@
 [
   {
+    "slug": "perspective-2026-04-23",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-04-23",
+    "title_en": "Multi-Perspective · 2026-04-23",
+    "summary_zh": "🔍 多视角 · 伊朗-美国霍尔木兹海峡对峙升级 · 2026-04-23",
+    "summary_en": "🔍 Multi-Perspective · Iran-US Strait of Hormuz Standoff Escalates · 2026-04-23",
+    "bullets_zh": [
+      "关键叙事：伊朗是\"挑衅者\"，美国在维护航行自由",
+      "Guardian",
+      "关键叙事：\"以实力求和平\"，支持强硬封锁",
+      "关键叙事：\"美国围困\"，中方呼吁对话"
+    ],
+    "bullets_en": [
+      "Key narrative: Iran as \"provocateur,\" US defending freedom of navigation",
+      "Key narrative: \"Peace through strength,\" support for maximum pressure",
+      "Key narrative: \"American siege,\" China calls for dialogue",
+      "Key narrative: Questioning the blockade's legality and humanitarian cost"
+    ],
+    "items_zh": [
+      {
+        "title": "关键叙事：伊朗是\"挑衅者\"，美国在维护航行自由",
+        "desc": "- CNN：\"特朗普称伊朗战争'没有时间表'，否认中期选举驱动决策\"——将冲突框架为美国的战略耐心，暗示伊朗需要先做出让步",
+        "url": ""
+      },
+      {
+        "title": "Guardian",
+        "desc": "- WSJ：\"伊朗战争实时更新：霍尔木兹海峡三艘船被攻击，两艘被护送至伊朗海岸\"——聚焦军事对抗的紧迫感",
+        "url": ""
+      },
+      {
+        "title": "关键叙事：\"以实力求和平\"，支持强硬封锁",
+        "desc": "- Fox News 首页虽未直接以伊朗为头条（被其他热点稀释），但其一贯立场清晰：支持特朗普的\"最大压力\"策略",
+        "url": ""
+      },
+      {
+        "title": "关键叙事：\"美国围困\"，中方呼吁对话",
+        "desc": "- 新华社：\"美伊谈判陷入僵局，紧张局势持续\"（On-site: U.S.-Iran talks in limbo as tensions persist）——新华社的现场报道罕见地使用了\"limbo\"一词，暗示美国是谈判破裂的主要原因",
+        "url": ""
+      },
+      {
+        "title": "科威特放宽海上限制",
+        "desc": "- 中方整体框架：美国是\"围困者\"和\"破坏者\"，伊朗是被迫自卫的一方；中国则扮演呼吁和平的理性角色",
+        "url": ""
+      },
+      {
+        "title": "关键叙事：质疑\"封锁\"的合法性与人道代价",
+        "desc": "- Al Jazeera（头条）：\"'封锁与威胁'：伊朗指责美国围困港口导致谈判破裂\"——这是最直接挑战美方叙事的标题，将\"封锁\"本身定性为问题根源",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "- Al Jazeera：\"伊朗议长：美国和以色列通过'霸凌'无法实现目标\"——给予伊朗官方充分的话语空间",
+        "url": ""
+      },
+      {
+        "title": "独立分析者关注点：",
+        "desc": "- 霍尔木兹海峡封锁对全球石油供应链的影响——20%的全球石油运输经过此处",
+        "url": ""
+      },
+      {
+        "title": "一句话总结：",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Key narrative: Iran as \"provocateur,\" US defending freedom of navigation",
+        "desc": "- CNN: \"Trump says there is 'no time frame' on Iran war\" — frames conflict as American strategic patience",
+        "url": ""
+      },
+      {
+        "title": "Key narrative: \"Peace through strength,\" support for maximum pressure",
+        "desc": "- Iran's ship seizure proves the regime \"cannot be trusted\"",
+        "url": ""
+      },
+      {
+        "title": "Key narrative: \"American siege,\" China calls for dialogue",
+        "desc": "- Xinhua: \"U.S.-Iran talks in limbo as tensions persist\" — implies US is the primary cause of breakdown",
+        "url": ""
+      },
+      {
+        "title": "Key narrative: Questioning the blockade's legality and humanitarian cost",
+        "desc": "- Al Jazeera headline: \"'Blockade and threats': Iran blames US siege of ports for stalled talks\" — most direct challenge",
+        "url": ""
+      },
+      {
+        "title": "Key analytical concerns:",
+        "desc": "- Strait of Hormuz blockade threatens 20% of global oil transit",
+        "url": ""
+      },
+      {
+        "title": "Bottom line:",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月23日",
+    "date_fmt_zh": "2026年04月23日",
+    "date_fmt_en": "Apr 23, 2026",
+    "ts": "2026-04-23T10:03:49.223496+08:00"
+  },
+  {
     "slug": "radar-2026-04-23",
     "type": "radar",
     "type_label": "商机雷达",
