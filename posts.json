@@ -1,5 +1,104 @@
 [
   {
+    "slug": "radar-2026-04-23",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-04-23",
+    "title_en": "Hidden Opportunities · 2026-04-23",
+    "summary_zh": "🔍 隐藏商机日报 · 2026-04-23",
+    "summary_en": "🔍 Hidden Opportunities Daily · 2026-04-23",
+    "bullets_zh": [
+      "大量团队在部署 agent，却看不见 agent 在做什么",
+      "用户不想装软件，不想上传隐私视频",
+      "Right-to-repair 运动的硬件版本",
+      "基因治疗从实验室到临床的关键瓶颈（递送载体）正在被攻克"
+    ],
+    "bullets_en": [
+      "teams are shipping agents but can't see what they're doing",
+      "users refuse to install software or upload private videos",
+      "Right-to-repair as hardware movement",
+      "short video + interactive gameplay"
+    ],
+    "items_zh": [
+      {
+        "title": "大量团队在部署 agent，却看不见 agent 在做什么",
+        "desc": "2️⃣ 无代码视频编辑进入浏览器时代",
+        "url": ""
+      },
+      {
+        "title": "用户不想装软件，不想上传隐私视频",
+        "desc": "3️⃣ CLAUDE.md / AGENTS.md 生态正在形成",
+        "url": ""
+      },
+      {
+        "title": "Right-to-repair 运动的硬件版本",
+        "desc": "2️⃣ 具微科技两月融 4 轮数亿元，产业资本抢 AAV 体内 CAR-T",
+        "url": ""
+      },
+      {
+        "title": "基因治疗从实验室到临床的关键瓶颈（递送载体）正在被攻克",
+        "desc": "3️⃣ Qwen3.6-27B：旗舰级编码能力压缩到 27B 参数",
+        "url": ""
+      },
+      {
+        "title": "AI 推理成本骤降 → 更多 AI-native 工具公司冒出来 → 上游算力需求反而增长",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "短视频/B站素材金矿",
+        "desc": "2️⃣ Firefox/Tor 隐私漏洞曝光（390 分）",
+        "url": ""
+      },
+      {
+        "title": "隐私/安全类内容永远有流量",
+        "desc": "3️⃣ Canva 收购后免费开放 Cavalry Studio（动态设计工具）",
+        "url": ""
+      },
+      {
+        "title": "短视频 + 互动/游戏化",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "VectorGuard — AI 数据泄露扫描器",
+        "desc": "HN 帖子\"我们扫到了大量未认证的向量数据库，暴露企业 AI 数据\"。这是一个被严重低估的安全风险——公司把 RAG 数据扔进向量库却不加认证。",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "teams are shipping agents but can't see what they're doing",
+        "desc": "2️⃣ Browser-Based Video Editing Goes Mainstream",
+        "url": ""
+      },
+      {
+        "title": "users refuse to install software or upload private videos",
+        "desc": "3️⃣ The CLAUDE.md / AGENTS.md Ecosystem Is Forming",
+        "url": ""
+      },
+      {
+        "title": "Right-to-repair as hardware movement",
+        "desc": "2️⃣ Qwen3.6-27B: Flagship Coding in a 27B Dense Model (658 pts)",
+        "url": ""
+      },
+      {
+        "title": "short video + interactive gameplay",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "VectorGuard — AI Data Leak Scanner",
+        "desc": "HN post: \"We mapped unauthenticated Vector DBs exposing corporate AI data.\" Companies are dumping RAG data into vector d",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月23日",
+    "date_fmt_zh": "2026年04月23日",
+    "date_fmt_en": "Apr 23, 2026",
+    "ts": "2026-04-23T09:05:37.492382+08:00"
+  },
+  {
     "slug": "news-2026-04-23",
     "type": "news",
     "type_label": "每日早报",
