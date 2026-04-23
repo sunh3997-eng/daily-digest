@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-23",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-23",
+    "title_en": "Daily Briefing · 2026-04-23",
+    "summary_zh": "📰 每日早报 · 2026-04-23（周三）",
+    "summary_en": "📰 Daily Briefing · April 23, 2026 (Wed)",
+    "bullets_zh": [
+      "Google 发布 Workspace Intelligence",
+      "OpenAI 推出 ChatGPT Workspace Agents",
+      "阿里 Qwen3.6-27B 发布",
+      "Google 发布第八代 TPU"
+    ],
+    "bullets_en": [
+      "Google Launches Workspace Intelligence",
+      "OpenAI Introduces ChatGPT Workspace Agents",
+      "Alibaba Releases Qwen3.6-27B",
+      "Google Unveils 8th-Gen TPUs"
+    ],
+    "items_zh": [
+      {
+        "title": "Google 发布 Workspace Intelligence",
+        "desc": "",
+        "url": "https://qwen.ai/blog?id=qwen3.6-27b"
+      },
+      {
+        "title": "OpenAI 推出 ChatGPT Workspace Agents",
+        "desc": "",
+        "url": "https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive"
+      },
+      {
+        "title": "阿里 Qwen3.6-27B 发布",
+        "desc": "",
+        "url": "https://nrehiew.github.io/blog/minimal_editing/"
+      },
+      {
+        "title": "Google 发布第八代 TPU",
+        "desc": "",
+        "url": "https://zed.dev/blog/parallel-agents"
+      },
+      {
+        "title": "AI 过度编辑问题研究",
+        "desc": "🌍 国际要闻",
+        "url": "https://zed.dev/blog/parallel-agents"
+      },
+      {
+        "title": "Zed 编辑器推出并行 Agents",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "美伊霍尔木兹海峡对峙持续",
+        "desc": "",
+        "url": "https://www.bbc.com/news/articles/crl16p72x7xo"
+      },
+      {
+        "title": "欧盟批准 900 亿欧元对乌贷款",
+        "desc": "",
+        "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo"
+      },
+      {
+        "title": "台湾总统取消出访",
+        "desc": "",
+        "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo"
+      },
+      {
+        "title": "孙宇晨起诉特朗普家族加密公司",
+        "desc": "💡 技术圈动态",
+        "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo"
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Google Launches Workspace Intelligence",
+        "desc": "",
+        "url": "https://qwen.ai/blog?id=qwen3.6-27b"
+      },
+      {
+        "title": "OpenAI Introduces ChatGPT Workspace Agents",
+        "desc": "",
+        "url": "https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive"
+      },
+      {
+        "title": "Alibaba Releases Qwen3.6-27B",
+        "desc": "",
+        "url": "https://nrehiew.github.io/blog/minimal_editing/"
+      },
+      {
+        "title": "Google Unveils 8th-Gen TPUs",
+        "desc": "",
+        "url": "https://zed.dev/blog/parallel-agents"
+      },
+      {
+        "title": "AI Over-Editing Problem Studied",
+        "desc": "🌍 World News",
+        "url": "https://zed.dev/blog/parallel-agents"
+      },
+      {
+        "title": "Zed Editor Ships Parallel Agents",
+        "desc": "🌍 World News",
+        "url": ""
+      },
+      {
+        "title": "US-Iran Standoff in Strait of Hormuz",
+        "desc": "",
+        "url": "https://www.bbc.com/news/articles/crl16p72x7xo"
+      },
+      {
+        "title": "EU Approves €90B Loan for Ukraine",
+        "desc": "",
+        "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo"
+      },
+      {
+        "title": "Taiwan President Cancels Trip",
+        "desc": "",
+        "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo"
+      },
+      {
+        "title": "Justin Sun Sues Trump Family Crypto Firm",
+        "desc": "💡 Tech Scene",
+        "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo"
+      }
+    ],
+    "date_fmt": "2026年04月23日",
+    "date_fmt_zh": "2026年04月23日",
+    "date_fmt_en": "Apr 23, 2026",
+    "ts": "2026-04-23T08:01:44.853368+08:00"
+  },
+  {
     "slug": "perspective-2026-04-22",
     "type": "perspective",
     "type_label": "商机雷达",
