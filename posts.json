@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-04-24",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-04-24",
+    "title_en": "Multi-Perspective · 2026-04-24",
+    "summary_zh": "🔍 多视角 · 霍尔木兹海峡对峙升级：美伊\"以封锁对封锁\" · 2026-04-24",
+    "summary_en": "🔍 Multi-Perspective · Strait of Hormuz Standoff Escalates: US-Iran \"Blockade vs. Blockade\" · 2026-04-24",
+    "bullets_zh": [
+      "核心叙事：危险的相互升级",
+      "Reuters",
+      "Guardian",
+      "海军部长被炒"
+    ],
+    "bullets_en": [
+      "Core narrative: A dangerous escalatory spiral",
+      "Reuters",
+      "Guardian",
+      "Navy Secretary fired"
+    ],
+    "items_zh": [
+      {
+        "title": "核心叙事：危险的相互升级",
+        "desc": "- CNN：以\"直播更新\"模式全天追踪，标题为\"特朗普威胁射击布雷船只，海峡紧张局势升级\"。强调这是一场\"以牙还牙\"的循环：美国对伊朗实施海上封锁→伊朗扣押商船作为报复→特朗普发出开火命令。CNN引用国防部匿名官员称，美军正在执行\"自由航行",
+        "url": ""
+      },
+      {
+        "title": "Reuters",
+        "desc": "- Guardian：标题最为尖锐——\"两场封锁的故事：美国和伊朗各自宣称控制海峡\"。社论指出特朗普声称\"完全控制海峡\"与伊朗成功扣船的事实相矛盾，认为双方都在国内政治需要下夸大自身实力。",
+        "url": ""
+      },
+      {
+        "title": "Guardian",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "海军部长被炒",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "核心叙事：展示美国力量，遏制伊朗",
+        "desc": "- Fox News：标题为\"伊朗升级霍尔木兹'以牙还牙'，扣押与特朗普-马克龙密友有关的船只\"。Fox将伊朗扣船行为框架为\"对美国盟友的直接挑衅\"，强调特朗普射杀令的必要性。报道引用共和党参议员称：\"总统终于对伊朗的流氓行为划了红线。\"",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "- Fox在报道海军部长离职时措辞谨慎，未使用\"被炒\"（fired），而是称费伦\"因与白宫在造舰优先级上的分歧而离开\"。",
+        "url": ""
+      },
+      {
+        "title": "核心叙事：美国单边霸权引发地区动荡",
+        "desc": "- 基于长期报道模式，中文官方媒体通常将此类事件框架为\"美国军事霸权威胁国际航运自由\"。伊朗扣船被描述为\"对美国非法封锁的正当反制\"。",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "- AP：\"霍尔木兹海峡附近更多混乱——伊朗攻击三艘船只\"。AP强调\"混乱\"（confusion）一词，暗示双方都在信息战中各说各话，普通船员和航运公司成为最大受害者。",
+        "url": ""
+      },
+      {
+        "title": "独立分析人士",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "关键观察",
+        "desc": "1. 信息战：特朗普声称\"完全控制海峡\"，但伊朗同一天成功扣押多艘船只——这种叙事裂缝被不同媒体放大或忽略，取决于其政治立场。",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Core narrative: A dangerous escalatory spiral",
+        "desc": "- CNN: Ran all-day live updates titled \"Trump threatens to shoot boats laying mines as tension escalates in Strait of Ho",
+        "url": ""
+      },
+      {
+        "title": "Reuters",
+        "desc": "- Guardian: Sharpest framing — \"A tale of two blockades as US and Iran spin their control over the Strait of Hormuz.\" Ed",
+        "url": ""
+      },
+      {
+        "title": "Guardian",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Navy Secretary fired",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Core narrative: American strength deterring Iranian aggression",
+        "desc": "- Fox News: \"Iran escalates Hormuz 'tit-for-tat,' seizes ship tied to billionaire close to Trump, Macron.\" Framed Iran's",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "- Fox carefully described the Navy Secretary's departure as a \"disagreement over shipbuilding priorities\" rather than a ",
+        "url": ""
+      },
+      {
+        "title": "Core narrative: US unilateral hegemony destabilizing the region",
+        "desc": "- Based on established reporting patterns, Chinese state media typically frames such events as \"US military hegemony thr",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "- AP: \"More confusion looms over Strait of Hormuz after Iran attacks three ships near waterway.\" The emphasis on \"confus",
+        "url": ""
+      },
+      {
+        "title": "Analysts on social media",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Key Observations",
+        "desc": "1. Information warfare: Trump claims \"total control\" of the strait while Iran successfully seizes ships the same day — d",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月24日",
+    "date_fmt_zh": "2026年04月24日",
+    "date_fmt_en": "Apr 24, 2026",
+    "ts": "2026-04-24T10:03:10.692698+08:00"
+  },
+  {
     "slug": "radar-2026-04-24",
     "type": "radar",
     "type_label": "商机雷达",
