@@ -1,5 +1,134 @@
 [
   {
+    "slug": "radar-2026-04-24",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-04-24",
+    "title_en": "Hidden Opportunities · 2026-04-24",
+    "summary_zh": "🔍 隐藏商机日报 2026-04-24",
+    "summary_en": "🔍 Hidden Opportunities Daily 2026-04-24",
+    "bullets_zh": [
+      "隐藏商机日报",
+      "副业者注意",
+      "1. AI Agent 基础设施工具——今天最热的赛道",
+      "机会：做 Agent 的\"中间件\"——认证、日志审计、沙箱、API 网关。"
+    ],
+    "bullets_en": [
+      "Hidden Opportunities Daily",
+      "For Indie Hackers & Side-Builders",
+      "1. AI Agent Infrastructure — Today's Hottest Gap",
+      "2. Markdown Knowledge Base (Tolaria — 76pts on HN)"
+    ],
+    "items_zh": [
+      {
+        "title": "隐藏商机日报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "副业者注意",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "AI Agent 基础设施工具——今天最热的赛道",
+        "desc": "今天 HN、PH、GitHub 三个平台同时出现大量 AI Agent 相关项目：Agent Vault（开源 Agent 凭证代理）、easl（一行命令给 Agent 托管页面）、Endo Familiar（Agent 沙箱）、claud",
+        "url": ""
+      },
+      {
+        "title": "机会：做 Agent 的\"中间件\"——认证、日志审计、沙箱、API 网关。",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Markdown 知识库管理（Tolaria 76分 HN热帖）",
+        "desc": "Tolaria 是一个开源 macOS App，管理 Markdown 笔记，支持 git、类型关系、离线优先。作者用它管理 10K+ 笔记和 300+ 篇文章。说明在 Obsidian/Notion 之间仍有空白——特别是面向\"内容创作者",
+        "url": ""
+      },
+      {
+        "title": "机会：做垂直化 Markdown 知识库——面向技术博主、Newsletter 作者。",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "供应链安全扫描服务",
+        "desc": "Bitwarden CLI 被供应链攻击入侵上了 HN 头条。npm/PyPI 供应链攻击频率越来越高。",
+        "url": ""
+      },
+      {
+        "title": "机会：做针对小团队的「依赖安全扫描」订阅服务。",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "投资者注意",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "GPT-5.5 发布——新一轮应用层爆发",
+        "desc": "OpenAI 今天发布 GPT-5.5，HN 头条。每次模型跳代都会催生一批新应用。上次 GPT-4o 催生了实时语音 App，这次 5.5 的新能力（待确认具体特性）将开启新的应用场景。",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Hidden Opportunities Daily",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "For Indie Hackers & Side-Builders",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "AI Agent Infrastructure — Today's Hottest Gap",
+        "desc": "HN, PH, and GitHub Trending all converged on Agent tooling today: Agent Vault (credential proxy), easl (instant hosting ",
+        "url": ""
+      },
+      {
+        "title": "Markdown Knowledge Base (Tolaria — 76pts on HN)",
+        "desc": "Open-source macOS app for managing Markdown notes with git, types, and relationships. Fills a gap between Obsidian (too ",
+        "url": ""
+      },
+      {
+        "title": "Opportunity: Fork Tolaria, add AI summarization + one-click publish to Substack/Ghost/Medium.",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Supply Chain Security Scanning as a Service",
+        "desc": "Bitwarden CLI was compromised via Checkmarx supply chain attack—top of HN. npm/PyPI attacks are accelerating.",
+        "url": ""
+      },
+      {
+        "title": "Opportunity: Dead-simple dependency audit subscription for small teams.",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "For Investors",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "GPT-5.5 Launch — Application Layer Reset",
+        "desc": "OpenAI shipped GPT-5.5 today (HN #1). Every model generation jump triggers a 2-4 week window where the fastest builders ",
+        "url": ""
+      },
+      {
+        "title": "Watch for: First-mover apps leveraging GPT-5.5's new capabilities.",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月24日",
+    "date_fmt_zh": "2026年04月24日",
+    "date_fmt_en": "Apr 24, 2026",
+    "ts": "2026-04-24T09:04:56.475294+08:00"
+  },
+  {
     "slug": "news-2026-04-24",
     "type": "news",
     "type_label": "每日早报",
