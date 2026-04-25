@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-25",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-25",
+    "title_en": "Daily Briefing · 2026-04-25",
+    "summary_zh": "📰 每日早报 · 2026-04-25（周五）",
+    "summary_en": "📰 Daily Briefing · 2026-04-25 (Friday)",
+    "bullets_zh": [
+      "Google 计划向 Anthropic 投资最高 400 亿美元",
+      "OpenAI 发布 GPT-5.5 和 GPT-5.5 Pro API",
+      "Intel 股价暴涨 24%，创 1987 年以来最大单日涨幅",
+      "Meta 宣布裁员约 8,000 人（10%）"
+    ],
+    "bullets_en": [
+      "Google plans up to $40B investment in Anthropic",
+      "OpenAI releases GPT-5.5 and GPT-5.5 Pro in API",
+      "Intel stock surges 24%, best day since 1987",
+      "Meta to cut ~8,000 jobs (10% of staff)"
+    ],
+    "items_zh": [
+      {
+        "title": "Google 计划向 Anthropic 投资最高 400 亿美元",
+        "desc": "18:23 OpenAI 发布 GPT-5.5 和 GPT-5.5 Pro API — 新模型上线开发者 API，HN 讨论量破千条，社区反响热烈。OpenAI/Hacker News",
+        "url": ""
+      },
+      {
+        "title": "OpenAI 发布 GPT-5.5 和 GPT-5.5 Pro API",
+        "desc": "~17:00 Intel 股价暴涨 24%，创 1987 年以来最大单日涨幅 — Q1 财报超预期，AI 驱动收入飙升，推动纳斯达克和标普 500 双双创新高。CNBC/Barron's",
+        "url": ""
+      },
+      {
+        "title": "Intel 股价暴涨 24%，创 1987 年以来最大单日涨幅",
+        "desc": "16:33 Meta 宣布裁员约 8,000 人（10%） — AI 投入持续烧钱，员工称经历「28 天地狱」。微软同期也开启自愿离职计划。Business Insider/CNBC",
+        "url": ""
+      },
+      {
+        "title": "Meta 宣布裁员约 8,000 人（10%）",
+        "desc": "15:55 微软 Copilot 正式登陆 Word/Excel/PowerPoint — 推出「Vibe Working」模式，AI 可在文档中自动协作生成内容，引发「未经邀请的 AI 共同作者」争议。The Verge/The Regi",
+        "url": ""
+      },
+      {
+        "title": "微软 Copilot 正式登陆 Word/Excel/PowerPoint",
+        "desc": "21:35 Cohere 收购合并德国 Aleph Alpha — 打造「跨大西洋 AI 强国」，聚焦企业与政府 AI 解决方案。TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Cohere 收购合并德国 Aleph Alpha",
+        "desc": "19:46 X（前推特）推出独立聊天应用 XChat — iOS 端上线，支持私信、阅后即焚、音视频通话。TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "X（前推特）推出独立聊天应用 XChat",
+        "desc": "🌍 国际要闻",
+        "url": ""
+      },
+      {
+        "title": "美国司法部撤销对美联储主席鲍威尔的刑事调查",
+        "desc": "22:57 美特使 Witkoff 和库什纳将赴巴基斯坦进行伊朗和谈 — 副总统万斯未参与此轮谈判。美军同时维持霍尔木兹海峡封锁。CBS News/NYT",
+        "url": ""
+      },
+      {
+        "title": "美特使 Witkoff 和库什纳将赴巴基斯坦进行伊朗和谈",
+        "desc": "18:33 美国对中国炼油厂和 40 艘油轮实施制裁 — 打击中国「影子舰队」购买伊朗石油。AP News/Reuters",
+        "url": ""
+      },
+      {
+        "title": "美国对中国炼油厂和 40 艘油轮实施制裁",
+        "desc": "10:46 五角大楼泄露邮件显示考虑暂停西班牙 NATO 成员资格 — 报复盟友对伊朗战争支持不足，英国福克兰群岛主权也被提及。NATO 回应：无条款可驱逐成员。Euronews/BBC",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Google plans up to $40B investment in Anthropic",
+        "desc": "18:23 OpenAI releases GPT-5.5 and GPT-5.5 Pro in API — New models hit the developer API, sparking 1,000+ comments on Hac",
+        "url": ""
+      },
+      {
+        "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in API",
+        "desc": "~17:00 Intel stock surges 24%, best day since 1987 — Q1 earnings crush expectations with AI-driven revenue growth; Nasda",
+        "url": ""
+      },
+      {
+        "title": "Intel stock surges 24%, best day since 1987",
+        "desc": "16:33 Meta to cut ~8,000 jobs (10% of staff) — AI spending costs hit Big Tech workers; employees describe \"28 days of he",
+        "url": ""
+      },
+      {
+        "title": "Meta to cut ~8,000 jobs (10% of staff)",
+        "desc": "15:55 Microsoft Copilot goes GA in Word, Excel, PowerPoint — Launches \"vibe working\" mode; critics call it an \"uninvited",
+        "url": ""
+      },
+      {
+        "title": "Microsoft Copilot goes GA in Word, Excel, PowerPoint",
+        "desc": "21:35 Cohere acquires and merges with Germany's Aleph Alpha — Creating a \"transatlantic AI powerhouse\" for enterprise an",
+        "url": ""
+      },
+      {
+        "title": "Cohere acquires and merges with Germany's Aleph Alpha",
+        "desc": "19:46 X launches standalone XChat messaging app on iOS — Private chats, disappearing messages, audio/video calls. TechCr",
+        "url": ""
+      },
+      {
+        "title": "X launches standalone XChat messaging app on iOS",
+        "desc": "🌍 World News",
+        "url": ""
+      },
+      {
+        "title": "DOJ drops criminal probe of Fed Chair Powell",
+        "desc": "22:57 Witkoff, Kushner heading to Pakistan for Iran talks — VP Vance excluded from this round. US blockade around Strait",
+        "url": ""
+      },
+      {
+        "title": "Witkoff, Kushner heading to Pakistan for Iran talks",
+        "desc": "18:33 US sanctions Chinese refinery and 40 tankers over Iranian oil — Targeting China's \"shadow fleet\" in sweeping Iran ",
+        "url": ""
+      },
+      {
+        "title": "US sanctions Chinese refinery and 40 tankers over Iranian oil",
+        "desc": "10:46 Pentagon leaked email: considering suspending Spain from NATO — Retaliation for allies' lack of Iran war support; ",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月25日",
+    "date_fmt_zh": "2026年04月25日",
+    "date_fmt_en": "Apr 25, 2026",
+    "ts": "2026-04-25T08:02:06.047904+08:00"
+  },
+  {
     "slug": "perspective-2026-04-24",
     "type": "perspective",
     "type_label": "商机雷达",
