@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-04-25",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-04-25",
+    "title_en": "Multi-Perspective · 2026-04-25",
+    "summary_zh": "🔍 多视角 · 五角大楼威胁将西班牙逐出北约：美伊战争撕裂盟友关系 · 2026-04-25",
+    "summary_en": "🔍 Multi-Perspective · Pentagon Threatens to Suspend Spain from NATO: Iran War Fractures Allied Unity · 2026-04-25",
+    "bullets_zh": [
+      "BBC / Reuters / NYT / WashPost",
+      "Fox News / 保守媒体倾向",
+      "\"美国霸权本质暴露\"",
+      "\"美国单边主义加剧\""
+    ],
+    "bullets_en": [
+      "BBC / Reuters / NYT / WashPost",
+      "\"US hegemony exposed\"",
+      "\"Escalating unilateralism\"",
+      "\"Consequences of the Iran war\""
+    ],
+    "items_zh": [
+      {
+        "title": "BBC / Reuters / NYT / WashPost",
+        "desc": "路透社率先独家报道：一封五角大楼内部邮件明确列出了多种\"惩罚\"选项，针对被认为在伊朗战争中支持不力的盟友。方案包括：暂停西班牙的北约成员国资格，以及重新审视美国对英国福克兰群岛主权的支持立场。",
+        "url": ""
+      },
+      {
+        "title": "Fox News / 保守媒体倾向",
+        "desc": "保守派媒体的关注点有所不同。Fox News 将更多篇幅放在伊朗谈判进展上——Witkoff 和 Kushner 将前往巴基斯坦与伊朗外长 Araghchi 进行直接会谈。在保守派叙事中，五角大楼邮件泄露更多被解读为：",
+        "url": ""
+      },
+      {
+        "title": "\"美国霸权本质暴露\"",
+        "desc": "- \"美国单边主义加剧\"：从贸易战到军事胁迫，美国正在系统性破坏国际多边机制",
+        "url": ""
+      },
+      {
+        "title": "\"美国单边主义加剧\"",
+        "desc": "- \"伊朗战争的恶果\"：美国对伊朗的军事行动不仅未能稳定中东局势，反而撕裂了自身的联盟体系",
+        "url": ""
+      },
+      {
+        "title": "\"伊朗战争的恶果\"",
+        "desc": "- 制裁连带：同日，美国财政部对参与伊朗石油贸易的中国\"茶壶炼油厂\"实施了新一轮制裁，中方将此视为\"经济霸凌\"的又一证据",
+        "url": ""
+      },
+      {
+        "title": "制裁连带",
+        "desc": "值得注意的是，BBC 报道比亚迪（BYD）表示可以在没有美国市场的情况下繁荣发展，折射出中国在\"去美国化\"经济叙事中的信心。",
+        "url": ""
+      },
+      {
+        "title": "HN / Reddit / 独立分析师",
+        "desc": "独立观察者和社交媒体上的讨论更为尖锐：",
+        "url": ""
+      },
+      {
+        "title": "\"北约条约是契约，不是俱乐部会员卡\"",
+        "desc": "- \"泄密本身就是信号\"：多位分析师认为，这份邮件被泄露可能不是意外——它本身就是一种施压工具，通过公开威胁来逼迫盟友就范。",
+        "url": ""
+      },
+      {
+        "title": "\"泄密本身就是信号\"",
+        "desc": "- \"双重标准\"：有评论指出，美国在要求盟友参与伊朗军事行动的同时，Kushner 的中东商业利益从未被清理，这种利益冲突才是真正应该调查的。",
+        "url": ""
+      },
+      {
+        "title": "\"双重标准\"",
+        "desc": "- 霍尔木兹海峡封锁的连锁效应：国防部长 Hegseth 表示封锁将\"持续到需要的时候\"，但国际航运和油价已经受到严重冲击。独立媒体更关注战争的经济代价，而非盟友忠诚度。",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "BBC / Reuters / NYT / WashPost",
+        "desc": "Reuters broke the story: an internal Pentagon email explicitly lists punitive options against allies deemed unsupportive",
+        "url": ""
+      },
+      {
+        "title": "\"US hegemony exposed\"",
+        "desc": "- \"Escalating unilateralism\": From trade wars to military coercion, the US is systematically dismantling multilateral me",
+        "url": ""
+      },
+      {
+        "title": "\"Escalating unilateralism\"",
+        "desc": "- \"Consequences of the Iran war\": US military action hasn't stabilized the Middle East but has torn apart its own allian",
+        "url": ""
+      },
+      {
+        "title": "\"Consequences of the Iran war\"",
+        "desc": "- Collateral sanctions: On the same day, the US Treasury sanctioned Chinese \"teapot\" refineries over Iranian oil trade —",
+        "url": ""
+      },
+      {
+        "title": "Collateral sanctions",
+        "desc": "Notably, BBC reported BYD stating it can thrive without the US market, reflecting confidence in China's \"de-Americanizat",
+        "url": ""
+      },
+      {
+        "title": "\"NATO treaty is a contract, not a club membership\"",
+        "desc": "- \"The leak itself is the message\": Multiple analysts suggest the email may have been deliberately leaked as a pressure ",
+        "url": ""
+      },
+      {
+        "title": "\"The leak itself is the message\"",
+        "desc": "- \"Double standards\": While demanding allied participation in Iran military ops, Kushner's Middle East business interest",
+        "url": ""
+      },
+      {
+        "title": "\"Double standards\"",
+        "desc": "- Hormuz blockade costs: Defense Secretary Hegseth declared the blockade will last \"as long as it takes,\" but internatio",
+        "url": ""
+      },
+      {
+        "title": "Hormuz blockade costs",
+        "desc": "- Fossil fuel exit summit: Ironically, BBC also reported the first global summit to phase out fossil fuels is underway —",
+        "url": ""
+      },
+      {
+        "title": "Fossil fuel exit summit",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月25日",
+    "date_fmt_zh": "2026年04月25日",
+    "date_fmt_en": "Apr 25, 2026",
+    "ts": "2026-04-25T10:02:43.945728+08:00"
+  },
+  {
     "slug": "radar-2026-04-25",
     "type": "radar",
     "type_label": "商机雷达",
