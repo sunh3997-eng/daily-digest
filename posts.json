@@ -1,5 +1,84 @@
 [
   {
+    "slug": "perspective-2026-04-26",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 白宫记者晚宴枪击事件 · 2026-04-26",
+    "title_en": "Multi-Perspective · WHCD Shooting · 2026-04-26",
+    "summary_zh": "🔍 多视角 · 白宫记者晚宴枪击事件：特朗普被紧急疏散 · 2026-04-26",
+    "summary_en": "🔍 Multi-Perspective · White House Correspondents' Dinner Shooting: Trump Evacuated · 2026-04-26",
+    "bullets_zh": [
+      "CNN / ABC / Bloomberg：",
+      "路透社：",
+      "Fox News / 保守媒体：",
+      "新华社 / 环球网："
+    ],
+    "bullets_en": [
+      "CNN / ABC / Bloomberg / Reuters:",
+      "Fox News / Right-leaning media:",
+      "Xinhua / CGTN:",
+      "Key Divergence:"
+    ],
+    "items_zh": [
+      {
+        "title": "CNN / ABC / Bloomberg：",
+        "desc": "- CNN 以\"Breaking News\"模式全力报道，强调特勤局反应迅速，特朗普安全",
+        "url": ""
+      },
+      {
+        "title": "路透社：",
+        "desc": "- 以客观通讯社风格报道，强调\"事件仍在调查中\"",
+        "url": ""
+      },
+      {
+        "title": "Fox News / 保守媒体：",
+        "desc": "- Fox News 将\"WHCD\"（白宫记者晚宴）列为当日头版导航焦点",
+        "url": ""
+      },
+      {
+        "title": "新华社 / 环球网：",
+        "desc": "- 新华社英文版标题：\"Trump evacuated from White House correspondents' dinner after security incident, shooter 'apprehended'\"",
+        "url": ""
+      },
+      {
+        "title": "关键分歧：",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "CNN / ABC / Bloomberg / Reuters:",
+        "desc": "- CNN led with breaking news coverage emphasizing Secret Service's rapid response and Trump's safety",
+        "url": ""
+      },
+      {
+        "title": "Fox News / Right-leaning media:",
+        "desc": "- Fox News featured \"WHCD\" as a top navigation item, signaling major coverage",
+        "url": ""
+      },
+      {
+        "title": "Xinhua / CGTN:",
+        "desc": "- Xinhua's English headline: \"Trump evacuated from White House correspondents' dinner after security incident, shooter '",
+        "url": ""
+      },
+      {
+        "title": "Key Divergence:",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Consensus:",
+        "desc": "📰 Sources: CNN, ABC News, Bloomberg, Reuters, Xinhua, Fox News, social media aggregation",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月26日",
+    "date_fmt_zh": "2026年04月26日",
+    "date_fmt_en": "Apr 26, 2026",
+    "ts": "2026-04-26T10:04:39.134520+08:00"
+  },
+  {
     "slug": "radar-2026-04-26",
     "type": "radar",
     "type_label": "商机雷达",
