@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-26",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-26",
+    "title_en": "Daily Briefing · 2026-04-26",
+    "summary_zh": "📰 每日早报 · 2026年4月26日（周日）",
+    "summary_en": "📰 Daily Briefing · April 26, 2026 (Sunday)",
+    "bullets_zh": [
+      "特朗普叫停伊朗和谈",
+      "芝加哥医院枪击案",
+      "墨西哥：两名CIA特工死亡",
+      "特朗普解散国家科学委员会"
+    ],
+    "bullets_en": [
+      "Trump Cancels Iran Peace Talks",
+      "Chicago Hospital Shooting",
+      "Two CIA Officers Killed in Mexico",
+      "Trump Fires Entire National Science Board"
+    ],
+    "items_zh": [
+      {
+        "title": "特朗普叫停伊朗和谈",
+        "desc": "22:01 芝加哥医院枪击案 — 芝加哥瑞典医院发生枪击事件，一名警察殉职、另一名重伤，嫌疑人已被拘留。 ABC7 Chicago",
+        "url": ""
+      },
+      {
+        "title": "芝加哥医院枪击案",
+        "desc": "21:58 墨西哥：两名CIA特工死亡 — 两名美国CIA特工在墨西哥反毒行动后车祸身亡，墨方称他们未获授权参与当地行动。 Politico/NYT",
+        "url": ""
+      },
+      {
+        "title": "墨西哥：两名CIA特工死亡",
+        "desc": "21:48 特朗普解散国家科学委员会 — 美国国家科学基金会（NSF）全部24名理事会成员被特朗普政府解职，未给出解释。科学界强烈反对。 Washington Post/The Verge",
+        "url": ""
+      },
+      {
+        "title": "特朗普解散国家科学委员会",
+        "desc": "20:39 马里遭遇多地协同恐袭 — 与基地组织有关的武装分子在马里多个城市同时发动攻击，军方确认已开展反击。 Al Jazeera/BBC/NYT",
+        "url": ""
+      },
+      {
+        "title": "马里遭遇多地协同恐袭",
+        "desc": "17:01 巴勒斯坦举行地方选举 — 约旦河西岸和加沙部分地区20年来首次举行地方选举，迪尔巴拉赫市民踊跃投票。 BBC/Reuters",
+        "url": ""
+      },
+      {
+        "title": "巴勒斯坦举行地方选举",
+        "desc": "01:31 内塔尼亚胡公布前列腺癌治疗 — 以色列总理内塔尼亚胡透露此前秘密接受前列腺癌治疗，称因伊朗战争需要保密，目前已康复。 The Guardian/AP",
+        "url": ""
+      },
+      {
+        "title": "内塔尼亚胡公布前列腺癌治疗",
+        "desc": "09:38 美国威胁制裁北约盟友西班牙 — 五角大楼内部邮件泄露显示，美方因伊朗问题考虑暂停西班牙北约资格，西班牙和英国均予以驳斥。 DW/Reuters/BBC",
+        "url": ""
+      },
+      {
+        "title": "美国威胁制裁北约盟友西班牙",
+        "desc": "🤖 AI / 科技",
+        "url": ""
+      },
+      {
+        "title": "OpenAI 推出 GPT-5.5 生物安全漏洞赏金",
+        "desc": "09:59 微软改善 Windows 更新体验 — Windows 11 将允许用户无限期暂停更新（每次35天），关机/重启按钮也经过重新设计以减少强制重启困扰。 Forbes/The Verge",
+        "url": ""
+      },
+      {
+        "title": "微软改善 Windows 更新体验",
+        "desc": "08:50 Meta/微软裁员潮 — Meta 通知8000人裁员，微软也大规模缩减，AI驱动劳动力危机引发广泛讨论。 Business Insider/CNBC",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Trump Cancels Iran Peace Talks",
+        "desc": "22:01 Chicago Hospital Shooting — One police officer killed, another critically wounded in a shooting at Swedish Hospita",
+        "url": ""
+      },
+      {
+        "title": "Chicago Hospital Shooting",
+        "desc": "21:58 Two CIA Officers Killed in Mexico — Two CIA agents died in a car crash after an unauthorized counter-narcotics rai",
+        "url": ""
+      },
+      {
+        "title": "Two CIA Officers Killed in Mexico",
+        "desc": "21:48 Trump Fires Entire National Science Board — All 24 members of the NSF oversight board terminated without explanati",
+        "url": ""
+      },
+      {
+        "title": "Trump Fires Entire National Science Board",
+        "desc": "20:39 Coordinated Attacks Across Mali — Al Qaeda-linked militants launched simultaneous attacks on multiple cities acros",
+        "url": ""
+      },
+      {
+        "title": "Coordinated Attacks Across Mali",
+        "desc": "17:01 Palestinians Vote in Local Elections — West Bank and parts of Gaza hold first local elections in 20 years; Deir el",
+        "url": ""
+      },
+      {
+        "title": "Palestinians Vote in Local Elections",
+        "desc": "01:31 Netanyahu Reveals Prostate Cancer Treatment — Israel's PM disclosed he secretly underwent prostate cancer treatmen",
+        "url": ""
+      },
+      {
+        "title": "Netanyahu Reveals Prostate Cancer Treatment",
+        "desc": "09:38 US Threatens NATO Ally Spain — Leaked Pentagon email floats suspending Spain from NATO over Iran rift; Spain and B",
+        "url": ""
+      },
+      {
+        "title": "US Threatens NATO Ally Spain",
+        "desc": "🤖 AI & Tech",
+        "url": ""
+      },
+      {
+        "title": "OpenAI Launches GPT-5.5 Bio Bug Bounty",
+        "desc": "09:59 Microsoft Overhauls Windows Update — Windows 11 will let users pause updates indefinitely (35 days at a time) and ",
+        "url": ""
+      },
+      {
+        "title": "Microsoft Overhauls Windows Update",
+        "desc": "08:50 Meta & Microsoft Mass Layoffs — Meta notifies 8,000 employees of layoffs; combined with Microsoft cuts, raising co",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月26日",
+    "date_fmt_zh": "2026年04月26日",
+    "date_fmt_en": "Apr 26, 2026",
+    "ts": "2026-04-26T08:02:26.348059+08:00"
+  },
+  {
     "slug": "perspective-2026-04-25",
     "type": "perspective",
     "type_label": "商机雷达",
