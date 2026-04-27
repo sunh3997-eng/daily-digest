@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-04-27",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-04-27",
+    "title_en": "Daily Briefing · 2026-04-27",
+    "summary_zh": "📰 每日早报 · 2026-04-27（周一）",
+    "summary_en": "📰 Daily Briefing · April 27, 2026 (Monday)",
+    "bullets_zh": [
+      "白宫记者晚宴枪击案：特朗普和官员\"可能\"是嫌疑人目标",
+      "马里国防部长在叛军袭击浪潮中遇害",
+      "内塔尼亚胡下令\"猛烈打击\"黎巴嫩真主党",
+      "匈牙利总理欧尔班在压倒性败选后辞去议会职务"
+    ],
+    "bullets_en": [
+      "WHCD Shooting: Trump and Officials 'Likely' Targets",
+      "Mali Defense Minister Killed in Wave of Rebel Attacks",
+      "Netanyahu Orders Army to 'Vigorously Attack' Hezbollah in Lebanon",
+      "Orbán Steps Down from Hungarian Parliament After Landslide Defeat"
+    ],
+    "items_zh": [
+      {
+        "title": "白宫记者晚宴枪击案：特朗普和官员\"可能\"是嫌疑人目标",
+        "desc": "20:56 马里国防部长在叛军袭击浪潮中遇害 — 马里遭遇一连串叛军攻击，国防部长在袭击中丧生，西非安全局势进一步恶化。 BBC",
+        "url": ""
+      },
+      {
+        "title": "马里国防部长在叛军袭击浪潮中遇害",
+        "desc": "00:34 内塔尼亚胡下令\"猛烈打击\"黎巴嫩真主党 — 以色列总理命令军方加大对黎巴嫩真主党的军事行动力度。 BBC",
+        "url": ""
+      },
+      {
+        "title": "内塔尼亚胡下令\"猛烈打击\"黎巴嫩真主党",
+        "desc": "Sat 匈牙利总理欧尔班在压倒性败选后辞去议会职务 — 反对派取得历史性胜利，欧尔班退出议会。 BBC",
+        "url": ""
+      },
+      {
+        "title": "匈牙利总理欧尔班在压倒性败选后辞去议会职务",
+        "desc": "Sat 特朗普取消美国特使赴巴基斯坦讨论伊朗战争的行程 — 美巴关系再生波折，伊朗问题外交陷入僵局。 BBC",
+        "url": ""
+      },
+      {
+        "title": "特朗普取消美国特使赴巴基斯坦讨论伊朗战争的行程",
+        "desc": "Sat 特朗普解雇整个国家科学委员会 — 美国科学政策机构遭全面清洗，引发科学界强烈反响。 The Verge",
+        "url": ""
+      },
+      {
+        "title": "特朗普解雇整个国家科学委员会",
+        "desc": "🤖 AI / 科技",
+        "url": ""
+      },
+      {
+        "title": "斯坦福新生们想统治世界——这本书可能让他们更来劲",
+        "desc": "21:38 亚马逊播客新战略：一切皆可变现 — Amazon 加速播客商业化布局，将广告渗透到更多内容形态。 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "亚马逊播客新战略：一切皆可变现",
+        "desc": "20:22 Tim Cook 构建的苹果帝国回顾 — TechCrunch 深度分析 Cook 时代苹果的战略遗产与未来走向。 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "Tim Cook 构建的苹果帝国回顾",
+        "desc": "16:03 TechCrunch Mobility：马斯克的坦白 — Elon Musk 就特斯拉相关问题做出罕见承认。 TechCrunch",
+        "url": ""
+      },
+      {
+        "title": "TechCrunch Mobility：马斯克的坦白",
+        "desc": "15:30 买这栋湾区房子，你需要 Anthropic 股权 — AI 公司估值飙升催生硅谷新型房产交易方式。 TechCrunch",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "WHCD Shooting: Trump and Officials 'Likely' Targets",
+        "desc": "• Mali Defense Minister Killed in Wave of Rebel Attacks — Mali's defense minister was killed as the country faces a surg",
+        "url": ""
+      },
+      {
+        "title": "Mali Defense Minister Killed in Wave of Rebel Attacks",
+        "desc": "• Netanyahu Orders Army to 'Vigorously Attack' Hezbollah in Lebanon — Israel's PM escalates military operations against ",
+        "url": ""
+      },
+      {
+        "title": "Netanyahu Orders Army to 'Vigorously Attack' Hezbollah in Lebanon",
+        "desc": "• Orbán Steps Down from Hungarian Parliament After Landslide Defeat — Hungary's long-serving PM exits parliament followi",
+        "url": ""
+      },
+      {
+        "title": "Orbán Steps Down from Hungarian Parliament After Landslide Defeat",
+        "desc": "• Trump Cancels US Envoys' Trip to Pakistan for Iran War Talks — US-Pakistan diplomatic friction as Iran conflict diplom",
+        "url": ""
+      },
+      {
+        "title": "Trump Cancels US Envoys' Trip to Pakistan for Iran War Talks",
+        "desc": "• Trump Fires Entire National Science Board — The US scientific advisory body is swept clean, sparking outrage in the re",
+        "url": ""
+      },
+      {
+        "title": "Trump Fires Entire National Science Board",
+        "desc": "🤖 AI & Tech",
+        "url": ""
+      },
+      {
+        "title": "What Tim Cook Built",
+        "desc": "• Amazon's New Podcast Strategy: Monetize Everything — Amazon accelerates podcast commercialization across content forma",
+        "url": ""
+      },
+      {
+        "title": "Amazon's New Podcast Strategy: Monetize Everything",
+        "desc": "• To Buy This Bay Area Home, You'll Need Anthropic Equity — AI company valuations spawn novel real estate deal structure",
+        "url": ""
+      },
+      {
+        "title": "To Buy This Bay Area Home, You'll Need Anthropic Equity",
+        "desc": "• Anthropic Created a Test Marketplace for Agent-on-Agent Commerce — An experimental platform for AI agents to trade aut",
+        "url": ""
+      },
+      {
+        "title": "Anthropic Created a Test Marketplace for Agent-on-Agent Commerce",
+        "desc": "• Why Cohere Is Merging with Aleph Alpha — Two major AI companies combine, reshaping Europe's AI landscape. TechCrunch",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月27日",
+    "date_fmt_zh": "2026年04月27日",
+    "date_fmt_en": "Apr 27, 2026",
+    "ts": "2026-04-27T08:02:44.944921+08:00"
+  },
+  {
     "slug": "perspective-2026-04-26",
     "type": "perspective",
     "type_label": "商机雷达",
