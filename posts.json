@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-04-27",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 白宫记者协会晚宴枪击事件 · 2026-04-27",
+    "title_en": "Multi-Perspective · WHCD Shooting · 2026-04-27",
+    "summary_zh": "🔍 多视角 · 白宫记者协会晚宴枪击事件 · 2026-04-27",
+    "summary_en": "🔍 Multi-Perspective · White House Correspondents' Dinner Shooting · 2026-04-27",
+    "bullets_zh": [
+      "《纽约时报》",
+      "《卫报》",
+      "半岛电视台",
+      "Fox News"
+    ],
+    "bullets_en": [
+      "The New York Times",
+      "The Guardian",
+      "Al Jazeera",
+      "Fox News"
+    ],
+    "items_zh": [
+      {
+        "title": "《纽约时报》",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "《卫报》",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "半岛电视台",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "- 特朗普本人回应：在CBS《60 Minutes》采访中表示自己\"并没有让特勤局的工作变得容易\"，暗示他在枪击时没有立即配合撤离，展现了类似2024年巴特勒枪击后\"举拳\"的硬汉形象。",
+        "url": ""
+      },
+      {
+        "title": "特朗普本人回应",
+        "desc": "- 安保漏洞：保守派评论员 Mike Davis 撰文呼吁在白宫内建造专用宴会厅，认为在酒店举办此类大型活动是\"安全灾难\"。",
+        "url": ""
+      },
+      {
+        "title": "安保漏洞",
+        "desc": "- 政治攻击民主党：共和党众议员 Tom Emmer 指责民主党\"拿美国人的安全开玩笑\"，因为他们一直在阻挠国土安全部（DHS）的拨款。",
+        "url": ""
+      },
+      {
+        "title": "政治攻击民主党",
+        "desc": "- 反击阴谋论：Fox 主持人批评左翼评论员将枪击事件称为\"假旗行动\"（false flag），斥之为\"令人不安\"。",
+        "url": ""
+      },
+      {
+        "title": "反击阴谋论",
+        "desc": "- 奥巴马回应遭反驳：奥巴马称\"动机尚不明确\"，Fox 指出这与嫌疑人留下的宣言矛盾，暗批前总统在回避问题。",
+        "url": ""
+      },
+      {
+        "title": "奥巴马回应遭反驳",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "CGTN",
+        "desc": "这一\"沉默\"本身就是一种立场——中国官媒在涉及美国国内政治暴力事件时，通常选择低调处理或延迟报道，避免给人\"看笑话\"的印象，同时也不愿为特朗普提供\"受害者叙事\"的素材。",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "The New York Times",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "The Guardian",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "- Trump's response: In a CBS \"60 Minutes\" interview, Trump said he \"wasn't making it that easy\" for Secret Service, sugg",
+        "url": ""
+      },
+      {
+        "title": "Trump's response",
+        "desc": "- Security failures: Conservative commentator Mike Davis called for building a secure White House ballroom, arguing hote",
+        "url": ""
+      },
+      {
+        "title": "Security failures",
+        "desc": "- Blaming Democrats: GOP Rep. Tom Emmer accused Democrats of \"playing with Americans' safety\" by withholding DHS funding",
+        "url": ""
+      },
+      {
+        "title": "Blaming Democrats",
+        "desc": "- Pushing back on conspiracy theories: Fox hosts called out left-wing commentators who labeled the shooting a \"false fla",
+        "url": ""
+      },
+      {
+        "title": "Pushing back on conspiracy theories",
+        "desc": "- Obama criticism: Fox highlighted Obama saying the \"motive remains unclear\" despite the suspect's manifesto, implying t",
+        "url": ""
+      },
+      {
+        "title": "Obama criticism",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "CGTN",
+        "desc": "This silence is itself a position — Chinese state media typically downplays US domestic political violence, avoiding the",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月27日",
+    "date_fmt_zh": "2026年04月27日",
+    "date_fmt_en": "Apr 27, 2026",
+    "ts": "2026-04-27T10:04:17.137661+08:00"
+  },
+  {
     "slug": "radar-2026-04-27",
     "type": "radar",
     "type_label": "商机雷达",
