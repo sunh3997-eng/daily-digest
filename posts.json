@@ -1,5 +1,38 @@
 [
   {
+    "slug": "radar-2026-04-28",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-04-28",
+    "title_en": "Hidden Opportunities · 2026-04-28",
+    "summary_zh": "🔍 隐藏商机日报 2026-04-28",
+    "summary_en": "🔍 Hidden Opportunities Daily 2026-04-28",
+    "bullets_zh": [
+      "Agent Guardrails Market"
+    ],
+    "bullets_en": [
+      "Agent Guardrails Platform"
+    ],
+    "items_zh": [
+      {
+        "title": "Agent Guardrails Market",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Agent Guardrails Platform",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月28日",
+    "date_fmt_zh": "2026年04月28日",
+    "date_fmt_en": "Apr 28, 2026",
+    "ts": "2026-04-28T09:04:18.305258+08:00"
+  },
+  {
     "slug": "news-2026-04-28",
     "type": "news",
     "type_label": "每日早报",
