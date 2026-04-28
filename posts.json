@@ -1,5 +1,134 @@
 [
   {
+    "slug": "perspective-2026-04-28",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-04-28",
+    "title_en": "Multi-Perspective · 2026-04-28",
+    "summary_zh": "🔍 多视角 · Kimmel\"期待中的寡妇\"风波：言论自由、政治施压与企业抉择 · 2026-04-28",
+    "summary_en": "🔍 Multi-Perspective · Kimmel's \"Expectant Widow\" Storm: Free Speech, Political Pressure & Corporate Dilemma · 2026-04-28",
+    "bullets_zh": [
+      "CNN / 路透社立场：",
+      "言论自由 vs 政治权力",
+      "关键事实：",
+      "Fox News立场："
+    ],
+    "bullets_en": [
+      "free speech vs. political power",
+      "moral accountability",
+      "Core conservative argument:",
+      "contradictions in American democracy"
+    ],
+    "items_zh": [
+      {
+        "title": "CNN / 路透社立场：",
+        "desc": "CNN详细报道了迪士尼面临的两难处境。报道指出，去年9月ABC曾在类似压力下\"无限期停播\"Kimmel节目，不到一周便恢复，结果两边都得罪——反特朗普者指责ABC向权力低头，特朗普支持者则不满节目复播。报道援引Kimmel此前在Michel",
+        "url": ""
+      },
+      {
+        "title": "言论自由 vs 政治权力",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "关键事实：",
+        "desc": "- Nexstar和Sinclair两大地方电视台集团去年曾抵制Kimmel，但反弹巨大，这次可能不会轻易重蹈覆辙",
+        "url": ""
+      },
+      {
+        "title": "Fox News立场：",
+        "desc": "Fox以\"迪士尼遭猛烈抨击\"为标题，框架是企业责任与道德底线。报道重点：",
+        "url": ""
+      },
+      {
+        "title": "企业责任与道德底线",
+        "desc": "- 前奥巴马高级顾问David Axelrod公开要求Kimmel道歉，称该笑话\"无品味\"——这是自由派内部的裂痕",
+        "url": ""
+      },
+      {
+        "title": "保守派核心论点：",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "新华社/央视国际：",
+        "desc": "截至发稿，中国官方英文媒体尚未就此事件发布专题报道。新华社当日头条聚焦于北京车展（Auto China 2026）和中国生育保险法草案。",
+        "url": ""
+      },
+      {
+        "title": "美国民主制度的内在矛盾",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "来自社交媒体和评论圈的声音多元而分裂：",
+        "desc": "- 支持Kimmel阵营： 认为这是经典的言论审查——政府利用权力胁迫私营企业惩罚批评者。Kimmel的笑话在枪击发生前两天播出，将其与暴力挂钩是\"事后归因\"。WHCA晚宴本身就有讽刺传统。",
+        "url": ""
+      },
+      {
+        "title": "支持Kimmel阵营：",
+        "desc": "- 反对Kimmel阵营： 认为在三次暗杀企图的背景下，针对总统死亡的任何\"玩笑\"都越线了。指出如果角色互换，保守派主持人说类似的话会面临什么后果。",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "free speech vs. political power",
+        "desc": "- Last September, ABC \"indefinitely suspended\" Kimmel under similar pressure, reversed within a week, and angered both s",
+        "url": ""
+      },
+      {
+        "title": "moral accountability",
+        "desc": "- Headline: \"Disney under fire as ABC grapples with another Jimmy Kimmel controversy\"",
+        "url": ""
+      },
+      {
+        "title": "Core conservative argument:",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "contradictions in American democracy",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Pro-Kimmel camp:",
+        "desc": "- Anti-Kimmel camp: After three assassination attempts, any joke about a president's death crosses the line. \"Reverse th",
+        "url": ""
+      },
+      {
+        "title": "Anti-Kimmel camp:",
+        "desc": "- Moderate liberals (Axelrod wing): Kimmel should apologize — not because of legal obligation, but taste. Bruce Springst",
+        "url": ""
+      },
+      {
+        "title": "Moderate liberals (Axelrod wing):",
+        "desc": "- Structural critics: The real story isn't what Kimmel said — it's that the US president faced a third assassination att",
+        "url": ""
+      },
+      {
+        "title": "Structural critics:",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Core Frame",
+        "desc": "| Who's the victim | Kimmel/ABC | President & family | American public | Everyone |",
+        "url": ""
+      },
+      {
+        "title": "Who's the victim",
+        "desc": "| Who's responsible | White House pressure | Kimmel crossed the line | Systemic issue | Polarized media ecosystem |",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年04月28日",
+    "date_fmt_zh": "2026年04月28日",
+    "date_fmt_en": "Apr 28, 2026",
+    "ts": "2026-04-28T10:03:41.147789+08:00"
+  },
+  {
     "slug": "radar-2026-04-28",
     "type": "radar",
     "type_label": "商机雷达",
