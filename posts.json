@@ -1,5 +1,94 @@
 [
   {
+    "slug": "perspective-2026-05-06",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 2026-05-05",
+    "title_en": "Multi-Perspective · 2026-05-05",
+    "summary_zh": "🔍 多视角 · 美伊停火濒临崩溃：霍尔木兹海峡交火与\"自由计划\" · 2026-05-05",
+    "summary_en": "🔍 Multi-Perspective · US-Iran Ceasefire on the Brink: Hormuz Strait Clashes & \"Project Freedom\" · 2026-05-05",
+    "bullets_zh": [
+      "基调：担忧升级，质疑策略一致性",
+      "核心叙事",
+      "基调：展示实力，为升级做准备",
+      "基调：批评美国单边军事行动"
+    ],
+    "bullets_en": [
+      "Tone: Alarmed, questioning strategic coherence",
+      "Core narrative",
+      "Tone: Show of strength, preparation for escalation",
+      "Tone: Critical of unilateral US military action"
+    ],
+    "items_zh": [
+      {
+        "title": "基调：担忧升级，质疑策略一致性",
+        "desc": "- CNN：\"脆弱的停火受到考验\"。报道聚焦特朗普战略的自相矛盾——先高调宣布军事护航计划，24小时内又暂停",
+        "url": ""
+      },
+      {
+        "title": "核心叙事",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "基调：展示实力，为升级做准备",
+        "desc": "- Fox News：以\"特朗普宣布'自由计划'护航船只通过霍尔木兹\"为标题，强调总统的果断行动；同时详细报道了DC大桥抗议者，将其定位为反战+反AI的激进活动人士",
+        "url": ""
+      },
+      {
+        "title": "基调：批评美国单边军事行动",
+        "desc": "- CGTN标题直接使用\"by force\"（以武力）：\"US moves to reopen Strait of Hormuz by force, as Iran attacks UAE\"",
+        "url": ""
+      },
+      {
+        "title": "基调：反战立场，聚焦人道代价",
+        "desc": "- Democracy Now：将特朗普的\"灭国\"威胁与伊朗绞刑处决3人并列报道，展现战争双方的暴力循环；同时突出报道DC大桥抗议者",
+        "url": ""
+      },
+      {
+        "title": "一句话总结",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Tone: Alarmed, questioning strategic coherence",
+        "desc": "- CNN: \"Fragile ceasefire tested.\" Focus on Trump's contradictory strategy—announcing a military escort mission then pau",
+        "url": ""
+      },
+      {
+        "title": "Core narrative",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Tone: Show of strength, preparation for escalation",
+        "desc": "- Fox News: Led with \"Trump announces 'Project Freedom' to guide ships through Strait of Hormuz,\" emphasizing presidenti",
+        "url": ""
+      },
+      {
+        "title": "Tone: Critical of unilateral US military action",
+        "desc": "- CGTN headline used \"by force\": \"US moves to reopen Strait of Hormuz by force, as Iran attacks UAE\"",
+        "url": ""
+      },
+      {
+        "title": "Tone: Anti-war, focused on human cost",
+        "desc": "- Democracy Now: Juxtaposed Trump's \"annihilation\" threat with Iran hanging 3 people, showing the cycle of violence on b",
+        "url": ""
+      },
+      {
+        "title": "Bottom line",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年05月06日",
+    "date_fmt_zh": "2026年05月06日",
+    "date_fmt_en": "May 06, 2026",
+    "ts": "2026-05-06T10:03:35.535202+08:00"
+  },
+  {
     "slug": "radar-2026-05-06",
     "type": "radar",
     "type_label": "商机雷达",
