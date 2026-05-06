@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-05-06",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-05-05",
+    "title_en": "Daily Briefing · 2026-05-05",
+    "summary_zh": "📰 每日早报 · 2026-05-06（北京时间）/ 2026-05-05（美西时间）",
+    "summary_en": "📰 Daily Briefing · May 5, 2026",
+    "bullets_zh": [
+      "特朗普政府将在AI模型发布前进行审查",
+      "AMD股价暴涨15%，AI数据中心收入创新高",
+      "Google Home全面升级Gemini语音助手",
+      "微软放弃Xbox Copilot AI计划"
+    ],
+    "bullets_en": [
+      "White House to Vet AI Models Before Public Release",
+      "AMD Stock Surges 15% on AI Data Center Revenue Beat",
+      "Google Home Gets Major Gemini AI Upgrade",
+      "Microsoft Kills Xbox Copilot AI"
+    ],
+    "items_zh": [
+      {
+        "title": "特朗普政府将在AI模型发布前进行审查",
+        "desc": "14:19 AMD股价暴涨15%，AI数据中心收入创新高 — Q1财报超预期，数据中心业务营收同比激增，上调全年指引，华尔街集体看涨 CNBC/Bloomberg",
+        "url": ""
+      },
+      {
+        "title": "AMD股价暴涨15%，AI数据中心收入创新高",
+        "desc": "10:17 Google Home全面升级Gemini语音助手 — 新增更复杂的自然语言指令支持、Nest摄像头AI功能扩展至所有用户 Ars Technica",
+        "url": ""
+      },
+      {
+        "title": "Google Home全面升级Gemini语音助手",
+        "desc": "12:54 微软放弃Xbox Copilot AI计划 — Xbox新CEO同时大幅调整管理层，引入更多AI资深人才，但砍掉了游戏主机AI聊天机器人项目 The Verge",
+        "url": ""
+      },
+      {
+        "title": "微软放弃Xbox Copilot AI计划",
+        "desc": "10:00 Chrome安卓版支持仅共享大致位置 — 新隐私功能允许用户只向网站提供模糊定位，而非精确GPS坐标 9to5Google/The Verge",
+        "url": ""
+      },
+      {
+        "title": "Chrome安卓版支持仅共享大致位置",
+        "desc": "13:55 Pixel 10五月更新锁定系统降级 — 更新后将无法安装旧版Android系统，同时修复无线充电缓慢等多个问题 9to5Google",
+        "url": ""
+      },
+      {
+        "title": "Pixel 10五月更新锁定系统降级",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "伊朗停火暂时维持，霍尔木兹海峡局势紧张",
+        "desc": "14:19 美国汽油价格较伊朗战前上涨50% — 全美均价突破$4.50/加仑，创近四年新高，霍尔木兹海峡航运受阻推高油价 AP/NBC",
+        "url": ""
+      },
+      {
+        "title": "美国汽油价格较伊朗战前上涨50%",
+        "desc": "12:23 俄罗斯袭击致乌克兰20余人死亡 — 在基辅和莫斯科分别提出停火前夕发动猛烈攻击，泽连斯基谴责俄方\"犬儒主义\" BBC/Reuters",
+        "url": ""
+      },
+      {
+        "title": "俄罗斯袭击致乌克兰20余人死亡",
+        "desc": "04:43 中国烟花厂爆炸致至少26人死亡 — 事故引发广泛关注，多家国际媒体报道 DW/NYT/BBC",
+        "url": ""
+      },
+      {
+        "title": "中国烟花厂爆炸致至少26人死亡",
+        "desc": "09:47 罗马尼亚亲欧联合政府垮台 — 总理在不信任投票中失败，社会党与极右翼联手推翻现政府 AP/BBC/Politico",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "White House to Vet AI Models Before Public Release",
+        "desc": "14:19 AMD Stock Surges 15% on AI Data Center Revenue Beat — Q1 earnings smash estimates, data center business growth acc",
+        "url": ""
+      },
+      {
+        "title": "AMD Stock Surges 15% on AI Data Center Revenue Beat",
+        "desc": "10:17 Google Home Gets Major Gemini AI Upgrade — Expanded natural language commands, Nest Cam AI features now available ",
+        "url": ""
+      },
+      {
+        "title": "Google Home Gets Major Gemini AI Upgrade",
+        "desc": "12:54 Microsoft Kills Xbox Copilot AI — New Xbox CEO overhauls leadership amid sales decline, scraps console AI chatbot ",
+        "url": ""
+      },
+      {
+        "title": "Microsoft Kills Xbox Copilot AI",
+        "desc": "10:00 Chrome for Android Adds Approximate Location Sharing — New privacy feature lets users share fuzzy location data in",
+        "url": ""
+      },
+      {
+        "title": "Chrome for Android Adds Approximate Location Sharing",
+        "desc": "13:55 Pixel 10 May Update Blocks Android Downgrades — Update prevents installing older OS versions, also fixes slow wire",
+        "url": ""
+      },
+      {
+        "title": "Pixel 10 May Update Blocks Android Downgrades",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Iran Ceasefire Holding Despite Hormuz Escalation",
+        "desc": "14:19 US Gasoline Prices 50% Higher Than Pre-Iran War — National average tops $4.50/gal, highest in ~4 years as Strait o",
+        "url": ""
+      },
+      {
+        "title": "US Gasoline Prices 50% Higher Than Pre-Iran War",
+        "desc": "12:23 Russian Strikes Kill 20+ in Ukraine Before Ceasefire Deadline — Deadly attacks on Ukrainian cities ahead of Kyiv-p",
+        "url": ""
+      },
+      {
+        "title": "Russian Strikes Kill 20+ in Ukraine Before Ceasefire Deadline",
+        "desc": "04:43 China Fireworks Factory Explosion Kills at Least 26 — Major industrial disaster draws widespread coverage DW/NYT/B",
+        "url": ""
+      },
+      {
+        "title": "China Fireworks Factory Explosion Kills at Least 26",
+        "desc": "09:47 Romania's Pro-EU Government Collapses — PM ousted in no-confidence vote as socialists and far-right join forces AP",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年05月06日",
+    "date_fmt_zh": "2026年05月06日",
+    "date_fmt_en": "May 06, 2026",
+    "ts": "2026-05-06T08:02:28.070238+08:00"
+  },
+  {
     "slug": "perspective-2026-04-28",
     "type": "perspective",
     "type_label": "商机雷达",
