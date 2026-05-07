@@ -1,5 +1,129 @@
 [
   {
+    "slug": "perspective-2026-05-07",
+    "type": "perspective",
+    "type_label": "商机雷达",
+    "title_zh": "多视角 · 以色列空袭贝鲁特南郊 · 2026-05-06",
+    "title_en": "Multi-Perspective · Israel Strikes Beirut · 2026-05-06",
+    "summary_zh": "🔍 多视角 · 以色列空袭贝鲁特南郊，停火协议摇摇欲坠 · 2026-05-06",
+    "summary_en": "🔍 Multi-Perspective · Israel Strikes Beirut, Threatening Hezbollah Ceasefire · 2026-05-06",
+    "bullets_zh": [
+      "华盛顿邮报",
+      "路透社/美联社",
+      "Fox News",
+      "呼吁各方克制"
+    ],
+    "bullets_en": [
+      "Washington Post",
+      "Reuters/AP",
+      "Fox News & conservative commentators",
+      "Calls for restraint"
+    ],
+    "items_zh": [
+      {
+        "title": "华盛顿邮报",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "路透社/美联社",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News",
+        "desc": "保守派评论圈认为：停火协议本身就是不完整的——真主党从未真正遵守，以色列有权在必要时采取行动消除安全威胁。",
+        "url": ""
+      },
+      {
+        "title": "呼吁各方克制",
+        "desc": "- 关注霍尔木兹海峡通行自由——BBC报道指出\"中国呼吁尽快重新开放海峡\"，这反映了中国作为全球最大石油进口国的核心利益",
+        "url": ""
+      },
+      {
+        "title": "关注霍尔木兹海峡通行自由",
+        "desc": "- 中国正积极介入伊朗和谈：伊朗外长阿拉格齐当天访问北京，与王毅会面。分析人士指出，美中在重新开放霍尔木兹海峡上的共同利益可能为和平创造路径",
+        "url": ""
+      },
+      {
+        "title": "新华社/CGTN",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "半岛电视台（Al Jazeera）",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Democracy Now!",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "核心分歧",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "值得注意的时机",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Washington Post",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Reuters/AP",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Fox News & conservative commentators",
+        "desc": "Key talking points: The ceasefire was imperfect from the start; Hezbollah continued building military capacity; precisio",
+        "url": ""
+      },
+      {
+        "title": "Calls for restraint",
+        "desc": "- Strait of Hormuz remains China's primary concern — BBC noted China \"calls for Strait to be reopened as soon as possibl",
+        "url": ""
+      },
+      {
+        "title": "Strait of Hormuz",
+        "desc": "- Iran's FM Araghchi visited Beijing the same day, meeting Wang Yi. Analysts suggest shared US-Chinese interests in reop",
+        "url": ""
+      },
+      {
+        "title": "Al Jazeera",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Democracy Now!",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Core divide",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Timing matters",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年05月07日",
+    "date_fmt_zh": "2026年05月07日",
+    "date_fmt_en": "May 07, 2026",
+    "ts": "2026-05-07T10:03:27.027513+08:00"
+  },
+  {
     "slug": "radar-2026-05-07",
     "type": "radar",
     "type_label": "商机雷达",
