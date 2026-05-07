@@ -1,5 +1,56 @@
 [
   {
+    "slug": "radar-2026-05-07",
+    "type": "radar",
+    "type_label": "商机雷达",
+    "title_zh": "隐藏商机 · 2026-05-06",
+    "title_en": "Hidden Opportunities · 2026-05-06",
+    "summary_zh": "🔍 隐藏商机日报 2026-05-07",
+    "summary_en": "🔍 Hidden Opportunities Daily 2026-05-07",
+    "bullets_zh": [
+      "为什么是现在"
+    ],
+    "bullets_en": [
+      "Problem",
+      "Solution",
+      "Why Now",
+      "Monetization"
+    ],
+    "items_zh": [
+      {
+        "title": "为什么是现在",
+        "desc": "",
+        "url": ""
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Problem",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Solution",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Why Now",
+        "desc": "",
+        "url": ""
+      },
+      {
+        "title": "Monetization",
+        "desc": "━━━━━━━━━━━━━━━━━━━━",
+        "url": ""
+      }
+    ],
+    "date_fmt": "2026年05月07日",
+    "date_fmt_zh": "2026年05月07日",
+    "date_fmt_en": "May 07, 2026",
+    "ts": "2026-05-07T09:02:33.011524+08:00"
+  },
+  {
     "slug": "news-2026-05-07",
     "type": "news",
     "type_label": "每日早报",
