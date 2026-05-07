@@ -1,5 +1,134 @@
 [
   {
+    "slug": "news-2026-05-07",
+    "type": "news",
+    "type_label": "每日早报",
+    "title_zh": "每日早报 · 2026-05-07",
+    "title_en": "Daily Briefing · 2026-05-07",
+    "summary_zh": "📰 每日早报 · 2026-05-07（周四）",
+    "summary_en": "📰 Daily Briefing · 2026-05-07 (Thursday)",
+    "bullets_zh": [
+      "Anthropic 与 SpaceX 达成算力合作",
+      "DeepSeek 首轮融资估值或达 450 亿美元",
+      "SpaceX Terafab 芯片厂总投资或达 1190 亿美元",
+      "微软 AI 数据中心扩张与清洁能源目标冲突"
+    ],
+    "bullets_en": [
+      "Anthropic signs compute deal with SpaceX",
+      "DeepSeek eyes $45B valuation in first fundraising round",
+      "SpaceX files for Terafab chip factory — up to $119B",
+      "Microsoft's AI data center push collides with clean power goals"
+    ],
+    "items_zh": [
+      {
+        "title": "Anthropic 与 SpaceX 达成算力合作",
+        "desc": "05/06 上午 DeepSeek 首轮融资估值或达 450 亿美元 — 中国国家集成电路产业投资基金(\"大基金\")正牵头谈判，数周内估值从 200 亿飙升至 450-500 亿美元。",
+        "url": "https://www.anthropic.com/news/higher-limits-spacex"
+      },
+      {
+        "title": "DeepSeek 首轮融资估值或达 450 亿美元",
+        "desc": "05/06 SpaceX Terafab 芯片厂总投资或达 1190 亿美元 — SpaceX 在德州 Grimes County 提交产权税减免申请，一期投入 550 亿美元，为 Tesla/SpaceX/xAI 自产芯片。",
+        "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/"
+      },
+      {
+        "title": "SpaceX Terafab 芯片厂总投资或达 1190 亿美元",
+        "desc": "05/06 微软 AI 数据中心扩张与清洁能源目标冲突 — 内部正讨论是否放弃\"2030 年 100% 清洁能源匹配\"承诺，因数据中心建设速度已远超绿电供给。",
+        "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/"
+      },
+      {
+        "title": "微软 AI 数据中心扩张与清洁能源目标冲突",
+        "desc": "05/06 AI 安全公司 Braintrust 确认数据泄露 — AWS 云账户遭未授权访问，客户 AI 模型 API 密钥可能泄露，已要求所有客户立即轮换密钥。",
+        "url": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/"
+      },
+      {
+        "title": "AI 安全公司 Braintrust 确认数据泄露",
+        "desc": "05/06 OpenAI 算力成本从 2017 年 3000 万飙升至 2026 年 500 亿 — Greg Brockman 在 Musk 诉 OpenAI 庭审中作证，披露 Musk 当年曾推动 OpenAI 商业化转型。",
+        "url": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/"
+      },
+      {
+        "title": "OpenAI 算力成本从 2017 年 3000 万飙升至 2026 年 500 亿",
+        "desc": "🌍 国际要闻",
+        "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/"
+      },
+      {
+        "title": "伊朗表示正考虑美方和平提案",
+        "desc": "05/06 以色列停火后首次空袭贝鲁特 — 以军空袭贝鲁特南郊 Dahiyeh 地区，称目标为真主党精锐拉德万部队指挥官，系 4 月 16 日停火以来首次攻击黎巴嫩首都。",
+        "url": "https://www.theguardian.com/world/2026/may/06/trump-project-freedom-strait-of-hormuz-ships-iran-ceasefire"
+      },
+      {
+        "title": "以色列停火后首次空袭贝鲁特",
+        "desc": "05/06 俄罗斯无视乌克兰单方面停火，无人机炸毁幼儿园 — 苏梅州一幼儿园遭俄军无人机袭击，至少 1 死 2 伤。泽连斯基谴责俄方蓄意破坏停火。双方已分别宣布各自的短期停火。",
+        "url": "https://www.bbc.com/news/articles/cpdpxdd5n6yo"
+      },
+      {
+        "title": "俄罗斯无视乌克兰单方面停火，无人机炸毁幼儿园",
+        "desc": "05/06 CNN 创始人 Ted Turner 去世，享年 87 岁 — 这位媒体巨头创建了全球首个 24 小时有线新闻网络，曾拥有亚特兰大勇士和老鹰队，捐赠超 10 亿美元给联合国。",
+        "url": "https://www.bbc.com/news/articles/cpdpxdd5n6yo"
+      },
+      {
+        "title": "CNN 创始人 Ted Turner 去世，享年 87 岁",
+        "desc": "05/06 德国警方突袭新纳粹犯罪青年团伙 — 多地联合执法行动打击极右翼青年犯罪组织。",
+        "url": "https://www.cnn.com/2026/05/06/us/ted-turner-death"
+      }
+    ],
+    "items_en": [
+      {
+        "title": "Anthropic signs compute deal with SpaceX",
+        "desc": "05/06 DeepSeek eyes $45B valuation in first fundraising round — China's state-backed \"Big Fund\" (China Integrated Circui",
+        "url": "https://www.anthropic.com/news/higher-limits-spacex"
+      },
+      {
+        "title": "DeepSeek eyes $45B valuation in first fundraising round",
+        "desc": "05/06 SpaceX files for Terafab chip factory — up to $119B — Initial $55B phase filed in Grimes County, Texas; the semico",
+        "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/"
+      },
+      {
+        "title": "SpaceX files for Terafab chip factory — up to $119B",
+        "desc": "05/06 Microsoft's AI data center push collides with clean power goals — Internal debates on whether to shelve the 2030 t",
+        "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/"
+      },
+      {
+        "title": "Microsoft's AI data center push collides with clean power goals",
+        "desc": "05/06 AI startup Braintrust confirms data breach — Unauthorized access to AWS account containing customer API keys for c",
+        "url": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/"
+      },
+      {
+        "title": "AI startup Braintrust confirms data breach",
+        "desc": "05/06 OpenAI compute costs: $30M in 2017 → $50B in 2026 — Greg Brockman testified in the Musk v. OpenAI trial that Musk ",
+        "url": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/"
+      },
+      {
+        "title": "OpenAI compute costs: $30M in 2017 → $50B in 2026",
+        "desc": "🌍 World News",
+        "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/"
+      },
+      {
+        "title": "Iran considering US peace proposal",
+        "desc": "05/06 Israel strikes Beirut for first time since ceasefire — IDF hit Dahiyeh neighborhood targeting a Hezbollah Radwan f",
+        "url": "https://www.theguardian.com/world/2026/may/06/trump-project-freedom-strait-of-hormuz-ships-iran-ceasefire"
+      },
+      {
+        "title": "Israel strikes Beirut for first time since ceasefire",
+        "desc": "05/06 Russia ignores Ukraine's ceasefire, drone hits kindergarten — At least 1 killed, 2 injured in Sumy region as Russi",
+        "url": "https://www.bbc.com/news/articles/cpdpxdd5n6yo"
+      },
+      {
+        "title": "Russia ignores Ukraine's ceasefire, drone hits kindergarten",
+        "desc": "05/06 Ted Turner, CNN founder, dies at 87 — The media mogul who created 24-hour cable news, owned the Atlanta Braves and",
+        "url": "https://www.bbc.com/news/articles/cpdpxdd5n6yo"
+      },
+      {
+        "title": "Ted Turner, CNN founder, dies at 87",
+        "desc": "05/06 German police raid neo-Nazi criminal youth groups — Coordinated law enforcement operations across multiple regions",
+        "url": "https://www.cnn.com/2026/05/06/us/ted-turner-death"
+      }
+    ],
+    "date_fmt": "2026年05月07日",
+    "date_fmt_zh": "2026年05月07日",
+    "date_fmt_en": "May 07, 2026",
+    "ts": "2026-05-07T08:03:01.194694+08:00"
+  },
+  {
     "slug": "perspective-2026-05-06",
     "type": "perspective",
     "type_label": "商机雷达",
